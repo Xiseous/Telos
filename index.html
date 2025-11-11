@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>TELOS – Telegram External Loader & Orchestrator System</title>
+<style>
+  body {
+    background-color: #0E1117;
+    color: #E0E0E0;
+    font-family: "JetBrains Mono", monospace;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  header {
+    padding-top: 2rem;
+  }
+
+  .logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 120px; /* reserve space for ASCII logo */
+    margin-bottom: 1rem;
+  }
+
+  pre {
+    text-align: left;
+    color: #00BFA6;
+    font-size: 0.8rem;
+    white-space: pre;
+    line-height: 1.1;
+    margin: 0;
+    height: 120px; /* fixed height prevents section from moving */
+    overflow: hidden;
+  }
+
+  .subtitle {
+    color: #FFD700;
+    margin-top: 0.5rem;
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    font-size: 1rem;
+    height: 1.2rem;      /* reserve space for subtitle */
+    line-height: 1.2rem; /* vertical centering */
+  }
+
+  h1 {
+    color: #FFD700;
+    margin: 0.5rem 0 0 0;
+    font-weight: 500;
+  }
+
+  section {
+    max-width: 800px;
+    margin: 2rem auto;
+    line-height: 1.6;
+    font-family: "Inter", sans-serif;
+  }
+
+  .button {
+    display: inline-block;
+    background: #0057B8;
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    text-decoration: none;
+  }
+
+  .button:hover {
+    background: #00BFA6;
+  }
+
+  footer {
+    padding: 1rem;
+    color: #888;
+    font-size: 0.9rem;
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="logo-container">
+    <pre id="ascii"></pre>
+    <div class="subtitle" id="subtitle"></div>
+  </div>
+</header>
+
+<section>
+  <p><strong>TELOS</strong> connects Telegram, Docker, and Git into a single orchestrated system.<br>
+  Secure private channel access, multi-source scanning, and automatic sideload manifest publishing for iOS platforms.</p>
+  <p>Built on <strong>TDLib</strong>, <strong>Python 3.11</strong>, and <strong>Docker</strong> — designed for automation and reliability.</p>
+  <a href="#" class="button">View on GitHub</a>
+</section>
+
+<footer>
+  © 2025 TELOS Project — Secure. Orchestrated. Automated.
+</footer>
+
+<script>
+const art = [
+" /$$$$$$$$ /$$$$$$$$ /$$        /$$$$$$   /$$$$$$ ",
+"|__  $$__/| $$_____/| $$       /$$__  $$ /$$__  $$",
+"   | $$   | $$      | $$      | $$  \\ $$| $$  \\__/",
+"   | $$   | $$$$$   | $$      | $$  | $$|  $$$$$$ ",
+"   | $$   | $$__/   | $$      | $$  | $$ \\____  $$",
+"   | $$   | $$      | $$      | $$  | $$ /$$  \\ $$",
+"   | $$   | $$$$$$$$| $$$$$$$$|  $$$$$$/|  $$$$$$/",
+"   |__/   |________/|________/ \\______/  \\______/ ",
+"                                                  "
+];
+
+const pre = document.getElementById("ascii");
+const subtitle = document.getElementById("subtitle");
+
+let line = 0, pos = 0, buffer = "";
+const subtitleText = "Telegram External Loader System";
+let subtitlePos = 0;
+
+function typeSubtitle() {
+  if (subtitlePos < subtitleText.length) {
+    subtitle.textContent += subtitleText[subtitlePos++];
+    setTimeout(typeSubtitle, 150); // slower subtitle typing
+  }
+}
+
+function type() {
+  if (line < art.length) {
+    if (pos < art[line].length) {
+      buffer += art[line][pos++];
+      pre.textContent = buffer + "_";
+    } else {
+      buffer += "\n";
+      pre.textContent = buffer;
+      line++;
+      pos = 0;
+    }
+    setTimeout(type, 12); // slower ASCII typing
+  } else {
+    pre.textContent = buffer;
+    subtitle.textContent = ""; 
+    typeSubtitle(); // start subtitle typing
+  }
+}
+
+window.addEventListener("load", type);
+</script>
+</body>
+</html>
