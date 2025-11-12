@@ -23,7 +23,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    min-height: 120px; /* reserve space for ASCII logo */
+    min-height: 120px;
     margin-bottom: 1rem;
   }
 
@@ -34,18 +34,18 @@
     white-space: pre;
     line-height: 1.1;
     margin: 0;
-    height: 120px; /* fixed height prevents section from moving */
+    height: 120px;
     overflow: hidden;
   }
 
   .subtitle {
-    color: #FFD700;
+    color: #00BFA6;
     margin-top: 0.5rem;
     font-family: "Inter", sans-serif;
     text-align: center;
     font-size: 1rem;
-    height: 1.2rem;      /* reserve space for subtitle */
-    line-height: 1.2rem; /* vertical centering */
+    height: 1.2rem;
+    line-height: 1.2rem;
   }
 
   h1 {
@@ -61,17 +61,41 @@
     font-family: "Inter", sans-serif;
   }
 
+  .buttons {
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 1s ease, transform 1s ease;
+  }
+
+  .buttons.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
   .button {
     display: inline-block;
-    background: #0057B8;
-    color: white;
     padding: 0.75rem 1.5rem;
     border-radius: 8px;
     text-decoration: none;
+    font-weight: 500;
+    color: #ffffff;
+    transition: all 0.2s ease;
   }
 
+  .altstore { background: #007AFF; }
+  .esign { background: #6C63FF; }
+  .scarlet { background: #FF3B30; }
+  .krava { background: #34C759; }
+  .github { background: #24292E; }
+
   .button:hover {
-    background: #00BFA6;
+    filter: brightness(1.2);
+    transform: translateY(-2px);
   }
 
   footer {
@@ -87,13 +111,21 @@
     <pre id="ascii"></pre>
     <div class="subtitle" id="subtitle"></div>
   </div>
+  <h1>TELOS</h1>
 </header>
 
 <section>
   <p><strong>TELOS</strong> connects Telegram, Docker, and Git into a single orchestrated system.<br>
   Secure private channel access, multi-source scanning, and automatic sideload manifest publishing for iOS platforms.</p>
   <p>Built on <strong>TDLib</strong>, <strong>Python 3.11</strong>, and <strong>Docker</strong> — designed for automation and reliability.</p>
-  <a href="#" class="button">View on GitHub</a>
+
+  <div class="buttons" id="buttons">
+    <a class="button altstore" href="altstore://source?url=https://xiseous.github.io/repo/store.json">Add to AltStore</a>
+    <a class="button esign" href="esign://addsource?url=https://xiseous.github.io/repo/store.json">Add to ESign</a>
+    <a class="button scarlet" href="scarlet://repo=https://xiseous.github.io/repo/store.json">Add to Scarlet</a>
+    <a class="button krava" href="kravasigner://addRepo=https://xiseous.github.io/repo/store.json">Add to KravaSigner</a>
+    <a class="button github" href="https://github.com/Xiseous/TELOS" target="_blank">View on GitHub</a>
+  </div>
 </section>
 
 <footer>
@@ -115,6 +147,7 @@ const art = [
 
 const pre = document.getElementById("ascii");
 const subtitle = document.getElementById("subtitle");
+const buttons = document.getElementById("buttons");
 
 let line = 0, pos = 0, buffer = "";
 const subtitleText = "Telegram External Loader System";
@@ -123,7 +156,9 @@ let subtitlePos = 0;
 function typeSubtitle() {
   if (subtitlePos < subtitleText.length) {
     subtitle.textContent += subtitleText[subtitlePos++];
-    setTimeout(typeSubtitle, 150); // slower subtitle typing
+    setTimeout(typeSubtitle, 150); // subtitle speed
+  } else {
+    buttons.classList.add("visible"); // fade in buttons
   }
 }
 
@@ -138,7 +173,7 @@ function type() {
       line++;
       pos = 0;
     }
-    setTimeout(type, 12); // slower ASCII typing
+    setTimeout(type, 12); // ASCII typing speed
   } else {
     pre.textContent = buffer;
     subtitle.textContent = ""; 
