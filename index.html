@@ -155,7 +155,7 @@ let subtitlePos = 0;
 function typeSubtitle() {
   if (subtitlePos < subtitleText.length) {
     subtitle.textContent += subtitleText[subtitlePos++];
-    setTimeout(typeSubtitle, 100); // subtitle speed
+    setTimeout(typeSubtitle, 72); // subtitle speed
   } else {
     buttons.classList.add("visible"); // fade in buttons
   }
@@ -172,7 +172,7 @@ function type() {
       line++;
       pos = 0;
     }
-    setTimeout(type, 8); // ASCII typing speed
+    setTimeout(type, 5); // ASCII typing speed
   } else {
     pre.textContent = buffer;
     subtitle.textContent = ""; 
