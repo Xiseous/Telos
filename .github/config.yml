@@ -1,0 +1,23 @@
+# TELOS Source Configuration
+# Used by the JSON generation workflow (GitHub Actions)
+# Edit this file to customize your source metadata
+
+# Source metadata (appears in AltStore/Sideloadly/Feather)
+source_name: "Telos Repository"
+source_id: "git.xiseous.telos"
+source_subtitle: "Telos - Automated AIO Repo"
+source_description: "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository."
+developer_name: "Xiseous"
+tint_color: "#00BFA6"
+
+# URLs (leave empty if not used)
+website: "https://xiseous.github.io/Telos/"
+icon_url: "https://raw.githubusercontent.com/xiseous/Telos/main/Assets/source_icon.png"
+header_url: "https://raw.githubusercontent.com/xiseous/Telos/main/Assets/source_header.png"
+news_url: "https://xiseous.github.io/Telos/"
+
+# App settings
+priority_apps: "com.zhiliaoapp.musically:BHTikTok,BHTikTokEnhanced:1"  # Format: bundleId:tweakName:versionRename,...
+max_versions: 10
+max_screenshots_per_app: 5
+min_ios_version_fallback: "12.0"
