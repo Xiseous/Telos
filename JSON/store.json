@@ -1,0 +1,59 @@
+{
+  "name": "Telos Repository",
+  "subtitle": "Telos - Automated AIO Repo",
+  "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
+  "iconURL": "https://raw.githubusercontent.com/xiseous/Telos/main/Assets/source_icon.png",
+  "headerURL": "https://raw.githubusercontent.com/xiseous/Telos/main/Assets/source_header.png",
+  "website": "https://xiseous.github.io/Telos/",
+  "tintColor": "#00BFA6",
+  "featuredApps": [
+    "com.idevtal.Wallpapers"
+  ],
+  "apps": [
+    {
+      "beta": false,
+      "name": "ImgAI",
+      "bundleIdentifier": "com.idevtal.Wallpapers",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "version": "5.90",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 5.90\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-1b63fa38cc8797dbbed3/AI_Photo_Generator_ImgAI_v5_90_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nfrom @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\n📱 AI Photo Generator: ImgAI\n\n🆔 Bundle ID: com.idevtal.Wallpapers\n⬆️ Updated to: 5.90\n🔧 Minimum iOS: 17.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nRestart app if Pro isnt activated.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 236889539,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.team-identifier",
+          "com.apple.security.application-groups",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "5.90",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 5.90\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-1b63fa38cc8797dbbed3/AI_Photo_Generator_ImgAI_v5_90_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 236889539
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "⚙️ Telos Update 12.28",
+      "identifier": "telos-update-2025-12-28",
+      "caption": "New Files Uploaded:\nImgAI - (AutoRcSideload) 5.90",
+      "date": "2025-12-28",
+      "tintColor": "#00BFA6",
+      "notify": true,
+      "appID": "com.idevtal.Wallpapers"
+    }
+  ]
+}
