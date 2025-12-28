@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "tech.miidii.MDClock",
+    "com.myfitnesspal.mfp",
     "com.TickTick.task",
     "co.detail.duo",
-    "com.jakemor.firness-ai",
-    "co.bergen.Darkroom",
-    "com.getupnote.ios"
+    "com.jakemor.firness-ai"
   ],
   "apps": [
     {
@@ -1048,6 +1048,42 @@
     },
     {
       "beta": false,
+      "name": "MD Clock",
+      "bundleIdentifier": "tech.miidii.MDClock",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with MDClock, blatantsPatch",
+      "version": "2.62.1",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 2.62.1\n\nTweaks: MDClock, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MD.Clock.-.Flip.Clock.v2.62.1.Pro.Unlocked.blatant.Patched.ipa",
+      "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nfrom @blatants |\n------------------------\n\nTweaks Injected: MDClock, blatantsPatch\n\n📱 MD Clock - Flip Clock\n\n🆔 Bundle ID: tech.miidii.MDClock\n⬆️ Updated to: 2.62.1\n🔧 Minimum iOS: 15.0\n✅ Patched\n💎 Modifier: Pro Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 280678916,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.62.1",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2.62.1\n\nTweaks: MDClock, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MD.Clock.-.Flip.Clock.v2.62.1.Pro.Unlocked.blatant.Patched.ipa",
+          "size": 280678916
+        },
+        {
+          "version": "2.62.1b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2.62.1\n\nTweaks: MDClock, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MD.Clock.-.Flip.Clock.v2.62.1.Pro.Unlocked.blatant.Patched.ipa",
+          "size": 280678916
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "MobileScanner",
       "bundleIdentifier": "com.glority.everlens",
       "developerName": "Xiseous",
@@ -1197,6 +1233,49 @@
           "localizedDescription": "Version: 1.18.0\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MyPerfectHotel_v1.18.0-RiftysIPAs.ipa",
           "size": 177250131
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "MyFitnessPal",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with MyFitnessPal, blatantsPatch",
+      "version": "25.47.1",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 25.47.1\n\nTweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MyFitnessPal_Calorie_Counter_v25_47_1_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nfrom @blatants |\n------------------------\n\nTweaks Injected: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\n📱 MyFitnessPal: Calorie Counter\n\n🆔 Bundle ID: com.myfitnesspal.mfp\n⬆️ Updated to: 25.47.1\n🔧 Minimum iOS: 17.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 134921448,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "25.47.1",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 25.47.1\n\nTweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MyFitnessPal_Calorie_Counter_v25_47_1_Subscription_Unlocked_blatant.ipa",
+          "size": 134921448
+        },
+        {
+          "version": "25.47.1b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 25.47.1\n\nTweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MyFitnessPal_Calorie_Counter_v25_47_1_Subscription_Unlocked_blatant.ipa",
+          "size": 134921448
         }
       ]
     },
@@ -1915,13 +1994,6 @@
           "localizedDescription": "Version: 7.8.23\n\nTweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/TickTick_To_Do_List_._Calendar_v7_8_23_Subscription_Unlocked_blatant.ipa",
           "size": 96507822
-        },
-        {
-          "version": "7.8.23b",
-          "date": "2025-12-28",
-          "localizedDescription": "Version: 7.8.23\n\nTweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/TickTick_To_Do_List_._Calendar_v7_8_23_Subscription_Unlocked_blatant.ipa",
-          "size": 96507822
         }
       ]
     },
@@ -2126,7 +2198,7 @@
     {
       "title": "⚙️ Telos Update 12.28",
       "identifier": "telos-update-2025-12-28",
-      "caption": "New Files Uploaded:\nOpal - (autoRevenuecat) 3.93.1\n5K Runner - (ExtensionFix) 9.3700\nMy Hotel - (SatellaJailed) 1.18.0\nSpaceflight Simulator - iOSGods.com - (CydiaSubstrate) 1.59.16\nStack - (noads) 3.57\nPixel Car Racer - (SatellaJailed) 1.1.80\nHorizon - (NoAds) 1.3.6\nBallz - (CustomOffsetPatcheriOSGodsCom) 2.8.17\nTraffic Rider - (SatellaJailed) 2.0\nOffline Games - (SatellaJailed) 2.11.5\nOffline Games - (SatellaJailed) 2.12.1\nBlock Blast! - (CydiaSubstrate) 5.2.9\nInfinite Craft - (CydiaSubstrate) 1.08\nHill Climb - (SatellaJailed) 1.64.0\nSteve - (CydiaSubstrate) 4.3.0\nTrucker and Trucks - (CydiaSubstrate) 1.2\nSmashy Road Wanted - (CydiaSubstrate) 1.4.8\nEgg, Inc. - (SatellaJailed) 1.34.1\nKnife Hit - (CydiaSubstrate) 1.9.22\nSRW 2 - (CydiaSubstrate) 1.41\nSteps - (SatellaJailed) 1.7.57\nStick War: Legacy - (SatellaJailed) 2023.5.826\nBlock Blast! - (CydiaSubstrate) 5.3.2\nHill Climb - (SatellaJailed) 1.64.5\nBallz - (iGameGod) 2.8.19\nStick War: Legacy - (SatellaJailed) 2023.5.830\nJetpack - (SatellaJailed) 1.97.1\nBallz - (CustomOffsetPatcheriOSGodsCom) 2.8.18\nBlock Blast! - (CydiaSubstrate) 5.3.4\nSmashy Road Arena - (CydiaSubstrate) 1.1.8\nأندلسي - (Andalusi) 9.4\nImgAI - (AutoRcSideload) 5.90\nClarity - (Clarity) 5.5.12\nFitia - (Fitia) 20.0.6\nLingvist - (Lingvist) 2.64.2\nPUSH - (AutoRcSideload) 3.9.2\nCoin ID - (CoinID) 1.21\n咔皮Action - (KapiCam) 3.31.1\nSketchar - (Sketchar) 10.3\nStressWatch - (StressWatch) 2.4.16\nMobileScanner - (MobileScanner) 2.22.0\nSnapEdit - (SnapEdit) 6.3.4\n咔皮Action - (KapiCam) 3.31.0\nInShot - (InShot) 1.92.2\nMoonly - (Moonly) 2.6.0\nKineMaster - (KineMaster) 8.0.12\nUpNote - (UpNote) 9.16.1\nAI Marvels - (AIMarvels) 1.94.0\nDarkroom - (AutoRcSideload) 7.0.11\nStepz - (Stepz) 4.10.34\nRest - (AutoRcSideload) 3.168.0\nDocuments - (Documents) 8.18\nKineMaster - (KineMaster) 8.0.11\nGentler Streak - (AutoRcSideload) 5.11\nHome workouts - (HomeWorkouts) 1.43.10\nMojo - (Mojo) 1.253.1\nThe Piano - (ThePiano) 2.16.5\nFitnessOnline - (FitnessOnline) 1.12.2\nMacroFactor - (AutoRcSideload) 5.7.2\nMobileScanner - (MobileScanner) 2.21.0\nHappy Scale - (AutoRcSideload) 2025.18\nUpNote - (UpNote) 9.16.0\nDarkroom - (AutoRcSideload) 7.0.10\nFitnessAI - (AutoRcSideload) 15.0.1\nDetail - (Detail) 5.5.1\nTickTick - (Ticktick) 7.8.23\nTickTick - (Ticktick) 7.8.23",
+      "caption": "New Files Uploaded:\nOpal - (autoRevenuecat) 3.93.1\n5K Runner - (ExtensionFix) 9.3700\nMy Hotel - (SatellaJailed) 1.18.0\nSpaceflight Simulator - iOSGods.com - (CydiaSubstrate) 1.59.16\nStack - (noads) 3.57\nPixel Car Racer - (SatellaJailed) 1.1.80\nHorizon - (NoAds) 1.3.6\nBallz - (CustomOffsetPatcheriOSGodsCom) 2.8.17\nTraffic Rider - (SatellaJailed) 2.0\nOffline Games - (SatellaJailed) 2.11.5\nOffline Games - (SatellaJailed) 2.12.1\nBlock Blast! - (CydiaSubstrate) 5.2.9\nInfinite Craft - (CydiaSubstrate) 1.08\nHill Climb - (SatellaJailed) 1.64.0\nSteve - (CydiaSubstrate) 4.3.0\nTrucker and Trucks - (CydiaSubstrate) 1.2\nSmashy Road Wanted - (CydiaSubstrate) 1.4.8\nEgg, Inc. - (SatellaJailed) 1.34.1\nKnife Hit - (CydiaSubstrate) 1.9.22\nSRW 2 - (CydiaSubstrate) 1.41\nSteps - (SatellaJailed) 1.7.57\nStick War: Legacy - (SatellaJailed) 2023.5.826\nBlock Blast! - (CydiaSubstrate) 5.3.2\nHill Climb - (SatellaJailed) 1.64.5\nBallz - (iGameGod) 2.8.19\nStick War: Legacy - (SatellaJailed) 2023.5.830\nJetpack - (SatellaJailed) 1.97.1\nBallz - (CustomOffsetPatcheriOSGodsCom) 2.8.18\nBlock Blast! - (CydiaSubstrate) 5.3.4\nSmashy Road Arena - (CydiaSubstrate) 1.1.8\nأندلسي - (Andalusi) 9.4\nImgAI - (AutoRcSideload) 5.90\nClarity - (Clarity) 5.5.12\nFitia - (Fitia) 20.0.6\nLingvist - (Lingvist) 2.64.2\nPUSH - (AutoRcSideload) 3.9.2\nCoin ID - (CoinID) 1.21\n咔皮Action - (KapiCam) 3.31.1\nSketchar - (Sketchar) 10.3\nStressWatch - (StressWatch) 2.4.16\nMobileScanner - (MobileScanner) 2.22.0\nSnapEdit - (SnapEdit) 6.3.4\n咔皮Action - (KapiCam) 3.31.0\nInShot - (InShot) 1.92.2\nMoonly - (Moonly) 2.6.0\nKineMaster - (KineMaster) 8.0.12\nUpNote - (UpNote) 9.16.1\nAI Marvels - (AIMarvels) 1.94.0\nDarkroom - (AutoRcSideload) 7.0.11\nStepz - (Stepz) 4.10.34\nRest - (AutoRcSideload) 3.168.0\nDocuments - (Documents) 8.18\nKineMaster - (KineMaster) 8.0.11\nGentler Streak - (AutoRcSideload) 5.11\nHome workouts - (HomeWorkouts) 1.43.10\nMojo - (Mojo) 1.253.1\nThe Piano - (ThePiano) 2.16.5\nFitnessOnline - (FitnessOnline) 1.12.2\nMacroFactor - (AutoRcSideload) 5.7.2\nMobileScanner - (MobileScanner) 2.21.0\nHappy Scale - (AutoRcSideload) 2025.18\nUpNote - (UpNote) 9.16.0\nDarkroom - (AutoRcSideload) 7.0.10\nFitnessAI - (AutoRcSideload) 15.0.1\nDetail - (Detail) 5.5.1\nTickTick - (Ticktick) 7.8.23\nMyFitnessPal - (MyFitnessPal) 25.47.1\nMD Clock - (MDClock) 2.62.1\nMD Clock - (MDClock) 2.62.1\nMyFitnessPal - (MyFitnessPal) 25.47.1",
       "date": "2025-12-28",
       "tintColor": "#00BFA6",
       "notify": true,
