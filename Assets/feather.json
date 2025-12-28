@@ -1,0 +1,1271 @@
+{
+  "name": "Telos Repository",
+  "subtitle": "Telos - Automated AIO Repo",
+  "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
+  "iconURL": "https://raw.githubusercontent.com/xiseous/Telos/main/Assets/source_icon.png",
+  "headerURL": "https://raw.githubusercontent.com/xiseous/Telos/main/Assets/source_header.png",
+  "website": "https://xiseous.github.io/Telos/",
+  "tintColor": "#00BFA6",
+  "featuredApps": [
+    "tech.sketchar.ios",
+    "com.future.kapi",
+    "com.aiby.wtcoin",
+    "com.moodtools.thoughtdiary",
+    "com.ADPTVLTD.push"
+  ],
+  "apps": [
+    {
+      "beta": false,
+      "name": "5K Runner",
+      "bundleIdentifier": "com.heavydutyapps.RunC25K-Free",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with ExtensionFix",
+      "version": "9.3700",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 9.3700\n\nTweaks: ExtensionFix\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/CouchTo5KRunnerPro-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: ExtensionFix\n\n🏷️ Name: Couch To 5K Runner\n⁣\n💉 Subscription Unlocked\n⁣\n🆔 Bundle ID: com.heavydutyapps.RunC25K-Free\n\n💻 Developer: FITNESS22 LTD\n\n⏳ Version: 9.3700\n⁣\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 133577315,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.healthkit",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "9.3700",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 9.3700\n\nTweaks: ExtensionFix\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/CouchTo5KRunnerPro-RiftysIPAs.ipa",
+          "size": 133577315
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Ballz",
+      "bundleIdentifier": "com.ketchapp.ballz",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with iGameGod",
+      "version": "2.8.19",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 2.8.19\n\nTweaks: iGameGod\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Ballz_v2.8.19-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: iGameGod\n\n🏷️ Name: Ballz\n⁣\n💉 IGG added for unlimited coins\n⁣\n🆔 Bundle ID: com.ketchapp.ballz\n\n💻 Developer: Ketchapp\n\n⏳ Version: ⁣2.8.19\n\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 56276499,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.game-center",
+          "com.apple.developer.team-identifier",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.8.19",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2.8.19\n\nTweaks: iGameGod\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Ballz_v2.8.19-RiftysIPAs.ipa",
+          "size": 56276499
+        },
+        {
+          "version": "2.8.18",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2.8.18\n\nTweaks: CustomOffsetPatcheriOSGodsCom, CydiaSubstrate, bfdecrypttweak, iGSpoof, kernrw.0\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Ballz_v2.8.18-RiftysIPAs.ipa",
+          "size": 124382226
+        },
+        {
+          "version": "2.8.17",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2.8.17\n\nTweaks: CustomOffsetPatcheriOSGodsCom, CydiaSubstrate, bfdecrypttweak, iGSpoof, kernrw.0\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Ballz_v2.8.17-RiftysIPAs.ipa",
+          "size": 124471773
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Block Blast!",
+      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with CydiaSubstrate, riftysnoads",
+      "version": "5.3.4",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 5.3.4\n\nTweaks: CydiaSubstrate, riftysnoads\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/BlockBlast_v5.3.4-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, riftysnoads\n\n🏷️ Name: Block Blast!\n⁣\n💉 No Ads \n⁣\n🆔 Bundle ID: com.blockpuzzle.us.ios\n\n💻 Developer: Hungry Studio\n\n⏳ Version: ⁣5.3.4\n\n⚡️ Made by RiftysIPAs",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 89281197,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.game-center",
+          "com.apple.developer.associated-domains"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "5.3.4",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 5.3.4\n\nTweaks: CydiaSubstrate, riftysnoads\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/BlockBlast_v5.3.4-RiftysIPAs.ipa",
+          "size": 89281197
+        },
+        {
+          "version": "5.3.2",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 5.3.2\n\nTweaks: CydiaSubstrate, riftysnoads\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/BlockBlast_v5.3.2-RiftysIPAs.ipa",
+          "size": 89261205
+        },
+        {
+          "version": "5.2.9",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 5.2.9\n\nTweaks: CydiaSubstrate, riftysnoads\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/BlockBlast_v5.2.9-RiftysIPAs.ipa",
+          "size": 89214984
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Clarity",
+      "bundleIdentifier": "com.moodtools.thoughtdiary",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with Clarity, blatantsPatch",
+      "version": "5.5.12",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 5.5.12\n\nTweaks: Clarity, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Clarity_CBT_Self_Help_Journal_v5_5_12_Pro_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Clarity, blatantsPatch\n\n📱 Clarity: CBT Self Help Journal\n\n🆔 Bundle ID: com.moodtools.thoughtdiary\n⬆️ Updated to: 5.5.12\n🔧 Minimum iOS: 16.0\n✅ Patched\n💎 Modifier: Pro Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 149393886,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "5.5.12",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 5.5.12\n\nTweaks: Clarity, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Clarity_CBT_Self_Help_Journal_v5_5_12_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 149393886
+        },
+        {
+          "version": "5.5.12b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 5.5.12\n\nTweaks: Clarity, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Clarity_CBT_Self_Help_Journal_v5_5_12_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 149393886
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Coin ID",
+      "bundleIdentifier": "com.aiby.wtcoin",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with CoinID, blatantsPatch",
+      "version": "1.21",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.21\n\nTweaks: CoinID, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Coin_ID_Coin_Value_Identifier_v1_21_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CoinID, blatantsPatch\n\n📱 Coin ID: Coin Value Identifier\n\n🆔 Bundle ID: com.aiby.wtcoin\n⬆️ Updated to: 1.21\n🔧 Minimum iOS: 16.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 45478622,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.associated-domains",
+          "application-identifier",
+          "com.apple.developer.applesignin"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.21",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.21\n\nTweaks: CoinID, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Coin_ID_Coin_Value_Identifier_v1_21_Subscription_Unlocked_blatant.ipa",
+          "size": 45478622
+        },
+        {
+          "version": "1.21b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.21\n\nTweaks: CoinID, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Coin_ID_Coin_Value_Identifier_v1_21_Subscription_Unlocked_blatant.ipa",
+          "size": 45478622
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Egg, Inc.",
+      "bundleIdentifier": "com.auxbrain.egginc",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "1.34.1",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.34.1\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/EggInc_v1.34.1-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed\n\n🏷️ Name: Egg, Inc.\n⁣\n💉 Free iAP\n⁣\n🆔 Bundle ID: com.auxbrain.egginc\n\n💻 Developer: Auxbrain, Inc.\n\n⏳ Version: ⁣1.34.1\n\n⚡️ Made by RiftysIPAs",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 52917454,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.game-center",
+          "com.apple.developer.team-identifier",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.34.1",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.34.1\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/EggInc_v1.34.1-RiftysIPAs.ipa",
+          "size": 52917454
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Fitia",
+      "bundleIdentifier": "com.ulisesolave.Fitia",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with Fitia, blatantsPatch",
+      "version": "20.0.6",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 20.0.6\n\nTweaks: Fitia, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Fitia_Calorie_Counter_._Diet_v20_0_6_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Fitia, blatantsPatch\n\n📱 Fitia: Calorie Counter & Diet\n\n🆔 Bundle ID: com.ulisesolave.Fitia\n⬆️ Updated to: 20.0.6\n🔧 Minimum iOS: 16\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\n>The app may take up to a minute to sign in, so be patient.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 131470963,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.icloud-container-identifiers",
+          "application-identifier",
+          "com.apple.developer.healthkit.background-delivery",
+          "aps-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.healthkit.access",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "20.0.6",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 20.0.6\n\nTweaks: Fitia, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Fitia_Calorie_Counter_._Diet_v20_0_6_Subscription_Unlocked_blatant.ipa",
+          "size": 131470963
+        },
+        {
+          "version": "20.0.6b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 20.0.6\n\nTweaks: Fitia, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Fitia_Calorie_Counter_._Diet_v20_0_6_Subscription_Unlocked_blatant.ipa",
+          "size": 131470963
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Hill Climb",
+      "bundleIdentifier": "com.fingersoft.hillclimbracing",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "1.64.5",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.64.5\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/HillClimbRace_v1.64.5-RifysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed\n\n🏷️ Name: Hill Climb Racing\n⁣\n💉 Free iAP \n\n🆔 Bundle ID: om.fingersoft.hillclimbracing\n\n💻 Developer: Fingersoft\n\n⏳ Version: 1.64.5\n\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 111822308,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "application-identifier",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.64.5",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.64.5\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/HillClimbRace_v1.64.5-RifysIPAs.ipa",
+          "size": 111822308
+        },
+        {
+          "version": "1.64.0",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.64.0\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/HillClimbRacing_v1.64.0-RiftysIPAs.ipa",
+          "size": 112022584
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Horizon",
+      "bundleIdentifier": "com.ketchapp.horizon",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with NoAds",
+      "version": "1.3.6",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.3.6\n\nTweaks: NoAds\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Horizon_v1.3.6-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: NoAds\n\n🏷️ Name: Horizon\n⁣\n💉 No Ads\n⁣\n🆔 Bundle ID: com.ketchapp.horizon\n\n💻 Developer: Ketchapp\n\n⏳ Version: ⁣1.3.6\n\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 85480040,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.game-center",
+          "com.apple.developer.team-identifier",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.3.6",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.3.6\n\nTweaks: NoAds\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Horizon_v1.3.6-RiftysIPAs.ipa",
+          "size": 85480040
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "ImgAI",
+      "bundleIdentifier": "com.idevtal.Wallpapers",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "version": "5.90",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 5.90\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/AI_Photo_Generator_ImgAI_v5_90_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\n📱 AI Photo Generator: ImgAI\n\n🆔 Bundle ID: com.idevtal.Wallpapers\n⬆️ Updated to: 5.90\n🔧 Minimum iOS: 17.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nRestart app if Pro isnt activated.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 236889539,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.team-identifier",
+          "com.apple.security.application-groups",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "5.90",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 5.90\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/AI_Photo_Generator_ImgAI_v5_90_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 236889539
+        },
+        {
+          "version": "5.90b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 5.90\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/AI_Photo_Generator_ImgAI_v5_90_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 236889539
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Infinite Craft",
+      "bundleIdentifier": "fun.neal.infinite.craft",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with CydiaSubstrate, noads",
+      "version": "1.08",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.08\n\nTweaks: CydiaSubstrate, noads\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/InfiniteCraft_v1.8-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, noads\n\n🏷️ Name: Infinite Craft\n⁣\n💉 Ads Removed \n\n🆔 Bundle ID: fun.neal.infinite.craft\n\n💻 Developer: Neal.fun\n\n⏳ Version: ⁣1.8\n\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 5629911,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.team-identifier",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.08",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.08\n\nTweaks: CydiaSubstrate, noads\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/InfiniteCraft_v1.8-RiftysIPAs.ipa",
+          "size": 5629911
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Jetpack",
+      "bundleIdentifier": "com.halfbrick.jetpack",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "1.97.1",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.97.1\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/JetpackJoyride_v1.97.1-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed\n\n🏷️ Name: Jetpack Joyride\n⁣\n💉 Free IAP\n\n🆔 Bundle ID: com.halfbrick.jetpack\n\n💻 Developer: Halfback Studios\n\n⏳ Version: 1.97.1\n\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 241752218,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "application-identifier",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.team-identifier",
+          "aps-environment",
+          "com.apple.developer.game-center",
+          "com.apple.developer.associated-domains",
+          "keychain-access-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.97.1",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.97.1\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/JetpackJoyride_v1.97.1-RiftysIPAs.ipa",
+          "size": 241752218
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Knife Hit",
+      "bundleIdentifier": "com.ketchapp.knifehit",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with CydiaSubstrate, noads",
+      "version": "1.9.22",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.9.22\n\nTweaks: CydiaSubstrate, noads\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/KnifeHit_v1.9.22-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, noads\n\n🏷️ Name: Knife Hit\n⁣\n💉 No Ads \n\n🆔 Bundle ID: com.ketchapp.knifehit\n\n💻 Developer: Ketchapp\n\n⏳ Version: ⁣1.9.22\n\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 74127083,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.game-center",
+          "com.apple.developer.team-identifier",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.9.22",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.9.22\n\nTweaks: CydiaSubstrate, noads\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/KnifeHit_v1.9.22-RiftysIPAs.ipa",
+          "size": 74127083
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Lingvist",
+      "bundleIdentifier": "ee.keel24.Lingvist",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with Lingvist, blatantsPatch",
+      "version": "2.64.2",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 2.64.2\n\nTweaks: Lingvist, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Lingvist_Learn_Languages_Fast_v2_64_2_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Lingvist, blatantsPatch\n\n📱 Lingvist: Learn Languages Fast\n\n🆔 Bundle ID: ee.keel24.Lingvist\n⬆️ Updated to: 2.64.2\n🔧 Minimum iOS: 13.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 34683642,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.ClassKit-environment",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.64.2",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2.64.2\n\nTweaks: Lingvist, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Lingvist_Learn_Languages_Fast_v2_64_2_Subscription_Unlocked_blatant.ipa",
+          "size": 34683642
+        },
+        {
+          "version": "2.64.2b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2.64.2\n\nTweaks: Lingvist, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Lingvist_Learn_Languages_Fast_v2_64_2_Subscription_Unlocked_blatant.ipa",
+          "size": 34683642
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "My Hotel",
+      "bundleIdentifier": "com.master.hotelmaster",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "1.18.0",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.18.0\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MyPerfectHotel_v1.18.0-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed\n\nName: My Perfect Hotel\n⁣\nTweak: Free iAP\n⁣\nBundle ID: com.master.hotelmaster\n\nDeveloper: SayGames LTD\n\nVersion: ⁣1.18.0\n\nMade by @riftysIPAlibrary",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 177250131,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.game-center",
+          "com.apple.developer.team-identifier",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.18.0",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.18.0\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MyPerfectHotel_v1.18.0-RiftysIPAs.ipa",
+          "size": 177250131
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Offline Games",
+      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "2.12.1",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 2.12.1\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/OfflineGames_v2.12.1-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed\n\n🏷️ Name: Offline Games\n⁣\n💉 Free iAP\n⁣\n🆔 Bundle ID: com.JindoBlu.OfflineGamesIOS\n\n💻 Developer: Moreno Maio\n\n⏳ Version: ⁣2.12.1\n\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 87780973,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.team-identifier",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.12.1",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2.12.1\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/OfflineGames_v2.12.1-RiftysIPAs.ipa",
+          "size": 87780973
+        },
+        {
+          "version": "2.11.5",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2.11.5\n\nTweaks: SatellaJailed, zxUpdateNotifier\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/OfflineGames-V2.11.5-riftysIPAs.ipa",
+          "size": 82054554
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Opal",
+      "bundleIdentifier": "com.withopal.opal",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with autoRevenuecat",
+      "version": "3.93.1",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 3.93.1\n\nTweaks: autoRevenuecat\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Opal-V3.93.1-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: autoRevenuecat\n\n🏷 Name: Opal: Screen Time Control\n⁣\n💉 Subscription Unlocked\n⁣\n🆔 Bundle ID: com.withopal.opal\n\n💻 Developer: Opal OS\n\n⏳ Version: 3.93.1\n\n‼️ Works with trollstore only \n⁣\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 117711223,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "application-identifier",
+          "com.apple.developer.family-controls",
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.associated-domains",
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.icloud-services",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.93.1",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 3.93.1\n\nTweaks: autoRevenuecat\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Opal-V3.93.1-RiftysIPAs.ipa",
+          "size": 117711223
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Pixel Car Racer",
+      "bundleIdentifier": "studiofurukawa.pixelcarracer",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "1.1.80",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.1.80\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/PixelCarRacer_v1.1.80-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed\n\n🏷️ Name: Pixel Car Racer\n⁣\n💉 iAP\n⁣\n🆔 Bundle ID: studiofurukawa.pixelcarracer\n\n💻 Developer: STUDIO FURUKAWA, LLC\n\n⏳ Version: ⁣1.1.80\n\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 77127101,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.1.80",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.1.80\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/PixelCarRacer_v1.1.80-RiftysIPAs.ipa",
+          "size": 77127101
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "PUSH",
+      "bundleIdentifier": "com.ADPTVLTD.push",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with AutoRcSideload, CachefixPatch",
+      "version": "3.9.2",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 3.9.2\n\nTweaks: AutoRcSideload, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/PUSH_Workout_._Gym_Tracker_v3_9_2_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, CachefixPatch, CydiaSubstrate, blatantsPatch\n\n📱 PUSH Workout & Gym Tracker\n\n🆔 Bundle ID: com.ADPTVLTD.push\n⬆️ Updated to: 3.9.2\n🔧 Minimum iOS: 15.1\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 64346557,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.healthkit",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "aps-environment"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.9.2",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 3.9.2\n\nTweaks: AutoRcSideload, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/PUSH_Workout_._Gym_Tracker_v3_9_2_Subscription_Unlocked_blatant.ipa",
+          "size": 64346557
+        },
+        {
+          "version": "3.9.2b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 3.9.2\n\nTweaks: AutoRcSideload, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/PUSH_Workout_._Gym_Tracker_v3_9_2_Subscription_Unlocked_blatant.ipa",
+          "size": 64346557
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Sketchar",
+      "bundleIdentifier": "tech.sketchar.ios",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with Sketchar, blatantsPatch",
+      "version": "10.3",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 10.3\n\nTweaks: Sketchar, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Sketchar_AR_Drawing_App_v10_3_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Sketchar, blatantsPatch\n\n📱 Sketchar: AR Drawing App\n\n🆔 Bundle ID: tech.sketchar.ios\n⬆️ Updated to: 10.3\n🔧 Minimum iOS: 16.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 196118589,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "10.3",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 10.3\n\nTweaks: Sketchar, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Sketchar_AR_Drawing_App_v10_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 196118589
+        },
+        {
+          "version": "10.3b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 10.3\n\nTweaks: Sketchar, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Sketchar_AR_Drawing_App_v10_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 196118589
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Smashy Road Arena",
+      "bundleIdentifier": "com.bearbit.smashyroadarena",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with CydiaSubstrate, iOSGodsiAPCracker",
+      "version": "1.1.8",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.1.8\n\nTweaks: CydiaSubstrate, iOSGodsiAPCracker\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/SmashRoadWantedArena_v1.1.8-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, iOSGodsiAPCracker\n\n🏷️ Name: Smashy Road: Arena\n⁣\n💉 Free iAP\n⁣\n🆔 Bundle ID: com.bearbit.smashyroadarena\n\n💻 Developer: Bearbit Studios B.V.\n\n⏳ Version: ⁣1.1.8\n\n⚡️ Made by RiftysIPAs",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 56651415,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.1.8",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.1.8\n\nTweaks: CydiaSubstrate, iOSGodsiAPCracker\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/SmashRoadWantedArena_v1.1.8-RiftysIPAs.ipa",
+          "size": 56651415
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Smashy Road Wanted",
+      "bundleIdentifier": "com.rkgames.smashywanted",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with CydiaSubstrate, iOSGodsiAPCracker",
+      "version": "1.4.8",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.4.8\n\nTweaks: CydiaSubstrate, iOSGodsiAPCracker\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/SmashyRoadWanted_v1.4.8-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, iOSGodsiAPCracker\n\n🏷️ Name: Smashy Road: Wanted\n⁣\n💉 Free iAP\n⁣\n🆔 Bundle ID: com.rkgames.smashywanted\n\n💻 Developer: Bearbit Studios B.V.\n\n⏳ Version: ⁣1.4.8\n\n⚡️ Made by RiftysIPAs",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 29263793,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.team-identifier",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.4.8",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.4.8\n\nTweaks: CydiaSubstrate, iOSGodsiAPCracker\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/SmashyRoadWanted_v1.4.8-RiftysIPAs.ipa",
+          "size": 29263793
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Spaceflight Simulator - iOSGods.com",
+      "bundleIdentifier": "com.StefMorojna.SpaceflightSimulator",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with CydiaSubstrate, SpaceflightSimulator",
+      "version": "1.59.16",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.59.16\n\nTweaks: CydiaSubstrate, SpaceflightSimulator\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/SpaceflightSimulator_1.5.10.5.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SpaceflightSimulator\n\n🏷️ Name: Spaceflight Simulator\n⁣\n💉 Free iAP\n⁣\n🆔 Bundle ID: com.StefMorojna.SpaceflightSimulator\n\n💻 Developer: Spaceflight Simulator UK Ltd\n\n⏳ Version: ⁣1.59.16\n\n⚡️ Tweaked by IOSGods",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 44419466,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "keychain-access-groups",
+          "get-task-allow",
+          "com.apple.developer.team-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.59.16",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.59.16\n\nTweaks: CydiaSubstrate, SpaceflightSimulator\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/SpaceflightSimulator_1.5.10.5.ipa",
+          "size": 44419466
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "SRW 2",
+      "bundleIdentifier": "com.bearbit.srw2",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with CydiaSubstrate, iOSGodsiAPCracker",
+      "version": "1.41",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.41\n\nTweaks: CydiaSubstrate, iOSGodsiAPCracker\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/SmashyRoadWanted2_v1.41-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, iOSGodsiAPCracker\n\n🏷️ Name: Smashy Road: Wanted 2\n⁣\n💉 Free iAP\n⁣\n🆔 Bundle ID: com.bearbit.srw2\n\n💻 Developer: Bearbit Studios B.V.\n\n⏳ Version: ⁣1.41\n\n⚡️ Made by RiftysIPAs",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 105975724,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.team-identifier",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.41",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.41\n\nTweaks: CydiaSubstrate, iOSGodsiAPCracker\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/SmashyRoadWanted2_v1.41-RiftysIPAs.ipa",
+          "size": 105975724
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Stack",
+      "bundleIdentifier": "com.ketchapp.stack",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with noads",
+      "version": "3.57",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 3.57\n\nTweaks: noads\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Stack_3.57-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: noads\n\nName: Stack\n⁣\nTweak: No Ads\n⁣\nBundle ID: com.ketchapp.stack\n\nDeveloper: Ketchapp\n\nVersion: ⁣3.57\n\nMade by @riftysIPAlibrary",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 67965051,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.game-center",
+          "com.apple.developer.team-identifier",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.57",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 3.57\n\nTweaks: noads\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Stack_3.57-RiftysIPAs.ipa",
+          "size": 67965051
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Steps",
+      "bundleIdentifier": "com.yoc.Steps",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "1.7.57",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.7.57\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Steps_v1.7.57-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed\n\n🏷️ Name: Steps\n⁣\n💉 Free iAP - Press upgrade now > cancel\n\n🆔 Bundle ID: com.yoc.Steps\n\n💻 Developer: Year of Code, LLC\n\n⏳ Version: 1.7.57\n\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 14292584,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.healthkit.background-delivery",
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.healthkit",
+          "application-identifier",
+          "com.apple.developer.weatherkit",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit.access"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.7.57",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.7.57\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Steps_v1.7.57-RiftysIPAs.ipa",
+          "size": 14292584
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Steve",
+      "bundleIdentifier": "iDeC.SteveWidget",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with CydiaSubstrate, SteveTweak",
+      "version": "4.3.0",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 4.3.0\n\nTweaks: CydiaSubstrate, SteveTweak\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Steve_v4.3.0-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SteveTweak\n\n🏷️ Name: Steve - Widgets, Wallpapers and Icons\n⁣\n💉 Subscription Unlocked (Basically unlimited free trials 😒) - Press Start free trial > Cancel \n\n(Ads are still there though… i’ll fix when the app is next updated) \n⁣\n🆔 Bundle ID: iDeC.SteveWidget\n\n💻 Developer: Calm Sea Enterprise, S.L.\n\n⏳ Version: ⁣4.3.0\n\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 171386406,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.healthkit",
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.game-center",
+          "com.apple.developer.healthkit.access",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "4.3.0",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 4.3.0\n\nTweaks: CydiaSubstrate, SteveTweak\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Steve_v4.3.0-RiftysIPAs.ipa",
+          "size": 171386406
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Stick War: Legacy",
+      "bundleIdentifier": "com.stickpage.stickwar",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "2023.5.830",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 2023.5.830\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/StickWar_v2023.5.830-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed\n\n🏷️ Name: Stick War: Legacy\n⁣\n💉 Free iAP\n⁣\n🆔 Bundle ID: com.stickpage.stickwar\n\n💻 Developer: Max Games Studios\n\n⏳ Version: ⁣2023.5.830\n\n⚡️ Made by RiftysIPAs",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 85858687,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "application-identifier",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.game-center"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2023.5.830",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2023.5.830\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/StickWar_v2023.5.830-RiftysIPAs.ipa",
+          "size": 85858687
+        },
+        {
+          "version": "2023.5.826",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2023.5.826\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/StickWar_v2023.5.826-RiftysIPAs.ipa",
+          "size": 97255696
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Traffic Rider",
+      "bundleIdentifier": "com.skgames.motor",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "2.0",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 2.0\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/TrafficRider_v2.0-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed\n\n🏷️ Name: Traffic Rider\n⁣\n💉 Free iAP\n⁣\n🆔 Bundle ID: com.skgames.motor\n\n💻 Developer: Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.\n\n⏳ Version: ⁣2.0\n\n⚡️ Tweaked by Rifty",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 130949906,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "application-identifier",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.game-center"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2.0\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/TrafficRider_v2.0-RiftysIPAs.ipa",
+          "size": 130949906
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "Trucker and Trucks",
+      "bundleIdentifier": "com.Poloskun.TruckerAndTrucks",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with CydiaSubstrate, iOSGodsiAPCracker",
+      "version": "1.2",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 1.2\n\nTweaks: CydiaSubstrate, iOSGodsiAPCracker\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/TruckerAndTrucks_v1.2-RiftysIPAs.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, iOSGodsiAPCracker\n\n🏷️ Name: Trucker And Trucks\n⁣\n💉 Free IAP\n⁣\n🆔 Bundle ID: com.Poloskun.TruckerAndTrucks\n\n💻 Developer: Viktor Danilov\n\n⏳ Version: ⁣1.2\n\n⚡️ Made by RiftysIPAs",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 17866546,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.team-identifier",
+          "application-identifier"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 1.2\n\nTweaks: CydiaSubstrate, iOSGodsiAPCracker\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/TruckerAndTrucks_v1.2-RiftysIPAs.ipa",
+          "size": 17866546
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "أندلسي",
+      "bundleIdentifier": "com.AppChief.ArabicArt",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with Andalusi, CachefixPatch",
+      "version": "9.4",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 9.4\n\nTweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Andalusi_Design_Photo_._Video_v9_4_Pro_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\n📱 Andalusi: Design Photo & Video\n\n🆔 Bundle ID: com.AppChief.ArabicArt\n⬆️ Updated to: 9.4\n🔧 Minimum iOS: 15.6\n✅ Patched\n💎 Modifier: Pro Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\n>Reinstall the app if subscription isn't activated.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 165813530,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "9.4",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 9.4\n\nTweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Andalusi_Design_Photo_._Video_v9_4_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 165813530
+        },
+        {
+          "version": "9.4b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 9.4\n\nTweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Andalusi_Design_Photo_._Video_v9_4_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 165813530
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "咔皮Action",
+      "bundleIdentifier": "com.future.kapi",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with KapiCam, blatantsPatch",
+      "version": "3.31.1",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 3.31.1\n\nTweaks: KapiCam, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Kapi_Cam_Y2K_._CCD_Camera_v3_31_1_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: KapiCam, blatantsPatch\n\n📱 Kapi Cam - Y2K & CCD Camera\n\n🆔 Bundle ID: com.future.kapi\n⬆️ Updated to: 3.31.1\n🔧 Minimum iOS: 12.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nJust close the purchase pages if you see any and restart the app.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 172256788,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.31.1",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 3.31.1\n\nTweaks: KapiCam, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Kapi_Cam_Y2K_._CCD_Camera_v3_31_1_Subscription_Unlocked_blatant.ipa",
+          "size": 172256788
+        },
+        {
+          "version": "3.31.1b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 3.31.1\n\nTweaks: KapiCam, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/Kapi_Cam_Y2K_._CCD_Camera_v3_31_1_Subscription_Unlocked_blatant.ipa",
+          "size": 172256788
+        }
+      ]
+    }
+  ],
+  "news": []
+}
