@@ -48,7 +48,7 @@
             position: fixed;
             top: 0;
             left: 0;
-            width: 100%;
+            width: 100vw;
             height: 100%;
             pointer-events: none;
             overflow: hidden;
@@ -156,17 +156,17 @@
             white-space: pre;
             line-height: 1.1;
             margin: 0;
-            height: 120px;
+            min-height: 100px;
             overflow: hidden;
         }
 
         .subtitle {
             color: #FFD700;
-            margin-top: 0.5rem;
+            margin-top: 0.25rem;
             font-family: "Inter", sans-serif;
             text-align: center;
             font-size: 1rem;
-            height: 1.2rem;
+            min-height: 1.2rem;
             line-height: 1.2rem;
         }
 
@@ -208,13 +208,25 @@
 
         .buttons {
             margin-top: 2rem;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
             gap: 1rem;
-            max-width: 900px;
+            max-width: 800px;
             margin-left: auto;
             margin-right: auto;
+            padding: 0 1rem;
+        }
+
+        @media (max-width: 700px) {
+            .buttons {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 500px) {
+            .buttons {
+                grid-template-columns: 1fr;
+            }
         }
 
         .button {
@@ -247,37 +259,13 @@
             flex-shrink: 0;
         }
 
-        .dynamic-icon {
-            transition: opacity 0.5s ease-in-out;
-        }
-
-        .dynamic-icon path {
-            transition: opacity 0.5s ease-in-out;
-        }
-
-        /* Fixed-width text container for AltStore/SideStore toggle */
-        .altstore-text-wrapper {
-            position: relative;
-            width: 120px;
-            /* Wide enough for "Add to SideStore" */
-            height: 1em;
-            display: inline-flex;
-            align-items: center;
-        }
-
-        .altstore-text-wrapper span {
-            position: absolute;
-            left: 0;
-            white-space: nowrap;
-            transition: opacity 0.4s ease-in-out;
-        }
-
-        .altstore-text-wrapper span.hidden {
-            opacity: 0;
-        }
 
         .altstore {
             background: #007AFF;
+        }
+
+        .sidestore {
+            background: #9B59B6;
         }
 
         .esign {
@@ -404,27 +392,26 @@
             <nav class="buttons" id="buttons" aria-label="App store sources">
                 <a class="button altstore"
                     href="altstore://source?url=https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/store.json"
-                    aria-label="Add TELOS source to AltStore or SideStore">
-                    <svg id="dynamic-icon" class="dynamic-icon" viewBox="0 0 24 24" fill="currentColor"
-                        aria-hidden="true">
-                        <path id="altstore-logo"
+                    aria-label="Add TELOS source to AltStore">
+                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                        <path
                             d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47c-1.34.03-1.77-.79-3.29-.79c-1.53 0-2 .77-3.27.82c-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51c1.28-.02 2.5.87 3.29.87c.78 0 2.26-1.07 3.81-.91c.65.03 2.47.26 3.64 1.98c-.09.06-2.17 1.28-2.15 3.81c.03 3.02 2.65 4.03 2.68 4.04c-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5c.13 1.17-.34 2.35-1.04 3.19c-.69.85-1.83 1.51-2.95 1.42c-.15-1.15.41-2.35 1.05-3.11" />
-                        <g transform="translate(1,1) scale(1.1)">
-                            <path id="sidestore-logo"
-                                d="M18 9c0-0.584-0.473-1.058-1.058-1.058H4.235c-0.584 0-1.058 0.474-1.058 1.058 0 0.584 0.474 1.058 1.058 1.058h12.706c0.585 0 1.058-0.474 1.058-1.058z"
-                                style="display: none;" />
-                            <path id="sidestore-logo-2"
-                                d="M10.058 3.177v0.529c0 0.842-0.334 1.65-0.93 2.245a3.179 3.179 0 0 1-2.246 0.93H4.235c-0.561 0-1.1 0.223-1.497 0.62a2.116 2.116 0 0 0-0.62 1.497c0 0.561 0.223 1.1 0.62 1.497a2.116 2.116 0 0 0 1.497 0.62h2.647c0.842 0 1.65 0.334 2.246 0.93a3.179 3.179 0 0 1 0.93 2.246V17.64a0.36 0.36 0 0 1-0.36 0.36H8.647a0.36 0.36 0 0 1-0.36-0.36v-3.347a1.059 1.059 0 0 0-1.058-1.058H4.235a4.237 4.237 0 0 1-2.995-1.24 4.237 4.237 0 0 1 0-5.992 4.237 4.237 0 0 1 2.995-1.24h2.647a1.059 1.059 0 0 0 1.058-1.058v-0.529H6.882L9 0l2.117 3.177H10.058z"
-                                style="display: none;" />
-                            <path id="sidestore-logo-3"
-                                d="M13.235 17.64a0.36 0.36 0 0 1-0.36 0.36H11.118a0.36 0.36 0 0 1-0.36-0.36v-6.163a0.36 0.36 0 0 1 0.36-0.36h1.647a0.36 0.36 0 0 1 0.36 0.36V17.64z"
-                                style="display: none;" />
-                        </g>
                     </svg>
-                    <span class="altstore-text-wrapper">
-                        <span id="altstore-text">Add to AltStore</span>
-                        <span id="sidestore-text" class="hidden">Add to SideStore</span>
-                    </span>
+                    Add to AltStore
+                </a>
+
+                <a class="button sidestore"
+                    href="sidestore://source?url=https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/store.json"
+                    aria-label="Add TELOS source to SideStore">
+                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                        <path
+                            d="M18 9c0-0.584-0.473-1.058-1.058-1.058H4.235c-0.584 0-1.058 0.474-1.058 1.058 0 0.584 0.474 1.058 1.058 1.058h12.706c0.585 0 1.058-0.474 1.058-1.058z" />
+                        <path
+                            d="M10.058 3.177v0.529c0 0.842-0.334 1.65-0.93 2.245a3.179 3.179 0 0 1-2.246 0.93H4.235c-0.561 0-1.1 0.223-1.497 0.62a2.116 2.116 0 0 0-0.62 1.497c0 0.561 0.223 1.1 0.62 1.497a2.116 2.116 0 0 0 1.497 0.62h2.647c0.842 0 1.65 0.334 2.246 0.93a3.179 3.179 0 0 1 0.93 2.246V17.64a0.36 0.36 0 0 1-0.36 0.36H8.647a0.36 0.36 0 0 1-0.36-0.36v-3.347a1.059 1.059 0 0 0-1.058-1.058H4.235a4.237 4.237 0 0 1-2.995-1.24 4.237 4.237 0 0 1 0-5.992 4.237 4.237 0 0 1 2.995-1.24h2.647a1.059 1.059 0 0 0 1.058-1.058v-0.529H6.882L9 0l2.117 3.177H10.058z" />
+                        <path
+                            d="M13.235 17.64a0.36 0.36 0 0 1-0.36 0.36H11.118a0.36 0.36 0 0 1-0.36-0.36v-6.163a0.36 0.36 0 0 1 0.36-0.36h1.647a0.36 0.36 0 0 1 0.36 0.36V17.64z" />
+                    </svg>
+                    Add to SideStore
                 </a>
 
                 <a class="button feather"
@@ -523,57 +510,8 @@
         const carousel = document.getElementById("carousel");
         const carouselItems = document.querySelectorAll(".carousel-item");
 
-        const altText = document.getElementById("altstore-text");
-        const sideText = document.getElementById("sidestore-text");
-        const altstoreLogo = document.getElementById("altstore-logo");
-        const sidestoreLogo1 = document.getElementById("sidestore-logo");
-        const sidestoreLogo2 = document.getElementById("sidestore-logo-2");
-        const sidestoreLogo3 = document.getElementById("sidestore-logo-3");
-        const dynamicIcon = document.getElementById("dynamic-icon");
-        let isAltStore = true;
-
         // Check for reduced motion preference
         const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-
-        // AltStore/SideStore toggle animation
-        setInterval(() => {
-            if (isAltStore) {
-                // Fade icon
-                if (!prefersReducedMotion) {
-                    dynamicIcon.style.opacity = "0";
-                }
-                setTimeout(() => {
-                    // Switch to SideStore
-                    altText.classList.add("hidden");
-                    sideText.classList.remove("hidden");
-                    altstoreLogo.style.display = "none";
-                    sidestoreLogo1.style.display = "block";
-                    sidestoreLogo2.style.display = "block";
-                    sidestoreLogo3.style.display = "block";
-                    if (!prefersReducedMotion) {
-                        dynamicIcon.style.opacity = "1";
-                    }
-                }, prefersReducedMotion ? 0 : 250);
-            } else {
-                // Fade icon
-                if (!prefersReducedMotion) {
-                    dynamicIcon.style.opacity = "0";
-                }
-                setTimeout(() => {
-                    // Switch to AltStore
-                    altText.classList.remove("hidden");
-                    sideText.classList.add("hidden");
-                    altstoreLogo.style.display = "block";
-                    sidestoreLogo1.style.display = "none";
-                    sidestoreLogo2.style.display = "none";
-                    sidestoreLogo3.style.display = "none";
-                    if (!prefersReducedMotion) {
-                        dynamicIcon.style.opacity = "1";
-                    }
-                }, prefersReducedMotion ? 0 : 250);
-            }
-            isAltStore = !isAltStore;
-        }, 3000);
 
         let line = 0, pos = 0, buffer = "";
         const subtitleText = "Telegram External Loader & Orchestrator System";
