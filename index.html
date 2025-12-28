@@ -28,6 +28,7 @@
 
         html {
             scroll-behavior: smooth;
+            overflow-x: hidden;
         }
 
         body {
@@ -48,8 +49,8 @@
             position: fixed;
             top: 0;
             left: 0;
-            width: 100vw;
-            height: 100%;
+            right: 0;
+            bottom: 0;
             pointer-events: none;
             overflow: hidden;
             z-index: 0;
@@ -393,7 +394,7 @@
                 <a class="button altstore"
                     href="altstore://source?url=https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/store.json"
                     aria-label="Add TELOS source to AltStore">
-                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                    <svg viewBox="3 2 18 20" fill="currentColor" aria-hidden="true">
                         <path
                             d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47c-1.34.03-1.77-.79-3.29-.79c-1.53 0-2 .77-3.27.82c-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51c1.28-.02 2.5.87 3.29.87c.78 0 2.26-1.07 3.81-.91c.65.03 2.47.26 3.64 1.98c-.09.06-2.17 1.28-2.15 3.81c.03 3.02 2.65 4.03 2.68 4.04c-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5c.13 1.17-.34 2.35-1.04 3.19c-.69.85-1.83 1.51-2.95 1.42c-.15-1.15.41-2.35 1.05-3.11" />
                     </svg>
@@ -403,7 +404,7 @@
                 <a class="button sidestore"
                     href="sidestore://source?url=https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/store.json"
                     aria-label="Add TELOS source to SideStore">
-                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                    <svg viewBox="1 0 16 18" fill="currentColor" aria-hidden="true">
                         <path
                             d="M18 9c0-0.584-0.473-1.058-1.058-1.058H4.235c-0.584 0-1.058 0.474-1.058 1.058 0 0.584 0.474 1.058 1.058 1.058h12.706c0.585 0 1.058-0.474 1.058-1.058z" />
                         <path
@@ -417,7 +418,7 @@
                 <a class="button feather"
                     href="feather://source/https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/feather.json"
                     aria-label="Add TELOS source to Feather">
-                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                    <svg viewBox="0 1 24 23" fill="currentColor" aria-hidden="true">
                         <path
                             d="M22 2s-7.64-.37-13.66 5.66c-3.57 3.57-4.06 8.19-3.82 11.68.01.18.06.36.11.53l-2.63 2.63 1.5 1.5 2.63-2.63c.17.05.35.1.53.11 3.49.24 8.11-.25 11.68-3.82C24.37 11.64 22 4 22 4zm-6.93 9.07L12 8l-3.07 3.07c-.39-.39-.38-1.03.02-1.43l4.14-4.14c.86-.86 2.25-.91 3.15-.18.9.73.94 2.12.1 2.96l-1.28 1.28c-.4.4-1.04.41-1.43.02z" />
                     </svg>
