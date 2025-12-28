@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "tech.miidii.MDClock",
+    "com.myfitnesspal.mfp",
     "com.TickTick.task",
     "co.detail.duo",
-    "com.jakemor.firness-ai",
-    "co.bergen.Darkroom",
-    "com.getupnote.ios"
+    "com.jakemor.firness-ai"
   ],
   "apps": [
     {
@@ -1048,6 +1048,42 @@
     },
     {
       "beta": false,
+      "name": "MD Clock",
+      "bundleIdentifier": "tech.miidii.MDClock",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with MDClock, blatantsPatch",
+      "version": "2.62.1",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 2.62.1\n\nTweaks: MDClock, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MD.Clock.-.Flip.Clock.v2.62.1.Pro.Unlocked.blatant.Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MDClock, blatantsPatch\n\n📱 MD Clock - Flip Clock\n\n🆔 Bundle ID: tech.miidii.MDClock\n⬆️ Updated to: 2.62.1\n🔧 Minimum iOS: 15.0\n✅ Patched\n💎 Modifier: Pro Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 280678916,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.62.1",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2.62.1\n\nTweaks: MDClock, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MD.Clock.-.Flip.Clock.v2.62.1.Pro.Unlocked.blatant.Patched.ipa",
+          "size": 280678916
+        },
+        {
+          "version": "2.62.1b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 2.62.1\n\nTweaks: MDClock, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MD.Clock.-.Flip.Clock.v2.62.1.Pro.Unlocked.blatant.Patched.ipa",
+          "size": 280678916
+        }
+      ]
+    },
+    {
+      "beta": false,
       "name": "MobileScanner",
       "bundleIdentifier": "com.glority.everlens",
       "developerName": "Xiseous",
@@ -1197,6 +1233,49 @@
           "localizedDescription": "Version: 1.18.0\n\nTweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MyPerfectHotel_v1.18.0-RiftysIPAs.ipa",
           "size": 177250131
+        }
+      ]
+    },
+    {
+      "beta": false,
+      "name": "MyFitnessPal",
+      "bundleIdentifier": "com.myfitnesspal.mfp",
+      "developerName": "Xiseous",
+      "subtitle": "Tweaked with MyFitnessPal, blatantsPatch",
+      "version": "25.47.1",
+      "versionDate": "2025-12-28",
+      "versionDescription": "Version: 25.47.1\n\nTweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MyFitnessPal_Calorie_Counter_v25_47_1_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\n📱 MyFitnessPal: Calorie Counter\n\n🆔 Bundle ID: com.myfitnesspal.mfp\n⬆️ Updated to: 25.47.1\n🔧 Minimum iOS: 17.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+      "iconURL": "",
+      "tintColor": "#00BFA6",
+      "size": 134921448,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit",
+          "com.apple.security.application-groups",
+          "keychain-access-groups"
+        ],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "25.47.1",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 25.47.1\n\nTweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MyFitnessPal_Calorie_Counter_v25_47_1_Subscription_Unlocked_blatant.ipa",
+          "size": 134921448
+        },
+        {
+          "version": "25.47.1b",
+          "date": "2025-12-28",
+          "localizedDescription": "Version: 25.47.1\n\nTweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/MyFitnessPal_Calorie_Counter_v25_47_1_Subscription_Unlocked_blatant.ipa",
+          "size": 134921448
         }
       ]
     },
@@ -1911,13 +1990,6 @@
       "versions": [
         {
           "version": "7.8.23",
-          "date": "2025-12-28",
-          "localizedDescription": "Version: 7.8.23\n\nTweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/TickTick_To_Do_List_._Calendar_v7_8_23_Subscription_Unlocked_blatant.ipa",
-          "size": 96507822
-        },
-        {
-          "version": "7.8.23b",
           "date": "2025-12-28",
           "localizedDescription": "Version: 7.8.23\n\nTweaks: Ticktick, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-86726b668d4ca2d58439/TickTick_To_Do_List_._Calendar_v7_8_23_Subscription_Unlocked_blatant.ipa",
