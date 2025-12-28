@@ -1,340 +1,674 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>TELOS – Telegram External Loader & Orchestrator System</title>
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 640'><path fill='%2300BFA6' d='M415.9 274.5C428.1 271.2 440.9 277 446.4 288.3L465 325.9C475.3 327.3 485.4 330.1 494.9 334L529.9 310.7C540.4 303.7 554.3 305.1 563.2 314L582.4 333.2C591.3 342.1 592.7 356.1 585.7 366.5L562.4 401.4C564.3 406.1 566 411 567.4 416.1C568.8 421.2 569.7 426.2 570.4 431.3L608.1 449.9C619.4 455.5 625.2 468.3 621.9 480.4L614.9 506.6C611.6 518.7 600.3 526.9 587.7 526.1L545.7 523.4C539.4 531.5 532.1 539 523.8 545.4L526.5 587.3C527.3 599.9 519.1 611.3 507 614.5L480.8 621.5C468.6 624.8 455.9 619 450.3 607.7L431.7 570.1C421.4 568.7 411.3 565.9 401.8 562L366.8 585.3C356.3 592.3 342.4 590.9 333.5 582L314.3 562.8C305.4 553.9 304 540 311 529.5L334.3 494.5C332.4 489.8 330.7 484.9 329.3 479.8C327.9 474.7 327 469.6 326.3 464.6L288.6 446C277.3 440.4 271.6 427.6 274.8 415.5L281.8 389.3C285.1 377.2 296.4 369 309 369.8L350.9 372.5C357.2 364.4 364.5 356.9 372.8 350.5L370.1 308.7C369.3 296.1 377.5 284.7 389.6 281.5L415.8 274.5z'/><path fill='%23FFD700' d='M224.9 18.5L251.1 25.5C263.2 28.8 271.4 40.2 270.6 52.7L267.9 94.5C276.2 100.9 283.5 108.3 289.8 116.5L331.8 113.8C344.3 113 355.7 121.2 359 133.3L366 159.5C369.2 171.6 363.5 184.4 352.2 190L314.5 208.6C313.8 213.7 312.8 218.8 311.5 223.8C310.2 228.8 308.4 233.8 306.5 238.5L329.8 273.5C336.8 284 335.4 297.9 326.5 306.8L307.3 326C298.4 334.9 284.5 336.3 274 329.3L239 306C229.5 309.9 219.4 312.7 209.1 314.1L190.5 351.7C184.9 363 172.1 368.7 160 365.5L133.8 358.5C121.6 355.2 113.5 343.8 114.3 331.3L117 289.4C108.7 283 101.4 275.6 95.1 267.4L53.1 270.1C40.6 270.9 29.2 262.7 25.9 250.6L18.9 224.4C15.7 212.3 21.4 199.5 32.7 193.9L70.4 175.3C71.1 170.2 72.1 165.2 73.4 160.1C74.8 155 76.4 150.1 78.4 145.4L55.1 110.5C48.1 100 49.5 86.1 58.4 77.2L77.6 58C86.5 49.1 100.4 47.7 110.9 54.7L145.9 78C155.4 74.1 165.5 71.3 175.8 69.9L194.4 32.3C200 21 212.7 15.3 224.9 18.5z'/></svg>" />
-<style>
-body {
-background-color: #0E1117;
-color: #E0E0E0;
-font-family: "JetBrains Mono", monospace;
-text-align: center;
-margin: 0;
-padding: 0;
-}
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description"
+        content="TELOS connects Telegram, Docker, and Git into a single orchestrated system. Secure private channel access, multi-source scanning, and automatic sideload manifest publishing for iOS platforms." />
+    <title>TELOS – Telegram External Loader & Orchestrator System</title>
+    <link rel="icon" type="image/svg+xml"
+        href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 640'%3E%3Cpath fill='%2300BFA6' d='M415.9 274.5C428.1 271.2 440.9 277 446.4 288.3L465 325.9C475.3 327.3 485.4 330.1 494.9 334L529.9 310.7C540.4 303.7 554.3 305.1 563.2 314L582.4 333.2C591.3 342.1 592.7 356.1 585.7 366.5L562.4 401.4C564.3 406.1 566 411 567.4 416.1C568.8 421.2 569.7 426.2 570.4 431.3L608.1 449.9C619.4 455.5 625.2 468.3 621.9 480.4L614.9 506.6C611.6 518.7 600.3 526.9 587.7 526.1L545.7 523.4C539.4 531.5 532.1 539 523.8 545.4L526.5 587.3C527.3 599.9 519.1 611.3 507 614.5L480.8 621.5C468.6 624.8 455.9 619 450.3 607.7L431.7 570.1C421.4 568.7 411.3 565.9 401.8 562L366.8 585.3C356.3 592.3 342.4 590.9 333.5 582L314.3 562.8C305.4 553.9 304 540 311 529.5L334.3 494.5C332.4 489.8 330.7 484.9 329.3 479.8C327.9 474.7 327 469.6 326.3 464.6L288.6 446C277.3 440.4 271.6 427.6 274.8 415.5L281.8 389.3C285.1 377.2 296.4 369 309 369.8L350.9 372.5C357.2 364.4 364.5 356.9 372.8 350.5L370.1 308.7C369.3 296.1 377.5 284.7 389.6 281.5L415.8 274.5z'/%3E%3Cpath fill='%23FFD700' d='M224.9 18.5L251.1 25.5C263.2 28.8 271.4 40.2 270.6 52.7L267.9 94.5C276.2 100.9 283.5 108.3 289.8 116.5L331.8 113.8C344.3 113 355.7 121.2 359 133.3L366 159.5C369.2 171.6 363.5 184.4 352.2 190L314.5 208.6C313.8 213.7 312.8 218.8 311.5 223.8C310.2 228.8 308.4 233.8 306.5 238.5L329.8 273.5C336.8 284 335.4 297.9 326.5 306.8L307.3 326C298.4 334.9 284.5 336.3 274 329.3L239 306C229.5 309.9 219.4 312.7 209.1 314.1L190.5 351.7C184.9 363 172.1 368.7 160 365.5L133.8 358.5C121.6 355.2 113.5 343.8 114.3 331.3L117 289.4C108.7 283 101.4 275.6 95.1 267.4L53.1 270.1C40.6 270.9 29.2 262.7 25.9 250.6L18.9 224.4C15.7 212.3 21.4 199.5 32.7 193.9L70.4 175.3C71.1 170.2 72.1 165.2 73.4 160.1C74.8 155 76.4 150.1 78.4 145.4L55.1 110.5C48.1 100 49.5 86.1 58.4 77.2L77.6 58C86.5 49.1 100.4 47.7 110.9 54.7L145.9 78C155.4 74.1 165.5 71.3 175.8 69.9L194.4 32.3C200 21 212.7 15.3 224.9 18.5z'/%3E%3C/svg%3E" />
 
-header {
-padding-top: 2rem;
-}
+    <!-- Preload critical fonts -->
+    <link rel="preload"
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=JetBrains+Mono&display=swap"
+        as="style">
 
-.logo-container {
-display: flex;
-justify-content: center;
-align-items: center;
-flex-direction: column;
-min-height: 120px;
-margin-bottom: 1rem;
-}
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=JetBrains+Mono&display=swap"
+        rel="stylesheet">
 
-pre {
-text-align: left;
-color: #00BFA6;
-font-size: 0.8rem;
-white-space: pre;
-line-height: 1.1;
-margin: 0;
-height: 120px;
-overflow: hidden;
-}
+    <style>
+        * {
+            box-sizing: border-box;
+        }
 
-.subtitle {
-color: #FFD700;
-margin-top: 0.5rem;
-font-family: "Inter", sans-serif;
-text-align: center;
-font-size: 1rem;
-height: 1.2rem;
-line-height: 1.2rem;
-}
+        html {
+            scroll-behavior: smooth;
+        }
 
-section {
-max-width: 800px;
-margin: 2rem auto;
-line-height: 1.6;
-font-family: "Inter", sans-serif;
-}
+        body {
+            background: linear-gradient(135deg, #0E1117 0%, #1a1f2e 50%, #0E1117 100%);
+            background-attachment: fixed;
+            color: #E0E0E0;
+            font-family: "JetBrains Mono", monospace;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            position: relative;
+            overflow-x: hidden;
+        }
 
-.carousel {
-position: relative;
-margin: 2rem auto;
-height: 3rem;
-overflow: hidden;
-display: flex;
-justify-content: center;
-align-items: center;
-opacity: 0;
-transition: opacity 0.8s ease-in-out;
-}
+        /* Animated background particles */
+        .particles {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            overflow: hidden;
+            z-index: 0;
+        }
 
-.carousel.visible {
-opacity: 1;
-}
+        .particle {
+            position: absolute;
+            width: 4px;
+            height: 4px;
+            background: radial-gradient(circle, rgba(0, 191, 166, 0.6) 0%, transparent 70%);
+            border-radius: 50%;
+            animation: float 15s infinite ease-in-out;
+        }
 
-.carousel-item {
-position: absolute;
-opacity: 0;
-transition: opacity 0.8s ease-in-out;
-color: #00BFA6;
-font-family: "Inter", sans-serif;
-}
+        .particle:nth-child(odd) {
+            background: radial-gradient(circle, rgba(255, 215, 0, 0.4) 0%, transparent 70%);
+        }
 
-.carousel-item.active {
-opacity: 1;
-}
+        @keyframes float {
 
-.buttons {
-margin-top: 2rem;
-display: flex;
-flex-wrap: wrap;
-justify-content: center;
-gap: 1rem;
-max-width: 900px;
-margin-left: auto;
-margin-right: auto;
-}
+            0%,
+            100% {
+                transform: translateY(100vh) translateX(0) scale(0);
+                opacity: 0;
+            }
 
-.button {
-display: inline-flex;
-align-items: center;
-justify-content: center;
-gap: 0.75rem;
-padding: 1rem 2rem;
-border-radius: 10px;
-text-decoration: none;
-font-weight: 600;
-color: #ffffff;
-opacity: 0;
-transform: translateY(10px);
-transition: opacity 0.6s ease, transform 0.6s ease;
-min-width: 220px;
-text-align: center;
-white-space: nowrap;
-}
+            10% {
+                opacity: 1;
+                transform: translateY(90vh) translateX(10px) scale(1);
+            }
 
-.button.visible {
-opacity: 1;
-transform: translateY(0);
-transition: opacity 0.35s ease, transform 0.35s ease;
-}
+            90% {
+                opacity: 1;
+                transform: translateY(10vh) translateX(-10px) scale(1);
+            }
 
-.button svg {
-width: 24px;
-height: 24px;
-vertical-align: middle;
-}
+            100% {
+                transform: translateY(0) translateX(0) scale(0);
+                opacity: 0;
+            }
+        }
 
-.dynamic-icon {
-transition: opacity 0.5s ease-in-out;
-}
+        /* Subtle glow behind main content */
+        main {
+            position: relative;
+            z-index: 1;
+        }
 
-.dynamic-icon path {
-transition: opacity 0.5s ease-in-out;
-}
+        main::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(0, 191, 166, 0.08) 0%, transparent 70%);
+            pointer-events: none;
+            z-index: -1;
+        }
 
-.altstore { background: #007AFF; }
-.esign { background: #6C63FF; }
-.scarlet { background: #FF3B30; }
-.krava { background: #34C759; }
-.feather { background: #FFA500; }
-.telegram { background: #229ED9; }
-.wiki { background: #2D333B; }
-.github { background: #24292E; }
+        /* Skip link for accessibility */
+        .skip-link {
+            position: absolute;
+            top: -100px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #00BFA6;
+            color: #0E1117;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0 0 8px 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-family: "Inter", sans-serif;
+            z-index: 1000;
+            transition: top 0.3s ease;
+        }
 
-.button:hover {
-filter: brightness(1.2);
-box-shadow: 0 0 10px rgba(255,255,255,0.4);
-transform: translateY(-2px);
-}
+        .skip-link:focus {
+            top: 0;
+            outline: 2px solid #FFD700;
+            outline-offset: 2px;
+        }
 
-footer {
-padding: 1rem;
-color: #888;
-font-size: 0.9rem;
-}
-</style>
+        header {
+            padding-top: 2rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        .logo-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            min-height: 120px;
+            margin-bottom: 1rem;
+        }
+
+        pre {
+            text-align: left;
+            color: #00BFA6;
+            font-size: 0.8rem;
+            white-space: pre;
+            line-height: 1.1;
+            margin: 0;
+            height: 120px;
+            overflow: hidden;
+        }
+
+        .subtitle {
+            color: #FFD700;
+            margin-top: 0.5rem;
+            font-family: "Inter", sans-serif;
+            text-align: center;
+            font-size: 1rem;
+            height: 1.2rem;
+            line-height: 1.2rem;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+            line-height: 1.6;
+            font-family: "Inter", sans-serif;
+        }
+
+        .carousel {
+            position: relative;
+            margin: 2rem auto;
+            height: 3rem;
+            overflow: hidden;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            opacity: 0;
+            transition: opacity 0.8s ease-in-out;
+        }
+
+        .carousel.visible {
+            opacity: 1;
+        }
+
+        .carousel-item {
+            position: absolute;
+            opacity: 0;
+            transition: opacity 0.8s ease-in-out;
+            color: #00BFA6;
+            font-family: "Inter", sans-serif;
+        }
+
+        .carousel-item.active {
+            opacity: 1;
+        }
+
+        .buttons {
+            margin-top: 2rem;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 1rem;
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .button {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.75rem;
+            padding: 1rem 2rem;
+            border-radius: 10px;
+            text-decoration: none;
+            font-weight: 600;
+            color: #ffffff;
+            opacity: 0;
+            transform: translateY(10px);
+            transition: opacity 0.6s ease, transform 0.6s ease, filter 0.3s ease, box-shadow 0.3s ease;
+            min-width: 220px;
+            text-align: center;
+            white-space: nowrap;
+        }
+
+        .button.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .button svg {
+            width: 24px;
+            height: 24px;
+            vertical-align: middle;
+            flex-shrink: 0;
+        }
+
+        .dynamic-icon {
+            transition: opacity 0.5s ease-in-out;
+        }
+
+        .dynamic-icon path {
+            transition: opacity 0.5s ease-in-out;
+        }
+
+        /* Fixed-width text container for AltStore/SideStore toggle */
+        .altstore-text-wrapper {
+            position: relative;
+            width: 120px;
+            /* Wide enough for "Add to SideStore" */
+            height: 1em;
+            display: inline-flex;
+            align-items: center;
+        }
+
+        .altstore-text-wrapper span {
+            position: absolute;
+            left: 0;
+            white-space: nowrap;
+            transition: opacity 0.4s ease-in-out;
+        }
+
+        .altstore-text-wrapper span.hidden {
+            opacity: 0;
+        }
+
+        .altstore {
+            background: #007AFF;
+        }
+
+        .esign {
+            background: #6C63FF;
+        }
+
+        .scarlet {
+            background: #FF3B30;
+        }
+
+        .krava {
+            background: #34C759;
+        }
+
+        .feather {
+            background: #FFA500;
+        }
+
+        .telegram {
+            background: #229ED9;
+        }
+
+        .wiki {
+            background: #2D333B;
+        }
+
+        .github {
+            background: #24292E;
+        }
+
+        /* Hover effects only for devices that support hover */
+        @media (hover: hover) {
+            .button.visible:hover {
+                filter: brightness(1.2);
+                box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
+                transform: translateY(-2px);
+            }
+        }
+
+        /* Touch/tap feedback for mobile */
+        .button:active {
+            filter: brightness(1.1);
+            transform: scale(0.98);
+        }
+
+        footer {
+            padding: 1rem;
+            color: #888;
+            font-size: 0.9rem;
+            font-family: "Inter", sans-serif;
+        }
+
+        /* Accessibility: Reduced motion support */
+        @media (prefers-reduced-motion: reduce) {
+
+            *,
+            *::before,
+            *::after {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+            }
+
+            .button {
+                opacity: 1;
+                transform: none;
+            }
+
+            .carousel {
+                opacity: 1;
+            }
+        }
+
+        /* Responsive adjustments */
+        @media (max-width: 600px) {
+            pre {
+                font-size: 0.5rem;
+            }
+
+            .button {
+                min-width: 180px;
+                padding: 0.8rem 1.5rem;
+                font-size: 0.9rem;
+            }
+        }
+    </style>
 </head>
+
 <body>
-<header>
-<div class="logo-container">
-<pre id="ascii"></pre>
-<div class="subtitle" id="subtitle"></div>
-</div>
-</header>
+    <!-- Skip link for keyboard accessibility -->
+    <a href="#main-content" class="skip-link">Skip to main content</a>
 
-<section>
-<p><strong>TELOS</strong> connects Telegram, Docker, and Git into a single orchestrated system.<br>
-Secure private channel access, multi-source scanning, and automatic sideload manifest publishing for iOS platforms.</p>
-<p>Built on <strong>TDLib</strong>, <strong>Python 3.11</strong>, and <strong>Docker</strong> — designed for automation and reliability.</p>
+    <!-- Floating particles background -->
+    <div class="particles" aria-hidden="true" id="particles"></div>
 
-<div class="carousel" id="carousel">
-<div class="carousel-item active">💾 Secure file handling with Docker containers</div>
-<div class="carousel-item">⚡ Powered by Telegram's official TDLib for performance</div>
-<div class="carousel-item">🔒 Keeps private and public files separated intelligently</div>
-<div class="carousel-item">🧩 Generates JSON manifests for AltStore, ESign, Scarlet, and more</div>
-<div class="carousel-item">🛰️ Multi-channel scanning with source attribution</div>
-</div>
+    <header>
+        <div class="logo-container">
+            <pre id="ascii" aria-label="TELOS ASCII Art Logo"></pre>
+            <div class="subtitle" id="subtitle" aria-live="polite"></div>
+        </div>
+    </header>
 
-<div class="buttons" id="buttons">
-<a class="button altstore" href="altstore://source?url=https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/store.json">
-<svg id="dynamic-icon" class="dynamic-icon" viewBox="0 0 24 24" fill="currentColor">
-<path id="altstore-logo" d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47c-1.34.03-1.77-.79-3.29-.79c-1.53 0-2 .77-3.27.82c-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51c1.28-.02 2.5.87 3.29.87c.78 0 2.26-1.07 3.81-.91c.65.03 2.47.26 3.64 1.98c-.09.06-2.17 1.28-2.15 3.81c.03 3.02 2.65 4.03 2.68 4.04c-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5c.13 1.17-.34 2.35-1.04 3.19c-.69.85-1.83 1.51-2.95 1.42c-.15-1.15.41-2.35 1.05-3.11"/>
-<g viewBox="0 0 20 20" transform="translate(2,2)">
-<path id="sidestore-logo" d="M18 9c0-0.584-0.473-1.058-1.058-1.058H4.235c-0.584 0-1.058 0.474-1.058 1.058 0 0.584 0.474 1.058 1.058 1.058h12.706c0.585 0 1.058-0.474 1.058-1.058z" style="display: none;"/>
-<path id="sidestore-logo-2" d="M10.058 3.177v0.529c0 0.842-0.334 1.65-0.93 2.245a3.179 3.179 0 0 1-2.246 0.93H4.235c-0.561 0-1.1 0.223-1.497 0.62a2.116 2.116 0 0 0-0.62 1.497c0 0.561 0.223 1.1 0.62 1.497a2.116 2.116 0 0 0 1.497 0.62h2.647c0.842 0 1.65 0.334 2.246 0.93a3.179 3.179 0 0 1 0.93 2.246V17.64a0.36 0.36 0 0 1-0.36 0.36H8.647a0.36 0.36 0 0 1-0.36-0.36v-3.347a1.059 1.059 0 0 0-1.058-1.058H4.235a4.237 4.237 0 0 1-2.995-1.24 4.237 4.237 0 0 1 0-5.992 4.237 4.237 0 0 1 2.995-1.24h2.647a1.059 1.059 0 0 0 1.058-1.058v-0.529H6.882L9 0l2.117 3.177H10.058z" style="display: none;"/>
-<path id="sidestore-logo-3" d="M13.235 17.64a0.36 0.36 0 0 1-0.36 0.36H11.118a0.36 0.36 0 0 1-0.36-0.36v-6.163a0.36 0.36 0 0 1 0.36-0.36h1.647a0.36 0.36 0 0 1 0.36 0.36V17.64z" style="display: none;"/>
-</g>
-</svg><span id="altstore-text">Add to AltStore</span>
-</a>
+    <main id="main-content">
+        <section>
+            <p><strong>TELOS</strong> connects Telegram, Docker, and Git into a single orchestrated system.<br>
+                Secure private channel access, multi-source scanning, and automatic sideload manifest publishing for iOS
+                platforms.</p>
+            <p>Built on <strong>TDLib</strong>, <strong>Python 3.11</strong>, and <strong>Docker</strong> — designed for
+                automation and reliability.</p>
 
-<a class="button feather" href="feather://source/https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/feather.json">
-<svg viewBox="0 0 24 24" fill="currentColor">
-<path d="M16.56 0.71L12.97 1.75l1.46-0.99c-0.92 0.21-2.09 0.62-3.55 1.28l-2.39 2.49L8.9 2.78c-0.82 0.46-1.69 1.05-2.52 1.75l-0.56 2.26-0.12-1.67c-0.83 0.76-1.6 1.6-2.25 2.49c-0.68 0.93-1.2 1.92-1.47 2.9l-0.99-0.66c0.09 0.83 0.36 1.56 0.81 2.22l-1.18-0.36c0.27 0.83 0.71 1.36 1.45 1.79c-0.42 1.17-0.61 2.39-0.82 3.61l0.65 0.11C3.07 9.76 8.37 4.99 13.15 2.88l0.24 0.61C5.89 5.76 2.37 10.17 0 16.82c0.64 0 1.27-0.07 1.85-0.22l0.17-2.14 0.46 1.95c0.38-0.14 0.73-0.31 1.05-0.51l-0.73-1.53 1.15 1.22c0.28-0.22 0.51-0.48 0.69-0.76c1.07-1.67 2.19-3.33 4.39-4.71l-1.61-0.57 2.46 0.07c0.4-0.2 0.82-0.45 1.14-0.69l-1.75-0.14 2.63-0.62c0.2-0.2 0.39-0.42 0.57-0.63c0.61-0.77 1.02-1.57 0.92-2.3c-0.05-0.36-0.26-0.71-0.62-0.9c-0.09-0.05-0.18-0.09-0.26-0.11z"/>
-</svg>Add to Feather
-</a>
+            <div class="carousel" id="carousel" aria-label="Feature highlights">
+                <div class="carousel-item active" role="group" aria-roledescription="slide">💾 Secure file handling with
+                    Docker containers</div>
+                <div class="carousel-item" role="group" aria-roledescription="slide">⚡ Powered by Telegram's official
+                    TDLib for performance</div>
+                <div class="carousel-item" role="group" aria-roledescription="slide">🔒 Keeps private and public files
+                    separated intelligently</div>
+                <div class="carousel-item" role="group" aria-roledescription="slide">🧩 Generates JSON manifests for
+                    AltStore, ESign, Scarlet, and more</div>
+                <div class="carousel-item" role="group" aria-roledescription="slide">🛰️ Multi-channel scanning with
+                    source attribution</div>
+            </div>
 
-<a class="button esign" href="esign://addsource?url=https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/esign.json">
-<svg viewBox="0 0 32 32" fill="currentColor">
-<path d="M19.7 12.9L14 18.6h-2.3v-2.3l5.7-5.7zm3.4-.8c0 .3-.3.6-.6.9L20 15.5l-.9-.9l2.6-2.6l-.6-.6l-.7.7l-2.3-2.3l2.2-2.1c.2-.2.6-.2.9 0l1.4 1.4c.2.2.2.6 0 .9c-.2.2-.4.4-.4.6s.2.4.4.6c.3.3.6.6.5.9M3 20V4h7v5h5v1.5l2-2V8l-6-6H3c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2zm8-2.9c-.2 0-.4.1-.5.1L10 15H8.5l-2.1 1.7L7 14H5.5l-1 5H6l2.9-2.6l.6 2.3h1l.5-.1z"/>
-</svg>Add to ESign
-</a>
+            <nav class="buttons" id="buttons" aria-label="App store sources">
+                <a class="button altstore"
+                    href="altstore://source?url=https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/store.json"
+                    aria-label="Add TELOS source to AltStore or SideStore">
+                    <svg id="dynamic-icon" class="dynamic-icon" viewBox="0 0 24 24" fill="currentColor"
+                        aria-hidden="true">
+                        <path id="altstore-logo"
+                            d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47c-1.34.03-1.77-.79-3.29-.79c-1.53 0-2 .77-3.27.82c-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51c1.28-.02 2.5.87 3.29.87c.78 0 2.26-1.07 3.81-.91c.65.03 2.47.26 3.64 1.98c-.09.06-2.17 1.28-2.15 3.81c.03 3.02 2.65 4.03 2.68 4.04c-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5c.13 1.17-.34 2.35-1.04 3.19c-.69.85-1.83 1.51-2.95 1.42c-.15-1.15.41-2.35 1.05-3.11" />
+                        <g transform="translate(1,1) scale(1.1)">
+                            <path id="sidestore-logo"
+                                d="M18 9c0-0.584-0.473-1.058-1.058-1.058H4.235c-0.584 0-1.058 0.474-1.058 1.058 0 0.584 0.474 1.058 1.058 1.058h12.706c0.585 0 1.058-0.474 1.058-1.058z"
+                                style="display: none;" />
+                            <path id="sidestore-logo-2"
+                                d="M10.058 3.177v0.529c0 0.842-0.334 1.65-0.93 2.245a3.179 3.179 0 0 1-2.246 0.93H4.235c-0.561 0-1.1 0.223-1.497 0.62a2.116 2.116 0 0 0-0.62 1.497c0 0.561 0.223 1.1 0.62 1.497a2.116 2.116 0 0 0 1.497 0.62h2.647c0.842 0 1.65 0.334 2.246 0.93a3.179 3.179 0 0 1 0.93 2.246V17.64a0.36 0.36 0 0 1-0.36 0.36H8.647a0.36 0.36 0 0 1-0.36-0.36v-3.347a1.059 1.059 0 0 0-1.058-1.058H4.235a4.237 4.237 0 0 1-2.995-1.24 4.237 4.237 0 0 1 0-5.992 4.237 4.237 0 0 1 2.995-1.24h2.647a1.059 1.059 0 0 0 1.058-1.058v-0.529H6.882L9 0l2.117 3.177H10.058z"
+                                style="display: none;" />
+                            <path id="sidestore-logo-3"
+                                d="M13.235 17.64a0.36 0.36 0 0 1-0.36 0.36H11.118a0.36 0.36 0 0 1-0.36-0.36v-6.163a0.36 0.36 0 0 1 0.36-0.36h1.647a0.36 0.36 0 0 1 0.36 0.36V17.64z"
+                                style="display: none;" />
+                        </g>
+                    </svg>
+                    <span class="altstore-text-wrapper">
+                        <span id="altstore-text">Add to AltStore</span>
+                        <span id="sidestore-text" class="hidden">Add to SideStore</span>
+                    </span>
+                </a>
 
-<a class="button scarlet" href="scarlet://repo=https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/scarlet.json">
-<svg viewBox="0 0 24 24" fill="currentColor">
-<path d="M11 7a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2v2H9v2h4a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2h-2V9h4V7zM5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2"/>
-</svg>Add to Scarlet
-</a>
+                <a class="button feather"
+                    href="feather://source/https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/feather.json"
+                    aria-label="Add TELOS source to Feather">
+                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                        <path
+                            d="M22 2s-7.64-.37-13.66 5.66c-3.57 3.57-4.06 8.19-3.82 11.68.01.18.06.36.11.53l-2.63 2.63 1.5 1.5 2.63-2.63c.17.05.35.1.53.11 3.49.24 8.11-.25 11.68-3.82C24.37 11.64 22 4 22 4zm-6.93 9.07L12 8l-3.07 3.07c-.39-.39-.38-1.03.02-1.43l4.14-4.14c.86-.86 2.25-.91 3.15-.18.9.73.94 2.12.1 2.96l-1.28 1.28c-.4.4-1.04.41-1.43.02z" />
+                    </svg>
+                    Add to Feather
+                </a>
 
-<a class="button krava" href="kravasigner://addRepo=https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/esign.json">
-<svg viewBox="0 0 32 32" fill="currentColor">
-<path d="M10.5 18a.5.5 0 0 1 .5.5a.5.5 0 0 1-.5.5a.5.5 0 0 1-.5-.5a.5.5 0 0 1 .5-.5m3 0a.5.5 0 0 1 .5.5a.5.5 0 0 1-.5.5a.5.5 0 0 1-.5-.5a.5.5 0 0 1 .5-.5M10 11a1 1 0 0 1 1 1a1 1 0 0 1-1 1a1 1 0 0 1-1-1a1 1 0 0 1 1-1m4 0a1 1 0 0 1 1 1a1 1 0 0 1-1 1a1 1 0 0 1-1-1a1 1 0 0 1 1-1m4 7c0 2.21-2.69 4-6 4s-6-1.79-6-4c0-.9.45-1.73 1.2-2.4c-.75-1-1.2-2.25-1.2-3.6l.12-1.22c-.54.15-1.19.15-1.72 0c-1.02-.28-2.56-1.43-2.33-2.23s2.14-.95 3.16-.65c.59.17 1.22.6 1.59 1.06l.57-.81C6.79 7.05 7 4 10 3l-.09.14c-.28.44-1 1.83-.24 3.33a6.02 6.02 0 0 1 4.66 0c.76-1.5.04-2.89-.24-3.33L14 3c3 1 3.21 4.05 2.61 5.15l.57.81c.37-.46 1-.89 1.59-1.06c1.02-.3 2.93-.15 3.16.65s-1.31 1.95-2.33 2.23c-.53.15-1.18.15-1.72 0L18 12c0 1.35-.45 2.6-1.2 3.6c.75.67 1.2 1.5 1.2 2.4m-6-2c-2.21 0-4 .9-4 2s1.79 2 4 2s4-.9 4-2s-1.79-2-4-2m0-2c1.12 0 2.17.21 3.07.56c.58-.69.93-1.56.93-2.56a4 4 0 0 0-4-4a4 4 0 0 0-4 4c0 1 .35 1.87.93 2.56c.9-.35 1.95-.56 3.07-.56m2.09-10.86"/>
-</svg>Add to KravaSigner
-</a>
-</div>
+                <a class="button esign"
+                    href="esign://addsource?url=https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/esign.json"
+                    aria-label="Add TELOS source to ESign">
+                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm4 18H6V4h7v5h5v11z" />
+                        <path
+                            d="M8.5 17.5l1.5-1.5 1 1-1.5 1.5-1.5.5.5-1.5zm2-2l4-4 1 1-4 4-1-1zm4.5-4.5l1 1-.5.5-1-1 .5-.5z" />
+                    </svg>
+                    Add to ESign
+                </a>
 
-<div class="buttons">
-<a class="button telegram" href="https://t.me/xiseous_telos" target="_blank">
-<svg viewBox="0 0 32 32" fill="white">
-<path d="M9.8 15.5l-.4 5c.6 0 .9-.3 1.3-.6l2.8-2.6 5.8 4.2c1 .6 1.7.3 2-.9l3.6-17.1c.4-1.6-.6-2.2-1.6-1.8L1.7 9.3c-1.5.6-1.5 1.5-.3 1.9l5.4 1.7 12.5-7.9c.6-.3 1.1-.1.7.2L9.8 15.5z" fill="white"/>
-</svg>Join Telegram
-</a>
-<a class="button wiki" href="https://github.com/Xiseous/TELOS/wiki" target="_blank">
-<svg viewBox="0 0 32 32" fill="white">
-<path d="M3 3h8v8H3V3zm10 0h8v8h-8V3zM3 13h8v8H3v-8zm10 0h8v8h-8v-8z"/>
-<circle cx="17.5" cy="6.5" r="1.5" fill="#2D333B"/>
-<circle cx="17.5" cy="17.5" r="1.5" fill="#2D333B"/>
-<path d="M17.5 6.5L19 8l-2 1" stroke="#00BFA6" stroke-width="1.5" fill="none"/>
-<path d="M17.5 17.5L19 19l-2-1" stroke="#00BFA6" stroke-width="1.5" fill="none"/>
-</svg>Documentation
-</a>
-<a class="button github" href="https://github.com/Xiseous/TELOS" target="_blank">
-<svg viewBox="0 0 32 32" fill="white">
-<path d="M12 .5a12 12 0 00-3.8 23.4c.6.1.8-.2.8-.6v-2c-3.3.7-4-1.4-4-1.4-.5-1.1-1.2-1.4-1.2-1.4-1-.7.1-.7.1-.7 1.1.1 1.6 1.1 1.6 1.1 1 .1 1.6-.6 2-1.2.2-.7.5-1 .8-1.2-2.7-.3-5.6-1.4-5.6-6a4.7 4.7 0 011.2-3.2 4.3 4.3 0 01.1-3.1s1-.3 3.3 1.2a11.2 11.2 0 016 0c2.2-1.5 3.2-1.2 3.2-1.2a4.3 4.3 0 01.1 3.1 4.7 4.7 0 011.2 3.2c0 4.6-2.9 5.7-5.6 6 .5.4.9 1.2.9 2.3v3.4c0 .4.2.7.8.6A12 12 0 0012 .5z"/>
-</svg>View on GitHub
-</a>
-</div>
-</section>
+                <a class="button scarlet"
+                    href="scarlet://repo=https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/scarlet.json"
+                    aria-label="Add TELOS source to Scarlet">
+                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                        <path
+                            d="M11 7a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h2v2H9v2h4a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2h-2V9h4V7zM5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2" />
+                    </svg>
+                    Add to Scarlet
+                </a>
 
-<footer>
-© 2025 TELOS Project — Secure. Orchestrated. Automated.
-</footer>
+                <a class="button krava"
+                    href="kravasigner://addRepo=https://raw.githubusercontent.com/Xiseous/Telos/main/Assets/esign.json"
+                    aria-label="Add TELOS source to KravaSigner">
+                    <svg viewBox="1 2 22 22" fill="currentColor" aria-hidden="true">
+                        <path
+                            d="M10.5 18a.5.5 0 0 1 .5.5a.5.5 0 0 1-.5.5a.5.5 0 0 1-.5-.5a.5.5 0 0 1 .5-.5m3 0a.5.5 0 0 1 .5.5a.5.5 0 0 1-.5.5a.5.5 0 0 1-.5-.5a.5.5 0 0 1 .5-.5M10 11a1 1 0 0 1 1 1a1 1 0 0 1-1 1a1 1 0 0 1-1-1a1 1 0 0 1 1-1m4 0a1 1 0 0 1 1 1a1 1 0 0 1-1 1a1 1 0 0 1-1-1a1 1 0 0 1 1-1m4 7c0 2.21-2.69 4-6 4s-6-1.79-6-4c0-.9.45-1.73 1.2-2.4c-.75-1-1.2-2.25-1.2-3.6l.12-1.22c-.54.15-1.19.15-1.72 0c-1.02-.28-2.56-1.43-2.33-2.23s2.14-.95 3.16-.65c.59.17 1.22.6 1.59 1.06l.57-.81C6.79 7.05 7 4 10 3l-.09.14c-.28.44-1 1.83-.24 3.33a6.02 6.02 0 0 1 4.66 0c.76-1.5.04-2.89-.24-3.33L14 3c3 1 3.21 4.05 2.61 5.15l.57.81c.37-.46 1-.89 1.59-1.06c1.02-.3 2.93-.15 3.16.65s-1.31 1.95-2.33 2.23c-.53.15-1.18.15-1.72 0L18 12c0 1.35-.45 2.6-1.2 3.6c.75.67 1.2 1.5 1.2 2.4m-6-2c-2.21 0-4 .9-4 2s1.79 2 4 2s4-.9 4-2s-1.79-2-4-2m0-2c1.12 0 2.17.21 3.07.56c.58-.69.93-1.56.93-2.56a4 4 0 0 0-4-4a4 4 0 0 0-4 4c0 1 .35 1.87.93 2.56c.9-.35 1.95-.56 3.07-.56m2.09-10.86" />
+                    </svg>
+                    Add to KravaSigner
+                </a>
+            </nav>
 
-<script>
-const art = [
-" /$$$$$$$$ /$$$$$$$$ /$$        /$$$$$$   /$$$$$$ ",
-"|__  $$__/| $$_____/| $$       /$$__  $$ /$$__  $$",
-"   | $$   | $$      | $$      | $$  \\ $$| $$  \\__/",
-"   | $$   | $$$$$   | $$      | $$  | $$|  $$$$$$ ",
-"   | $$   | $$__/   | $$      | $$  | $$ \\____  $$",
-"   | $$   | $$      | $$      | $$  | $$ /$$  \\ $$",
-"   | $$   | $$$$$$$$| $$$$$$$$|  $$$$$$/|  $$$$$$/",
-"   |__/   |________/|________/ \\______/  \\______/ ",
-"                                                  "
-];
+            <nav class="buttons" aria-label="External links">
+                <a class="button telegram" href="https://t.me/xiseous_telos" target="_blank" rel="noopener noreferrer"
+                    aria-label="Join TELOS Telegram channel">
+                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                        <path
+                            d="M12 0C5.37 0 0 5.37 0 12s5.37 12 12 12 12-5.37 12-12S18.63 0 12 0zm5.5 8.19l-1.97 9.32c-.15.66-.54.82-1.1.51l-3.02-2.23-1.46 1.4c-.16.17-.3.3-.6.3l.22-3.07 5.6-5.06c.24-.22-.05-.34-.38-.12l-6.92 4.36-2.98-.93c-.65-.2-.66-.65.14-.96l11.64-4.49c.54-.19 1.01.13.83.97z" />
+                    </svg>
+                    Join Telegram
+                </a>
 
-const pre = document.getElementById("ascii");
-const subtitle = document.getElementById("subtitle");
-const buttons = document.querySelectorAll(".button");
-const carousel = document.getElementById("carousel");
-const carouselItems = document.querySelectorAll(".carousel-item");
+                <a class="button wiki" href="https://github.com/Xiseous/TELOS/wiki" target="_blank"
+                    rel="noopener noreferrer" aria-label="View TELOS documentation">
+                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                        <path
+                            d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6zm-1 2l5 5h-5V4zM6 20V4h5v7h7v9H6zm2-6h8v2H8v-2zm0-3h8v2H8v-2z" />
+                    </svg>
+                    Documentation
+                </a>
 
-const altText = document.getElementById("altstore-text");
-const altstoreLogo = document.getElementById("altstore-logo");
-const sidestoreLogo1 = document.getElementById("sidestore-logo");
-const sidestoreLogo2 = document.getElementById("sidestore-logo-2");
-const sidestoreLogo3 = document.getElementById("sidestore-logo-3");
-const dynamicIcon = document.getElementById("dynamic-icon");
-let isAltStore = true;
+                <a class="button github" href="https://github.com/Xiseous/TELOS" target="_blank"
+                    rel="noopener noreferrer" aria-label="View TELOS on GitHub">
+                    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+                        <path
+                            d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z" />
+                    </svg>
+                    View on GitHub
+                </a>
+            </nav>
+        </section>
+    </main>
 
-setInterval(() => {
-if (isAltStore) {
-dynamicIcon.style.opacity = "0";
-setTimeout(() => {
-altText.textContent = "Add to SideStore";
-altstoreLogo.style.display = "none";
-sidestoreLogo1.style.display = "block";
-sidestoreLogo2.style.display = "block";
-sidestoreLogo3.style.display = "block";
-dynamicIcon.style.opacity = "1";
-}, 250);
-} else {
-dynamicIcon.style.opacity = "0";
-setTimeout(() => {
-altText.textContent = "Add to AltStore";
-altstoreLogo.style.display = "block";
-sidestoreLogo1.style.display = "none";
-sidestoreLogo2.style.display = "none";
-sidestoreLogo3.style.display = "none";
-dynamicIcon.style.opacity = "1";
-}, 250);
-}
-isAltStore = !isAltStore;
-}, 3000);
+    <footer>
+        <p>© 2025 TELOS Project — Secure. Orchestrated. Automated.</p>
+    </footer>
 
-let line = 0, pos = 0, buffer = "";
-const subtitleText = "Telegram External Loader & Orchestrator System";
-let subtitlePos = 0;
+    <script>
+        const art = [
+            " /$$$$$$$$ /$$$$$$$$ /$$        /$$$$$$   /$$$$$$ ",
+            "|__  $$__/| $$_____/| $$       /$$__  $$ /$$__  $$",
+            "   | $$   | $$      | $$      | $$  \\ $$| $$  \\__/",
+            "   | $$   | $$$$$   | $$      | $$  | $$|  $$$$$$ ",
+            "   | $$   | $$__/   | $$      | $$  | $$ \\____  $$",
+            "   | $$   | $$      | $$      | $$  | $$ /$$  \\ $$",
+            "   | $$   | $$$$$$$$| $$$$$$$$|  $$$$$$/|  $$$$$$/",
+            "   |__/   |________/|________/ \\______/  \\______/ ",
+            "                                                  "
+        ];
 
-function typeSubtitle() {
-if (subtitlePos < subtitleText.length) {
-subtitle.textContent += subtitleText[subtitlePos++];
-setTimeout(typeSubtitle, 72);
-} else {
-carousel.classList.add("visible");
-buttons.forEach((btn, i) => {
-setTimeout(() => btn.classList.add("visible"), i * 350);
-});
-}
-}
+        const pre = document.getElementById("ascii");
+        const subtitle = document.getElementById("subtitle");
+        const buttons = document.querySelectorAll(".button");
+        const carousel = document.getElementById("carousel");
+        const carouselItems = document.querySelectorAll(".carousel-item");
 
-function type() {
-if (line < art.length) {
-if (pos < art[line].length) {
-buffer += art[line][pos++];
-pre.textContent = buffer + "_";
-} else {
-buffer += "\n";
-pre.textContent = buffer;
-line++;
-pos = 0;
-}
-setTimeout(type, 5);
-} else {
-pre.textContent = buffer;
-subtitle.textContent = "";
-typeSubtitle();
-}
-}
+        const altText = document.getElementById("altstore-text");
+        const sideText = document.getElementById("sidestore-text");
+        const altstoreLogo = document.getElementById("altstore-logo");
+        const sidestoreLogo1 = document.getElementById("sidestore-logo");
+        const sidestoreLogo2 = document.getElementById("sidestore-logo-2");
+        const sidestoreLogo3 = document.getElementById("sidestore-logo-3");
+        const dynamicIcon = document.getElementById("dynamic-icon");
+        let isAltStore = true;
 
-let active = 0;
-setInterval(() => {
-carouselItems[active].classList.remove("active");
-active = (active + 1) % carouselItems.length;
-carouselItems[active].classList.add("active");
-}, 4000);
+        // Check for reduced motion preference
+        const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
-window.addEventListener("load", type);
-</script>
+        // AltStore/SideStore toggle animation
+        setInterval(() => {
+            if (isAltStore) {
+                // Fade icon
+                if (!prefersReducedMotion) {
+                    dynamicIcon.style.opacity = "0";
+                }
+                setTimeout(() => {
+                    // Switch to SideStore
+                    altText.classList.add("hidden");
+                    sideText.classList.remove("hidden");
+                    altstoreLogo.style.display = "none";
+                    sidestoreLogo1.style.display = "block";
+                    sidestoreLogo2.style.display = "block";
+                    sidestoreLogo3.style.display = "block";
+                    if (!prefersReducedMotion) {
+                        dynamicIcon.style.opacity = "1";
+                    }
+                }, prefersReducedMotion ? 0 : 250);
+            } else {
+                // Fade icon
+                if (!prefersReducedMotion) {
+                    dynamicIcon.style.opacity = "0";
+                }
+                setTimeout(() => {
+                    // Switch to AltStore
+                    altText.classList.remove("hidden");
+                    sideText.classList.add("hidden");
+                    altstoreLogo.style.display = "block";
+                    sidestoreLogo1.style.display = "none";
+                    sidestoreLogo2.style.display = "none";
+                    sidestoreLogo3.style.display = "none";
+                    if (!prefersReducedMotion) {
+                        dynamicIcon.style.opacity = "1";
+                    }
+                }, prefersReducedMotion ? 0 : 250);
+            }
+            isAltStore = !isAltStore;
+        }, 3000);
+
+        let line = 0, pos = 0, buffer = "";
+        const subtitleText = "Telegram External Loader & Orchestrator System";
+        let subtitlePos = 0;
+
+        function typeSubtitle() {
+            if (prefersReducedMotion) {
+                subtitle.textContent = subtitleText;
+                showUIElements();
+                return;
+            }
+
+            if (subtitlePos < subtitleText.length) {
+                subtitle.textContent += subtitleText[subtitlePos++];
+                setTimeout(typeSubtitle, 72);
+            } else {
+                showUIElements();
+            }
+        }
+
+        function showUIElements() {
+            carousel.classList.add("visible");
+            if (prefersReducedMotion) {
+                buttons.forEach(btn => btn.classList.add("visible"));
+            } else {
+                buttons.forEach((btn, i) => {
+                    setTimeout(() => btn.classList.add("visible"), i * 350);
+                });
+            }
+        }
+
+        function type() {
+            if (prefersReducedMotion) {
+                pre.textContent = art.join("\n");
+                subtitle.textContent = "";
+                typeSubtitle();
+                return;
+            }
+
+            if (line < art.length) {
+                if (pos < art[line].length) {
+                    buffer += art[line][pos++];
+                    pre.textContent = buffer + "_";
+                } else {
+                    buffer += "\n";
+                    pre.textContent = buffer;
+                    line++;
+                    pos = 0;
+                }
+                setTimeout(type, 5);
+            } else {
+                pre.textContent = buffer;
+                subtitle.textContent = "";
+                typeSubtitle();
+            }
+        }
+
+        // Carousel rotation
+        let active = 0;
+        let carouselInterval;
+
+        function startCarousel() {
+            carouselInterval = setInterval(() => {
+                carouselItems[active].classList.remove("active");
+                active = (active + 1) % carouselItems.length;
+                carouselItems[active].classList.add("active");
+            }, 4000);
+        }
+
+        // Generate floating particles (if motion is allowed)
+        function createParticles() {
+            if (prefersReducedMotion) return;
+
+            const particlesContainer = document.getElementById('particles');
+            const particleCount = 20;
+
+            for (let i = 0; i < particleCount; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'particle';
+                particle.style.left = Math.random() * 100 + '%';
+                particle.style.animationDelay = Math.random() * 15 + 's';
+                particle.style.animationDuration = (10 + Math.random() * 10) + 's';
+                particlesContainer.appendChild(particle);
+            }
+        }
+
+        // Start carousel after initial animations complete
+        window.addEventListener("load", () => {
+            createParticles();
+            type();
+            // Delay carousel start to avoid initial flash
+            const carouselDelay = prefersReducedMotion ? 100 : 3500;
+            setTimeout(startCarousel, carouselDelay);
+        });
+    </script>
 </body>
+
 </html>
