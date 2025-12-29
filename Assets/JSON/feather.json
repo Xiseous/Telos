@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "boomer.Smart-Video",
+    "ee.keel24.Lingvist",
     "gronda.gmbh",
     "com.kevinquisquater.Habits",
-    "com.lightricks.Facetune2",
-    "com.future.kapi",
-    "tech.sketchar.ios"
+    "com.lightricks.Facetune2"
   ],
   "apps": [
     {
@@ -2119,6 +2119,68 @@
         }
       ],
       "category": "health-&-fitness"
+    },
+    {
+      "beta": false,
+      "name": "Captions",
+      "bundleIdentifier": "boomer.Smart-Video",
+      "developerName": "Captions, LLC (US)",
+      "subtitle": "Tweaked with CachefixPatch, Captions",
+      "version": "12.49.1",
+      "versionDate": "2025-12-29",
+      "versionDescription": "Version: 12.49.1\n\nTweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-2/Captions_AI_Short_Form_Video_v12_49_1_Scale_Subscription_Unlocked.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\n📱 Captions: AI Short-Form Video\n\n🆔 Bundle ID: boomer.Smart-Video\n⬆️ Updated to: 12.49.1\n🔧 Minimum iOS: 16.0\n✅ Patched\n💎 Modifier: Scale Subscription Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nRestart the app if subscription isn't active.\nOnly subscription is unlocked!! Credits cannot be unlocked.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nNEVER RECORD OR EDIT A VIDEO AGAIN\n\nBuilt by MIRAGE™, Captions is an AI video generator and editor that makes it easy to create talking videos. It’s designed for creators and small businesses—no professional editor or special skills required. \n\nMake the videos you’ve always dreamed of, all in one app. Just take a selfie to make your AI twin, then use your twin for new footage. Type what you want in your video, and you’ll have quality footage in minutes. \n\nUse Captions’ AI editing tools to turn y",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/8b/d9/d38bd9ff-ab27-4ec9-05cf-32ff9eb8dffd/AppIcon-0-0-1x_U007ephone-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 415799367,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/e6/30/62e63038-6153-9ddc-fd18-7cea14bd5101/2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/35/71/0235719f-b4da-85c5-012f-73ee8cc18b8e/3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/fc/12/6dfc12a1-0eb5-ce54-8504-0f92f3ee31ac/4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/9a/86/e59a86be-8303-2c0c-0cad-cf65a5b805f3/5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/27/6d/ec/276dec61-e9e1-a204-832f-6163fabb4201/6.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "keychain-access-groups",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.team-identifier",
+          "application-identifier",
+          "com.apple.developer.user-fonts",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Export rendered video clips to Library",
+          "NSCameraUsageDescription": "Record video with automatic captions",
+          "NSMicrophoneUsageDescription": "Record video with automatic captions",
+          "NSSpeechRecognitionUsageDescription": "Automatic recording",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you",
+          "NSPhotoLibraryAddUsageDescription": "Export rendered video clips to Library"
+        }
+      },
+      "versions": [
+        {
+          "version": "12.49.1",
+          "date": "2025-12-29",
+          "localizedDescription": "Version: 12.49.1\n\nTweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-2/Captions_AI_Short_Form_Video_v12_49_1_Scale_Subscription_Unlocked.ipa",
+          "size": 415799367
+        },
+        {
+          "version": "12.49.1b",
+          "date": "2025-12-29",
+          "localizedDescription": "Version: 12.49.1\n\nTweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-2/Captions_AI_Short_Form_Video_v12_49_1_Scale_Subscription_Unlocked.ipa",
+          "size": 415799367
+        }
+      ],
+      "category": "photo-&-video"
     },
     {
       "beta": false,
@@ -4388,13 +4450,6 @@
           "version": "2025.19b",
           "date": "2025-12-29",
           "localizedDescription": "Version: 2025.19\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-2/Habit.Tracker.Calendar.Evoday-v2025.19-riftysipas.ipa",
-          "size": 25352630
-        },
-        {
-          "version": "2025.19c",
-          "date": "2025-12-29",
-          "localizedDescription": "Version: 2025.19\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-5c26c034c02542b70eaf/Habit.Tracker.Calendar.Evoday-v2025.19-riftysipas.ipa",
           "size": 25352630
         },
@@ -5710,13 +5765,6 @@
         },
         {
           "version": "8.2.3b",
-          "date": "2025-12-29",
-          "localizedDescription": "Version: 8.2.3\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-2/Gronda.Recipes.for.Chefs-v8.2.3-riftysipas.ipa",
-          "size": 50797944
-        },
-        {
-          "version": "8.2.3c",
           "date": "2025-12-29",
           "localizedDescription": "Version: 8.2.3\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-5c26c034c02542b70eaf/Gronda.Recipes.for.Chefs-v8.2.3-riftysipas.ipa",
@@ -7592,6 +7640,64 @@
         }
       ],
       "category": "photo-&-video"
+    },
+    {
+      "beta": false,
+      "name": "Lingvist",
+      "bundleIdentifier": "ee.keel24.Lingvist",
+      "developerName": "Lingvist Technologies OU",
+      "subtitle": "Tweaked with Lingvist, blatantsPatch",
+      "version": "2.64.2",
+      "versionDate": "2025-12-29",
+      "versionDescription": "Version: 2.64.2\n\nTweaks: Lingvist, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-2/Lingvist_Learn_Languages_Fast_v2_64_2_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Lingvist, blatantsPatch\n\n📱 Lingvist: Learn Languages Fast\n\n🆔 Bundle ID: ee.keel24.Lingvist\n⬆️ Updated to: 2.64.2\n🔧 Minimum iOS: 13.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nLingvist is the language learning app built by scientists and language experts that teaches vocabulary better than anyone else in the world. The depth of our AI-powered courses combined with the latest research in machine learning gets you using a language with high proficiency, fast. \n\nGET LEVEL PLACED FOR FREE - TRY LINGVIST\n\nLEARN 16 LANGUAGES: English, Spanish, German, French, Swedish, Danish, Dutch, Italian, Brazilian Portuguese, Norwegian, Latin American Spanish, Estonian, Polish, Japanese",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/05/f0/b205f0d7-049c-f7d1-4cca-8d75c06909a0/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 34683642,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/4f/63/d24f63b3-b06a-af1e-7458-add913698eb2/cc705303-4708-4e42-96a5-7ac8802a963d_1._Choose_from_50_U002b_language_pairs.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/0b/4b/120b4b75-ca2e-f882-35c5-1872d986a81e/99383d11-a1ae-419f-93eb-29a53796e0e9_2._AI-powered_language_learning.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/98/97/f3989708-2e03-3943-48ab-35575323c357/c70c9293-76b1-40c7-bdeb-5cd7ac338dd9_3._Track_progress_and_see_results.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/7a/df/2c7adf21-f0b3-8bac-71f4-f9dcdc679f16/a6ad207c-f571-4ee1-8d8b-a703d33977b9_4._Build_vocabulary_at_your_own_pace.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/8d/6c/438d6c49-cc40-f10d-05b0-284db6675d0e/36070309-9dd6-44d5-a8d3-c9e44d3dff1d_5._Rapid_language_improvement.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.ClassKit-environment",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "<<Lingvist does not use the photo library>>",
+          "NSCameraUsageDescription": "Create a course from photo of text or an object",
+          "NSMicrophoneUsageDescription": "Allow access?",
+          "NSSpeechRecognitionUsageDescription": "Allow access?",
+          "NSPhotoLibraryAddUsageDescription": "Save picture of the card"
+        }
+      },
+      "versions": [
+        {
+          "version": "2.64.2",
+          "date": "2025-12-29",
+          "localizedDescription": "Version: 2.64.2\n\nTweaks: Lingvist, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-2/Lingvist_Learn_Languages_Fast_v2_64_2_Subscription_Unlocked_blatant.ipa",
+          "size": 34683642
+        },
+        {
+          "version": "2.64.2b",
+          "date": "2025-12-29",
+          "localizedDescription": "Version: 2.64.2\n\nTweaks: Lingvist, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-2/Lingvist_Learn_Languages_Fast_v2_64_2_Subscription_Unlocked_blatant.ipa",
+          "size": 34683642
+        }
+      ],
+      "category": "education"
     },
     {
       "beta": false,
