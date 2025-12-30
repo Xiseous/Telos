@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.lightricks.Facetune2",
+    "com.abishkking.maleworkout",
+    "com.locket.Locket",
     "com.commsource.BeautyPlus",
-    "com.dubox.drive",
-    "co.bazaart.app",
-    "com.nextgen.reelsapp",
-    "com.daymore.Across"
+    "com.dubox.drive"
   ],
   "apps": [
     {
@@ -1988,13 +1988,6 @@
       "versions": [
         {
           "version": "7.27.0",
-          "date": "2025-12-30",
-          "localizedDescription": "Tweaks: CydiaSubstrate, rophim\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/BeautyPlus.Premium.7.27.0.ipa",
-          "size": 356979583
-        },
-        {
-          "version": "7.27.0b",
           "date": "2025-12-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, rophim\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/BeautyPlus.Premium.7.27.0.ipa",
@@ -7381,14 +7374,14 @@
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "Lightricks Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.112",
+      "version": "3.114.1",
       "versionDate": "2025-12-30",
       "versionDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Facetune_Video_._Photo_Editor_v3_112_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Facetune_Video_._Photo_Editor_v3_114_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFacetune: Video & Photo Editor | Subscription Unlocked",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/51/5f/16515fbc-aced-bbca-e809-0f95a98dc757/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 329005950,
+      "size": 341047813,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e1/25/81e125c3-0cff-38ab-c643-3cc8ebd60281/FT-250819-ASO-Baseline-5.5-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/52/66/e1526682-7c10-2655-d24a-0f0047c6fe71/FT-250819-ASO-Baseline-5.5-02.jpg/392x696bb.jpg",
@@ -7397,18 +7390,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/a9/7b/6da97b28-88fa-e7ce-9683-cce5236f4ebf/FT-250819-ASO-Baseline-5.5-05.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.icloud-services",
-          "com.apple.developer.icloud-container-identifiers",
-          "keychain-access-groups",
-          "application-identifier",
-          "com.apple.developer.applesignin",
-          "aps-environment",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.associated-domains",
-          "com.apple.security.application-groups",
-          "com.apple.developer.team-identifier"
-        ],
+        "entitlements": [],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "We need to access your photo library in order to allow you to edit your photos and videos using the app’s features. Learn more in our Privacy Policy.",
           "NSCameraUsageDescription": "Allow camera access to use the magic mirror camera",
@@ -7419,6 +7401,13 @@
         }
       },
       "versions": [
+        {
+          "version": "3.114.1",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Facetune_Video_._Photo_Editor_v3_114_1_Subscription_Unlocked_blatant.ipa",
+          "size": 341047813
+        },
         {
           "version": "3.112",
           "date": "2025-12-30",
@@ -10141,6 +10130,64 @@
       "category": "games"
     },
     {
+      "name": "Home workouts",
+      "bundleIdentifier": "com.abishkking.maleworkout",
+      "developerName": "Leap Health",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "1.43.10",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Tweaks: HomeWorkouts, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Home_Workout_No_Equipments_v1_43_10_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nHome Workout - No Equipments | Subscription Unlocked",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/0f/ba/ba0fba07-c5f4-70e8-e206-411ad60273ad/AppIcon-0-0-1x_U007epad-0-6-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 363763197,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e6/87/67/e68767d0-3a52-d7a5-d791-aacd63b4c418/1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/9f/be/549fbe3a-ae73-df25-502b-ec99979b2ea2/2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/0d/9a/aa0d9ae9-f008-4894-ed2c-ed070c4af59c/3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/f9/1a/c0f91ab7-ccfe-7764-79b2-3ebb70bdb8f0/4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/39/ab/f239ab1c-9817-5700-3db0-3927df428e2b/5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "com.apple.developer.healthkit",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.team-identifier"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Home Workout needs this access to update your avatar, share photos and save images to you album.",
+          "NSCameraUsageDescription": "We would like to use your camera to take a photo as your avatar.",
+          "NSLocationWhenInUseUsageDescription": "This allows us to use your location to show your walks and runs on a map.",
+          "NSLocationAlwaysUsageDescription": "This allows us to use your location to show your walks and runs on a map.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "This allows us to use your location to show your walks and runs on a map.",
+          "NSMotionUsageDescription": "To ensure the accuracy of tracking",
+          "NSHealthShareUsageDescription": "Your data about weight, steps and heart rate will be synced from Apple Health.",
+          "NSHealthUpdateUsageDescription": "Your data about weight, height and active energy will be shared with Apple Health.",
+          "NSAppleMusicUsageDescription": "This allows you to listen to music on your phone while you exercise.",
+          "NSUserTrackingUsageDescription": "This allows the Home Workouts app to provide you with the most relevant recommendations and ads",
+          "NSPhotoLibraryAddUsageDescription": "Home Workout needs this access to save images to your album."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.43.10",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: HomeWorkouts, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Home_Workout_No_Equipments_v1_43_10_Subscription_Unlocked_blatant.ipa",
+          "size": 363763197
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
       "name": "Horizon",
       "bundleIdentifier": "com.ketchapp.horizon",
       "developerName": "Ketchapp",
@@ -12645,33 +12692,17 @@
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
       "subtitle": "Patched | Tweaked",
-      "version": "2.15.0",
+      "version": "2.27.3",
       "versionDate": "2025-12-30",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Locket.Widget.v2.15.0.Locket.Gold.blatant.Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Locket.Widget.v2.27.3.Locket.Gold.blatant.Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nLocket Widget | Locket Gold",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/b5/ce/f1b5ce36-c4e3-ae84-c421-1a69d35b5687/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 148420042,
+      "size": 365088731,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "com.apple.developer.icloud-container-identifiers",
-          "application-identifier",
-          "com.apple.developer.weatherkit",
-          "aps-environment",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "keychain-access-groups",
-          "com.apple.developer.team-identifier",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.icloud-services",
-          "com.apple.security.application-groups",
-          "com.apple.developer.usernotifications.communication"
-        ],
+        "entitlements": [],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "So you can pick your photos for this week's Rollcall!",
           "NSCameraUsageDescription": "Locket uses your camera to let you take pictures to share with your friends.",
@@ -12685,6 +12716,13 @@
         }
       },
       "versions": [
+        {
+          "version": "2.27.3",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Locket.Widget.v2.27.3.Locket.Gold.blatant.Patched.ipa",
+          "size": 365088731
+        },
         {
           "version": "2.15.0",
           "date": "2025-12-30",
@@ -23726,13 +23764,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, teraboxpatch\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/TeraBox.Premium.4.10.0.ipa",
           "size": 193415836
-        },
-        {
-          "version": "4.10.0b",
-          "date": "2025-12-30",
-          "localizedDescription": "Tweaks: CydiaSubstrate, teraboxpatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/TeraBox.Premium.4.10.0.ipa",
-          "size": 193415836
         }
       ],
       "category": "productivity"
@@ -28154,7 +28185,7 @@
     {
       "title": "⚙️ Telos Update 12.30",
       "identifier": "telos-update-2025-12-30",
-      "caption": "1240 Apps Updated:\n• 386 Photo & Video\n• 241 Health & Fitness\n• 141 Productivity\n• 84 Utilities\n• 64 Education\n• 51 Entertainment\n• 45 Music\n• 35 Travel\n• 25 News\n• 20 Graphics & Design\n• 19 Weather\n• 19 Medical\n• 18 Developer Tools\n• 18 Reference\n• 17 Lifestyle\n• 14 Finance\n• 11 Navigation\n• 10 Sports\n• 7 Business\n• 7 Books\n• 6 Social Networking\n• 2 Games",
+      "caption": "1241 Apps Updated:\n• 386 Photo & Video\n• 242 Health & Fitness\n• 140 Productivity\n• 84 Utilities\n• 64 Education\n• 51 Entertainment\n• 45 Music\n• 35 Travel\n• 25 News\n• 20 Graphics & Design\n• 19 Weather\n• 19 Medical\n• 18 Developer Tools\n• 18 Reference\n• 17 Lifestyle\n• 14 Finance\n• 11 Navigation\n• 10 Sports\n• 7 Social Networking\n• 7 Business\n• 7 Books\n• 2 Games",
       "date": "2025-12-30",
       "tintColor": "#02433b",
       "notify": true,
