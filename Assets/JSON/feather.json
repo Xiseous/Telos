@@ -16,42 +16,6 @@
   "apps": [
     {
       "beta": false,
-      "name": "",
-      "bundleIdentifier": "",
-      "developerName": "Xiseous",
-      "subtitle": "Tweaked with blatantsPatch",
-      "version": "",
-      "versionDate": "2025-12-30",
-      "versionDescription": "Version: \n\nTweaks: blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Device_Monitor._v26_0_0_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: blatantsPatch\n\n📱 Device Monitor²\n\n🆔 Bundle ID: org.fastdevsproject.altervista.Device-Monitor\n⬆️ Updated to: 26.0.0\n🔧 Minimum iOS: 16.6\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
-      "iconURL": "",
-      "tintColor": "#00BFA6",
-      "size": 23113785,
-      "screenshots": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "versions": [
-        {
-          "version": "",
-          "date": "2025-12-30",
-          "localizedDescription": "Version: \n\nTweaks: blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Device_Monitor._v26_0_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 23113785
-        },
-        {
-          "version": "b",
-          "date": "2025-12-30",
-          "localizedDescription": "Version: \n\nTweaks: blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/Device_Monitor._v26_1_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 24891933
-        }
-      ]
-    },
-    {
-      "beta": false,
       "name": "1Blocker",
       "bundleIdentifier": "com.khanov.BlockerX",
       "developerName": "1Blocker LLC",
@@ -5678,6 +5642,43 @@
         }
       ],
       "category": "photo-&-video"
+    },
+    {
+      "beta": false,
+      "name": "Device Monitor²",
+      "bundleIdentifier": "",
+      "developerName": "Fast-Devs Project",
+      "subtitle": "Tweaked with blatantsPatch",
+      "version": "26.0.0",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Version: 26.0.0\n\nTweaks: blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Device_Monitor._v26_0_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: blatantsPatch\n\n📱 Device Monitor²\n\n🆔 Bundle ID: org.fastdevsproject.altervista.Device-Monitor\n⬆️ Updated to: 26.0.0\n🔧 Minimum iOS: 16.6\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nDevice Monitor² is a one-of-a-kind app designed for iPhone, iPod Touch, iPad, and Apple Watch, providing all the essential information about your device at a glance, quickly and effortlessly. Discover which sensors apps have access to and take control of your privacy.\nIt is also compatible with Mac (equipped with M1 processors and later) and Apple Vision Pro, the available functions are limited.\n\nWhy choose Device Monitor²?\nHere are some of its main features:\n• Clear and intuitive data visualiza",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/96/29/da96297d-3971-7f3c-0b48-6d5a1b1b23f4/Device_Monitor_Glass_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 23113785,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "26.0.0",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 26.0.0\n\nTweaks: blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Device_Monitor._v26_0_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 23113785
+        },
+        {
+          "version": "26.1.0",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 26.1.0\n\nTweaks: blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/Device_Monitor._v26_1_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 24891933
+        }
+      ],
+      "category": "developer-tools"
     },
     {
       "beta": false,
