@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.bazaart.app",
     "com.zhiliaoapp.musically",
     "com.readdle.CalendarsLite",
     "com.burbn.instagram",
-    "com.app-livity",
-    "uni.cbum"
+    "com.app-livity"
   ],
   "apps": [
     {
@@ -1552,14 +1552,14 @@
       "bundleIdentifier": "co.bazaart.app",
       "developerName": "Bazaart Ltd.",
       "subtitle": "Premium Unlocked | Patched",
-      "version": "26.0.3",
+      "version": "26.0.8",
       "versionDate": "2025-12-30",
       "versionDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/Bazaart_AI_Photo_Editor_Design_v26_0_3_Premium_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Bazaart_AI_Photo_Editor_Design_v26_0_8_Premium_Unlocked_blatant.ipa",
       "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\n**📱 **[**Bazaart AI Photo Editor Design**](https://apps.apple.com/app/id515094775)\n**🆔 Bundle ID**: `co.bazaart.app`\n**🔧 Minimum iOS**: **16**\n**✅ Patched**\n**💎 Modifier**: **Premium Unlocked**",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/72/0d/6b720d85-9cda-a7bc-073c-aa0703aa87a5/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 95929545,
+      "size": 98380584,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -1575,6 +1575,7 @@
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This will allow you to access your photo albums and save photos to your camera roll.",
           "NSCameraUsageDescription": "This will allow you to take photos with Bazaart, so you can edit them in Bazaart.",
+          "NSMicrophoneUsageDescription": "For dictation",
           "NSLocationWhenInUseUsageDescription": "Allows matching displayed content",
           "NSLocationAlwaysUsageDescription": "Allows matching displayed content",
           "NSSpeechRecognitionUsageDescription": "This will allow you to transcribe audio, so you can add auto-captions to your videos in Bazaart.",
@@ -1583,6 +1584,20 @@
         }
       },
       "versions": [
+        {
+          "version": "26.0.8",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Bazaart_AI_Photo_Editor_Design_v26_0_8_Premium_Unlocked_blatant.ipa",
+          "size": 98380584
+        },
+        {
+          "version": "26.0.8b",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Bazaart_AI_Photo_Editor_Design_v26_0_8_Premium_Unlocked_blatant.ipa",
+          "size": 98380584
+        },
         {
           "version": "26.0.3",
           "date": "2025-12-30",
@@ -25999,7 +26014,7 @@
     {
       "title": "⚙️ Telos Update 12.30",
       "identifier": "telos-update-2025-12-30",
-      "caption": "930 Apps Updated: 290 Photo & Video, 183 Health & Fitness, 97 Productivity, 69 Utilities, 50 Education, 36 Entertainment, 32 Travel, 31 Music, 16 Reference, 16 Graphics & Design, 15 Medical, 14 Weather, 13 News, 13 Developer Tools, 12 Lifestyle, 12 Finance, 8 Sports, 7 Navigation, 6 Business, 5 Books, 3 Social Networking, 2 Other",
+      "caption": "932 Apps Updated: 292 Photo & Video, 183 Health & Fitness, 97 Productivity, 69 Utilities, 50 Education, 36 Entertainment, 32 Travel, 31 Music, 16 Reference, 16 Graphics & Design, 15 Medical, 14 Weather, 13 News, 13 Developer Tools, 12 Lifestyle, 12 Finance, 8 Sports, 7 Navigation, 6 Business, 5 Books, 3 Social Networking, 2 Other",
       "date": "2025-12-30",
       "tintColor": "#02433b",
       "notify": true,
