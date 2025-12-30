@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.blockpuzzle.us.ios",
     "com.lightricks.Facetune2",
     "com.abishkking.maleworkout",
     "com.locket.Locket",
-    "com.commsource.BeautyPlus",
-    "com.dubox.drive"
+    "com.commsource.BeautyPlus"
   ],
   "apps": [
     {
@@ -2148,15 +2148,15 @@
       "name": "Block Blast!",
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "Hungry Studio",
-      "subtitle": "*Tweak:** No Ads | *Patched ✓**",
+      "subtitle": "No Ads",
       "version": "6.6.8",
       "versionDate": "2025-12-30",
-      "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Block.Blast.-v6.6.8-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nBlock Blast! | No Ads | Patched ✓ | Additional Information ℹ️",
+      "versionDescription": "Tweaks: ADsBlocker, Adblock 1, Adblock 2, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/Block.Blast.noads.6.6.8.ipa",
+      "localizedDescription": "No Ads\n\nBlock Blast! | no ads | Minimum OS version 13.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/85/ae/b385ae62-ce16-331d-8ac9-dab53d9107ee/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 127480802,
+      "size": 128416052,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/76/ee/2a76ee57-90a6-9c88-7393-b77afd3b6508/4ac25f40-0f18-43c2-8be8-b3d2018fe240_2048X2732_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/b3/98/acb39832-888e-a1cf-7f06-511f1b1dd114/94905e6c-232a-4e06-a5c0-8f2cd6c397c3_2048X2732_2.png/576x768bb.png",
@@ -2183,12 +2183,26 @@
         {
           "version": "6.6.8",
           "date": "2025-12-30",
+          "localizedDescription": "Tweaks: ADsBlocker, Adblock 1, Adblock 2, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/Block.Blast.noads.6.6.8.ipa",
+          "size": 128416052
+        },
+        {
+          "version": "6.6.8b",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: ADsBlocker, Adblock 1, Adblock 2, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/Block.Blast.noads.6.6.8.ipa",
+          "size": 128416052
+        },
+        {
+          "version": "6.6.8c",
+          "date": "2025-12-30",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Block.Blast.-v6.6.8-riftysipas.ipa",
           "size": 127480802
         },
         {
-          "version": "6.6.8b",
+          "version": "6.6.8d",
           "date": "2025-12-30",
           "localizedDescription": "Tweaks: ADsBlocker, Adblock 1, Adblock 2, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Block.Blast.noads.6.6.8.ipa",
@@ -2235,20 +2249,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, nostealing\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-167f728969871260d274/BlockBlast_v5.5.3-riftysipas.ipa",
           "size": 90838472
-        },
-        {
-          "version": "5.4.4",
-          "date": "2025-12-29",
-          "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, riftysnoads\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-167f728969871260d274/BlockBlast_v5.4.4-riftysipas.ipa",
-          "size": 88505047
-        },
-        {
-          "version": "5.3.4",
-          "date": "2025-12-29",
-          "localizedDescription": "Tweaks: CydiaSubstrate, riftysnoads\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-167f728969871260d274/BlockBlast_v5.3.4-RiftysIPAs.ipa",
-          "size": 89281197
         }
       ],
       "category": "games"
@@ -28185,7 +28185,7 @@
     {
       "title": "⚙️ Telos Update 12.30",
       "identifier": "telos-update-2025-12-30",
-      "caption": "1241 Apps Updated:\n• 386 Photo & Video\n• 242 Health & Fitness\n• 140 Productivity\n• 84 Utilities\n• 64 Education\n• 51 Entertainment\n• 45 Music\n• 35 Travel\n• 25 News\n• 20 Graphics & Design\n• 19 Weather\n• 19 Medical\n• 18 Developer Tools\n• 18 Reference\n• 17 Lifestyle\n• 14 Finance\n• 11 Navigation\n• 10 Sports\n• 7 Social Networking\n• 7 Business\n• 7 Books\n• 2 Games",
+      "caption": "1243 Apps Updated:\n• 386 Photo & Video\n• 242 Health & Fitness\n• 140 Productivity\n• 84 Utilities\n• 64 Education\n• 51 Entertainment\n• 45 Music\n• 35 Travel\n• 25 News\n• 20 Graphics & Design\n• 19 Weather\n• 19 Medical\n• 18 Developer Tools\n• 18 Reference\n• 17 Lifestyle\n• 14 Finance\n• 11 Navigation\n• 10 Sports\n• 7 Social Networking\n• 7 Business\n• 7 Books\n• 4 Games",
       "date": "2025-12-30",
       "tintColor": "#02433b",
       "notify": true,
