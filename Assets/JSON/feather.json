@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.leapingcoyote.rungo",
+    "com.deezer.Deezer",
     "boomer.Smart-Video",
     "ee.keel24.Lingvist",
-    "gronda.gmbh",
-    "com.kevinquisquater.Habits",
-    "com.lightricks.Facetune2"
+    "gronda.gmbh"
   ],
   "apps": [
     {
@@ -2171,13 +2171,6 @@
           "localizedDescription": "Version: 12.49.1\n\nTweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-2/Captions_AI_Short_Form_Video_v12_49_1_Scale_Subscription_Unlocked.ipa",
           "size": 415799367
-        },
-        {
-          "version": "12.49.1b",
-          "date": "2025-12-29",
-          "localizedDescription": "Version: 12.49.1\n\nTweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-2/Captions_AI_Short_Form_Video_v12_49_1_Scale_Subscription_Unlocked.ipa",
-          "size": 415799367
         }
       ],
       "category": "photo-&-video"
@@ -3384,6 +3377,51 @@
         }
       ],
       "category": "photo-&-video"
+    },
+    {
+      "beta": false,
+      "name": "Deezer",
+      "bundleIdentifier": "com.deezer.Deezer",
+      "developerName": "DEEZER SA",
+      "subtitle": "Tweaked with ColorBoard, CopyDeezerLabel",
+      "version": "7.15.0",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Version: 7.15.0\n\nTweaks: ColorBoard, CopyDeezerLabel, CydiaSubstrate, Deezelife\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30/Deezer.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ColorBoard, CopyDeezerLabel, CydiaSubstrate, Deezelife\n\n---\nDeezer is more than just a music platform.\nIt’s a fully personalized listening experience that adapts to you. From mood-driven mixes to curated playlists, discover music that sounds like you.\n\nDeezer is where you can embrace your tastes, turn up the volume, and Live the Music.\n\nWith a Deezer Premium plan, you'll get everything you need in one app:\n\nMusic you love, made for you\n• A massive catalog with all the tracks you could ever want\n• Flow, your infinite, personalized mix of favorites and new",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/7b/34/a67b346c-3243-78b8-8c90-92716efedbaf/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 61573961,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Deezer would like to access your media library.",
+          "NSCameraUsageDescription": "Deezer would like to access your photos.",
+          "NSMicrophoneUsageDescription": "Deezer needs microphone access to listen for ultrasonic tokens when pairing with nearby Cast devices.",
+          "NSLocationWhenInUseUsageDescription": "This will be used to improve music recommendations",
+          "NSLocationAlwaysUsageDescription": "This will be used to improve music recommendations",
+          "NSCalendarsUsageDescription": "Advertisement would like to create a calendar event.",
+          "NSBluetoothPeripheralUsageDescription": "Deezer needs bluetooth access to scan for nearby Cast devices."
+        }
+      },
+      "versions": [
+        {
+          "version": "7.15.0",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 7.15.0\n\nTweaks: ColorBoard, CopyDeezerLabel, CydiaSubstrate, Deezelife\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30/Deezer.ipa",
+          "size": 61573961
+        },
+        {
+          "version": "7.15.0b",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 7.15.0\n\nTweaks: ColorBoard, CopyDeezerLabel, CydiaSubstrate, Deezelife\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-7a9c12939ea508746bca/Deezer.ipa",
+          "size": 61573961
+        }
+      ],
+      "category": "music"
     },
     {
       "beta": false,
@@ -7688,13 +7726,6 @@
           "localizedDescription": "Version: 2.64.2\n\nTweaks: Lingvist, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-2/Lingvist_Learn_Languages_Fast_v2_64_2_Subscription_Unlocked_blatant.ipa",
           "size": 34683642
-        },
-        {
-          "version": "2.64.2b",
-          "date": "2025-12-29",
-          "localizedDescription": "Version: 2.64.2\n\nTweaks: Lingvist, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-2/Lingvist_Learn_Languages_Fast_v2_64_2_Subscription_Unlocked_blatant.ipa",
-          "size": 34683642
         }
       ],
       "category": "education"
@@ -11758,6 +11789,78 @@
         }
       ],
       "category": "entertainment"
+    },
+    {
+      "beta": false,
+      "name": "RunGo",
+      "bundleIdentifier": "com.leapingcoyote.rungo",
+      "developerName": "Leaping Coyote Interactive",
+      "subtitle": "Tweaked with RunGo, blatantsPatch",
+      "version": "7.2.3",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Version: 7.2.3\n\nTweaks: RunGo, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30/RunGo_The_Best_Routes_to_Run_v7_2_3_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: RunGo, blatantsPatch\n\n📱 RunGo - The Best Routes to Run\n\n🆔 Bundle ID: com.leapingcoyote.rungo\n⬆️ Updated to: 7.2.3\n🔧 Minimum iOS: 15.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nLogin with apple or facebook to activate subscription\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nGo for a run with voice navigation along the way, explore like a local when you travel, find a runner-friendly hotel, or take on an audio-guided race.\n\nRunGo is the app that gives directions.\n\nWe call it \"navigation beyond maps.\"\n\nLooking to find or create and follow a running route?\nHands down, the easiest way to stay on track and enjoy your run is customized, turn-by-turn voice navigation.\n\nRunGo is the most popular running app featuring turn-by-turn voice navigation, with over a million route",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/4e/85/964e850d-336b-756d-b048-af5c4dc73276/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 37857667,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/45/e0/ee45e0ee-718c-9c2e-2087-8bdf3e1b7312/63d22f16-5ed7-4197-aa0b-8da83edce00b_Artboard_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4e/76/d2/4e76d223-f7c6-3f5b-14f2-25f7b31c2560/e442cc90-4e02-40b1-99c3-8c7f5e99a930_Artboard_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/1b/8f/ea1b8f1a-b306-a555-a56c-d827e3323ff8/0158b5a2-1c72-4afe-98e2-31dbfe1c4821_Artboard_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/e0/4f/ade04f20-620c-53d8-b5aa-f9e073a06c8e/eb47bbe2-08e5-4a5d-8469-2bf819416aea_Artboard_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/3c/95/513c95b2-67c3-33e6-7a02-322916bf5371/f773a52a-b900-4080-b870-2b468836d184_Artboard_5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.external-accessory.wireless-configuration",
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.siri",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.developer.healthkit.access",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "RunGo needs access to your Photo Library to attach a photo to a route.",
+          "NSCameraUsageDescription": "RunGo needs access to the Camera to take a photo.",
+          "NSLocationWhenInUseUsageDescription": "RunGo requires use of location services to be able to track your run progress.",
+          "NSLocationAlwaysUsageDescription": "RunGo requires use of locations services to be able to track your run progress.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "RunGo requires use of location services to be able to track your run progress.",
+          "NSMotionUsageDescription": "This is needed in order to automatically pause and resume runs.",
+          "NSHealthShareUsageDescription": "RunGo shares Workout, Distance and Energy with the Activity App.",
+          "NSHealthUpdateUsageDescription": "RunGo needs access to Health to display your Heart Rate.",
+          "NSSiriUsageDescription": "You will be able to use Siri to start, pause, and end runs.",
+          "NSBluetoothAlwaysUsageDescription": "The RunGo app will use Bluetooth to get your heart rate if available while running.",
+          "NSBluetoothPeripheralUsageDescription": "The RunGo app will use Bluetooth to get your heart rate if available.",
+          "NSPhotoLibraryAddUsageDescription": "RunGo needs permission to save this photo."
+        }
+      },
+      "versions": [
+        {
+          "version": "7.2.3",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 7.2.3\n\nTweaks: RunGo, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30/RunGo_The_Best_Routes_to_Run_v7_2_3_Subscription_Unlocked_blatant.ipa",
+          "size": 37857667
+        },
+        {
+          "version": "7.2.3b",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 7.2.3\n\nTweaks: RunGo, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-7a9c12939ea508746bca/RunGo_The_Best_Routes_to_Run_v7_2_3_Subscription_Unlocked_blatant.ipa",
+          "size": 37857667
+        }
+      ],
+      "category": "health-&-fitness"
     },
     {
       "beta": false,
