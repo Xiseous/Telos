@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.evolve.podcast",
+    "com.sfun.snapedit",
+    "com.genau.MemoryCircle",
     "com.blockpuzzle.us.ios",
-    "com.lightricks.Facetune2",
-    "com.abishkking.maleworkout",
-    "com.locket.Locket",
-    "com.commsource.BeautyPlus"
+    "com.lightricks.Facetune2"
   ],
   "apps": [
     {
@@ -2227,19 +2227,12 @@
         {
           "version": "6.6.8b",
           "date": "2025-12-30",
-          "localizedDescription": "Version: 6.6.8\n\nTweaks: ADsBlocker, Adblock 1, Adblock 2, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/Block.Blast.noads.6.6.8.ipa",
-          "size": 128416052
-        },
-        {
-          "version": "6.6.8c",
-          "date": "2025-12-30",
           "localizedDescription": "Version: 6.6.8\n\nTweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Block.Blast.-v6.6.8-riftysipas.ipa",
           "size": 127480802
         },
         {
-          "version": "6.6.8d",
+          "version": "6.6.8c",
           "date": "2025-12-30",
           "localizedDescription": "Version: 6.6.8\n\nTweaks: ADsBlocker, Adblock 1, Adblock 2, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Block.Blast.noads.6.6.8.ipa",
@@ -2286,6 +2279,13 @@
           "localizedDescription": "Version: 5.5.3\n\nTweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, nostealing\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-167f728969871260d274/BlockBlast_v5.5.3-riftysipas.ipa",
           "size": 90838472
+        },
+        {
+          "version": "5.4.4",
+          "date": "2025-12-29",
+          "localizedDescription": "Version: 5.4.4\n\nTweaks: CydiaSubstrate, fixipa1, fixipa2, riftysnoads\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-167f728969871260d274/BlockBlast_v5.4.4-riftysipas.ipa",
+          "size": 88505047
         }
       ],
       "category": "games"
@@ -17872,7 +17872,7 @@
       "version": "6.133.0",
       "versionDate": "2025-12-30",
       "versionDescription": "Version: 6.133.0\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Podcast.App-v6.133.0-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Podcast.App-v6.133.0-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nPodcast App\n\nTweak: Premium Unlocked\n\nVersion: 6.133.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.evolve.podcast\nDeveloper: Evolve Global, Inc.\n\n---\nGet millions of podcasts at your fingertips and any curiosity on-demand, only on Podcast App: the #1 most downloaded podcast app in The App Store. Sharpen up in your downtime with free and easy access to millions of shows. Start feeding all of your interests from news and comedy to true crime, sports and infinitely more.\n\nFind something new to listen to in less than 10 seconds. With endless personalized recommendations, interest categories, and our powerful search and filters, it’s easy to disco",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/09/ad/c309ad90-b37e-d0d2-c36e-c5ba9c2b2ee1/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
@@ -17909,6 +17909,20 @@
       "versions": [
         {
           "version": "6.133.0",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 6.133.0\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Podcast.App-v6.133.0-riftysipas.ipa",
+          "size": 46039498
+        },
+        {
+          "version": "6.133.0b",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 6.133.0\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Podcast.App-v6.133.0-riftysipas.ipa",
+          "size": 46039498
+        },
+        {
+          "version": "6.133.0c",
           "date": "2025-12-30",
           "localizedDescription": "Version: 6.133.0\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Podcast.App-v6.133.0-riftysipas.ipa",
@@ -21077,7 +21091,7 @@
       "version": "6.3.6",
       "versionDate": "2025-12-30",
       "versionDescription": "Version: 6.3.6\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/SnapEdit.Premium.6.3.6.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/SnapEdit.Premium.6.3.6.ipa",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSnapEdit - Remove Objects AI\n\nPremium features unlocked\n\nTweak made by David\n\nMinimum OS version 15.0\n\nAppStore link | Donate\n\n---\nSnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objec",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/81/65/2c81656c-ba96-55da-f9fc-b76cb673e9cc/AppIcon-Christmas-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
@@ -21101,6 +21115,20 @@
       "versions": [
         {
           "version": "6.3.6",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 6.3.6\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/SnapEdit.Premium.6.3.6.ipa",
+          "size": 124054037
+        },
+        {
+          "version": "6.3.6b",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 6.3.6\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/SnapEdit.Premium.6.3.6.ipa",
+          "size": 124054037
+        },
+        {
+          "version": "6.3.6c",
           "date": "2025-12-30",
           "localizedDescription": "Version: 6.3.6\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/SnapEdit.Premium.6.3.6.ipa",
@@ -21142,7 +21170,7 @@
           "size": 156627864
         },
         {
-          "version": "6.3.6b",
+          "version": "6.3.6d",
           "date": "2025-12-30",
           "localizedDescription": "Version: 6.3.6\n\nTweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/SnapEdit_Photo_Editor_AI_v6_3_6_Pro_Unlocked_blatant_Patched.ipa",
@@ -21154,20 +21182,6 @@
           "localizedDescription": "Version: 6.1.3\n\nTweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/SnapEdit_Photo_Editor_AI_v6_1_3_Pro_Unlocked_blatant_Patched.ipa",
           "size": 124377372
-        },
-        {
-          "version": "6.1.4",
-          "date": "2025-12-30",
-          "localizedDescription": "Version: 6.1.4\n\nTweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/SnapEdit_Photo_Editor_AI_v6_1_4_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 156518802
-        },
-        {
-          "version": "6.1.5",
-          "date": "2025-12-30",
-          "localizedDescription": "Version: 6.1.5\n\nTweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/SnapEdit_Photo_Editor_AI_v6_1_5_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 156413872
         }
       ],
       "category": "photo-&-video"
@@ -26808,7 +26822,7 @@
       "version": "3.1.9",
       "versionDate": "2025-12-30",
       "versionDescription": "Version: 3.1.9\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/VocaCircle.AI.Smart.Flashcard-v3.1.9-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/VocaCircle.AI.Smart.Flashcard-v3.1.9-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nVocaCircle: AI Smart Flashcard\n\nTweak: Subscription Unlocked\n\nVersion: 3.1.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.genau.MemoryCircle\nDeveloper: Genau Factory\n\n---\nLanguage Learning Flashcard App: Powered by OpenAI\n\nThis app is a language learning platform based on the technological capabilities of OpenAI.\nThe main features include:\n\n1. Oxford Dictionary & OpenAI Translation: Users can utilize the Oxford Dictionary to grasp the precise meaning of words, and experience translations between various languages using OpenAI's advanced translation functionality.\n\n2. Diverse Quizzes & Viewing Modes: To enhance learning efficiency, a variety of quizzes and unique",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/f5/f9/c4f5f98c-10df-8d79-8f93-4f35f9b2ce27/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
@@ -26831,6 +26845,20 @@
       "versions": [
         {
           "version": "3.1.9",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 3.1.9\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/VocaCircle.AI.Smart.Flashcard-v3.1.9-riftysipas.ipa",
+          "size": 13632832
+        },
+        {
+          "version": "3.1.9b",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 3.1.9\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/VocaCircle.AI.Smart.Flashcard-v3.1.9-riftysipas.ipa",
+          "size": 13632832
+        },
+        {
+          "version": "3.1.9c",
           "date": "2025-12-30",
           "localizedDescription": "Version: 3.1.9\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/VocaCircle.AI.Smart.Flashcard-v3.1.9-riftysipas.ipa",
