@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.commsource.BeautyPlus",
+    "com.dubox.drive",
     "co.bazaart.app",
     "com.nextgen.reelsapp",
-    "com.daymore.Across",
-    "dazz.camera.vintagecamera",
-    "com.lightricks.Facetune2"
+    "com.daymore.Across"
   ],
   "apps": [
     {
@@ -285,13 +285,6 @@
         },
         {
           "version": "1.12.7b",
-          "date": "2025-12-30",
-          "localizedDescription": "Tweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/Across.Premium.1.12.7.ipa",
-          "size": 10065088
-        },
-        {
-          "version": "1.12.7c",
           "date": "2025-12-30",
           "localizedDescription": "Tweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Across.Premium.1.12.7.ipa",
@@ -1678,13 +1671,6 @@
         {
           "version": "26.0.8b",
           "date": "2025-12-30",
-          "localizedDescription": "Tweaks: BazaartAIPhotoEditorDesignPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Bazaart.Premium.26.0.8.ipa",
-          "size": 98105159
-        },
-        {
-          "version": "26.0.8c",
-          "date": "2025-12-30",
           "localizedDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Bazaart_AI_Photo_Editor_Design_v26_0_8_Premium_Unlocked_blatant.ipa",
           "size": 98380584
@@ -1951,6 +1937,71 @@
         }
       ],
       "category": "music"
+    },
+    {
+      "name": "BeautyPlus",
+      "bundleIdentifier": "com.commsource.BeautyPlus",
+      "developerName": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "subtitle": "Tweaked with CydiaSubstrate, rophim",
+      "version": "7.27.0",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Tweaks: CydiaSubstrate, rophim\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/BeautyPlus.Premium.7.27.0.ipa",
+      "localizedDescription": "BeautyPlus - AI Photo Editor | Premium features unlocked | Tweak made by ⏤͟͞Lãng Khách🇻🇳 | Minimum OS version 13.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/87/1d/c2871d46-2434-a808-b592-ce9bc5c0e3d0/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 356979583,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/7f/af/8e7faffb-b25d-b181-a831-cf612ac1d937/02ce367b-222b-451a-85fd-37a7ef46cf19_EN__U81ea_U62cd_2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/ec/45/f5ec4567-efb0-6e5c-fb5a-a610f6007404/efedfaee-efaa-4541-8010-ff9b2852bac7_EN__U6d88_U9664_U7b14_2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/9a/8f/739a8fb1-8cf9-d3b1-a800-33c246f5d582/8072b204-f0fa-4de5-8056-8ad6c2b512f2_EN__U58c1_U7eb8.jpeg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/e6/2c/3be62caa-41c8-ac05-0141-028104368328/b11acf0e-ba3d-41c6-a978-177275f5c7c2_EN__U7f8e_U5986_2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/bf/c3/41bfc33b-8745-4d85-1553-670a68bfaafb/68c39b45-b0de-409a-8a92-5bb135afbd4f_EN__U53d1_U578b_2208.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.associated-domains",
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "inter-app-audio",
+          "com.apple.developer.ubiquity-kvstore-identifier",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "photoLibraryDesciption",
+          "NSCameraUsageDescription": "cameraDesciption",
+          "NSMicrophoneUsageDescription": "microphoneDesciption",
+          "NSLocationWhenInUseUsageDescription": "WhenInUseUsageDescription",
+          "NSLocationAlwaysUsageDescription": "WhenInUseUsageDescription",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "WhenInUseUsageDescription",
+          "NSUserTrackingUsageDescription": "trackingDescription",
+          "NSPhotoLibraryAddUsageDescription": "photoLibraryAddDesciption"
+        }
+      },
+      "versions": [
+        {
+          "version": "7.27.0",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: CydiaSubstrate, rophim\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/BeautyPlus.Premium.7.27.0.ipa",
+          "size": 356979583
+        },
+        {
+          "version": "7.27.0b",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: CydiaSubstrate, rophim\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/BeautyPlus.Premium.7.27.0.ipa",
+          "size": 356979583
+        }
+      ],
+      "category": "photo-&-video"
     },
     {
       "name": "Big Hunter",
@@ -18650,13 +18701,6 @@
           "version": "7.4b",
           "date": "2025-12-30",
           "localizedDescription": "Tweaks: ReelsappPro\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/Reelsapp.Pro.7.4.ipa",
-          "size": 88110569
-        },
-        {
-          "version": "7.4c",
-          "date": "2025-12-30",
-          "localizedDescription": "Tweaks: ReelsappPro\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Reelsapp.Pro.7.4.ipa",
           "size": 88110569
         }
@@ -23629,6 +23673,71 @@
       "category": "photo-&-video"
     },
     {
+      "name": "TeraBox",
+      "bundleIdentifier": "com.dubox.drive",
+      "developerName": "FLEXTECH INC.",
+      "subtitle": "Tweaked with CydiaSubstrate, teraboxpatch",
+      "version": "4.10.0",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Tweaks: CydiaSubstrate, teraboxpatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/TeraBox.Premium.4.10.0.ipa",
+      "localizedDescription": "TeraBox: Cloud Storage Space | Premium features enabled | It does NOT unlock more storage | Tweak made by Ayz Ayz | Minimum OS version 15.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/0b/f4/1b0bf435-ac2d-e70d-4440-f210edcfdb0f/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 193415836,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/f9/fa/49f9fae7-1e86-4cbe-50c5-8771e6bff96e/iOS_01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/24/7e/00247ebc-6805-5822-9be8-13e8ab78133b/iOS_02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/c8/17/cfc817c4-7fe0-f512-0f93-70ae91086fc4/iOS_03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/84/c5/6584c524-62ba-abb4-6a65-ec053b904301/iOS_04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/7c/51/0d7c513d-8e35-1aec-9607-1e9979f52c4e/iOS_05.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "You are recommended to 『enable acccess to all photos』, the ultra-large space of TeraBox can save beautiful moments in your life",
+          "NSCameraUsageDescription": "If it is not allowed, you will not be able to use functions such as avatar and user feedback to take pictures in TeraBox.",
+          "NSMicrophoneUsageDescription": "Please allow TeraBox to accees your Microphone",
+          "NSLocationWhenInUseUsageDescription": "Please allow TeraBox to get your location",
+          "NSLocationAlwaysUsageDescription": "Please allow TeraBox to get your location",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Please allow TeraBox to get your location",
+          "NSContactsUsageDescription": "If not allowed, you will not be able to get the contact email of the address book to share in TeraBox.",
+          "NSAppleMusicUsageDescription": "Please allow TeraBox to access your music library.",
+          "NSFaceIDUsageDescription": "Authentic with Face ID to continue",
+          "NSUserTrackingUsageDescription": "Please allow TeraBox to provide personalized activities and services to reduce unnecessary ad pushes.",
+          "NSPhotoLibraryAddUsageDescription": "If it is not allowed, functions such as uploading photos and saving photos cannot be used normally in TeraBox."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.10.0",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: CydiaSubstrate, teraboxpatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/TeraBox.Premium.4.10.0.ipa",
+          "size": 193415836
+        },
+        {
+          "version": "4.10.0b",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: CydiaSubstrate, teraboxpatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/TeraBox.Premium.4.10.0.ipa",
+          "size": 193415836
+        }
+      ],
+      "category": "productivity"
+    },
+    {
       "name": "Terrarium: Garden Idle",
       "bundleIdentifier": "sk.phx.terrarium",
       "developerName": "Green Panda Games",
@@ -28045,7 +28154,7 @@
     {
       "title": "⚙️ Telos Update 12.30",
       "identifier": "telos-update-2025-12-30",
-      "caption": "1239 Apps Updated:\n• 386 Photo & Video\n• 241 Health & Fitness\n• 140 Productivity\n• 84 Utilities\n• 64 Education\n• 51 Entertainment\n• 45 Music\n• 35 Travel\n• 25 News\n• 20 Graphics & Design\n• 19 Weather\n• 19 Medical\n• 18 Developer Tools\n• 18 Reference\n• 17 Lifestyle\n• 14 Finance\n• 11 Navigation\n• 10 Sports\n• 7 Business\n• 7 Books\n• 6 Social Networking\n• 2 Games",
+      "caption": "1240 Apps Updated:\n• 386 Photo & Video\n• 241 Health & Fitness\n• 141 Productivity\n• 84 Utilities\n• 64 Education\n• 51 Entertainment\n• 45 Music\n• 35 Travel\n• 25 News\n• 20 Graphics & Design\n• 19 Weather\n• 19 Medical\n• 18 Developer Tools\n• 18 Reference\n• 17 Lifestyle\n• 14 Finance\n• 11 Navigation\n• 10 Sports\n• 7 Business\n• 7 Books\n• 6 Social Networking\n• 2 Games",
       "date": "2025-12-30",
       "tintColor": "#02433b",
       "notify": true,
