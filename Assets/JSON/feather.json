@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.grailr.CARROTweather",
-    "com.lexwarelabs.goodmorning",
+    "dazz.camera.vintagecamera",
     "com.lightricks.Facetune2",
-    "com.mwm.procolor",
-    "com.burbn.instagram"
+    "com.lexwarelabs.goodmorning",
+    "com.kingsoft.office.g.wpsoffice",
+    "com.readdle.ReaddleDocsIPad"
   ],
   "apps": [
     {
@@ -49,50 +49,6 @@
           "size": 24891933
         }
       ]
-    },
-    {
-      "beta": false,
-      "name": " ",
-      "bundleIdentifier": "tech.miidii.MDBlank",
-      "developerName": "MD Studio",
-      "subtitle": "Tweaked with MDWidgets, blatantsPatch",
-      "version": "3.11.1",
-      "versionDate": "2025-12-29",
-      "versionDescription": "Version: 3.11.1\n\nTweaks: MDWidgets, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-1/MD_Widgets_Countdown_widget_v3_11_1_Pro_IAP_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MDWidgets, blatantsPatch\n\n📱 MD Widgets - Countdown widget\n\n🆔 Bundle ID: tech.miidii.MDBlank\n🆕 New App: 3.11.1\n🔧 Minimum iOS: 16.0\n✅ Patched\n💎 Modifier: Pro IAP\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nEnhance your home screen with MD Widgets! Design a unique and immersive experience that blends seamlessly with your wallpaper.\n\nKey Features:\n\n- Control Widget\n- Transparent Widget\n- Text Widget\n- Photo Widget\n- Date & Time Widget\n- Countdown Widget\n- Weather Widget\n- Zen Widget\n- Greetings Widget\n- Music Widget\n- iBoard Widget: Your all-in-one dashboard for system info, weather, and calendar, keeping everything you need within reach\n\nAnd that's just the beginning! We're committed to bringing yo",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/70/df/4570dfd0-233e-b1f4-03e0-1f9cdf0446fe/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 175437524,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/a6/b5/a8a6b55b-53c4-3fe3-9ee5-2f13c2a7acc9/2984f10d-5c7d-4968-9394-7109faf02343_EN_-_1.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/5d/8c/805d8c85-d32d-7466-9260-a92174ab163e/612e3c0d-d337-4d36-9d36-fd49d987826b_EN_-_2.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/90/78/d5907816-05ad-2f0b-c6ac-f85ca073f597/de9628ab-1fc4-4bff-a8be-c4813b36d9fc_5.5-3.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/3e/2c/2c3e2c70-7191-d4c5-af2b-0450675973a7/e2ed6bef-cbbf-4750-9f10-42073f16441b_5.5-4.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/83/70/4d837059-3706-395a-fd27-9d8cce21140a/5430d329-b9f0-4fde-95c5-aeb2ea0b757f_5.5_EN-1.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSLocationWhenInUseUsageDescription": "MD Widgets needs to access your location to display weather.",
-          "NSCalendarsUsageDescription": "MD Widgets needs to access your calendar to display events.",
-          "NSHealthShareUsageDescription": "MD Widgets needs to access Health to disply health data.",
-          "NSHealthUpdateUsageDescription": "MD Widgets needs to access Health to disply health data.",
-          "NSAppleMusicUsageDescription": "MD Widgets needs to use Apple Music to display now playing songs.",
-          "NSBluetoothAlwaysUsageDescription": "MD Widgets needs to use Bluetooth to display status.",
-          "NSPhotoLibraryAddUsageDescription": "MD Widgets needs access to Photos to save wallpaper."
-        }
-      },
-      "versions": [
-        {
-          "version": "3.11.1",
-          "date": "2025-12-29",
-          "localizedDescription": "Version: 3.11.1\n\nTweaks: MDWidgets, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-1/MD_Widgets_Countdown_widget_v3_11_1_Pro_IAP_blatant_Patched.ipa",
-          "size": 175437524
-        }
-      ],
-      "category": "graphics-&-design"
     },
     {
       "beta": false,
@@ -314,6 +270,62 @@
         }
       ],
       "category": "finance"
+    },
+    {
+      "beta": false,
+      "name": "Across",
+      "bundleIdentifier": "com.daymore.Across",
+      "developerName": "DayMore Corp.",
+      "subtitle": "Tweaked with RevenueCatFix26, Sideloadbypass1",
+      "version": "1.12.7",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Version: 1.12.7\n\nTweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Across.Premium.1.12.7.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nAcross: Modern Calendar\n\n Premium featues unlocked\n\nMinimum OS version 15.0\n\nAppStore link | Donate\n\n---\nAcross: Modern Calendar\nA minimal schedule planner designed to work beautifully with Apple Calendar and Reminders.\nFast, focused, and fully in sync across iPhone, iPad, and Mac.\n\nFor those who love planning, it's a tool for structure.\nFor those who don't, it's a gentle space to simply write things down.\nAnd before you know it, you’ll find yourself living a better, more mindful life.\n\nWhat makes Across different:\n- Full integration with Apple Calendar & Reminders\n- A fast and intuitive experience",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/96/63/2b9663f3-73f4-f55e-756e-004966a3466c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 10065088,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/b8/dd/40b8ddd2-2948-95b4-9c70-38009a2091a0/across_ipad_en.001.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/90/68/ff9068b9-10db-ab84-7042-8e4b6105e86e/2a345ec4-83cd-43eb-a0b4-7128557a9916_across_ipad_en.002.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/d9/c4/a5d9c48b-c670-6c35-8563-e49a037c020c/4dec178b-6aba-416d-bc6b-d2be0e87a85c_across_ipad_en.006.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/18/3a/9e183afd-5b37-81a0-c2d5-e26e6c48b6e0/897a61c2-2969-43f1-b7e7-3d6498f4d269_across_ipad_en.003.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/1d/5e/921d5e53-96b1-32c8-77c2-b84e8471518d/93b0b467-20d4-4026-82de-5d7d3c99e4d6_across_ipad_en.004.png/552x414bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-container-identifiers",
+          "application-identifier",
+          "com.apple.developer.weatherkit",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.user-fonts",
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.icloud-services",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Across requires access to current location to create new event or show weather information.",
+          "NSLocationAlwaysUsageDescription": "Across requires access to current location to create new event or show weather information.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Across requires access to current location to create new event or show weather information.",
+          "NSContactsUsageDescription": "Contact information is used to show participants.",
+          "NSCalendarsUsageDescription": "Across requires access to Calendar to create or show events.",
+          "NSRemindersUsageDescription": "Across requires access to Reminders to create or show tasks."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.12.7",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 1.12.7\n\nTweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Across.Premium.1.12.7.ipa",
+          "size": 10065088
+        }
+      ],
+      "category": "productivity"
     },
     {
       "beta": false,
@@ -2136,15 +2148,15 @@
       "name": "Block Blast!",
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "Hungry Studio",
-      "subtitle": "Tweaked with CydiaSubstrate, NetworkBlocker(adblocker)",
-      "version": "5.6.5",
-      "versionDate": "2025-12-29",
-      "versionDescription": "Version: 5.6.5\n\nTweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-5c26c034c02542b70eaf/Block.Blast.-v5.6.5-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty\n\nName: Block Blast!\n\nTweak: No Ads\n\nVersion: 5.6.5\n\nMade by @riftysIPAlibrary\n\n---\nEnter the world of Block Blast, where every move is a test of your brain and strategy. Dive into the thrill of block crush gameplay—watch vibrant cubes explode in color as you solve each puzzle. With fresh daily puzzle challenges that keep your mind engaged and an endless high score system that rewards your best strategies, Block Blast delivers nonstop excitement for casual players and puzzle masters alike.\n\nWhy You'll Love Block Blast\n• Daily Puzzle Variety: Every day brings a new puzzle twist,",
+      "subtitle": "Tweaked with NetworkBlocker(adblocker), fixipa1",
+      "version": "6.6.8",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Version: 6.6.8\n\nTweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Block.Blast.-v6.6.8-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nBlock Blast!\n\nTweak: No Ads\n\nVersion: 6.6.8\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 13.0\nBundle ID: com.blockpuzzle.us.ios\nDeveloper: Hungry Studio\n\n---\nEnter the world of Block Blast, where every move is a test of your brain and strategy. Dive into the thrill of block crush gameplay—watch vibrant cubes explode in color as you solve each puzzle. With fresh daily puzzle challenges that keep your mind engaged and an endless high score system that rewards your best strategies, Block Blast delivers nonstop excitement for casual players and puzzle masters alike.\n\nWhy You'll Love Block Blast\n• Daily Puzzle Variety: Every day brings a new puzzle twist,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/85/ae/b385ae62-ce16-331d-8ac9-dab53d9107ee/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 110099797,
+      "size": 127480802,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/76/ee/2a76ee57-90a6-9c88-7393-b77afd3b6508/4ac25f40-0f18-43c2-8be8-b3d2018fe240_2048X2732_1.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/b3/98/acb39832-888e-a1cf-7f06-511f1b1dd114/94905e6c-232a-4e06-a5c0-8f2cd6c397c3_2048X2732_2.png/576x768bb.png",
@@ -2154,6 +2166,7 @@
       ],
       "appPermissions": {
         "entitlements": [
+          "keychain-access-groups",
           "com.apple.developer.team-identifier",
           "com.apple.developer.kernel.increased-memory-limit",
           "com.apple.developer.kernel.extended-virtual-addressing",
@@ -2167,6 +2180,20 @@
         }
       },
       "versions": [
+        {
+          "version": "6.6.8",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 6.6.8\n\nTweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Block.Blast.-v6.6.8-riftysipas.ipa",
+          "size": 127480802
+        },
+        {
+          "version": "6.6.8b",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 6.6.8\n\nTweaks: ADsBlocker, Adblock 1, Adblock 2, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Block.Blast.noads.6.6.8.ipa",
+          "size": 128416052
+        },
         {
           "version": "5.6.5",
           "date": "2025-12-29",
@@ -2222,20 +2249,6 @@
           "localizedDescription": "Version: 5.3.4\n\nTweaks: CydiaSubstrate, riftysnoads\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-167f728969871260d274/BlockBlast_v5.3.4-RiftysIPAs.ipa",
           "size": 89281197
-        },
-        {
-          "version": "5.3.2",
-          "date": "2025-12-29",
-          "localizedDescription": "Version: 5.3.2\n\nTweaks: CydiaSubstrate, riftysnoads\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-167f728969871260d274/BlockBlast_v5.3.2-RiftysIPAs.ipa",
-          "size": 89261205
-        },
-        {
-          "version": "5.2.9",
-          "date": "2025-12-29",
-          "localizedDescription": "Version: 5.2.9\n\nTweaks: CydiaSubstrate, riftysnoads\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-167f728969871260d274/BlockBlast_v5.2.9-RiftysIPAs.ipa",
-          "size": 89214984
         }
       ],
       "category": "games"
@@ -3536,13 +3549,6 @@
         },
         {
           "version": "6.3.3b",
-          "date": "2025-12-30",
-          "localizedDescription": "Version: 6.3.3\n\nTweaks: CARROT, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/CARROT_6.3.3_1767080208.ipa",
-          "size": 323928799
-        },
-        {
-          "version": "6.3.3c",
           "date": "2025-12-30",
           "localizedDescription": "Version: 6.3.3\n\nTweaks: Carrot, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/CARROT_Weather_Alerts_._Radar_v6_3_3_Premium_Unlocked_blatant_Patched.ipa",
@@ -4875,14 +4881,14 @@
       "bundleIdentifier": "com.mwm.procolor",
       "developerName": "MWM",
       "subtitle": "Tweaked with ColorPop, blatantsPatch",
-      "version": "2.56.03",
+      "version": "2.57.09",
       "versionDate": "2025-12-30",
-      "versionDescription": "Version: 2.56.03\n\nTweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Color_Pop_AI_Coloring_Book_v2_56_03_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ColorPop, blatantsPatch\n\n📱 Color Pop AI - Coloring Book\n\n🆔 Bundle ID: com.mwm.procolor\n⬆️ Updated to: 2.56.03\n🔧 Minimum iOS: 15.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nJust close the purchase pages if you see any\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nFeel like expressing the inner artist that dozes in you?\nChoose Color Pop!\n\nColor Pop brings you your daily dose of fun with millions of drawings.\n\nYou are a brush away from the best coloring experience !\n\nJoin the Color Pop community, get inspired, start painting and have fun with the most enjoyable coloring game. So satisfying!\n\nColor Pop offers a wide range of features so you can reveal your inner artist:\n\n- Extended catalog: mandalas, animals, patterns, florals and more\n- Easy to paint : tap",
+      "versionDescription": "Version: 2.57.09\n\nTweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Color_Pop_AI_Coloring_Book_v2_57_09_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ColorPop, blatantsPatch\n\n📱 Color Pop AI - Coloring Book\n\n🆔 Bundle ID: com.mwm.procolor\n⬆️ Updated to: 2.57.09\n🔧 Minimum iOS: 17.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nJust close the purchase pages if you see any\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nFeel like expressing the inner artist that dozes in you?\nChoose Color Pop!\n\nColor Pop brings you your daily dose of fun with millions of drawings.\n\nYou are a brush away from the best coloring experience !\n\nJoin the Color Pop community, get inspired, start painting and have fun with the most enjoyable coloring game. So satisfying!\n\nColor Pop offers a wide range of features so you can reveal your inner artist:\n\n- Extended catalog: mandalas, animals, patterns, florals and more\n- Easy to paint : tap",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/39/02/403902bd-83cf-6bd4-05cf-312b637fafb8/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 276643826,
+      "size": 302625273,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/0f/47/e90f477b-c4b2-8208-fcbd-04c5133e3322/EN_ipad_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/81/4b/38814b10-3e89-9d7a-a080-9cbfc5beb6b4/EN_ipad_02.png/576x768bb.png",
@@ -4891,15 +4897,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/00/3a/a5003a4c-bc3e-a7bb-8b69-c1837f2bda82/EN_ipad_05.jpg/576x768bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.team-identifier",
-          "application-identifier",
-          "com.apple.developer.applesignin",
-          "aps-environment",
-          "com.apple.developer.in-app-payments",
-          "com.apple.developer.associated-domains",
-          "com.apple.security.application-groups"
-        ],
+        "entitlements": [],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Enable Color Pop to access your camera roll to import your pictures and turn them into drawings",
           "NSCameraUsageDescription": "Color Pop needs access to your camera so that you can take a photo for your profile",
@@ -4908,6 +4906,13 @@
         }
       },
       "versions": [
+        {
+          "version": "2.57.09",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 2.57.09\n\nTweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Color_Pop_AI_Coloring_Book_v2_57_09_Subscription_Unlocked_blatant.ipa",
+          "size": 302625273
+        },
         {
           "version": "2.56.03",
           "date": "2025-12-30",
@@ -4970,13 +4975,6 @@
           "localizedDescription": "Version: 2.56.06\n\nTweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Color_Pop_AI_Coloring_Book_v2_56_06_Subscription_Unlocked_blatant.ipa",
           "size": 276790411
-        },
-        {
-          "version": "2.56.07",
-          "date": "2025-12-30",
-          "localizedDescription": "Version: 2.56.07\n\nTweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Color_Pop_AI_Coloring_Book_v2_56_07_Subscription_Unlocked_blatant.ipa",
-          "size": 276791098
         }
       ],
       "category": "entertainment"
@@ -5395,14 +5393,14 @@
       "bundleIdentifier": "dazz.camera.vintagecamera",
       "developerName": "DAZZ PTE. LTD.",
       "subtitle": "Tweaked with Dazzcam, blatantsPatch",
-      "version": "2.11",
+      "version": "2.13.2",
       "versionDate": "2025-12-30",
-      "versionDescription": "Version: 2.11\n\nTweaks: Dazzcam, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Dazz.Cam.-.Vintage.Camera.v2.11.Dazz.Pro.blatant.Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Dazzcam, blatantsPatch\n\n📱 Dazz Cam - Vintage Camera\n\n🆔 Bundle ID: dazz.camera.vintagecamera\n⬆️ Updated to: 2.11\n🔧 Minimum iOS: 15.6\n✅ Patched\n💎 Modifier: Dazz Pro\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nDazz Camera, Pro Photographer in your Pocket.\nWe believe in keeping it simple, no need for post-editing. With just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\n\nDazz camera is inspired by classic film cameras from the 80s. We’ve sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, h",
+      "versionDescription": "Version: 2.13.2\n\nTweaks: Dazzcam, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/Dazz.Cam.-.Vintage.Camera.v2.13.2.Dazz.Pro.blatant.Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Dazzcam, blatantsPatch\n\n📱 Dazz Cam - Vintage Camera\n\n🆔 Bundle ID: dazz.camera.vintagecamera\n⬆️ Updated to: 2.13.2\n🔧 Minimum iOS: 15.6\n✅ Patched\n💎 Modifier: Dazz Pro\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nDazz Camera, Pro Photographer in your Pocket.\nWe believe in keeping it simple, no need for post-editing. With just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\n\nDazz camera is inspired by classic film cameras from the 80s. We’ve sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, h",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/ec/c8/a7ecc822-01de-2907-0178-58dc61821b9f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 112149109,
+      "size": 114566562,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/88/2a/9a882a54-2fdc-52bc-892e-0fef368f59b5/4a402db1-c705-45a8-91fe-d480213955ff_en_s.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/2a/f1/012af1cc-25e6-7e0f-acb6-df20fb7988de/a9a72ff2-bfd1-4303-aee9-cf9b0ae9d123_02.jpg/392x696bb.jpg",
@@ -5425,6 +5423,27 @@
         }
       },
       "versions": [
+        {
+          "version": "2.13.2",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 2.13.2\n\nTweaks: Dazzcam, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/Dazz.Cam.-.Vintage.Camera.v2.13.2.Dazz.Pro.blatant.Patched.ipa",
+          "size": 114566562
+        },
+        {
+          "version": "2.13.2b",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 2.13.2\n\nTweaks: Dazzcam, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/Dazz.Cam.-.Vintage.Camera.v2.13.2.Dazz.Pro.blatant.Patched.ipa",
+          "size": 114566562
+        },
+        {
+          "version": "2.13.2c",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 2.13.2\n\nTweaks: Dazzcam, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Dazz.Cam.-.Vintage.Camera.v2.13.2.Dazz.Pro.blatant.Patched.ipa",
+          "size": 114566562
+        },
         {
           "version": "2.11",
           "date": "2025-12-30",
@@ -5946,38 +5965,18 @@
       "name": "Documents",
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
       "developerName": "Readdle Technologies Limited",
-      "subtitle": "Tweaked with Documents, blatantsPatch",
-      "version": "8.17.14",
+      "subtitle": "Tweaked with Documents, FilePickerFix",
+      "version": "8.17.15",
       "versionDate": "2025-12-30",
-      "versionDescription": "Version: 8.17.14\n\nTweaks: Documents, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Documents_File_Manager_._Docs_v8_17_14_DocumentsPlus_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Documents, blatantsPatch\n\n📱 Documents: File Manager & Docs\n\n🆔 Bundle ID: com.readdle.ReaddleDocsIPad\n⬆️ Updated to: 8.17.14\n🔧 Minimum iOS: 16.0\n✅ Patched\n💎 Modifier: DocumentsPlus Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nNo \"Update available\" popup 😄\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nDocuments by Readdle is a super app for iPhone and iPad. It’s your all-in-one solution for working with files at home, in the office, at university, or on the go. Whether you edit, annotate, convert, listen to, or read, Documents brings everything together in one seamless experience. From books, scans, and receipts to articles, PDFs, audio, and video files, and even ZIP & RAR archives — every type of content finds its home in Documents. One app – infinite capabilities.\n\nServing as your PDF reade",
+      "versionDescription": "Version: 8.17.15\n\nTweaks: Documents, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Documents_File_Manager_._Docs_v8_17_15_DocumentsPlus_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Documents, FilePickerFix, blatantsPatch\n\n📱 Documents: File Manager & Docs\n\n🆔 Bundle ID: com.readdle.ReaddleDocsIPad\n⬆️ Updated to: 8.17.15\n🔧 Minimum iOS: 16.0\n✅ Patched\n💎 Modifier: DocumentsPlus Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nNo \"Update available\" popup 😄\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nDocuments by Readdle is a super app for iPhone and iPad. It’s your all-in-one solution for working with files at home, in the office, at university, or on the go. Whether you edit, annotate, convert, listen to, or read, Documents brings everything together in one seamless experience. From books, scans, and receipts to articles, PDFs, audio, and video files, and even ZIP & RAR archives — every type of content finds its home in Documents. One app – infinite capabilities.\n\nServing as your PDF reade",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/ec/77/48ec7731-cf11-f7f3-2588-45452045db27/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 294424574,
+      "size": 310825603,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.networking.vpn.api",
-          "com.apple.developer.icloud-container-identifiers",
-          "com.apple.developer.group-session",
-          "com.apple.developer.ubiquity-container-identifiers",
-          "application-identifier",
-          "com.apple.developer.user-fonts",
-          "aps-environment",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.icloud-services",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.developer.siri",
-          "com.apple.developer.team-identifier",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.networking.networkextension",
-          "com.apple.developer.ubiquity-kvstore-identifier",
-          "keychain-access-groups",
-          "com.apple.security.application-groups"
-        ],
+        "entitlements": [],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This will let you view, manage, and import photos and videos from your Photo Library.",
           "NSCameraUsageDescription": "This will let you take photos and scans in Documents, control video playback with Air Gestures, as well as connect to computer via a QR-code.",
@@ -5991,6 +5990,20 @@
         }
       },
       "versions": [
+        {
+          "version": "8.17.15",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 8.17.15\n\nTweaks: Documents, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Documents_File_Manager_._Docs_v8_17_15_DocumentsPlus_Unlocked_blatant.ipa",
+          "size": 310825603
+        },
+        {
+          "version": "8.17.18",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 8.17.18\n\nTweaks: Documents, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Documents_File_Manager_._Docs_v8_17_18_DocumentsPlus_Unlocked_blatant.ipa",
+          "size": 310848278
+        },
         {
           "version": "8.17.14",
           "date": "2025-12-30",
@@ -7418,14 +7431,14 @@
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "Lightricks Ltd.",
       "subtitle": "Tweaked with Facetune, blatantsPatch",
-      "version": "3.105.1",
+      "version": "3.112",
       "versionDate": "2025-12-30",
-      "versionDescription": "Version: 3.105.1\n\nTweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Facetune_Video_._Photo_Editor_v3_105_1_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Facetune, blatantsPatch, sideloadKeychainfix\n\n📱 Facetune: Video & Photo Editor\n\n🆔 Bundle ID: com.lightricks.Facetune2\n⬆️ Updated to: 3.105.1\n🔧 Minimum iOS: 17.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nWelcome to Facetune, the go-to photo editing app for creators, influencers, and selfie enthusiasts! We're all about celebrating you and helping your photos shine like never before. With Facetune, you get powerful tools, a user-friendly interface, and endless creative possibilities to express yourself with confidence.\n\nWhat's Hot in Facetune:\n• Headshots: Transform everyday photos into professional-grade headshots in seconds with AI technology.\n• Filters: Discover a variety of filters to give you",
+      "versionDescription": "Version: 3.112\n\nTweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Facetune_Video_._Photo_Editor_v3_112_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Facetune, blatantsPatch, sideloadKeychainfix\n\n📱 Facetune: Video & Photo Editor\n\n🆔 Bundle ID: com.lightricks.Facetune2\n⬆️ Updated to: 3.112\n🔧 Minimum iOS: 17.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nWelcome to Facetune, the go-to photo editing app for creators, influencers, and selfie enthusiasts! We're all about celebrating you and helping your photos shine like never before. With Facetune, you get powerful tools, a user-friendly interface, and endless creative possibilities to express yourself with confidence.\n\nWhat's Hot in Facetune:\n• Headshots: Transform everyday photos into professional-grade headshots in seconds with AI technology.\n• Filters: Discover a variety of filters to give you",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/51/5f/16515fbc-aced-bbca-e809-0f95a98dc757/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 305710818,
+      "size": 329005950,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e1/25/81e125c3-0cff-38ab-c643-3cc8ebd60281/FT-250819-ASO-Baseline-5.5-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/52/66/e1526682-7c10-2655-d24a-0f0047c6fe71/FT-250819-ASO-Baseline-5.5-02.jpg/392x696bb.jpg",
@@ -7456,6 +7469,13 @@
         }
       },
       "versions": [
+        {
+          "version": "3.112",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 3.112\n\nTweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Facetune_Video_._Photo_Editor_v3_112_Subscription_Unlocked_blatant.ipa",
+          "size": 329005950
+        },
         {
           "version": "3.105.1",
           "date": "2025-12-30",
@@ -10565,14 +10585,14 @@
       "bundleIdentifier": "com.polywise.weekly",
       "developerName": "Polywise, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "4.7.4",
-      "versionDate": "2025-12-29",
-      "versionDescription": "Version: 4.7.4\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, riftysuipopup\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-167f728969871260d274/Imprint.Learn.Visually-v4.7.4-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, riftysuipopup\n\nName: Imprint: Learn Visually\n\nTweak: Subscription Unlocked\n\nVersion: 4.7.4\n\nMade by @riftysIPAlibrary\n\n---\nImprint is your visual guide to the world's most important knowledge.\n\n- Master essential topics in psychology, philosophy, history, finance, leadership, business, health, science, technology and more.\n\n- Understand complex concepts quickly, with elegant visuals that clarify key ideas and help you stay focused.\n\n- Take challenging daily quizzes that help you retain what you've learned.\n\n- Save and review the insights and visuals that matter most to you.\n\n- Complete a chapter in two minutes or le",
+      "version": "5.0.7",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Version: 5.0.7\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Imprint.Learn.Visually-v5.0.7-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nImprint: Learn Visually\n\nTweak: Subscription Unlocked\n\nVersion: 5.0.7\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.polywise.weekly\nDeveloper: Polywise, Inc.\n\n---\nImprint is your visual guide to the world's most important knowledge.\n\n- Master essential topics in psychology, philosophy, history, finance, leadership, business, health, science, technology and more.\n\n- Understand complex concepts quickly, with elegant visuals that clarify key ideas and help you stay focused.\n\n- Take challenging daily quizzes that help you retain what you've learned.\n\n- Save and review the insights and visuals that matter most to you.\n\n- Complete a chapter in two minutes or le",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/7d/5c/f87d5ca4-3ed1-cacd-a933-931ad531bd12/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 89092168,
+      "size": 106642415,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/ca/ed/7ccaedf5-08ce-9acc-5b51-833110b9b24f/Microlearning_diagonal_414x736_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/0b/9a/1d0b9a49-5061-534a-a9ca-cf895baf4002/Split_Device_Small_3.png/392x696bb.png",
@@ -10597,6 +10617,13 @@
         }
       },
       "versions": [
+        {
+          "version": "5.0.7",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 5.0.7\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Imprint.Learn.Visually-v5.0.7-riftysipas.ipa",
+          "size": 106642415
+        },
         {
           "version": "4.7.4",
           "date": "2025-12-29",
@@ -11218,14 +11245,14 @@
       "bundleIdentifier": "com.ahaf.mshion",
       "developerName": "MWM",
       "subtitle": "Tweaked with blatantsPatch, ism",
-      "version": "7.28.0",
+      "version": "7.33.0",
       "versionDate": "2025-12-30",
-      "versionDescription": "Version: 7.28.0\n\nTweaks: blatantsPatch, ism\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/digital_camera_filter_ism_v7_28_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: blatantsPatch, ism\n\n📱 digital camera filter : ism\n\n🆔 Bundle ID: com.ahaf.mshion\n🆕 New App: 7.28.0\n🔧 Minimum iOS: 18.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nJust close the purchase pages if you see any\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nHundreds of 5-Star Reviews\n\nUnlock your creative potential with ISM - the creative’s dream come true. With over 300 professionally curated preset filters, you can make your photos and videos come alive with unparalleled ease and effect.\n\nNot a pro? No problem. ISM has done the hard work for you, so you don't have to! With one click, you can choose from a world of styles made exclusively by professional photographers from all around the globe. Whether your look is soft and dreamy, Urban and artsy",
+      "versionDescription": "Version: 7.33.0\n\nTweaks: blatantsPatch, ism\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/digital_camera_filter_ism_v7_33_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: blatantsPatch, ism\n\n📱 digital camera filter : ism\n\n🆔 Bundle ID: com.ahaf.mshion\n⬆️ Updated to: 7.33.0\n🔧 Minimum iOS: 18.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nJust close the purchase pages if you see any\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nHundreds of 5-Star Reviews\n\nUnlock your creative potential with ISM - the creative’s dream come true. With over 300 professionally curated preset filters, you can make your photos and videos come alive with unparalleled ease and effect.\n\nNot a pro? No problem. ISM has done the hard work for you, so you don't have to! With one click, you can choose from a world of styles made exclusively by professional photographers from all around the globe. Whether your look is soft and dreamy, Urban and artsy",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/06/c9/0d06c9a4-3c54-9067-3ed3-cd4bc962df29/xmas_app_icon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 112087389,
+      "size": 120852776,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/57/1f/60571f39-07d3-904e-2cbb-694b2ad8b9b9/249fb166-372e-4671-a8fc-8e7cbffc23dc_ism_-screenshot-1-1920.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/ea/f8/2ceaf8a3-c6a3-b469-22e4-f86c3c353c9b/95ed4e69-9d20-4f7f-8318-2d71bcaf4ded_ism_-screenshot-2-1920.jpg/392x696bb.jpg",
@@ -11234,7 +11261,13 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2c/3a/b3/2c3ab32b-cce0-4428-98da-0737ec4cd1a8/30a7f90c-9a67-4fac-9b3c-8150552a149a_ism_-screenshot-4-1920.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.associated-domains",
+          "application-identifier"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "We need access to your photo library to allow you to select and edit your photos and videos.",
           "NSCameraUsageDescription": "Camera access is required to take photos and videos.",
@@ -11244,6 +11277,20 @@
         }
       },
       "versions": [
+        {
+          "version": "7.33.0",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 7.33.0\n\nTweaks: blatantsPatch, ism\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/digital_camera_filter_ism_v7_33_0_Subscription_Unlocked_blatant.ipa",
+          "size": 120852776
+        },
+        {
+          "version": "7.33.0b",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 7.33.0\n\nTweaks: blatantsPatch, ism\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/digital_camera_filter_ism_v7_33_0_Subscription_Unlocked_blatant.ipa",
+          "size": 120852776
+        },
         {
           "version": "7.28.0",
           "date": "2025-12-30",
@@ -13248,6 +13295,50 @@
         }
       ],
       "category": "lifestyle"
+    },
+    {
+      "beta": false,
+      "name": "MD Widget ",
+      "bundleIdentifier": "tech.miidii.MDBlank",
+      "developerName": "MD Studio",
+      "subtitle": "Tweaked with MDWidgets, blatantsPatch",
+      "version": "3.11.1",
+      "versionDate": "2025-12-29",
+      "versionDescription": "Version: 3.11.1\n\nTweaks: MDWidgets, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-1/MD_Widgets_Countdown_widget_v3_11_1_Pro_IAP_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MDWidgets, blatantsPatch\n\n📱 MD Widgets - Countdown widget\n\n🆔 Bundle ID: tech.miidii.MDBlank\n🆕 New App: 3.11.1\n🔧 Minimum iOS: 16.0\n✅ Patched\n💎 Modifier: Pro IAP\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nEnhance your home screen with MD Widgets! Design a unique and immersive experience that blends seamlessly with your wallpaper.\n\nKey Features:\n\n- Control Widget\n- Transparent Widget\n- Text Widget\n- Photo Widget\n- Date & Time Widget\n- Countdown Widget\n- Weather Widget\n- Zen Widget\n- Greetings Widget\n- Music Widget\n- iBoard Widget: Your all-in-one dashboard for system info, weather, and calendar, keeping everything you need within reach\n\nAnd that's just the beginning! We're committed to bringing yo",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/70/df/4570dfd0-233e-b1f4-03e0-1f9cdf0446fe/AppIcon-0-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 175437524,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a8/a6/b5/a8a6b55b-53c4-3fe3-9ee5-2f13c2a7acc9/2984f10d-5c7d-4968-9394-7109faf02343_EN_-_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/5d/8c/805d8c85-d32d-7466-9260-a92174ab163e/612e3c0d-d337-4d36-9d36-fd49d987826b_EN_-_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/90/78/d5907816-05ad-2f0b-c6ac-f85ca073f597/de9628ab-1fc4-4bff-a8be-c4813b36d9fc_5.5-3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/3e/2c/2c3e2c70-7191-d4c5-af2b-0450675973a7/e2ed6bef-cbbf-4750-9f10-42073f16441b_5.5-4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/83/70/4d837059-3706-395a-fd27-9d8cce21140a/5430d329-b9f0-4fde-95c5-aeb2ea0b757f_5.5_EN-1.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "MD Widgets needs to access your location to display weather.",
+          "NSCalendarsUsageDescription": "MD Widgets needs to access your calendar to display events.",
+          "NSHealthShareUsageDescription": "MD Widgets needs to access Health to disply health data.",
+          "NSHealthUpdateUsageDescription": "MD Widgets needs to access Health to disply health data.",
+          "NSAppleMusicUsageDescription": "MD Widgets needs to use Apple Music to display now playing songs.",
+          "NSBluetoothAlwaysUsageDescription": "MD Widgets needs to use Bluetooth to display status.",
+          "NSPhotoLibraryAddUsageDescription": "MD Widgets needs access to Photos to save wallpaper."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.11.1",
+          "date": "2025-12-29",
+          "localizedDescription": "Version: 3.11.1\n\nTweaks: MDWidgets, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-1/MD_Widgets_Countdown_widget_v3_11_1_Pro_IAP_blatant_Patched.ipa",
+          "size": 175437524
+        }
+      ],
+      "category": "graphics-&-design"
     },
     {
       "beta": false,
@@ -17661,6 +17752,60 @@
     },
     {
       "beta": false,
+      "name": "Podcast App",
+      "bundleIdentifier": "com.evolve.podcast",
+      "developerName": "Evolve Global, Inc.",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "6.133.0",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Version: 6.133.0\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Podcast.App-v6.133.0-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nPodcast App\n\nTweak: Premium Unlocked\n\nVersion: 6.133.0\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.evolve.podcast\nDeveloper: Evolve Global, Inc.\n\n---\nGet millions of podcasts at your fingertips and any curiosity on-demand, only on Podcast App: the #1 most downloaded podcast app in The App Store. Sharpen up in your downtime with free and easy access to millions of shows. Start feeding all of your interests from news and comedy to true crime, sports and infinitely more.\n\nFind something new to listen to in less than 10 seconds. With endless personalized recommendations, interest categories, and our powerful search and filters, it’s easy to disco",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/09/ad/c309ad90-b37e-d0d2-c36e-c5ba9c2b2ee1/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 46039498,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/09/25/cd0925f2-769d-b9f5-ddd4-92b04c9b7193/dab702f7-c5a1-41ec-8f24-22240e56c809_EN_-_5.5_-_Screenshot_01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/b2/86/8bb28698-c2d0-988f-c997-37bc1754908c/6404e4fd-5396-4389-b62f-292adf70d49a_EN_-_5.5_-_Screenshot_02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/49/c2/4149c25c-713d-6e9a-c2f1-648a7a421b4d/19b43b63-dee1-4425-a416-7e3673e348e1_EN_-_5.5_-_Screenshot_03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/16/6f/8d166fd3-be7b-9297-e5e1-5dcdc22b98b9/7cb1e5d3-52fa-41e7-82d8-94bcfe476fb1_EN_-_5.5_-_Screenshot_04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/16/ef/1e16efc4-e544-cd02-0c1c-90827d5e0317/133f7820-4fb5-4ebe-b03f-3b57e3ef4435_EN_-_5.5_-_Screenshot_05.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.siri",
+          "com.apple.developer.team-identifier",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.carplay-audio",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Advertisement would like to store a photo.",
+          "NSLocationWhenInUseUsageDescription": "This app requires access to your location.",
+          "NSLocationAlwaysUsageDescription": "This app requires access to your location.",
+          "NSCalendarsUsageDescription": "Advertisement would like to create a calendar event.",
+          "NSAppleMusicUsageDescription": "This will allow us to personalize your experience",
+          "NSSiriUsageDescription": "This app uses Siri so that you can control it through your voice.",
+          "NSBluetoothPeripheralUsageDescription": "Advertisement would like to use bluetooth.",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "6.133.0",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 6.133.0\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Podcast.App-v6.133.0-riftysipas.ipa",
+          "size": 46039498
+        }
+      ],
+      "category": "news"
+    },
+    {
+      "beta": false,
       "name": "Polish",
       "bundleIdentifier": "com.photoeditor.polish",
       "developerName": "SHANTANU PTE. LTD.",
@@ -18744,6 +18889,100 @@
     },
     {
       "beta": false,
+      "name": "ReelsApp",
+      "bundleIdentifier": "com.nextgen.reelsapp",
+      "developerName": "Rustam Achilov",
+      "subtitle": "Tweaked with ReelsappPro",
+      "version": "7.4",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Version: 7.4\n\nTweaks: ReelsappPro\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Reelsapp.Pro.7.4.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ReelsappPro\n\nReelsapp video trends\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nMinimum OS version 15.0\n\nAppStore link | Donate\n\n---\nCreate colorful and memorable videos that will attract attention and go viral with ReelsApp!\n\nReelsApp is an intuitive app that allows every user to create high-quality videos in just a few minutes. With ReelsApp, you can easily turn your ideas into engaging videos that are perfect for Instagram, TikTok and other platforms.\n\nWith Reelsapp, creating videos is a quick and easy process. You don't need to be a professional video editor or have special skills.\n\nJust follow these steps:\n\n1. Choose a c",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/bd/d0/87bdd0a2-df45-d06c-637e-cefdefff87e9/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 88110569,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/7e/be/647ebeb8-356f-18bf-dee5-39db74a6fa0e/f69b4976-2825-44c0-a223-3fb359b746cf__0007_us_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/4c/38/7a4c383d-54a4-4bc8-d0dc-85b513127060/ce878f57-39eb-4c9c-bdfa-93bb3cce176c__0008_us_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a4/31/20/a4312058-cec8-d3e0-5469-59f2b49444e4/222233e0-b5c0-46bd-a3f6-078fdb1bacfe__0009_us_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c6/f7/d1/c6f7d1c4-1a84-11ee-6b22-9a85a75ec28c/320588b0-06be-4839-b844-d72e02aa82b3__0010_us_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bf/d2/79/bfd27901-9a80-5a39-e988-95e78f8fc08b/39668322-930c-4b32-b163-82359292fd37__0011_us_5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.associated-domains",
+          "application-identifier",
+          "com.apple.developer.applesignin"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app requires access to your camera roll to choose photo/video you want to add your project",
+          "NSCameraUsageDescription": "This app requires access to your camera to capture photo/video you want to add your project",
+          "NSMicrophoneUsageDescription": "This app requires access to your microphone to add audio to your project"
+        }
+      },
+      "versions": [
+        {
+          "version": "7.4",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 7.4\n\nTweaks: ReelsappPro\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Reelsapp.Pro.7.4.ipa",
+          "size": 88110569
+        }
+      ],
+      "category": "photo-&-video"
+    },
+    {
+      "beta": false,
+      "name": "Reframe",
+      "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
+      "developerName": "Glucobit Inc.",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "3.9.10",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Version: 3.9.10\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Reframe.Drink.Less.Thrive-v3.9.10-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nReframe: Drink Less & Thrive\n\nTweak: Premium Unlocked\n\nVersion: 3.9.10\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.4\nBundle ID: com.glucobit.cravingBuster.CravingBuster\nDeveloper: Glucobit Inc.\n\n---\nReframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\n\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\n\nNeed e",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/97/8c/6a978ca1-b851-0099-c6f0-687d78a73681/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 323916507,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.team-identifier",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.in-app-payments",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "The photos you upload will be used in your profile picture and self-motivation gallery ",
+          "NSCameraUsageDescription": "To allow you to take a photo for your forum profile.",
+          "NSMicrophoneUsageDescription": "To include audio in this video you are sharing with your group.",
+          "NSContactsUsageDescription": "Required to ask this permission to prevent a crash when trying to edit the calendar, but access is not needed to edit the calendar, so you can deny it safely",
+          "NSCalendarsUsageDescription": "Need to access Calendar to add event",
+          "NSSpeechRecognitionUsageDescription": "To transcribe the audio to text",
+          "NSUserTrackingUsageDescription": "This will allow Reframe to personalize your program, leading to greater success in your journey to reduce or quit drinking alcohol",
+          "NSPhotoLibraryAddUsageDescription": "To share progress on instagram"
+        }
+      },
+      "versions": [
+        {
+          "version": "3.9.10",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 3.9.10\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Reframe.Drink.Less.Thrive-v3.9.10-riftysipas.ipa",
+          "size": 323916507
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
+      "beta": false,
       "name": "Remember",
       "bundleIdentifier": "io.rmmbr.remember",
       "developerName": "ZipoApps",
@@ -19574,14 +19813,14 @@
       "bundleIdentifier": "com.readdle.Scanner",
       "developerName": "Readdle Technologies Limited",
       "subtitle": "Tweaked with ScannerPro, blatantsPatch",
-      "version": "8.33.0",
-      "versionDate": "2025-12-29",
-      "versionDescription": "Version: 8.33.0\n\nTweaks: ScannerPro, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-1/Scanner_Pro_Scan_Documents_v8_33_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ScannerPro, blatantsPatch\n\n📱 Scanner Pro - Scan Documents\n\n🆔 Bundle ID: com.readdle.Scanner\n⬆️ Updated to: 8.33.0\n🔧 Minimum iOS: 17.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nNo \"update available\" popup\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nEffortlessly scan, organize, and share documents on the go to have everything you need at your fingertips. Scanner Pro brings you high-quality document scan technology in a convenient and simple mobile app. Scan agreements, receipts, IDs, books, and more using your device to convert them into PDFs in seconds. Safely store and share your documents with anyone in just a few taps with Scanner Pro.\n\nExperience the simplicity of on-the-go document scanning. Scan travel expenses, convert sketches into",
+      "version": "8.32.2",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Version: 8.32.2\n\nTweaks: ScannerPro, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Scanner_Pro_Scan_Documents_v8_32_2_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ScannerPro, blatantsPatch\n\n📱 Scanner Pro - Scan Documents\n\n🆔 Bundle ID: com.readdle.Scanner\n🆕 New App: 8.32.2\n🔧 Minimum iOS: 17.0\n✅ Patched\n💎 Modifier: Subscription Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nNo \"update available\" popup\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nEffortlessly scan, organize, and share documents on the go to have everything you need at your fingertips. Scanner Pro brings you high-quality document scan technology in a convenient and simple mobile app. Scan agreements, receipts, IDs, books, and more using your device to convert them into PDFs in seconds. Safely store and share your documents with anyone in just a few taps with Scanner Pro.\n\nExperience the simplicity of on-the-go document scanning. Scan travel expenses, convert sketches into",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/bd/b9/fdbdb97d-6247-fa24-66f8-03ebca03216e/ScannerPro-NoFlag-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 233046961,
+      "size": 302832769,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -19594,6 +19833,13 @@
         }
       },
       "versions": [
+        {
+          "version": "8.32.2",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 8.32.2\n\nTweaks: ScannerPro, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Scanner_Pro_Scan_Documents_v8_32_2_Subscription_Unlocked_blatant.ipa",
+          "size": 302832769
+        },
         {
           "version": "8.33.0",
           "date": "2025-12-29",
@@ -20216,14 +20462,14 @@
       "bundleIdentifier": "com.lexwarelabs.goodmorning",
       "developerName": "Sleep Cycle AB",
       "subtitle": "Tweaked with SleepCycle, blatantsPatch",
-      "version": "6.25.38",
+      "version": "6.25.46",
       "versionDate": "2025-12-30",
-      "versionDescription": "Version: 6.25.38\n\nTweaks: SleepCycle, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Sleep_Cycle_Tracker_._Sounds_v6_25_38_Premium_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SleepCycle, blatantsPatch\n\n📱 Sleep Cycle - Tracker & Sounds\n\n🆔 Bundle ID: com.lexwarelabs.goodmorning\n⬆️ Updated to: 6.25.38\n🔧 Minimum iOS: 15.0\n✅ Patched\n💎 Modifier: Premium Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nIgnore purchase page and restart once to activate premium.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nBuilt on science, Sleep Cycle uses sound analysis to track and improve sleep for over 3 million users worldwide. Our AI sleep coach, sleep tracker and Smart Alarm clock app help users to identify potential sleep issues, gain valuable insights into their sleep patterns and build a healthier sleep routine.\n\nSleep Cycle is the world’s no.1 sleep app with more than 40 million downloads. Track your rest, wake refreshed, and build lifelong sleep habits.\n\nAWARDS & RECOGNITIONS\nSleep Cycle has been awar",
+      "versionDescription": "Version: 6.25.46\n\nTweaks: SleepCycle, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Sleep_Cycle_Tracker_._Sounds_v6_25_46_Premium_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SleepCycle, blatantsPatch\n\n📱 Sleep Cycle - Tracker & Sounds\n\n🆔 Bundle ID: com.lexwarelabs.goodmorning\n⬆️ Updated to: 6.25.46\n🔧 Minimum iOS: 15.0\n✅ Patched\n💎 Modifier: Premium Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nIgnore purchase page and restart once to activate premium.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nBuilt on science, Sleep Cycle uses sound analysis to track and improve sleep for over 3 million users worldwide. Our AI sleep coach, sleep tracker and Smart Alarm clock app help users to identify potential sleep issues, gain valuable insights into their sleep patterns and build a healthier sleep routine.\n\nSleep Cycle is the world’s no.1 sleep app with more than 40 million downloads. Track your rest, wake refreshed, and build lifelong sleep habits.\n\nAWARDS & RECOGNITIONS\nSleep Cycle has been awar",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/0c/e7/0a0ce72c-6113-ac2d-f1b7-e8a3d681f778/AppIconSleepCycle-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 306179708,
+      "size": 314127922,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/de/c5/85dec5ed-9de6-c7b4-5874-ad643a031b8f/6388991e-7c0d-4d0d-8ce6-f1a71fb6bfac_SC_-_iPhone_-_5.5_-_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/d4/2e/a7d42ef0-6f15-37d7-8d58-f51f1e7f18a2/9ad20ca3-3604-435a-b52b-7ad8a2c5c336_SC_-_iPhone_-_5.5_-_2.png/392x696bb.png",
@@ -20232,21 +20478,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/d6/5d/eed65d52-e481-8abf-69b8-f93fbb6a02cb/4e1a8849-6f02-44d9-80f6-749d189a47f5_SC_-_iPhone_-_5.5_-_5.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [
-          "application-identifier",
-          "aps-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.developer.homekit",
-          "com.apple.developer.team-identifier",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.healthkit.background-delivery",
-          "com.apple.developer.siri",
-          "com.apple.developer.healthkit.access",
-          "com.apple.security.application-groups"
-        ],
+        "entitlements": [],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "To save your shared images, we need access to your photos",
           "NSCameraUsageDescription": "Camera access is required for measuring your heart rate in the morning.",
@@ -20257,10 +20489,18 @@
           "NSHealthUpdateUsageDescription": "Share your Sleep Cycle data with Health Kit.",
           "NSAppleMusicUsageDescription": "Sleep Cycle needs access to your Apple Music Library to play custom alarm melodies.",
           "NSLocalNetworkUsageDescription": "Connecting to your partners device will increase the accuracy of your sleep analysis",
+          "NSUserTrackingUsageDescription": "Your data will be used to measure ad efficiency",
           "NSPhotoLibraryAddUsageDescription": "To save your shared images, we need access to your photos"
         }
       },
       "versions": [
+        {
+          "version": "6.25.46",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 6.25.46\n\nTweaks: SleepCycle, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Sleep_Cycle_Tracker_._Sounds_v6_25_46_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 314127922
+        },
         {
           "version": "6.25.38",
           "date": "2025-12-30",
@@ -20713,15 +20953,15 @@
       "name": "SnapEdit",
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
-      "subtitle": "Tweaked with SnapEdit, blatantsPatch",
-      "version": "6.0.9",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "6.3.6",
       "versionDate": "2025-12-30",
-      "versionDescription": "Version: 6.0.9\n\nTweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/SnapEdit_Photo_Editor_AI_v6_0_9_Pro_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SnapEdit, blatantsPatch\n\n📱 SnapEdit: Photo Editor AI\n\n🆔 Bundle ID: com.sfun.snapedit\n⬆️ Updated to: 6.0.9\n🔧 Minimum iOS: 15.0\n✅ Patched\n💎 Modifier: Pro Unlocked\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nSnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objec",
+      "versionDescription": "Version: 6.3.6\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/SnapEdit.Premium.6.3.6.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSnapEdit - Remove Objects AI\n\nPremium features unlocked\n\nTweak made by David\n\nMinimum OS version 15.0\n\nAppStore link | Donate\n\n---\nSnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objec",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/81/65/2c81656c-ba96-55da-f9fc-b76cb673e9cc/AppIcon-Christmas-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 124227838,
+      "size": 124054037,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -20739,6 +20979,13 @@
         }
       },
       "versions": [
+        {
+          "version": "6.3.6",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 6.3.6\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/SnapEdit.Premium.6.3.6.ipa",
+          "size": 124054037
+        },
         {
           "version": "6.0.9",
           "date": "2025-12-30",
@@ -20775,7 +21022,7 @@
           "size": 156627864
         },
         {
-          "version": "6.3.6",
+          "version": "6.3.6b",
           "date": "2025-12-30",
           "localizedDescription": "Version: 6.3.6\n\nTweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/SnapEdit_Photo_Editor_AI_v6_3_6_Pro_Unlocked_blatant_Patched.ipa",
@@ -20801,13 +21048,6 @@
           "localizedDescription": "Version: 6.1.5\n\nTweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/SnapEdit_Photo_Editor_AI_v6_1_5_Pro_Unlocked_blatant_Patched.ipa",
           "size": 156413872
-        },
-        {
-          "version": "6.1.6",
-          "date": "2025-12-30",
-          "localizedDescription": "Version: 6.1.6\n\nTweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/SnapEdit_Photo_Editor_AI_v6_1_6_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 156724393
         }
       ],
       "category": "photo-&-video"
@@ -26382,6 +26622,46 @@
     },
     {
       "beta": false,
+      "name": "VocaCircle",
+      "bundleIdentifier": "com.genau.MemoryCircle",
+      "developerName": "Genau Factory",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "3.1.9",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Version: 3.1.9\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/VocaCircle.AI.Smart.Flashcard-v3.1.9-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nVocaCircle: AI Smart Flashcard\n\nTweak: Subscription Unlocked\n\nVersion: 3.1.9\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: com.genau.MemoryCircle\nDeveloper: Genau Factory\n\n---\nLanguage Learning Flashcard App: Powered by OpenAI\n\nThis app is a language learning platform based on the technological capabilities of OpenAI.\nThe main features include:\n\n1. Oxford Dictionary & OpenAI Translation: Users can utilize the Oxford Dictionary to grasp the precise meaning of words, and experience translations between various languages using OpenAI's advanced translation functionality.\n\n2. Diverse Quizzes & Viewing Modes: To enhance learning efficiency, a variety of quizzes and unique",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/f5/f9/c4f5f98c-10df-8d79-8f93-4f35f9b2ce27/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 13632832,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "keychain-access-groups",
+          "com.apple.developer.team-identifier",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "VocaCircle needs your permission to access camera",
+          "NSMicrophoneUsageDescription": "VocaCircle  needs access to your microphone for voice input"
+        }
+      },
+      "versions": [
+        {
+          "version": "3.1.9",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 3.1.9\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/VocaCircle.AI.Smart.Flashcard-v3.1.9-riftysipas.ipa",
+          "size": 13632832
+        }
+      ],
+      "category": "education"
+    },
+    {
+      "beta": false,
       "name": "Vocal Remover",
       "bundleIdentifier": "ai.vocal.remover.karaoke.maker.ninja",
       "developerName": "ZipoApps",
@@ -27281,6 +27561,59 @@
         }
       ],
       "category": "education"
+    },
+    {
+      "beta": false,
+      "name": "wpsoffice",
+      "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
+      "developerName": "KINGSOFT OFFICE SOFTWARE CORPORATION LIMITED",
+      "subtitle": "Tweaked with FilePickerFix, WPSOffice",
+      "version": "11.37.10",
+      "versionDate": "2025-12-30",
+      "versionDescription": "Version: 11.37.10\n\nTweaks: FilePickerFix, WPSOffice, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/WPS_Office_PDF._Docs._Sheets_v11_37_10_PRO%2BAI_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, WPSOffice, blatantsPatch\n\n📱 WPS Office: PDF, Docs, Sheets\n\n🆔 Bundle ID: com.kingsoft.office.g.wpsoffice\n🆕 New App: 11.37.10\n🔧 Minimum iOS: 15.0\n✅ Patched\n💎 Modifier: PRO+AI Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\nIgnore any purchase banners.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥\n\n---\nWPS Office is an all-in-one free office suite on iPhone and iPad, integrates all office document processor functions: Word, Spreadsheet, Powerpoint, PDF, WPS AI, Memo, and Docs Scanner in one application, and is fully compatible with Microsoft Word, Excel, PowerPoint, Google Docs and Adobe PDF formats. WPS AI revolutionizes your workflow by offering functions like AI-generated content, rewriting, AI-powered PDF tools and more.\n\n【WPS Office Highlight Features】\n\n All-in-One Free Office Suite App\n•",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/f2/0f/3cf20fe9-af88-a8b4-3808-68108e44eb73/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 328410612,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/20/ae/1920aeef-2b80-b3b2-fdad-eabfeb174f39/AI_Translation.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/09/02/f509028d-f88b-3543-cbce-5a774ac9f0b0/AIGC.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/24/ab/e724abea-a7e3-35ad-5028-a38651f70573/01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/aa/4c/d4aa4c74-1c90-ab5d-0450-7b4c31885f8d/01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2d/5a/0e/2d5a0ee9-5af5-1943-c70f-e063cd98e74f/01.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow WPS to access your Photos when inserting picture/music/video or using Wire Projection.",
+          "NSCameraUsageDescription": "Allow WPS to access your Camera when scanning QR or inserting photos.",
+          "NSMicrophoneUsageDescription": "Allow WPS to access your Microphone when doing Voice Record.",
+          "NSAppleMusicUsageDescription": "Allow WPS to access your Music when using Remote function and turnning page by Volume Key.",
+          "NSSpeechRecognitionUsageDescription": "Allow WPS to access your Speech recognition when Voice transcription was performed in Note",
+          "NSFaceIDUsageDescription": "Unlock WPS Office with Face ID",
+          "NSLocalNetworkUsageDescription": "使用局域网传输或投影功能需要本地网络权限",
+          "NSUserTrackingUsageDescription": "To provide you with better personalized content and ad experience, we need permission to access your device identifier.",
+          "NSPhotoLibraryAddUsageDescription": "Allow WPS to access your Photos when inserting picture/music/video or using Wire Projection."
+        }
+      },
+      "versions": [
+        {
+          "version": "11.37.10",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 11.37.10\n\nTweaks: FilePickerFix, WPSOffice, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/WPS_Office_PDF._Docs._Sheets_v11_37_10_PRO%2BAI_Unlocked_blatant_Patched.ipa",
+          "size": 328410612
+        },
+        {
+          "version": "11.37.20",
+          "date": "2025-12-30",
+          "localizedDescription": "Version: 11.37.20\n\nTweaks: FilePickerFix, WPSOffice, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/WPS_Office_PDF._Docs._Sheets_v11_37_20_PRO%2BAI_Unlocked_blatant_Patched.ipa",
+          "size": 328437291
+        }
+      ],
+      "category": "productivity"
     },
     {
       "beta": false,
