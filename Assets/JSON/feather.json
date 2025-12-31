@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.google.ios.youtubemusic",
-    "com.google.ios.youtube",
-    "nz.digitaltools.Tube-GPT",
-    "com.fifthstarlabs.skyguide",
-    "com.fluffyfairygames.idleminertycoon"
+    "com.adobe.fresco.ios",
+    "at.stefanstangl.CuteWeather",
+    "com.neybox.Pillow",
+    "com.skylum.luminaripad",
+    "com.google.ios.youtubemusic"
   ],
   "apps": [
     {
@@ -454,6 +454,54 @@
         }
       ],
       "category": "photo-&-video"
+    },
+    {
+      "beta": false,
+      "name": "Adobe Fresco",
+      "bundleIdentifier": "com.adobe.fresco.ios",
+      "developerName": "Adobe Inc.",
+      "subtitle": "Tweaked with AdobeFresco, FilePickerFix",
+      "version": "6.7.0",
+      "versionDate": "2025-12-31",
+      "versionDescription": "Version: 6.7.0\n\nTweaks: AdobeFresco, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Adobe_Fresco_Free_Drawing_App_v6_7_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdobeFresco, FilePickerFix, blatantsPatch\n\nAdobe Fresco: Free Drawing App\n🆕 New App: 6.7.0\nSubscription Unlocked\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\n---\nAdobe Fresco is a free drawing and painting app designed for digital artists. Built for iPad and iPhone with Apple Pencil Pro compatibility, Fresco offers a wide variety of brushes and features to help you create your next masterpiece.\n\nTake your artwork to the next level by adding motion with Fresco’s suite of animation and motion path tools. Explore frame-by-frame animation and revolutionary motion paths. Draw and paint with rotational and reflective symmetry guides. Paste photos from your cli",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/d0/a1/c2d0a182-0cf4-b96f-7b9b-df7c98acb068/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 674737579,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/a5/fd/fea5fd86-0b46-6da9-5348-e5e4b2782ec6/96345c11-0e8f-4fc4-95c1-967ebbf1eac2_A_01_Adobe_Fresco_iPad12.9_2ndGen_DrawingTool_2732x2048_CA.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/27/a2/01/27a201bc-822c-0e70-4570-b700983484c0/9a611307-3da9-404c-b932-64123aab1653_A_02_Adobe_Fresco_iPad12.9_2ndGen_Precision_2732x2048_CA.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/d0/dc/29d0dc76-96d4-413c-0094-da18565118f9/95a74285-2f9e-438f-9e60-437be3452732_A_03_Adobe_Fresco_iPad12.9_2ndGen_Tutorials_2732x2048_CA.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/2a/05/0d2a0584-783b-7449-fe22-abc2c61b2544/0350fe8c-fd9b-4f79-90d8-5ffc484df798_A_04_Adobe_Fresco_iPad12.9_2ndGen_Liquifytool_2732x2048_CA.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/54/e8/4154e862-7abc-56e5-1bb4-0d98e240954f/9005d363-e2f2-4f9e-ab95-9f221515cef4_A_05_Adobe_Fresco_iPad12.9_2ndGen_Layer_U0026Blend_2732x2048_CA.png/576x768bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Used to add images from photo library",
+          "NSCameraUsageDescription": "Used to add images from camera",
+          "NSMicrophoneUsageDescription": "Used to add voice notes to bug-reporting videos",
+          "NSPhotoLibraryAddUsageDescription": "Used to add images to photo library"
+        }
+      },
+      "versions": [
+        {
+          "version": "6.7.0",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 6.7.0\n\nTweaks: AdobeFresco, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Adobe_Fresco_Free_Drawing_App_v6_7_0_Subscription_Unlocked_blatant.ipa",
+          "size": 674737579
+        },
+        {
+          "version": "6.7.0b",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 6.7.0\n\nTweaks: AdobeFresco, FilePickerFix, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Adobe_Fresco_Free_Drawing_App_v6_7_0_Subscription_Unlocked_blatant.ipa",
+          "size": 674737579
+        }
+      ],
+      "category": "graphics-&-design"
     },
     {
       "beta": false,
@@ -6976,14 +7024,14 @@
       "bundleIdentifier": "at.stefanstangl.CuteWeather",
       "developerName": "Skyrocket Apps Limited",
       "subtitle": "Tweaked with CuteWeather, blatantsPatch",
-      "version": "5.2.27",
+      "version": "5.2.28",
       "versionDate": "2025-12-31",
-      "versionDescription": "Version: 5.2.27\n\nTweaks: CuteWeather, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-2/CuteWeather_weather_widget_v5_2_27_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CuteWeather, blatantsPatch\n\nCuteWeather: weather widget | 🆕 New App: 5.2.27 | Subscription Unlocked | Restart the app if subscription isn't unlocked\n\n---\nSearching for an aesthetic weather app that combines function and cuteness? Cute Weather let's you customise your iphone's home screen with widgets, wallpapers and icons. Compatible for iOS14, iOS15 & iOS16. Additionally the whole weather app itself can be customised. Choose between weather layouts, icons, widgets and wallpapers and customize backgrounds, fonts and colours. Cute Weather - the only functional and fun weather app!\n\nDownload and TEST FOR FREE and give weather a new meaning!\n\nThe fe",
+      "versionDescription": "Version: 5.2.28\n\nTweaks: CuteWeather, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/CuteWeather_weather_widget_v5_2_28_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CuteWeather, blatantsPatch\n\nCuteWeather: weather widget | Subscription Unlocked | Restart the app if subscription isn't unlocked\n\n---\nSearching for an aesthetic weather app that combines function and cuteness? Cute Weather let's you customise your iphone's home screen with widgets, wallpapers and icons. Compatible for iOS14, iOS15 & iOS16. Additionally the whole weather app itself can be customised. Choose between weather layouts, icons, widgets and wallpapers and customize backgrounds, fonts and colours. Cute Weather - the only functional and fun weather app!\n\nDownload and TEST FOR FREE and give weather a new meaning!\n\nThe fe",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/95/d6/1a/95d61abb-b2de-562c-5410-d36e37d87c69/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 537567451,
+      "size": 538544571,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d5/16/95d516b5-981e-f1f0-6c41-786edbdb2592/1c3272be-f7fa-473c-88be-b456ae00da17_26.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/00/fb/2400fbc3-ef2b-d369-1772-5366eed68dad/985ce704-8fbf-4432-ab2d-adbd39cc6b31_25.png/392x696bb.png",
@@ -7008,6 +7056,34 @@
         }
       },
       "versions": [
+        {
+          "version": "5.2.28",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 5.2.28\n\nTweaks: CuteWeather, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/CuteWeather_weather_widget_v5_2_28_Subscription_Unlocked_blatant.ipa",
+          "size": 538544571
+        },
+        {
+          "version": "5.2.28b",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 5.2.28\n\nTweaks: CuteWeather, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/CuteWeather_weather_widget_v5_2_28_Subscription_Unlocked_blatant.ipa",
+          "size": 538544571
+        },
+        {
+          "version": "5.2.29",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 5.2.29\n\nTweaks: CuteWeather, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/CuteWeather_weather_widget_v5_2_29_Subscription_Unlocked_blatant.ipa",
+          "size": 538544457
+        },
+        {
+          "version": "5.2.29b",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 5.2.29\n\nTweaks: CuteWeather, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/CuteWeather_weather_widget_v5_2_29_Subscription_Unlocked_blatant.ipa",
+          "size": 538544457
+        },
         {
           "version": "5.2.27",
           "date": "2025-12-31",
@@ -18060,14 +18136,14 @@
       "bundleIdentifier": "com.skylum.luminaripad",
       "developerName": "Skylum",
       "subtitle": "Tweaked with FilePickerFix, Luminar",
-      "version": "3.1",
+      "version": "3.0.1",
       "versionDate": "2025-12-31",
-      "versionDescription": "Version: 3.1\n\nTweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-1/Luminar_Mobile_AI_Photo_Editor_v3_1_Subscription_Unlocked_blatant.ipa",
+      "versionDescription": "Version: 3.0.1\n\nTweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Luminar_Mobile_AI_Photo_Editor_v3_0_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, Luminar, blatantsPatch\n\nLuminar Mobile AI Photo Editor | Subscription Unlocked\n\n---\nLuminar Mobile — Your all-in-one, on-the-go photo editor and creative companion for iPhone, iPad and Vision Pro. Explore powerful AI-driven tools and an interactive interface that responds to your touch, delivering a uniquely engaging photo editing experience.\n\nStreamlined design with unparalleled control\n\nLuminar Mobile’s user-friendly design allows you to edit your photos with intuitive gestures, featuring smoothly gliding sliders and spinning dials that respond realistically to your touch wit",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/33/b5/b533b543-fb63-bfff-5d71-3bcfe52c3a3a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 448506584,
+      "size": 475658383,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/39/20/9a3920df-c92d-2c7a-bc41-3967fc64e2fd/12a21320-1dde-4f81-9957-774e26de1981_3.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/32/02/693202eb-5fe2-1b22-bc8d-84296e37821c/6faabc21-360e-427f-a4c1-dcfa5e330231_4.png/392x696bb.png",
@@ -18076,7 +18152,18 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/60/e7/1660e7dd-2854-d88e-c89d-d37f6b1c0de4/5114fe61-7e9b-472c-940d-9a782a56d3a6_1.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.icloud-container-identifiers",
+          "keychain-access-groups",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups",
+          "com.apple.developer.team-identifier"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This lets you edit your own photos.",
           "NSCameraUsageDescription": "This lets you edit your own photos.",
@@ -18085,6 +18172,20 @@
         }
       },
       "versions": [
+        {
+          "version": "3.0.1",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 3.0.1\n\nTweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Luminar_Mobile_AI_Photo_Editor_v3_0_1_Subscription_Unlocked_blatant.ipa",
+          "size": 475658383
+        },
+        {
+          "version": "3.0.1b",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 3.0.1\n\nTweaks: FilePickerFix, Luminar, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Luminar_Mobile_AI_Photo_Editor_v3_0_1_Subscription_Unlocked_blatant.ipa",
+          "size": 475658383
+        },
         {
           "version": "3.1",
           "date": "2025-12-31",
@@ -23485,15 +23586,15 @@
       "name": "Pillow",
       "bundleIdentifier": "com.neybox.Pillow",
       "developerName": "Neybox Digital Ltd.",
-      "subtitle": "Tweaked with AutoRevenueCat, blatantsPatch",
-      "version": "5.16.2",
+      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "version": "6.2",
       "versionDate": "2025-12-31",
-      "versionDescription": "Version: 5.16.2\n\nTweaks: AutoRevenueCat, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Pillow_Sleep_Tracker_v5_16_2_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRevenueCat, blatantsPatch\n\nPillow: Sleep Tracker | Subscription Unlocked\n\n---\nSleep trouble? Sleep better with Pillow, your smart sleep tracker. Pillow can analyze your sleep cycles automatically using your Apple Watch, iPhone or iPad.\n\nUse Pillow as a smart alarm clock to wake up at the lightest possible sleep stage and start your day refreshed and relaxed. Record important audio events such as snoring, sleep apnea, and sleep talking. Explore trends about your sleep and compare your sleep quality with many Apple Health metrics that affect sleep.\n\nAs seen on:\nThe New York",
+      "versionDescription": "Version: 6.2\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Pillow_Sleep_Tracker_v6_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nPillow: Sleep Tracker | Subscription Unlocked\n\n---\nSleep trouble? Sleep better with Pillow, your smart sleep tracker. Pillow can analyze your sleep cycles automatically using your Apple Watch, iPhone or iPad.\n\nUse Pillow as a smart alarm clock to wake up at the lightest possible sleep stage and start your day refreshed and relaxed. Record important audio events such as snoring, sleep apnea, and sleep talking. Explore trends about your sleep and compare your sleep quality with many Apple Health metrics that affect sleep.\n\nAs seen on:\nThe New York",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/3e/9e/a43e9ec3-6105-89be-279f-cdefe6ab14ec/AppIcon-v5-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 498467661,
+      "size": 519491692,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -23525,6 +23626,20 @@
         }
       },
       "versions": [
+        {
+          "version": "6.2",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 6.2\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Pillow_Sleep_Tracker_v6_2_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 519491692
+        },
+        {
+          "version": "6.2b",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 6.2\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Pillow_Sleep_Tracker_v6_2_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 519491692
+        },
         {
           "version": "5.16.2",
           "date": "2025-12-31",
@@ -23580,20 +23695,6 @@
           "localizedDescription": "Version: 5.15\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Pillow.Sleep.Tracker-v5.15-riftysipas.ipa",
           "size": 494178854
-        },
-        {
-          "version": "6.2.1",
-          "date": "2025-12-31",
-          "localizedDescription": "Version: 6.2.1\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Pillow_Sleep_Tracker_v6_2_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 519438698
-        },
-        {
-          "version": "6.2.2",
-          "date": "2025-12-31",
-          "localizedDescription": "Version: 6.2.2\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Pillow_Sleep_Tracker_v6_2_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 519438358
         }
       ],
       "category": "health-&-fitness"
@@ -37397,13 +37498,6 @@
           "size": 99837609
         },
         {
-          "version": "8.50.2b",
-          "date": "2025-12-31",
-          "localizedDescription": "Version: 8.50.2\n\nTweaks: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/YouTube.Music.Ultimate.8.50.2.ipa",
-          "size": 99837609
-        },
-        {
           "version": "6.39.4",
           "date": "2025-12-31",
           "localizedDescription": "Version: 6.39.4\n\nTweaks: CydiaSubstrate, YTMusicUltimate\n\nSource: @binnichtaktivsipas",
@@ -37451,13 +37545,6 @@
       "versions": [
         {
           "version": "20.50.9",
-          "date": "2025-12-31",
-          "localizedDescription": "Version: 20.50.9\n\nTweaks: CydiaSubstrate, DontEatMyContent, Gonerino, YTLite, YTVideoOverlay\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/YouTube.OLED.20.50.9.ipa",
-          "size": 130498837
-        },
-        {
-          "version": "20.50.9b",
           "date": "2025-12-31",
           "localizedDescription": "Version: 20.50.9\n\nTweaks: CydiaSubstrate, DontEatMyContent, Gonerino, YTLite, YTVideoOverlay\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/YouTube.OLED.20.50.9.ipa",
