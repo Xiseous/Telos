@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "nz.digitaltools.Tube-GPT",
     "com.fifthstarlabs.skyguide",
     "com.fluffyfairygames.idleminertycoon",
     "com.rubygames.assassin",
-    "com.nibbleapps.MealPrepPro",
-    "io.konveier.timo"
+    "com.nibbleapps.MealPrepPro"
   ],
   "apps": [
     {
@@ -27010,13 +27010,6 @@
           "size": 267100869
         },
         {
-          "version": "12.0.8b",
-          "date": "2025-12-31",
-          "localizedDescription": "Tweaks: SkyGuide, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Sky.Guide.v12.0.8.Sky.Guide.Plus.blatant.Patched.ipa",
-          "size": 267100869
-        },
-        {
           "version": "12.0",
           "date": "2025-12-31",
           "localizedDescription": "Tweaks: SkyGuide, blatantsPatch\n\nSource: @blatants",
@@ -27038,7 +27031,7 @@
           "size": 276658797
         },
         {
-          "version": "12.0.8c",
+          "version": "12.0.8b",
           "date": "2025-12-31",
           "localizedDescription": "Tweaks: SkyGuide, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Sky.Guide.v12.0.8.Sky.Guide.Plus.blatant.Patched.ipa",
@@ -30589,15 +30582,15 @@
       "name": "Summarify",
       "bundleIdentifier": "nz.digitaltools.Tube-GPT",
       "developerName": "Digital Tools Ltd",
-      "subtitle": "Subscription Unlocked",
-      "version": "3.7.4",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "3.9.0",
       "versionDate": "2025-12-31",
-      "versionDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-2/Summarify.AI.For.YouTube-v3.7.4-riftysipas.ipa",
-      "localizedDescription": "Subscription Unlocked\n\nSubscription Unlocked | Patched ✓",
+      "versionDescription": "Tweaks: Summarify, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Summarify_AI_For_YouTube_v3_9_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSummarify: AI For YouTube | Subscription Unlocked",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/3d/1f/883d1f3e-561c-65cf-35ac-672c4aceb094/alternateIcon1-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 23848085,
+      "size": 25828144,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/3d/33/253d3382-d230-f3f1-a675-1fe382dc3cd7/cb7ba935-5483-4113-914b-b0b9a6238b4f_image3.jpeg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/50/44/105044f4-882a-1f8c-0fc6-69751f695a99/50982a21-09c3-49a3-b2a2-e303a9ec91d5_image4.jpeg/392x696bb.jpg",
@@ -30624,6 +30617,20 @@
         }
       },
       "versions": [
+        {
+          "version": "3.9.0",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: Summarify, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Summarify_AI_For_YouTube_v3_9_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 25828144
+        },
+        {
+          "version": "3.9.0b",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: Summarify, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Summarify_AI_For_YouTube_v3_9_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 25828144
+        },
         {
           "version": "3.7.4",
           "date": "2025-12-31",
@@ -37696,7 +37703,7 @@
     {
       "title": "⚙️ Telos Update 12.31",
       "identifier": "telos-update-2025-12-31",
-      "caption": "885 Apps Updated:\n• 217 Photo & Video\n• 140 Health & Fitness\n• 74 Education\n• 68 Productivity\n• 52 Utilities\n• 49 Entertainment\n• 46 News\n• 38 Graphics & Design\n• 33 Music\n• 30 Games\n• 24 Social Networking\n• 16 Reference\n• 16 Lifestyle\n• 15 Medical\n• 13 Weather\n• 11 Travel\n• 8 Developer Tools\n• 7 Finance\n• 6 Business\n• 6 Books\n• 6 Navigation\n• 5 Sports\n• 2 Shopping\n• 1 Other\n• 1 Magazines & Newspapers\n• 1 Food & Drink",
+      "caption": "886 Apps Updated:\n• 217 Photo & Video\n• 140 Health & Fitness\n• 74 Education\n• 70 Productivity\n• 52 Utilities\n• 49 Entertainment\n• 46 News\n• 38 Graphics & Design\n• 33 Music\n• 30 Games\n• 24 Social Networking\n• 16 Lifestyle\n• 15 Reference\n• 15 Medical\n• 13 Weather\n• 11 Travel\n• 8 Developer Tools\n• 7 Finance\n• 6 Business\n• 6 Books\n• 6 Navigation\n• 5 Sports\n• 2 Shopping\n• 1 Other\n• 1 Magazines & Newspapers\n• 1 Food & Drink",
       "date": "2025-12-31",
       "tintColor": "#02433b",
       "notify": true,
