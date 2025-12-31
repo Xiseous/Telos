@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "nz.digitaltools.Tube-GPT",
     "com.fifthstarlabs.skyguide",
     "com.fluffyfairygames.idleminertycoon",
     "com.rubygames.assassin",
-    "com.nibbleapps.MealPrepPro",
-    "io.konveier.timo"
+    "com.nibbleapps.MealPrepPro"
   ],
   "apps": [
     {
@@ -27462,13 +27462,6 @@
           "size": 267100869
         },
         {
-          "version": "12.0.8b",
-          "date": "2025-12-31",
-          "localizedDescription": "Version: 12.0.8\n\nTweaks: SkyGuide, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Sky.Guide.v12.0.8.Sky.Guide.Plus.blatant.Patched.ipa",
-          "size": 267100869
-        },
-        {
           "version": "12.0",
           "date": "2025-12-31",
           "localizedDescription": "Version: 12.0\n\nTweaks: SkyGuide, blatantsPatch\n\nSource: @blatants",
@@ -27490,7 +27483,7 @@
           "size": 276658797
         },
         {
-          "version": "12.0.8c",
+          "version": "12.0.8b",
           "date": "2025-12-31",
           "localizedDescription": "Version: 12.0.8\n\nTweaks: SkyGuide, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Sky.Guide.v12.0.8.Sky.Guide.Plus.blatant.Patched.ipa",
@@ -31096,15 +31089,15 @@
       "name": "Summarify",
       "bundleIdentifier": "nz.digitaltools.Tube-GPT",
       "developerName": "Digital Tools Ltd",
-      "subtitle": "Tweaked with CydiaSubstrate, chocorc",
-      "version": "3.7.4",
+      "subtitle": "Tweaked with Summarify, blatantsPatch",
+      "version": "3.9.0",
       "versionDate": "2025-12-31",
-      "versionDescription": "Version: 3.7.4\n\nTweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-2/Summarify.AI.For.YouTube-v3.7.4-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSubscription Unlocked | Patched ✓\n\n---\nIntroducing Summarify - the ultimate video summarization app powered by cutting-edge AI technology. Save time and effortlessly grasp the key insights from YouTube videos with our powerful summarization capabilities. Powered by AI Chat, Summarify ensures accuracy, coherence, and convenience in every summary.\n\nNow with over 15 different summary styles you can quickly summarize videos using simple summaries to data extraction, then export to PDF or markdown Summarify has never been more powerful!",
+      "versionDescription": "Version: 3.9.0\n\nTweaks: Summarify, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Summarify_AI_For_YouTube_v3_9_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Summarify, blatantsPatch\n\nSummarify: AI For YouTube | Subscription Unlocked\n\n---\nIntroducing Summarify - the ultimate video summarization app powered by cutting-edge AI technology. Save time and effortlessly grasp the key insights from YouTube videos with our powerful summarization capabilities. Powered by AI Chat, Summarify ensures accuracy, coherence, and convenience in every summary.\n\nNow with over 15 different summary styles you can quickly summarize videos using simple summaries to data extraction, then export to PDF or markdown Summarify has never been more powerful!",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/3d/1f/883d1f3e-561c-65cf-35ac-672c4aceb094/alternateIcon1-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 23848085,
+      "size": 25828144,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/3d/33/253d3382-d230-f3f1-a675-1fe382dc3cd7/cb7ba935-5483-4113-914b-b0b9a6238b4f_image3.jpeg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/50/44/105044f4-882a-1f8c-0fc6-69751f695a99/50982a21-09c3-49a3-b2a2-e303a9ec91d5_image4.jpeg/392x696bb.jpg",
@@ -31131,6 +31124,20 @@
         }
       },
       "versions": [
+        {
+          "version": "3.9.0",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 3.9.0\n\nTweaks: Summarify, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Summarify_AI_For_YouTube_v3_9_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 25828144
+        },
+        {
+          "version": "3.9.0b",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 3.9.0\n\nTweaks: Summarify, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Summarify_AI_For_YouTube_v3_9_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 25828144
+        },
         {
           "version": "3.7.4",
           "date": "2025-12-31",
