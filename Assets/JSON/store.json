@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.zhiliaoapp.musically",
-    "com.lightricks.Enlight-Video",
-    "com.readdle.ReaddleDocsIPad",
-    "com.moonly.Moonly",
-    "archery.storify"
+    "com.fifthstarlabs.skyguide",
+    "com.dehancer.film.ios-app",
+    "org.reactjs.native.Inkitt.App.Colt",
+    "com.snowcorp.soda",
+    "com.castpeer.audioroom.ios"
   ],
   "apps": [
     {
@@ -1463,6 +1463,35 @@
         }
       ],
       "category": "news"
+    },
+    {
+      "name": "App Group Check",
+      "bundleIdentifier": "com.choco",
+      "developerName": "Xiseous",
+      "subtitle": "App Group Check for iOS",
+      "version": "1.0",
+      "versionDate": "2025-12-31",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/AppGroupCheck.ipa",
+      "localizedDescription": "App Group Check for iOS",
+      "iconURL": "https://i.ibb.co/yzpYNCk/choco.png",
+      "tintColor": "#00BFA6",
+      "size": 561986,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-12-31",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/AppGroupCheck.ipa",
+          "size": 561986
+        }
+      ],
+      "category": "other"
     },
     {
       "name": "AppCake+",
@@ -7631,6 +7660,20 @@
           "localizedDescription": "Tweaks: Dehancer, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/Dehancer_Film_Emulation_v5_2_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 191243886
+        },
+        {
+          "version": "5.1",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: Dehancer, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/Dehancer_Film_Emulation_v5_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 190895852
+        },
+        {
+          "version": "5.1b",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: Dehancer, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/Dehancer_Film_Emulation_v5_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 190895852
         }
       ],
       "category": "photo-&-video"
@@ -12436,6 +12479,20 @@
           "size": 82554391
         },
         {
+          "version": "14.8.1",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/Galatea_Books_._Audiobooks_v14_8_1_Subscription_Unlocked_blatant.ipa",
+          "size": 82538625
+        },
+        {
+          "version": "14.8.1b",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/Galatea_Books_._Audiobooks_v14_8_1_Subscription_Unlocked_blatant.ipa",
+          "size": 82538625
+        },
+        {
           "version": "14.7.0",
           "date": "2025-12-30",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
@@ -12462,20 +12519,6 @@
           "localizedDescription": "Tweaks: AutoRevenueCat, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-2/Galatea_Books_._Audiobooks_v14_4_0_Subscription_Unlocked_blatant.ipa",
           "size": 80423757
-        },
-        {
-          "version": "14.3.0",
-          "date": "2025-12-31",
-          "localizedDescription": "Tweaks: AutoRevenueCat, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Galatea_Books_._Audiobooks_v14_3_0_Subscription_Unlocked_blatant.ipa",
-          "size": 80319143
-        },
-        {
-          "version": "13.4.0",
-          "date": "2025-12-31",
-          "localizedDescription": "Tweaks: AutoRevenueCat, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Galatea_Books_._Audiobooks_v13_4_0_Subscription_Unlocked_blatant.ipa",
-          "size": 78415045
         }
       ],
       "category": "books"
@@ -27894,6 +27937,20 @@
           "size": 268909318
         },
         {
+          "version": "12.0.4",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: SkyGuide, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/Sky.Guide.v12.0.4.Sky.Guide.Plus.blatant.Patched.ipa",
+          "size": 279041314
+        },
+        {
+          "version": "12.0.4b",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: SkyGuide, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/Sky.Guide.v12.0.4.Sky.Guide.Plus.blatant.Patched.ipa",
+          "size": 279041314
+        },
+        {
           "version": "12.0.2",
           "date": "2025-12-31",
           "localizedDescription": "Tweaks: SkyGuide, blatantsPatch\n\nSource: @blatants",
@@ -28961,6 +29018,20 @@
           "size": 141172614
         },
         {
+          "version": "9.5.0",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: SODA, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/SODA_Natural_Beauty_Camera_v9_5_0_Subscription_Unlocked_blatant.ipa",
+          "size": 141237388
+        },
+        {
+          "version": "9.5.0b",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: SODA, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/SODA_Natural_Beauty_Camera_v9_5_0_Subscription_Unlocked_blatant.ipa",
+          "size": 141237388
+        },
+        {
           "version": "9.3.21",
           "date": "2025-12-30",
           "localizedDescription": "Tweaks: SODA, blatantsPatch\n\nSource: @blatants",
@@ -29312,18 +29383,25 @@
           "size": 131604206
         },
         {
+          "version": "2.9.6",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: SoundLab, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/SoundLab_Audio_Editor_v2_9_6_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 131916979
+        },
+        {
+          "version": "2.9.6b",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: SoundLab, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/SoundLab_Audio_Editor_v2_9_6_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 131916979
+        },
+        {
           "version": "2.9.4",
           "date": "2025-12-31",
           "localizedDescription": "Tweaks: SoundLab, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/SoundLab_Audio_Editor_v2_9_4_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 130999283
-        },
-        {
-          "version": "2.9.4b",
-          "date": "2025-12-30",
-          "localizedDescription": "Tweaks: SoundLab, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/SoundLab_Audio_Editor_v2_9_4_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 132133711
         }
       ],
       "category": "music"
@@ -33535,13 +33613,6 @@
         {
           "version": "42.8.0c",
           "date": "2025-12-31",
-          "localizedDescription": "Tweaks: ACTikTok2.1, CydiaSubstrate, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/TikTok_Videos._Shop_._LIVE_v42_8_0_ACTikTok_v2_1_blatant_Patched.ipa",
-          "size": 362339906
-        },
-        {
-          "version": "42.8.0d",
-          "date": "2025-12-31",
           "localizedDescription": "Tweaks: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/TikTok_Videos._Shop_._LIVE_v42_8_0_VibeTok_v1_2_blatant_Patched.ipa",
           "size": 362032540
@@ -33566,6 +33637,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/TikTok_Videos._Shop_._LIVE_v42_5_0_VibeTok_v1_2_blatant_Patched.ipa",
           "size": 393253390
+        },
+        {
+          "version": "41.8.0",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: ACTikTok2.1, CydiaSubstrate, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-1/TikTok_Videos._Shop_._LIVE_v41_8_0_ACTikTok_v2_1_blatant_Patched.ipa",
+          "size": 366774765
         }
       ],
       "category": "entertainment"
@@ -38892,7 +38970,7 @@
     {
       "title": "⚙️ Telos Update 12.31",
       "identifier": "telos-update-2025-12-31",
-      "caption": "1121 Apps Updated:\n• 272 Photo & Video\n• 186 Health & Fitness\n• 97 Productivity\n• 94 Education\n• 71 Utilities\n• 65 Entertainment\n• 46 News\n• 46 Graphics & Design\n• 40 Music\n• 32 Games\n• 31 Social Networking\n• 20 Lifestyle\n• 19 Weather\n• 17 Travel\n• 17 Medical\n• 15 Reference\n• 10 Finance\n• 10 Developer Tools\n• 8 Business\n• 7 Books\n• 7 Navigation\n• 6 Sports\n• 2 Shopping\n• 1 Other\n• 1 Magazines & Newspapers\n• 1 Food & Drink",
+      "caption": "1130 Apps Updated:\n• 276 Photo & Video\n• 186 Health & Fitness\n• 97 Productivity\n• 94 Education\n• 71 Utilities\n• 64 Entertainment\n• 46 News\n• 46 Graphics & Design\n• 42 Music\n• 32 Games\n• 31 Social Networking\n• 20 Lifestyle\n• 19 Weather\n• 17 Reference\n• 17 Travel\n• 17 Medical\n• 10 Finance\n• 10 Developer Tools\n• 9 Books\n• 8 Business\n• 7 Navigation\n• 6 Sports\n• 2 Shopping\n• 1 Other\n• 1 Magazines & Newspapers\n• 1 Food & Drink",
       "date": "2025-12-31",
       "tintColor": "#02433b",
       "notify": true,
