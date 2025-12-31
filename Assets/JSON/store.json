@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.evolve.podcast",
-    "com.sfun.snapedit",
-    "com.genau.MemoryCircle",
-    "com.blockpuzzle.us.ios",
-    "com.lightricks.Facetune2"
+    "com.locket.Locket",
+    "com.focos",
+    "com.lightricks.Facetune2",
+    "com.soundcloud.TouchApp",
+    "com.evolve.podcast"
   ],
   "apps": [
     {
@@ -7374,14 +7374,14 @@
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "Lightricks Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.114.1",
-      "versionDate": "2025-12-30",
+      "version": "3.112.1",
+      "versionDate": "2025-12-31",
       "versionDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Facetune_Video_._Photo_Editor_v3_114_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Facetune_Video_._Photo_Editor_v3_112_1_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFacetune: Video & Photo Editor | Subscription Unlocked",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/51/5f/16515fbc-aced-bbca-e809-0f95a98dc757/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 341047813,
+      "size": 330775217,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e1/25/81e125c3-0cff-38ab-c643-3cc8ebd60281/FT-250819-ASO-Baseline-5.5-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/52/66/e1526682-7c10-2655-d24a-0f0047c6fe71/FT-250819-ASO-Baseline-5.5-02.jpg/392x696bb.jpg",
@@ -7390,7 +7390,18 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/a9/7b/6da97b28-88fa-e7ce-9683-cce5236f4ebf/FT-250819-ASO-Baseline-5.5-05.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.icloud-services",
+          "com.apple.developer.icloud-container-identifiers",
+          "keychain-access-groups",
+          "application-identifier",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups",
+          "com.apple.developer.team-identifier"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "We need to access your photo library in order to allow you to edit your photos and videos using the app’s features. Learn more in our Privacy Policy.",
           "NSCameraUsageDescription": "Allow camera access to use the magic mirror camera",
@@ -7401,6 +7412,20 @@
         }
       },
       "versions": [
+        {
+          "version": "3.112.1",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Facetune_Video_._Photo_Editor_v3_112_1_Subscription_Unlocked_blatant.ipa",
+          "size": 330775217
+        },
+        {
+          "version": "3.113",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Facetune_Video_._Photo_Editor_v3_113_Subscription_Unlocked_blatant.ipa",
+          "size": 342121084
+        },
         {
           "version": "3.114.1",
           "date": "2025-12-30",
@@ -8363,6 +8388,48 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "Focos",
+      "bundleIdentifier": "com.focos",
+      "developerName": "Mosaic S.r.l.",
+      "subtitle": "Pro Unlocked | Patched",
+      "version": "2.11.37",
+      "versionDate": "2025-12-31",
+      "versionDescription": "Tweaks: Focos, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Focos.v2.11.37.Pro.Unlocked.blatant.Patched.ipa",
+      "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nFocos | Pro Unlocked | >⚠️ Restart app if Subscriptions isn't activated.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/6c/a2/a16ca2b8-ef58-b3c1-50e1-a34fd95c7839/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 329685128,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/1a/91/f31a91b2-fe23-3484-acaa-75adabee7968/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/a7/7b/f4a77b4a-17ae-e5db-50d8-d85075d66ad5/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/15/10/ee1510ba-72c4-2d60-366b-2ebde68d5ee1/mzl.zwrhdnkr.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/61/ad/0661ad38-5097-5477-508b-bcc3a5e08839/mzl.arbxlaja.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/45/8c/80458cd7-d63a-f0c7-94ae-970572c9424c/mzl.rnoiliki.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Focos needs access to your photo library to open portrait pictures, then makes bokeh and lighting effect.",
+          "NSCameraUsageDescription": "Focos needs access to your device's cameras to take portrait pictures with depth data, then saves them into your photo library.",
+          "NSLocationWhenInUseUsageDescription": "Your current location will be saved into the EXIF info in your photos, then you will know where you took those photos.",
+          "NSBluetoothAlwaysUsageDescription": "Allow Focos to use Bluetooth to remote taking photos.",
+          "NSBluetoothPeripheralUsageDescription": "Allow Focos to use Bluetooth to remote taking photos.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.11.37",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: Focos, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Focos.v2.11.37.Pro.Unlocked.blatant.Patched.ipa",
+          "size": 329685128
+        }
+      ],
+      "category": "photo-&-video"
     },
     {
       "name": "Fonts",
@@ -12692,14 +12759,14 @@
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
       "subtitle": "Patched | Tweaked",
-      "version": "2.27.3",
-      "versionDate": "2025-12-30",
+      "version": "2.21.0",
+      "versionDate": "2025-12-31",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Locket.Widget.v2.27.3.Locket.Gold.blatant.Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Locket.Widget.v2.21.0.Locket.Gold.blatant.Patched.ipa",
       "localizedDescription": "Patched | Tweaked\n\nLocket Widget | Locket Gold",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/b5/ce/f1b5ce36-c4e3-ae84-c421-1a69d35b5687/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 365088731,
+      "size": 302483750,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -12716,6 +12783,20 @@
         }
       },
       "versions": [
+        {
+          "version": "2.21.0",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Locket.Widget.v2.21.0.Locket.Gold.blatant.Patched.ipa",
+          "size": 302483750
+        },
+        {
+          "version": "2.22.0",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Locket.Widget.v2.22.0.Locket.Gold.blatant.Patched.ipa",
+          "size": 302570648
+        },
         {
           "version": "2.27.3",
           "date": "2025-12-30",
@@ -17628,13 +17709,6 @@
           "version": "6.133.0b",
           "date": "2025-12-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Podcast.App-v6.133.0-riftysipas.ipa",
-          "size": 46039498
-        },
-        {
-          "version": "6.133.0c",
-          "date": "2025-12-30",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/Podcast.App-v6.133.0-riftysipas.ipa",
           "size": 46039498
         }
@@ -20784,13 +20858,6 @@
           "version": "6.3.6b",
           "date": "2025-12-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/SnapEdit.Premium.6.3.6.ipa",
-          "size": 124054037
-        },
-        {
-          "version": "6.3.6c",
-          "date": "2025-12-30",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/SnapEdit.Premium.6.3.6.ipa",
           "size": 124054037
         },
@@ -20830,7 +20897,7 @@
           "size": 156627864
         },
         {
-          "version": "6.3.6d",
+          "version": "6.3.6c",
           "date": "2025-12-30",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/SnapEdit_Photo_Editor_AI_v6_3_6_Pro_Unlocked_blatant_Patched.ipa",
@@ -20842,6 +20909,13 @@
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/SnapEdit_Photo_Editor_AI_v6_1_3_Pro_Unlocked_blatant_Patched.ipa",
           "size": 124377372
+        },
+        {
+          "version": "6.1.4",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/SnapEdit_Photo_Editor_AI_v6_1_4_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 156518802
         }
       ],
       "category": "photo-&-video"
@@ -21307,6 +21381,65 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-5c26c034c02542b70eaf/AI.Song.Maker.-.Soniva.Music-v1.5.1-riftysipas.ipa",
           "size": 27698473
+        }
+      ],
+      "category": "music"
+    },
+    {
+      "name": "SoundCloud",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "developerName": "SoundCloud Global Limited & Co KG",
+      "subtitle": "Go+ Unlocked",
+      "version": "8.42.3",
+      "versionDate": "2025-12-31",
+      "versionDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/SoundCloud.8.42.3.NoAds.ipa",
+      "localizedDescription": "Go+ Unlocked\n\nAppstore link : SoundCloud | Packaged by : @woomc | • Go+ unlocked | • HQ audio streaming | • No ads (audio & visual) | • No upgrade popups | Tweaks by original creators. | My channel | Fix errors",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/1a/ea/9f1aeaee-9ff1-aca0-d3fc-f7053ce6ca6c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 103441891,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/78/a9/a378a96c-564f-09b6-9f4c-0e82889e8bd1/ccfb3f9a-137d-4905-827f-40c6d6726ab1_iPad_Pro_1A.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/8b/48/598b48f3-de7c-3428-12d1-08aa61ba6cf4/57293b7c-1d2e-4ccd-a634-892d4af7f8a1_iPad_Pro_2A.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/da/73/74/da73741d-19e7-63ff-ac23-54bc3ca986a8/09b4efa6-7750-444b-a148-a2218736f020_iPad_Pro_3A.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/f7/05/55f70544-79da-da45-b30a-fa22b1d8d9cc/490b1fb9-1072-4dd5-a805-15fa46df3566_iPad_Pro_4A.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/0b/8d/ca0b8d42-6bf5-3d07-411c-314dd141d70f/41b4fb54-90c6-418c-aef9-c08d45fc4e79_iPad_Pro_5A.png/576x768bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.ClassKit-environment",
+          "application-identifier",
+          "keychain-access-groups",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "get-task-allow",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.networking.networkextension",
+          "aps-environment",
+          "com.apple.developer.siri",
+          "com.apple.developer.networking.vpn.api",
+          "com.apple.developer.kernel.extended-virtual-addressing"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "SoundCloud would like to store a photo.",
+          "NSCameraUsageDescription": "bla-bla-bla",
+          "NSMicrophoneUsageDescription": "SoundCloud would like to use the microphone.",
+          "NSSiriUsageDescription": "SoundCloud would like to use Siri",
+          "NSBluetoothPeripheralUsageDescription": "SoundCloud would like to use bluetooth.",
+          "NSLocalNetworkUsageDescription": "SoundCloud uses the local network to discover Cast-enabled devices on your WiFi network.",
+          "NSUserTrackingUsageDescription": "Your data will only be used to serve more relevant ads to you.",
+          "NSPhotoLibraryAddUsageDescription": "SoundCloud would like to access the photos library."
+        }
+      },
+      "versions": [
+        {
+          "version": "8.42.3",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/SoundCloud.8.42.3.NoAds.ipa",
+          "size": 103441891
         }
       ],
       "category": "music"
@@ -26427,13 +26560,6 @@
           "version": "3.1.9b",
           "date": "2025-12-30",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/VocaCircle.AI.Smart.Flashcard-v3.1.9-riftysipas.ipa",
-          "size": 13632832
-        },
-        {
-          "version": "3.1.9c",
-          "date": "2025-12-30",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/VocaCircle.AI.Smart.Flashcard-v3.1.9-riftysipas.ipa",
           "size": 13632832
         }
@@ -28211,11 +28337,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 12.31",
+      "identifier": "telos-update-2025-12-31",
+      "caption": "6 Apps Updated:\n• 3 Photo & Video\n• 2 Social Networking\n• 1 Music",
+      "date": "2025-12-31",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.soundcloud.TouchApp"
+    },
+    {
       "title": "⚙️ Telos Update 12.30",
       "identifier": "telos-update-2025-12-30",
-      "caption": "1248 Apps Updated:\n• 388 Photo & Video\n• 242 Health & Fitness\n• 140 Productivity\n• 84 Utilities\n• 66 Education\n• 51 Entertainment\n• 45 Music\n• 35 Travel\n• 27 News\n• 20 Graphics & Design\n• 19 Weather\n• 19 Medical\n• 18 Developer Tools\n• 18 Reference\n• 17 Lifestyle\n• 14 Finance\n• 11 Navigation\n• 10 Sports\n• 7 Social Networking\n• 7 Business\n• 7 Books\n• 3 Games",
+      "caption": "1245 Apps Updated:\n• 387 Photo & Video\n• 242 Health & Fitness\n• 140 Productivity\n• 84 Utilities\n• 65 Education\n• 51 Entertainment\n• 45 Music\n• 35 Travel\n• 26 News\n• 20 Graphics & Design\n• 19 Weather\n• 19 Medical\n• 18 Developer Tools\n• 18 Reference\n• 17 Lifestyle\n• 14 Finance\n• 11 Navigation\n• 10 Sports\n• 7 Social Networking\n• 7 Business\n• 7 Books\n• 3 Games",
       "date": "2025-12-30",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.daymore.Across"
     },
@@ -28224,7 +28359,7 @@
       "identifier": "telos-update-2025-12-29",
       "caption": "575 Apps Updated:\n• 136 Games\n• 127 Photo & Video\n• 73 Health & Fitness\n• 65 Productivity\n• 31 Utilities\n• 29 Education\n• 21 Music\n• 14 Lifestyle\n• 12 Finance\n• 10 Reference\n• 10 Graphics & Design\n• 9 Medical\n• 7 Entertainment\n• 7 Business\n• 7 Travel\n• 6 Sports\n• 6 Weather\n• 2 Food & Drink\n• 2 Developer Tools\n• 1 Social Networking",
       "date": "2025-12-29",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.tr.paraphrasingtool.rewritertool.textrewriter"
     }
