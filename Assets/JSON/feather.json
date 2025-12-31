@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.google.ios.youtubemusic",
+    "com.google.ios.youtube",
     "nz.digitaltools.Tube-GPT",
     "com.fifthstarlabs.skyguide",
-    "com.fluffyfairygames.idleminertycoon",
-    "com.rubygames.assassin",
-    "com.nibbleapps.MealPrepPro"
+    "com.fluffyfairygames.idleminertycoon"
   ],
   "apps": [
     {
@@ -31132,13 +31132,6 @@
           "size": 25828144
         },
         {
-          "version": "3.9.0b",
-          "date": "2025-12-31",
-          "localizedDescription": "Version: 3.9.0\n\nTweaks: Summarify, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/Summarify_AI_For_YouTube_v3_9_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 25828144
-        },
-        {
           "version": "3.7.4",
           "date": "2025-12-31",
           "localizedDescription": "Version: 3.7.4\n\nTweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
@@ -37363,18 +37356,77 @@
     },
     {
       "beta": false,
-      "name": "YouTube",
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Google",
+      "subtitle": "Tweaked with CydiaSubstrate, ReturnYouTubeMusicDislikes",
+      "version": "8.50.2",
+      "versionDate": "2025-12-31",
+      "versionDescription": "Version: 8.50.2\n\nTweaks: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/YouTube.Music.Ultimate.8.50.2.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate\n\nYTMusicUltimate | The best tweak for YouTube Music on iOS. | Release information | Minimum OS version 16.0\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/69/ad/6f69ad44-c84b-55c6-d967-b9d8ea4dfafa/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 99837609,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos.",
+          "NSCameraUsageDescription": "To take a profile picture, allow YouTube Music to access your camera.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
+          "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
+          "NSBluetoothAlwaysUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
+          "NSPhotoLibraryAddUsageDescription": "To save images, allow YouTube Music to access your photo library."
+        }
+      },
+      "versions": [
+        {
+          "version": "8.50.2",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 8.50.2\n\nTweaks: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/YouTube.Music.Ultimate.8.50.2.ipa",
+          "size": 99837609
+        },
+        {
+          "version": "8.50.2b",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 8.50.2\n\nTweaks: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/YouTube.Music.Ultimate.8.50.2.ipa",
+          "size": 99837609
+        },
+        {
+          "version": "6.39.4",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 6.39.4\n\nTweaks: CydiaSubstrate, YTMusicUltimate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/YouTubeMusicUltimate.6.39.4.ipa",
+          "size": 96145477
+        }
+      ],
+      "category": "music"
+    },
+    {
+      "beta": false,
+      "name": "YouTube OLED",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "subtitle": "Tweaked with CydiaSubstrate, DontEatMyContent",
-      "version": "19.44.4",
+      "version": "20.50.9",
       "versionDate": "2025-12-31",
-      "versionDescription": "Version: 19.44.4\n\nTweaks: CydiaSubstrate, DontEatMyContent, LibSubstrate, YTABConfig, YTABGoodies\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Youtube_19.44.4_YTLiteFull.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, LibSubstrate, YTABConfig, YTABGoodies\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "versionDescription": "Version: 20.50.9\n\nTweaks: CydiaSubstrate, DontEatMyContent, Gonerino, YTLite, YTVideoOverlay\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/YouTube.OLED.20.50.9.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, Gonerino, YTLite, YTVideoOverlay\n\nYouTube OLED\nYouTube Plus: A tweak that enhances the YouTube experience by removing ads, enabling background playback and offering over 60 customization options.\nDontEatMyContent Prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube\nYouPiP Enable native PiP in iOS YouTube app\nGonerino YouTube tweak to remove videos uploaded by specific channels. Shake your device to enable/disable\nReturn YouTube Dislike Bring back dislikes on iOS YouTube\nOpen in YouTube shortcut Copy a YouTube video link and run this shortcut to open in YouTube OLED without ads\nOpen in Youtube extension enables \"Open In\" for sideloaded Youtube in Safari without any need to download other Opener apps / Shortcuts. (Shorts are now supported too)\nMinimum OS version 16.0\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/11/c7/1411c79b-9a1f-78b3-8a05-8416cf7c7bfe/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 111726373,
+      "size": 130498837,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -37383,25 +37435,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
-          "com.apple.developer.group-session",
-          "com.apple.developer.networking.multicast",
-          "application-identifier",
-          "com.apple.developer.networking.wifi-info",
-          "aps-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.device-information.user-assigned-device-name",
-          "com.apple.developer.siri",
-          "keychain-access-groups",
-          "com.apple.security.application-groups"
-        ],
+        "entitlements": [],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
           "NSCameraUsageDescription": "This lets you create videos using the app.",
           "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
-          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+          "NSLocationWhenInUseUsageDescription": "This enables local content discovery, improved recommendations, and enhanced search results.",
           "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
           "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
           "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
@@ -37410,6 +37449,20 @@
         }
       },
       "versions": [
+        {
+          "version": "20.50.9",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 20.50.9\n\nTweaks: CydiaSubstrate, DontEatMyContent, Gonerino, YTLite, YTVideoOverlay\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/YouTube.OLED.20.50.9.ipa",
+          "size": 130498837
+        },
+        {
+          "version": "20.50.9b",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 20.50.9\n\nTweaks: CydiaSubstrate, DontEatMyContent, Gonerino, YTLite, YTVideoOverlay\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-3/YouTube.OLED.20.50.9.ipa",
+          "size": 130498837
+        },
         {
           "version": "19.44.4",
           "date": "2025-12-31",
@@ -37440,51 +37493,6 @@
         }
       ],
       "category": "photo-&-video"
-    },
-    {
-      "beta": false,
-      "name": "YouTube Music",
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "Google",
-      "subtitle": "Tweaked with CydiaSubstrate, YTMusicUltimate",
-      "version": "6.39.4",
-      "versionDate": "2025-12-31",
-      "versionDescription": "Version: 6.39.4\n\nTweaks: CydiaSubstrate, YTMusicUltimate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/YouTubeMusicUltimate.6.39.4.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, YTMusicUltimate\n\nYTMusicUltimate | The best tweak for YouTube Music on iOS.\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/69/ad/6f69ad44-c84b-55c6-d967-b9d8ea4dfafa/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 96145477,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/a9/e6/bca9e6a9-ecc1-035c-2a5b-b42b38684977/APP_IPHONE_55-0.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/b0/e8/c5b0e871-f0de-f914-15aa-5323c4099b92/APP_IPHONE_55-1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/48/9f/ba489f76-a662-71d5-f7d1-af631628c96c/APP_IPHONE_55-2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/4c/8e/c94c8e38-2c7e-0c67-4d05-997651d6b120/APP_IPHONE_55-3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/ee/0d/faee0d6e-887e-94d4-bc3d-dac4a7dc15c9/APP_IPHONE_55-4.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos.",
-          "NSCameraUsageDescription": "To take a profile picture, allow YouTube Music to access your camera.",
-          "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
-          "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
-          "NSBluetoothAlwaysUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
-          "NSBluetoothPeripheralUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
-          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
-          "NSPhotoLibraryAddUsageDescription": "To save images, allow YouTube Music to access your photo library."
-        }
-      },
-      "versions": [
-        {
-          "version": "6.39.4",
-          "date": "2025-12-31",
-          "localizedDescription": "Version: 6.39.4\n\nTweaks: CydiaSubstrate, YTMusicUltimate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/YouTubeMusicUltimate.6.39.4.ipa",
-          "size": 96145477
-        }
-      ],
-      "category": "music"
     },
     {
       "beta": false,
