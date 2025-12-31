@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.feelty",
     "com.locket.Locket",
     "com.focos",
     "com.lightricks.Facetune2",
-    "com.soundcloud.TouchApp",
-    "com.evolve.podcast"
+    "com.soundcloud.TouchApp"
   ],
   "apps": [
     {
@@ -8526,6 +8526,58 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "beta": false,
+      "name": "FLTR",
+      "bundleIdentifier": "com.feelty",
+      "developerName": "Onelight Apps CY Ltd",
+      "subtitle": "Tweaked with blatantsPatch, fltr",
+      "version": "4.19.0",
+      "versionDate": "2025-12-31",
+      "versionDescription": "Version: 4.19.0\n\nTweaks: blatantsPatch, fltr\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Presets_for_Lightroom_FLTR_v4_19_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: blatantsPatch, fltr\n\nPresets for Lightroom - FLTR | Subscription Unlocked\n\n---\nGet free trendy presets for Lightroom by FLTR! Try perfect photo & video filters, customize iOS app icons & highlights for Instagram.\n\nIn collaboration with professional photographers and famous bloggers, we collected only top presets that allow you to edit & filter favorite shots, videos, plan your social media posts and take your content to the next level!\n\nFLTR FEATURES\n\nLIGHTROOM PRESETS\nChoose from 1000+ presets (80+ packs) and make edits on-the-go!\nThese presets will look good on every pho",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/37/7b/ab377b0d-363b-aba4-530f-b384ad84ce11/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 109545463,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/5e/16/825e1684-d66e-8fe7-59a3-139c54cce551/d6e1c903-1008-44e9-b52b-0652e63565f9_1_iphone55.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/7d/3f/407d3fdb-98c6-17ed-3800-402ca6f35704/222ec982-e378-4e83-9111-fdda5f99c7e3_2_iphone55.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/34/eb/1c34eb18-25c1-1371-e46a-fc699a8d9303/1315ddbc-be80-4320-a818-e070635b0fe3_2_APP_IPHONE_55_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/ec/70/31ec7005-6374-20fb-08ae-e67db2939ad0/b9840120-5217-487e-8a0e-8b9a9919921c_3_APP_IPHONE_55_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/4d/39/794d39c5-9c54-b103-f795-0c469fb388d9/a1ea411b-d27d-44f3-91b7-aac8792cc253_4_APP_IPHONE_55_4.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.associated-domains",
+          "application-identifier"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This will allow you to add photos from Library, edit and save them to camera roll.",
+          "NSCameraUsageDescription": "This will allow you to pick images manually and sent them as attachment to suppor team.",
+          "NSUserTrackingUsageDescription": "It helps us to create personalized experience tailored to your interests."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.19.0",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 4.19.0\n\nTweaks: blatantsPatch, fltr\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Presets_for_Lightroom_FLTR_v4_19_0_Subscription_Unlocked_blatant.ipa",
+          "size": 109545463
+        },
+        {
+          "version": "4.19.0b",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 4.19.0\n\nTweaks: blatantsPatch, fltr\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-7461c6272e13748a3726/Presets_for_Lightroom_FLTR_v4_19_0_Subscription_Unlocked_blatant.ipa",
+          "size": 109545463
+        }
+      ],
+      "category": "photo-&-video"
     },
     {
       "beta": false,
