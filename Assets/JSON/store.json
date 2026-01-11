@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.funnmedia.calory",
-    "com.joytunes.SimplyGuitar",
-    "com.picsart.studio",
-    "com.dr1ven.eraser",
-    "com.hemin.mp3editor"
+    "com.readdle.ReaddleDocsIPad",
+    "com.amanotes.magictiles",
+    "com.atebits.Tweetie2",
+    "es.monkimun.lingokids",
+    "com.unicostudio.braintest4"
   ],
   "apps": [
     {
@@ -1256,7 +1256,12 @@
       "size": 176434242,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "NSPhotoLibraryUsageDescription",
           "NSCameraUsageDescription": "NSCameraUsageDescription",
@@ -1285,6 +1290,13 @@
           "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/Adobe.Scan.Premium.25.10.10.ipa",
           "size": 171715022
+        },
+        {
+          "version": "25.09.11",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Adobe.Scan.Premium.25.09.11.ipa",
+          "size": 172735756
         }
       ],
       "category": "business"
@@ -2436,7 +2448,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/29/2e/4d292eee-a240-04db-381c-0adbf068928b/2fc39850-7a92-42bf-bd71-36217253c36b_5.5_-_EN_-_5_-_lbs.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.healthkit"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This enables you to add photos to and from your library.",
           "NSCameraUsageDescription": "This enables you to add photos from your camera.",
@@ -2460,6 +2474,20 @@
           "localizedDescription": "Tweaks: WeightLiftingWorkoutPlannerPatch\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/Gym.Workout.Alpha.Progression.Pro.6.1.1.ipa",
           "size": 143224415
+        },
+        {
+          "version": "6.1",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: WeightLiftingWorkoutPlannerPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Gym.Workout.Alpha.Progression.Pro.6.1.ipa",
+          "size": 143243390
+        },
+        {
+          "version": "6.1b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: WeightLiftingWorkoutPlannerPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Gym.Workout.Alpha.Progression.Pro.6.1.ipa",
+          "size": 143243390
         }
       ],
       "category": "health-&-fitness"
@@ -2626,7 +2654,10 @@
       "size": 113594350,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Required for saving wallpapers",
           "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you.",
@@ -2654,6 +2685,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/Anime.Wallpaper.Pro.4.0.1.ipa",
           "size": 126927147
+        },
+        {
+          "version": "4.0",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, chocorc\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Anime.Wallpaper.Pro.4.0.ipa",
+          "size": 114900323
         }
       ],
       "category": "lifestyle"
@@ -2915,20 +2953,13 @@
         },
         {
           "version": "1.15.11b",
-          "date": "2026-01-10",
-          "localizedDescription": "Tweaks: ApolloImprovedCustomApi, CydiaSubstrate, FLEX\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Apollo.for.Reddit.1.15.11.ipa",
-          "size": 114894948
-        },
-        {
-          "version": "1.15.11c",
           "date": "2026-01-09",
           "localizedDescription": "Tweaks: ApolloImprovedCustomApi, CydiaSubstrate, FLEX\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/Apollo.for.Reddit.1.15.11.ipa",
           "size": 114893074
         },
         {
-          "version": "1.15.11d",
+          "version": "1.15.11c",
           "date": "2026-01-08",
           "localizedDescription": "Tweaks: ApolloImprovedCustomApi, CydiaSubstrate, FLEX\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-10/Apollo.for.Reddit.1.15.11.ipa",
@@ -3662,7 +3693,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4c/01/6a/4c016ac2-dc4a-378f-0b36-dd9f5cca2031/ee1e4cf8-2493-4926-bbaf-f5f95e12b77c_en5.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "To import audio and video files for music creation, please allow access to all photos for more creative freedom.",
           "NSCameraUsageDescription": "We need this permission because you need to take the videos use camera",
@@ -3684,13 +3718,6 @@
           "size": 107545856
         },
         {
-          "version": "5.71b",
-          "date": "2025-11-05",
-          "localizedDescription": "Tweaks: FilePickerFix, SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Audio.Editor.IAP.5.71.ipa",
-          "size": 107545856
-        },
-        {
           "version": "5.70",
           "date": "2026-01-10",
           "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
@@ -3703,6 +3730,13 @@
           "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/Audio.Editor.IAP.5.70.ipa",
           "size": 107609847
+        },
+        {
+          "version": "5.68",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Audio.Editor.IAP.5.68.ipa",
+          "size": 108305499
         }
       ],
       "category": "music"
@@ -4285,6 +4319,20 @@
           "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/Badoo.Premium.5.438.0.ipa",
           "size": 61977596
+        },
+        {
+          "version": "5.430.0",
+          "date": "2026-01-11",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Badoo.Premium.5.430.0.ipa",
+          "size": 61797107
+        },
+        {
+          "version": "5.430.0b",
+          "date": "2026-01-11",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Badoo.Premium.5.430.0.ipa",
+          "size": 61797107
         }
       ],
       "category": "social-networking"
@@ -4723,7 +4771,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/5b/8f/3f5b8f40-d31d-f947-c25d-fa2d206ecfcc/d9f1d9ab-a9e5-4e2b-9f75-d210331701e0_05.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This allows you to select and edit photos from your Library to create Reels, save them to camera roll and share easily, ensuring a smooth and interactive onboarding experience",
           "NSCameraUsageDescription": "This will allow you to pick images manually and sent them as attachment to support team",
@@ -4745,6 +4796,20 @@
           "localizedDescription": "Tweaks: ReelsMakerPro\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/Reels.Maker.for.Instagram.Pro.1.22.0.ipa",
           "size": 125123129
+        },
+        {
+          "version": "1.21.2",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: ReelsMakerPro\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Reels.Maker.for.Instagram.Pro.1.21.2.ipa",
+          "size": 121704137
+        },
+        {
+          "version": "1.21.2b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: ReelsMakerPro\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Reels.Maker.for.Instagram.Pro.1.21.2.ipa",
+          "size": 121704137
         }
       ],
       "category": "photo-&-video"
@@ -5242,6 +5307,20 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, chocorc\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-13/Learn.Japanese.Kanji.Pro.2.5.1.ipa",
           "size": 109855952
+        },
+        {
+          "version": "2.5",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, chocorc\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Learn.Japanese.Kanji.Pro.2.5.ipa",
+          "size": 105880590
+        },
+        {
+          "version": "2.5b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, chocorc\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Learn.Japanese.Kanji.Pro.2.5.ipa",
+          "size": 105880590
         }
       ],
       "category": "education"
@@ -6373,7 +6452,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/d7/c4/22d7c4d4-1cff-d589-f010-f5a0cf1bb9f8/7db15830-4a79-4f05-a34f-b2426e9774f2_BT4_EN_iOS_5.5_Bubba.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "The app requires access to Photos to save media to it.",
           "NSCalendarsUsageDescription": "Store calendar events from ads",
@@ -6397,11 +6479,18 @@
           "size": 163916050
         },
         {
-          "version": "1.11.2",
-          "date": "2026-01-03",
+          "version": "1.26.2",
+          "date": "2026-01-11",
           "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-2/Brain.Test.4.IAP.1.11.2.ipa",
-          "size": 112009645
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Brain.Test.4.IAP.1.26.2.ipa",
+          "size": 172659948
+        },
+        {
+          "version": "1.26.2b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Brain.Test.4.IAP.1.26.2.ipa",
+          "size": 172659948
         }
       ],
       "category": "games"
@@ -7192,6 +7281,44 @@
       "category": "health-&-fitness"
     },
     {
+      "name": "ByePhotos",
+      "bundleIdentifier": "com.panicbyte.byephotos",
+      "developerName": "尉卿 褚",
+      "subtitle": "Subscription Unlocked.⠀⠀ | By:__** **__@Sa1Y0Miii__****__ __/__ __**[**__Chat__**](Https://T.Me/+Evc2_Oubbpfjodey)[**__❕__**](Https://T.Me/+Evc2_Oubbpfjodey)",
+      "version": "1.15.1",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/ByePhotos_v1.15.1_tg%40Sa1y0miii.ipa",
+      "localizedDescription": "Subscription Unlocked.⠀⠀ | By:__** **__@Sa1Y0Miii__****__ __/__ __**[**__Chat__**](Https://T.Me/+Evc2_Oubbpfjodey)[**__❕__**](Https://T.Me/+Evc2_Oubbpfjodey)\n\nᵕ̈ ByePhotos - Free Up Storage ᵕ̈ | Min.iOS: [17.0+] | Notes: Subscription unlocked.⠀⠀ | (close the purchase page)",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/d1/18/6fd118ef-3a4e-f5c2-55f9-a63a4050ecc9/AppIcon3-0-0-1x_U007epad-0-0-0-1-0-85-220.jpeg/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 31508495,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Access to your photo library is needed to find and organize similar photos."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.15.1",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/ByePhotos_v1.15.1_tg%40Sa1y0miii.ipa",
+          "size": 31508495
+        },
+        {
+          "version": "1.15.1b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/ByePhotos_v1.15.1_tg%40Sa1y0miii.ipa",
+          "size": 31508495
+        }
+      ],
+      "category": "utilities"
+    },
+    {
       "name": "Calculator Air",
       "bundleIdentifier": "com.CalculatorForiPad.InternetRocks",
       "developerName": "Air Apps Systems",
@@ -7953,6 +8080,13 @@
           "localizedDescription": "Tweaks: FileChekingCore\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/car.parking.%40binnichtaktiv.4.9.5.ipa",
           "size": 1794995975
+        },
+        {
+          "version": "4.9.4",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Car.Parking.Multiplayer.IAP.4.9.4.ipa",
+          "size": 1722131517
         }
       ],
       "category": "games"
@@ -8675,6 +8809,20 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, chocorc\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03/AI.Chatbot.AI.Chat.Assistant-v3.28-riftysipas.ipa",
           "size": 133407930
+        },
+        {
+          "version": "3.22",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Chatbot.AI_v3.22_tg%40Sa1y0miii.ipa",
+          "size": 120853238
+        },
+        {
+          "version": "3.22b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Chatbot.AI_v3.22_tg%40Sa1y0miii.ipa",
+          "size": 120853238
         },
         {
           "version": "3.18",
@@ -12012,18 +12160,18 @@
       "category": "photo-&-video"
     },
     {
-      "name": "Device Monitor²",
+      "name": "Device Monitor",
       "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
       "developerName": "Fast-Devs Project",
-      "subtitle": "** Subscription Unlocked",
-      "version": "10.4.1",
-      "versionDate": "2026-01-01",
-      "versionDescription": "Tweaks: CydiaSubstrate, DeviceMonitor2, b1atantPluginsInject\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-01-6/Device_Monitor._v10_4_1_Subscription_Unlocked_blatant_patched.ipa",
-      "localizedDescription": "** Subscription Unlocked\n\nDevice Monitor² | org.fastdevsproject.altervista.Device-Monitor | Subscription Unlocked | No Additional Notes\n\n---\n\nDevice Monitor² is a one-of-a-kind app designed for iPhone, iPod Touch, iPad, and Apple Watch, providing all the essential information about your device at a glance, quickly and effortlessly. Discover which sensors apps have access to and take control of your privacy.\nIt is also compatible with Mac (equipped with M1 processors and later) and Apple Vision Pro, the available functions are limited.\n\nWhy choose Device Monitor²?\nHere are some of its main features:\n• Clear and intuitive data visualiza",
+      "subtitle": "Satella Was Added To Buy Pro | Satella",
+      "version": "26.1.0",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Device.Monitor.IAP.26.1.0.ipa",
+      "localizedDescription": "Satella Was Added To Buy Pro | Satella\n\nDevice Monitor\nSatella was added to buy Pro.\nPress buy Pro then cancel if you get the popup to buy it\nMinimum OS version 16.6",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/96/29/da96297d-3971-7f3c-0b48-6d5a1b1b23f4/Device_Monitor_Glass_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 21930376,
+      "size": 23406185,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -12038,12 +12186,27 @@
           "NSMicrophoneUsageDescription": "LOCALIZE_STRING",
           "NSLocationWhenInUseUsageDescription": "LOCALIZE_STRING",
           "NSMotionUsageDescription": "LOCALIZE_STRING",
+          "NSSiriUsageDescription": "LOCALIZE_STRING",
           "NSFaceIDUsageDescription": "LOCALIZE_STRING",
           "NSBluetoothAlwaysUsageDescription": "LOCALIZE_STRING",
           "NSBluetoothPeripheralUsageDescription": "LOCALIZE_STRING"
         }
       },
       "versions": [
+        {
+          "version": "26.1.0",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Device.Monitor.IAP.26.1.0.ipa",
+          "size": 23406185
+        },
+        {
+          "version": "26.1.0b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Device.Monitor.IAP.26.1.0.ipa",
+          "size": 23406185
+        },
         {
           "version": "10.4.1",
           "date": "2026-01-01",
@@ -12057,20 +12220,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, DeviceMonitor2, b1atantPluginsInject\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-01-6/Device_Monitor._v10_4_0_Subscription_Unlocked_blatant_patched.ipa",
           "size": 21691209
-        },
-        {
-          "version": "10.3.0",
-          "date": "2026-01-01",
-          "localizedDescription": "Tweaks: CydiaSubstrate, DeviceMonitor2\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-01-7/Device.Monitor.v10.3.0.Subscription.Unlocked.blatant.ipa",
-          "size": 20907809
-        },
-        {
-          "version": "10.2.0",
-          "date": "2026-01-06",
-          "localizedDescription": "Tweaks: CydiaSubstrate, DeviceMonitor2\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-6/Device.Monitor.v10.2.0.Subscription.Unlocked.blatant.ipa",
-          "size": 20062109
         }
       ],
       "category": "developer-tools"
@@ -13314,14 +13463,14 @@
           "size": 218044684
         },
         {
-          "version": "7.104.1c",
-          "date": "2026-01-10",
+          "version": "7.104.0",
+          "date": "2026-01-06",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Duolingo_Language_Lessons_v7_104_1_Duolingo_MAX_Unlocked_blatant.ipa",
-          "size": 218044684
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-6/Duolingo_Language_Lessons_v7_104_0_Duolingo_MAX_Unlocked_blatant.ipa",
+          "size": 218040462
         },
         {
-          "version": "7.104.0",
+          "version": "7.104.0b",
           "date": "2026-01-06",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-6/Duolingo_Language_Lessons_v7_104_0_Duolingo_MAX_Unlocked_blatant.ipa",
@@ -15085,7 +15234,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/7e/5d/127e5da2-6abb-34d4-fdca-4999e21744d8/0cee9ae3-530b-41e9-a803-c080d688135f_Artboard_4___U00285.5_U0029.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.associated-domains"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Grant access for gallery to choose photos and apply filters to them.",
           "NSCameraUsageDescription": "Grant access for camera to take photos and apply filters to them.",
@@ -15109,6 +15262,20 @@
           "localizedDescription": "Tweaks: FaceLabPro, SatellaJailed\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/FaceLab.Hair.Editor.Premium.4.44.0.ipa",
           "size": 157098520
+        },
+        {
+          "version": "4.43.0",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: FaceLabPro, SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/FaceLab.Hair.Editor.Premium.4.43.0.ipa",
+          "size": 158542293
+        },
+        {
+          "version": "4.43.0b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: FaceLabPro, SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/FaceLab.Hair.Editor.Premium.4.43.0.ipa",
+          "size": 158542293
         }
       ],
       "category": "photo-&-video"
@@ -15424,6 +15591,56 @@
       "category": "entertainment"
     },
     {
+      "name": "FanCode",
+      "bundleIdentifier": "com.dream11.sportsguru",
+      "developerName": "fuboTV Inc.",
+      "subtitle": "FanCode for iOS",
+      "version": "7.26.2",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/FanCode_7.26.2.ipa",
+      "localizedDescription": "FanCode for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/f6/21/f1f621f6-8886-027e-137a-7f42a175cfd8/Fubo-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 33335164,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/5e/48/455e4846-9d05-05d0-5e4e-a597e9d63b98/01_Content_iPhone8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/0e/be/6a0ebe1d-2a45-a3d3-fcbe-7db684dd7a27/02_Sports_iPhone8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/16/00/26160027-62f6-3bb3-734f-da497348eac9/01A_Content_iPhone8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/63/93/6a6393d0-1f4d-aa33-8754-ea1673aaa214/03_Ent_iPhone8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/b2/6e/57b26eb0-63fc-c760-b1c9-f6903ed24b8a/NBA.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Fancode needs access to your photo library for you to be able to attach images.",
+          "NSCameraUsageDescription": "Fancode needs to access camera to add attachments in help desk.",
+          "NSMicrophoneUsageDescription": "Fancode needs access to the microphone to be able to attach voice notes.",
+          "NSLocationWhenInUseUsageDescription": "We use your location to help suggest relevant content to you.",
+          "NSLocationAlwaysUsageDescription": "We use your location to help suggest relevant content to you.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows FanCode to discover and connect to your tv for bigger screen enjoyment",
+          "NSUserTrackingUsageDescription": "We will use your data to provide personalised sports content only for you and relevant ads"
+        }
+      },
+      "versions": [
+        {
+          "version": "7.26.2",
+          "date": "2026-01-11",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/FanCode_7.26.2.ipa",
+          "size": 33335164
+        },
+        {
+          "version": "7.26.2b",
+          "date": "2026-01-11",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/FanCode_7.26.2.ipa",
+          "size": 33335164
+        }
+      ],
+      "category": "entertainment"
+    },
+    {
       "name": "FarmVille 2",
       "bundleIdentifier": "com.zynga.FarmVille2CountryEscape",
       "developerName": "Zynga Inc.",
@@ -15467,6 +15684,20 @@
           "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/FarmVille.2.IGG.28.5.ipa",
           "size": 363533813
+        },
+        {
+          "version": "28.4",
+          "date": "2026-01-11",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/FarmVille.2.IGG.28.4.ipa",
+          "size": 307701847
+        },
+        {
+          "version": "28.4b",
+          "date": "2026-01-11",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/FarmVille.2.IGG.28.4.ipa",
+          "size": 307701847
         },
         {
           "version": "25.7",
@@ -16245,6 +16476,54 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03/Fishbrain.-.Fishing.App-v9.33.0-riftysipas.ipa",
           "size": 102352504
+        }
+      ],
+      "category": "sports"
+    },
+    {
+      "name": "Fishing Points",
+      "bundleIdentifier": "com.gregacucnik.FishingPoints",
+      "developerName": "Fishing Points d.o.o.",
+      "subtitle": "Subscription Unlocked.  ``` | By:__** **__@Sa1Y0Miii__****__ __/__ __**[**__Chat__**](Https://T.Me/+Evc2_Oubbpfjodey)[**__❕__**](Https://T.Me/+Evc2_Oubbpfjodey)",
+      "version": "3.0.2",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: AutoRevenueCat, StopReviews, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Fishing.Points_3.0.2_tg%40Sa1y0miii.ipa",
+      "localizedDescription": "Subscription Unlocked.  ``` | By:__** **__@Sa1Y0Miii__****__ __/__ __**[**__Chat__**](Https://T.Me/+Evc2_Oubbpfjodey)[**__❕__**](Https://T.Me/+Evc2_Oubbpfjodey)\n\nᵕ̈ Fishing Points – Map & Forecast ᵕ̈ | Min.iOS: [15.0+] | Notes: Subscription unlocked.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/cb/d7/41cbd79a-1421-0c72-ee27-672e70d0e20c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 106000858,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/c7/59/c3c7590c-2176-31b6-767d-9e9a2c3dc642/6776fc06-c9b7-4604-8be2-05f939177c5b_01_FP-EN-iOS-i8_2024.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/04/6e/06046e69-1c95-f4fe-33d6-09c36d4d2836/d5bfacac-ea11-411c-894f-447e37e48b9d_02_FP-EN-iOS-i8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/a4/10/faa410d4-55cf-79cc-bb9a-6bd316db1fd2/0b648526-527b-449c-a86a-e25d1c0815c0_03_FP-EN-iOS-i8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/5d/e8/445de8d6-afeb-9c3b-877c-9b25bddecb6e/88c1bc03-67bd-4b9c-b9c3-a8b2db159e91_04_FP-EN-iOS-i8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/6a/80/b06a800a-6604-942c-a5d4-9ed6326d5213/dd1ec124-8bae-4ea6-903a-bc93f3376fcc_05_FP-EN-iOS-i8.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "App uses your photo library for catch photos.",
+          "NSCameraUsageDescription": "App uses your camera for catch photos.",
+          "NSMicrophoneUsageDescription": "App needs access to your microphone so you can attach voice notes.",
+          "NSLocationWhenInUseUsageDescription": "App uses your location for navigation, path recording and weather forecast.",
+          "NSLocationAlwaysUsageDescription": "App uses your location in the background only when navigating or recording paths."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.0.2",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: AutoRevenueCat, StopReviews, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Fishing.Points_3.0.2_tg%40Sa1y0miii.ipa",
+          "size": 106000858
+        },
+        {
+          "version": "3.0.2b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: AutoRevenueCat, StopReviews, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Fishing.Points_3.0.2_tg%40Sa1y0miii.ipa",
+          "size": 106000858
         }
       ],
       "category": "sports"
@@ -17217,11 +17496,11 @@
           "size": 37265934
         },
         {
-          "version": "5.36",
-          "date": "2026-01-02",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/flipclock-v5.36-AppTesters.ipa",
-          "size": 42867405
+          "version": "6.12",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Flip.Clock.Premium.6.12.ipa",
+          "size": 30825856
         }
       ],
       "category": "utilities"
@@ -17569,15 +17848,15 @@
       "name": "FLTR",
       "bundleIdentifier": "com.feelty",
       "developerName": "Onelight Apps CY Ltd",
-      "subtitle": "Subscription Unlocked | Patched",
+      "subtitle": "Pro Features Unlocked",
       "version": "4.19.0",
-      "versionDate": "2025-12-31",
-      "versionDescription": "Tweaks: blatantsPatch, fltr\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Presets_for_Lightroom_FLTR_v4_19_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPresets for Lightroom - FLTR | Subscription Unlocked\n\n---\n\nGet free trendy presets for Lightroom by FLTR! Try perfect photo & video filters, customize iOS app icons & highlights for Instagram.\n\nIn collaboration with professional photographers and famous bloggers, we collected only top presets that allow you to edit & filter favorite shots, videos, plan your social media posts and take your content to the next level!\n\nFLTR FEATURES\n\nLIGHTROOM PRESETS\nChoose from 1000+ presets (80+ packs) and make edits on-the-go!\nThese presets will look good on every pho",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: CydiaSubstrate, FLTR\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Presets.for.Lightroom.Pro.4.19.0.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nPresets Lightroom, Filter・FLTR | Tweak made by blatant | Minimum OS version 16.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/37/7b/ab377b0d-363b-aba4-530f-b384ad84ce11/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 109545463,
+      "size": 106097701,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/5e/16/825e1684-d66e-8fe7-59a3-139c54cce551/d6e1c903-1008-44e9-b52b-0652e63565f9_1_iphone55.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/7d/3f/407d3fdb-98c6-17ed-3800-402ca6f35704/222ec982-e378-4e83-9111-fdda5f99c7e3_2_iphone55.jpg/392x696bb.jpg",
@@ -17599,6 +17878,20 @@
       "versions": [
         {
           "version": "4.19.0",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, FLTR\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Presets.for.Lightroom.Pro.4.19.0.ipa",
+          "size": 106097701
+        },
+        {
+          "version": "4.19.0b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, FLTR\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Presets.for.Lightroom.Pro.4.19.0.ipa",
+          "size": 106097701
+        },
+        {
+          "version": "4.19.0c",
           "date": "2025-12-31",
           "localizedDescription": "Tweaks: blatantsPatch, fltr\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Presets_for_Lightroom_FLTR_v4_19_0_Subscription_Unlocked_blatant.ipa",
@@ -17610,20 +17903,6 @@
           "localizedDescription": "Tweaks: blatantsPatch, fltr\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02-1/Presets_for_Lightroom_FLTR_v4_18_14_Subscription_Unlocked_blatant.ipa",
           "size": 94271411
-        },
-        {
-          "version": "4.18.13",
-          "date": "2026-01-01",
-          "localizedDescription": "Tweaks: blatantsPatch, fltr\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-01-5/Presets_for_Lightroom_FLTR_v4_18_13_Subscription_Unlocked_blatant.ipa",
-          "size": 94133715
-        },
-        {
-          "version": "4.18.7",
-          "date": "2026-01-01",
-          "localizedDescription": "Tweaks: CydiaSubstrate, fltr, sideloadFixerLol\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-01-7/Presets_for_Lightroom_FLTR_v4_18_7_Subscription_Unlocked_blatant.ipa",
-          "size": 93199841
         }
       ],
       "category": "photo-&-video"
@@ -18523,6 +18802,95 @@
       "category": "games"
     },
     {
+      "name": "Free VPN",
+      "bundleIdentifier": "com.freevpnapp.freevpn",
+      "developerName": "Free VPN LTD (Apps)",
+      "subtitle": "Satella",
+      "version": "9.2",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, YourTweakName\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Free.VPN_9.2_Satella_Melon.ipa",
+      "localizedDescription": "Satella\n\nFree VPN – Unlimited VPN Proxy 9.2 - com.freevpnapp.freevpn\n- App to provide 100% free, unlimited VPN access with fast global servers, strict no-log policy, and ad-supported functionality for secure and private browsing across devices.\n- Satella added to buy premium\n- By @melonn01 (",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/4a/f9/694af9c0-1511-df70-3e92-b53b3b1454d3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 18338040,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/5e/30/2d/5e302d0e-3ea6-556f-2a84-06afae268b6a/72ac323b-80d6-470c-9f0b-dee7c1376d03_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4f/92/b1/4f92b194-2894-3441-dee7-ed44bddc6360/b5f6b599-feaa-4465-a9c2-ade10977c44a_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/68/f3/5b/68f35bcc-20ee-3c18-62e6-3fa35a8c3050/093eefdf-75a6-42e8-8c70-fb393d90dbd3_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7c/7d/1c/7c7d1c00-e745-97a1-9c6a-3e245386757d/c6b4f3ca-7940-4a63-aa35-9ffe23fc0111_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7d/cc/51/7dcc51c1-ea4c-36df-382a-c70ebce69b64/ad70e8cd-cc15-4558-99c7-961165aaa0e4_5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "9.2",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, YourTweakName\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Free.VPN_9.2_Satella_Melon.ipa",
+          "size": 18338040
+        },
+        {
+          "version": "9.2b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, YourTweakName\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Free.VPN_9.2_Satella_Melon.ipa",
+          "size": 18338040
+        }
+      ],
+      "category": "utilities"
+    },
+    {
+      "name": "Free VPN",
+      "bundleIdentifier": "org.freevpn.vpn",
+      "developerName": "Free VPN LLC",
+      "subtitle": "Satella",
+      "version": "4.028",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, YourTweakName\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Free.VPN_4.028_Satella_Melon.ipa",
+      "localizedDescription": "Satella\n\nFree VPN by Free VPN .org™ 4.028 - org.freevpn.vpn\n- App to provide unlimited, ad-supported VPN access with military-grade encryption, no registration or logging required, one-tap global server connections, and built-in ad-blocking tools.\n- Satella added to buy premium\n- By @melonn01 (",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/40/21/48402185-5ddc-bf49-1393-635053b5aeb8/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 24522725,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Advertisement would like to store a photo.",
+          "NSCameraUsageDescription": "Advertisement requests write access to the Camera",
+          "NSLocationWhenInUseUsageDescription": "We need your location to find the fastest VPN server for you",
+          "NSLocationAlwaysUsageDescription": "Used by Ad Libraries to show better Ads",
+          "NSCalendarsUsageDescription": "Advertisement would like to create a calendar event.",
+          "NSMotionUsageDescription": "Interactive Ad Controls",
+          "NSBluetoothPeripheralUsageDescription": "Advertisement would like to use bluetooth.",
+          "NSPhotoLibraryAddUsageDescription": "Advertisement requests write access to the Photo Library"
+        }
+      },
+      "versions": [
+        {
+          "version": "4.028",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, YourTweakName\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Free.VPN_4.028_Satella_Melon.ipa",
+          "size": 24522725
+        },
+        {
+          "version": "4.028b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, YourTweakName\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Free.VPN_4.028_Satella_Melon.ipa",
+          "size": 24522725
+        }
+      ],
+      "category": "utilities"
+    },
+    {
       "name": "FreeYourMusic",
       "bundleIdentifier": "io.stampapp.Stamp",
       "developerName": "Hernas OÜ",
@@ -19246,6 +19614,49 @@
       "category": "education"
     },
     {
+      "name": "Gizmo",
+      "bundleIdentifier": "io.gonative.ios.xqdyad",
+      "developerName": "Save All",
+      "subtitle": "Subscription Unlocked.⠀⠀``` | By:__** **__@Sa1Y0Miii__****__ __/__ __**[**__Chat__**](Https://T.Me/+Evc2_Oubbpfjodey)[**__❕__**](Https://T.Me/+Evc2_Oubbpfjodey)",
+      "version": "2.0.47",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Gizmo_v2.0.47_tg%40Sa1y0miii.ipa",
+      "localizedDescription": "Subscription Unlocked.⠀⠀``` | By:__** **__@Sa1Y0Miii__****__ __/__ __**[**__Chat__**](Https://T.Me/+Evc2_Oubbpfjodey)[**__❕__**](Https://T.Me/+Evc2_Oubbpfjodey)\n\nGizmo: AI Flashcards | Min.iOS: [15.1+] | Notes: Subscription unlocked.⠀⠀",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/af/27/cbaf27a1-ac28-b372-df33-b50154a3fac0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 34218064,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Gizmo accesses photos so you can learn from photos of your notes.",
+          "NSCameraUsageDescription": "Gizmo accesses the camera to help you take pictures of and learn your notes",
+          "NSMicrophoneUsageDescription": "Gizmo accesses the microphone to help you record and learn audio of your notes",
+          "NSLocationWhenInUseUsageDescription": "Gizmo uses location services to enhance learning experience with location-based features",
+          "NSContactsUsageDescription": "Gizmo uses your contact book to help you find your friends on Gizmo. We store the contacts on a server so we can identify your friends",
+          "NSFaceIDUsageDescription": "Allow Gizmo to access your Face ID biometric data."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.0.47",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Gizmo_v2.0.47_tg%40Sa1y0miii.ipa",
+          "size": 34218064
+        },
+        {
+          "version": "2.0.47b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Gizmo_v2.0.47_tg%40Sa1y0miii.ipa",
+          "size": 34218064
+        }
+      ],
+      "category": "education"
+    },
+    {
       "name": "Glam",
       "bundleIdentifier": "com.mynalabs.saidit",
       "developerName": "Glam Labs, Inc.",
@@ -19536,9 +19947,9 @@
       "developerName": "Goodnotes Limited",
       "subtitle": "Tweaked with CydiaSubstrate, Goodnotes6",
       "version": "6.7.21",
-      "versionDate": "2026-01-09",
+      "versionDate": "2026-01-11",
       "versionDescription": "Tweaks: CydiaSubstrate, Goodnotes6\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/Goodnotes.6.Premium.6.7.21.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Goodnotes.6.Premium.6.7.21.ipa",
       "localizedDescription": "Goodnotes 6 | Tweak made by Blatant | Minimum OS version 17.5",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/af/e2/ecafe2fb-6bad-b655-9239-b66a77f66232/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
@@ -19578,6 +19989,20 @@
       "versions": [
         {
           "version": "6.7.21",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Goodnotes6\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Goodnotes.6.Premium.6.7.21.ipa",
+          "size": 382913824
+        },
+        {
+          "version": "6.7.21b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Goodnotes6\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Goodnotes.6.Premium.6.7.21.ipa",
+          "size": 382913824
+        },
+        {
+          "version": "6.7.21c",
           "date": "2026-01-09",
           "localizedDescription": "Tweaks: CydiaSubstrate, Goodnotes6\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/Goodnotes.6.Premium.6.7.21.ipa",
@@ -19589,20 +20014,6 @@
           "localizedDescription": "Tweaks: Goodnotes6, b1atantPluginsInject\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04/Goodnotes_6_AI_Notes_._Docs_v6_6_47_Pro_Unlocked_blatant_patched.ipa",
           "size": 385238988
-        },
-        {
-          "version": "6.6.46",
-          "date": "2026-01-01",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Goodnotes6, b1atantPluginsInject\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-01-6/Goodnotes_6_AI_Notes_._Docs_v6_6_46_Pro_Unlocked_blatant_patched.ipa",
-          "size": 382123337
-        },
-        {
-          "version": "6.6.44",
-          "date": "2026-01-04",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Goodnotes6, b1atantPluginsInject\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04/Goodnotes_6_AI_Notes_._Docs_v6_6_44_Pro_Unlocked_blatant_patched.ipa",
-          "size": 370127806
         }
       ],
       "category": "productivity"
@@ -21228,18 +21639,18 @@
           "size": 164385374
         },
         {
-          "version": "2.2.5b",
-          "date": "2026-01-10",
-          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Learn.Japanese.IAP.2.2.5.ipa",
-          "size": 164385374
-        },
-        {
           "version": "2.1.12",
           "date": "2026-01-10",
           "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/Learn.Japanese.IAP.2.1.12.ipa",
           "size": 131089763
+        },
+        {
+          "version": "2.1.11",
+          "date": "2026-01-10",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/Learn.Japanese.IAP.2.1.11.ipa",
+          "size": 131084687
         }
       ],
       "category": "education"
@@ -22741,6 +23152,13 @@
           "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-09/Impulse.IAP.1.38.ipa",
           "size": 87193233
+        },
+        {
+          "version": "1.35",
+          "date": "2026-01-11",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Impulse.IAP.1.35.ipa",
+          "size": 86701796
         }
       ],
       "category": "health-&-fitness"
@@ -23829,13 +24247,6 @@
         },
         {
           "version": "1.175",
-          "date": "2026-01-10",
-          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Simple.Workout.Log_v1.154_tg%40Sa1y0miii.ipa",
-          "size": 63867994
-        },
-        {
-          "version": "1.175b",
           "date": "2026-01-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Simple.Workout.Log_v1.154_tg%40Sa1y0miii.ipa",
@@ -25108,6 +25519,13 @@
           "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/Kick.the.Buddy.Second.Kick.IGG.2.14.2.ipa",
           "size": 169574955
+        },
+        {
+          "version": "2.14.1",
+          "date": "2026-01-11",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Kick.the.Buddy.Second.Kick.IGG.2.14.1.ipa",
+          "size": 169454939
         }
       ],
       "category": "games"
@@ -25173,7 +25591,10 @@
       "size": 105170356,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "To save your edited images",
           "NSCameraUsageDescription": "To capture photos and videos",
@@ -25202,6 +25623,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/Labbet_v2.48_tg%40Sa1y0miii.ipa",
           "size": 102830696
+        },
+        {
+          "version": "2.46",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Labbet_v2.46_tg%40Sa1y0miii.ipa",
+          "size": 89923517
         }
       ],
       "category": "photo-&-video"
@@ -25837,7 +26265,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/90/04/299004de-7b04-41cb-2ce7-b1e9b5d91560/8ab1ac20-6c56-46f2-8862-d77e4d90c374_5.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Used to save your texts to Photo Library.",
           "NSCameraUsageDescription": "This application will use the Camera for Augmented Reality.",
@@ -25862,6 +26292,20 @@
           "localizedDescription": "Tweaks: LetoPremium\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/Leto.Font.for.Instagram.Story.8.5.ipa",
           "size": 169283663
+        },
+        {
+          "version": "8.4.2",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: LetoPremium\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Leto.Font.for.Instagram.Story.8.4.2.ipa",
+          "size": 167682689
+        },
+        {
+          "version": "8.4.2b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: LetoPremium\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Leto.Font.for.Instagram.Story.8.4.2.ipa",
+          "size": 167682689
         }
       ],
       "category": "graphics-&-design"
@@ -25963,13 +26407,6 @@
           "localizedDescription": "Tweaks: SatellaJailed, StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/LidarCamera_v3.12.0_tg%40Sa1y0miii.ipa",
           "size": 10690122
-        },
-        {
-          "version": "3.12.0b",
-          "date": "2026-01-10",
-          "localizedDescription": "Tweaks: SatellaJailed, StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/LidarCamera_v3.12.0_tg%40Sa1y0miii.ipa",
-          "size": 10690122
         }
       ],
       "category": "photo-&-video"
@@ -26027,11 +26464,11 @@
           "size": 31761253
         },
         {
-          "version": "6.5.0b",
+          "version": "6.4.2",
           "date": "2026-01-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, LifePatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Life.-.Period.Tracker.Calendar.Premium.6.5.0.ipa",
-          "size": 31761253
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/Life.-.Period.Tracker.Calendar.Premium.6.4.2.ipa",
+          "size": 32301913
         }
       ],
       "category": "health-&-fitness"
@@ -26335,10 +26772,10 @@
         },
         {
           "version": "10.5.2",
-          "date": "2025-12-30",
-          "localizedDescription": "Tweaks: FilePickerFix, Lightroom, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Lightroom_Photo_._Video_Editor_v10_5_2_Subscription_Unlocked_blatant.ipa",
-          "size": 187785416
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: LightroomPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Lightroom.Premium.10.5.2.ipa",
+          "size": 180381358
         }
       ],
       "category": "photo-&-video"
@@ -26347,15 +26784,15 @@
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobile",
       "developerName": "Adobe Inc.",
-      "subtitle": "Satella",
-      "version": "9.2.1",
-      "versionDate": "2026-01-03",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "10.5.2",
+      "versionDate": "2026-01-11",
       "versionDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-2/Adobe.Lightroom.iPad.Premium9.2.1.ipa",
-      "localizedDescription": "Satella\n\nAdobe Lightroom for iPad\nSatella was added to buy Premium\nPress buy Premium then cancel if you get the popup to buy it\n\n---\n\nJoin millions of users who trust Adobe Photoshop Lightroom as their AI-powered photo editor to bring their photos, videos and reels to life.\n\nMAKE YOUR PHOTOS AND VIDEOS STAND OUT\n\nStart with one-tap presets or filters for pictures, videos and reels. Then, fine-tune the details with powerful tools to retouch, remove objects, blur backgrounds, and make more precise edits to bring your vision to life.\n\nWhether you’re developing your skills, a seasoned pro, or just love capturing life’s moments, Li",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Adobe.Lightroom.iPad.Premium10.5.2.ipa",
+      "localizedDescription": "Adobe Lightroom for iPad | Tap on buy premium then cancel | Minimum OS version 17.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/06/a0/4c06a08d-2a25-4e70-bcc2-fa629dcb9056/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 165719584,
+      "size": 177298614,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/fc/ef/dafcefd8-5f88-dd72-aa5f-becb035c3abd/bdf85b35-761a-4e66-8033-f3ee173dc55a_01_LrCC_Apple_iPad_2732x2048_EN-US.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/6c/81/0e6c8183-599d-89d1-2f42-da7e02872e46/af69f593-27f6-47c1-8db7-b01e05e14b76_AIRemove_LrCC_Apple_iPad_2732x2048_EN-US.jpg/552x414bb.jpg",
@@ -26385,6 +26822,20 @@
         }
       },
       "versions": [
+        {
+          "version": "10.5.2",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Adobe.Lightroom.iPad.Premium10.5.2.ipa",
+          "size": 177298614
+        },
+        {
+          "version": "10.5.2b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Adobe.Lightroom.iPad.Premium10.5.2.ipa",
+          "size": 177298614
+        },
         {
           "version": "9.2.1",
           "date": "2026-01-03",
@@ -26655,11 +27106,18 @@
           "size": 135636699
         },
         {
-          "version": "3.1.0",
-          "date": "2026-01-09",
+          "version": "3.1.1",
+          "date": "2026-01-11",
           "localizedDescription": "Tweaks: CydiaSubstrate, LingoDeerPremium\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/LingoDeer.Premium.3.1.0.ipa",
-          "size": 132274625
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/LingoDeer.Premium.3.1.1.ipa",
+          "size": 132285014
+        },
+        {
+          "version": "3.1.1b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, LingoDeerPremium\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/LingoDeer.Premium.3.1.1.ipa",
+          "size": 132285014
         }
       ],
       "category": "education"
@@ -27635,16 +28093,7 @@
       "size": 166132272,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.developer.user-fonts",
-          "com.apple.private.skip-library-validation",
-          "com.apple.security.application-groups",
-          "inter-app-audio",
-          "platform-application",
-          "run-unsigned-code"
-        ],
+        "entitlements": [],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "We require access to Photos so that you can add photos and videos to your projects",
           "NSMicrophoneUsageDescription": "We require access to the Microphone to record Voiceovers for your projects",
@@ -27660,25 +28109,25 @@
           "size": 166132272
         },
         {
+          "version": "5.3.2",
+          "date": "2026-01-11",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/LumaFusion.5.3.2.ipa",
+          "size": 165836897
+        },
+        {
+          "version": "5.3.2b",
+          "date": "2026-01-11",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/LumaFusion.5.3.2.ipa",
+          "size": 165836897
+        },
+        {
           "version": "5.2.1",
           "date": "2026-01-02",
           "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02-1/LumaFusion.5.2.1.ipa",
           "size": 165895640
-        },
-        {
-          "version": "5.0.0",
-          "date": "2026-01-03",
-          "localizedDescription": "Tweaks: adlib\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-2/LumaFusion.5.0.0.ipa",
-          "size": 162556234
-        },
-        {
-          "version": "4.1.3",
-          "date": "2026-01-03",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-2/LumaFusion.4.1.3.ipa",
-          "size": 135101230
         }
       ],
       "category": "photo-&-video"
@@ -29227,11 +29676,11 @@
           "size": 46793804
         },
         {
-          "version": "3.0.3",
-          "date": "2026-01-02",
+          "version": "3.0.4",
+          "date": "2026-01-11",
           "localizedDescription": "Tweaks: ExifMetadataEditorPro\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02-2/Exif.Metadata.Editor.unlimited.access.3.0.3.ipa",
-          "size": 39193530
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Exif.Metadata.Editor.unlimited.access.3.0.4.ipa",
+          "size": 44400795
         }
       ],
       "category": "photo-&-video"
@@ -29280,6 +29729,49 @@
         }
       ],
       "category": "music"
+    },
+    {
+      "name": "Mika Football",
+      "bundleIdentifier": "com.mikafootball.app",
+      "developerName": "Pick Shine",
+      "subtitle": "Tweaked with NoAds",
+      "version": "1.0.2",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: NoAds\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Mika.Football.no.ads.1.0.2.ipa",
+      "localizedDescription": "Mika Football for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/1d/c1/b61dc1ad-0ab1-39b8-404c-b02d9fb4553e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 18343908,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment"
+        ],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Runner this feature is currently not in use!",
+          "NSLocationWhenInUseUsageDescription": "Runner enable location access to get tailored recommendations and a seamless, personalized experience!",
+          "NSLocationAlwaysUsageDescription": "Runner enable location access to get tailored recommendations and a seamless, personalized experience!",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Runner enable location access to get tailored recommendations and a seamless, personalized experience!"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: NoAds\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Mika.Football.no.ads.1.0.2.ipa",
+          "size": 18343908
+        },
+        {
+          "version": "1.0.2b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: NoAds\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Mika.Football.no.ads.1.0.2.ipa",
+          "size": 18343908
+        }
+      ],
+      "category": "sports"
     },
     {
       "name": "Mileways",
@@ -30198,18 +30690,18 @@
           "size": 195823673
         },
         {
-          "version": "10.29.0",
-          "date": "2026-01-02",
+          "version": "10.59.0",
+          "date": "2026-01-11",
           "localizedDescription": "Tweaks: Mondly\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02-2/Mondly.Premium.10.29.0.ipa",
-          "size": 186978566
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Mondly.Premium.10.59.0.ipa",
+          "size": 193781784
         },
         {
-          "version": "10.26.0",
-          "date": "2026-01-03",
+          "version": "10.59.0b",
+          "date": "2026-01-11",
           "localizedDescription": "Tweaks: Mondly\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-2/Mondly.Premium.10.26.0.ipa",
-          "size": 169321071
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Mondly.Premium.10.59.0.ipa",
+          "size": 193781784
         }
       ],
       "category": "education"
@@ -31248,7 +31740,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/63/4a/16634a34-38de-e322-e20a-87633b49b14c/37c26992-438d-4f71-aad3-e58279f27761_4_progress_en.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "MyFitCoach needs access to your photo library for you to be able to send photos in our support chat.",
           "NSHealthShareUsageDescription": "MyFitCoach needs access to your Health data to synchronize it for you.",
@@ -31269,6 +31765,20 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, MyFitCoachPatch\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/MyFitCoach.Pro.1.19.ipa",
           "size": 202565808
+        },
+        {
+          "version": "1.18.7",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, MyFitCoachPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/MyFitCoach.Pro.1.18.7.ipa",
+          "size": 207641016
+        },
+        {
+          "version": "1.18.7b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, MyFitCoachPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/MyFitCoach.Pro.1.18.7.ipa",
+          "size": 207641016
         }
       ],
       "category": "health-&-fitness"
@@ -31379,6 +31889,20 @@
           "localizedDescription": "Tweaks: Adblock, CydiaSubstrate, noads\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-10/Forex.Calendar.Market.News.no.ads.2.41.ipa",
           "size": 12264896
+        },
+        {
+          "version": "2.39",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: Adblock, CydiaSubstrate, noads\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Forex.Calendar.Market.News.no.ads.2.39.ipa",
+          "size": 12673699
+        },
+        {
+          "version": "2.39b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: Adblock, CydiaSubstrate, noads\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Forex.Calendar.Market.News.no.ads.2.39.ipa",
+          "size": 12673699
         }
       ],
       "category": "finance"
@@ -32427,6 +32951,20 @@
           "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/Noir.-.Dark.Mode.for.Safari.2025.2.6.ipa",
           "size": 9560164
+        },
+        {
+          "version": "2025.2.1",
+          "date": "2026-01-11",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Noir.-.Dark.Mode.for.Safari.2025.2.1.ipa",
+          "size": 9615416
+        },
+        {
+          "version": "2025.2.1b",
+          "date": "2026-01-11",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Noir.-.Dark.Mode.for.Safari.2025.2.1.ipa",
+          "size": 9615416
         }
       ],
       "category": "utilities"
@@ -33062,25 +33600,25 @@
           "size": 85490935
         },
         {
+          "version": "2025.9",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Obscura_v2025.9_tg%40Sa1y0miii.ipa",
+          "size": 78616062
+        },
+        {
+          "version": "2025.9b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Obscura_v2025.9_tg%40Sa1y0miii.ipa",
+          "size": 78616062
+        },
+        {
           "version": "2025.6",
           "date": "2026-01-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, autoRevenuecat, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03/Obscura.Pro.Camera-v2025.6-riftysipas.ipa",
           "size": 65595569
-        },
-        {
-          "version": "2025.5",
-          "date": "2026-01-04",
-          "localizedDescription": "Tweaks: CydiaSubstrate, autoRevenuecat, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-3/Obscura.Pro.Camera-v2025.5-riftysipas.ipa",
-          "size": 54736737
-        },
-        {
-          "version": "2025.4",
-          "date": "2026-01-04",
-          "localizedDescription": "Tweaks: CydiaSubstrate, autoRevenuecat, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-3/Obscura.Pro.Camera-v2025.4-riftysipas.ipa",
-          "size": 54731547
         }
       ],
       "category": "photo-&-video"
@@ -34084,6 +34622,62 @@
       "category": "utilities"
     },
     {
+      "name": "Ornament",
+      "bundleIdentifier": "com.ornament.ornament.health",
+      "developerName": "Ornament Health AG",
+      "subtitle": "Subscription Unlocked.  ``` | By:__** **__@Sa1Y0Miii__****__ __/__ __**[**__Chat__**](Https://T.Me/+Evc2_Oubbpfjodey)[**__❕__**](Https://T.Me/+Evc2_Oubbpfjodey)",
+      "version": "4.0.4",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Ornament_v4.0.4_tg%40Sa1y0miii.ipa",
+      "localizedDescription": "Subscription Unlocked.  ``` | By:__** **__@Sa1Y0Miii__****__ __/__ __**[**__Chat__**](Https://T.Me/+Evc2_Oubbpfjodey)[**__❕__**](Https://T.Me/+Evc2_Oubbpfjodey)\n\nᵕ̈  Ornament – Health Monitoring  ᵕ̈ | Min.iOS: [14.0+] | Notes: Subscription unlocked.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/f1/8f/fff18fae-671f-be3c-ab12-6a4b8aa6c315/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 51496087,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.healthkit.access",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Ornament needs an access to your Photos so that you can send us pictures of your lab reports or screenshots to our support team.",
+          "NSCameraUsageDescription": "Ornament needs an access to your camera so that you can take pictures of your lab reports.",
+          "NSMicrophoneUsageDescription": "Allow Ornament to access your microphone",
+          "NSLocationWhenInUseUsageDescription": "Allow Ornament to use your location",
+          "NSContactsUsageDescription": "Allow Ornament to access your contacts",
+          "NSCalendarsUsageDescription": "Allow Ornament to access your calendar",
+          "NSRemindersUsageDescription": "Allow Ornament to access your reminders",
+          "NSMotionUsageDescription": "Allow Ornament to access your device's accelerometer",
+          "NSHealthShareUsageDescription": "Ornament uses data from Apple Health app to make more accurate health scores.",
+          "NSHealthUpdateUsageDescription": "Ornament can share biomarker data with other applications.",
+          "NSUserTrackingUsageDescription": "This way we can better understand how you learned about us in order to better promote our application.",
+          "NSPhotoLibraryAddUsageDescription": "Give Ornament permission to save photos"
+        }
+      },
+      "versions": [
+        {
+          "version": "4.0.4",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Ornament_v4.0.4_tg%40Sa1y0miii.ipa",
+          "size": 51496087
+        },
+        {
+          "version": "4.0.4b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Ornament_v4.0.4_tg%40Sa1y0miii.ipa",
+          "size": 51496087
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
       "name": "OrNET Browser",
       "bundleIdentifier": "ch.b-eng.tor",
       "developerName": "Stronger Apps",
@@ -34315,10 +34909,10 @@
         },
         {
           "version": "5.6.12",
-          "date": "2025-12-31",
-          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisMedical, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-1/Osmosis_Medical_School_Notes_v5_6_12_Subscription_Unlocked_blatant.ipa",
-          "size": 21613224
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, OsmosisPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Osmosis.Full.Access.5.6.12.ipa",
+          "size": 21008648
         }
       ],
       "category": "medical"
@@ -34935,15 +35529,15 @@
       "name": "ParrotPal",
       "bundleIdentifier": "ai.parrotpal",
       "developerName": "Scott Flear",
-      "subtitle": "Subscription Unlocked",
-      "version": "154",
-      "versionDate": "2026-01-03",
+      "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
+      "version": "177",
+      "versionDate": "2026-01-10",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-1/AI.Calorie.Counter.ParrotPal-v4.0.9-riftysipas.ipa",
-      "localizedDescription": "Subscription Unlocked\n\nSubscription Unlocked | Patched ✓",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/AI.Calorie.Counter.ParrotPal-v177-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nAI Calorie Counter: ParrotPal | Subscription Unlocked | Patched ✓ | Additional Information ℹ️",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/c0/92/9dc092aa-1a11-35b8-8088-b07a4601c123/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 63498303,
+      "size": 107583885,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -34959,13 +35553,27 @@
           "NSCameraUsageDescription": "Parrot: your instant fat loss coach need camera access to scan food bar/qr code.",
           "NSMicrophoneUsageDescription": "To use our best feature voice note logging, parrotpal needs access to your microphone",
           "NSMotionUsageDescription": "Parrot: your instant fat loss coach requires access to motion/step count data for health and fitness tracking.",
-          "NSHealthShareUsageDescription": "Parrot: your instant fat loss coach requires access to motion/step count data for health and fitness tracking.",
-          "NSHealthUpdateUsageDescription": "Parrot: your instant fat loss coach requires access to motion/step count data for health and fitness tracking.",
+          "NSHealthShareUsageDescription": "ParrotPal needs access to read your health data including steps, weight, and nutrition information to provide personalized insights and sync your nutrition data with Apple Health.",
+          "NSHealthUpdateUsageDescription": "ParrotPal needs permission to write nutrition data (calories, protein, carbs, fat, fiber, sugar) to Apple Health so you can track your complete nutrition profile across all your health apps.",
           "NSSpeechRecognitionUsageDescription": "ParrotPal needs speech access to convert audio messages to text for food logging",
           "NSUserTrackingUsageDescription": "Customize content based on your browsing activity for a more relevant experience."
         }
       },
       "versions": [
+        {
+          "version": "177",
+          "date": "2026-01-10",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/AI.Calorie.Counter.ParrotPal-v177-riftysipas.ipa",
+          "size": 107583885
+        },
+        {
+          "version": "177b",
+          "date": "2026-01-10",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/AI.Calorie.Counter.ParrotPal-v177-riftysipas.ipa",
+          "size": 107583885
+        },
         {
           "version": "154",
           "date": "2026-01-03",
@@ -34997,7 +35605,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5d/19/1e/5d191e1c-4092-e970-072f-cc34f370d702/IPHONE_55_4.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSCameraUsageDescription": "We need access to your camera to scan QR Codes",
           "NSLocationWhenInUseUsageDescription": "Your location is required to update your pass when the app is in use.",
@@ -35011,6 +35622,20 @@
           "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/Passbook.Pro.3.11.ipa",
           "size": 92045779
+        },
+        {
+          "version": "3.10",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Passbook.Pro.3.10.ipa",
+          "size": 92005304
+        },
+        {
+          "version": "3.10b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Passbook.Pro.3.10.ipa",
+          "size": 92005304
         }
       ],
       "category": "shopping"
@@ -35131,11 +35756,18 @@
           "size": 41357558
         },
         {
-          "version": "2024.12",
-          "date": "2026-01-03",
+          "version": "2025.10",
+          "date": "2026-01-11",
           "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-2/PDF.Viewer.Pro.2024.12.ipa",
-          "size": 35913565
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/PDF.Viewer.Pro.2025.10.ipa",
+          "size": 42256477
+        },
+        {
+          "version": "2025.10b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/PDF.Viewer.Pro.2025.10.ipa",
+          "size": 42256477
         }
       ],
       "category": "productivity"
@@ -35430,6 +36062,13 @@
           "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate, sideloadbypass1, sideloadbypass2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-13/Pedometer%2B%2B.Premium.7.1.1.ipa",
           "size": 87372436
+        },
+        {
+          "version": "7.0.4",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate, sideloadbypass1, sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Pedometer%2B%2B.Premium.7.0.4.ipa",
+          "size": 82943882
         }
       ],
       "category": "health-&-fitness"
@@ -36396,6 +37035,20 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, StopReviews\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-01-7/Photo.Scan.App.Photomyne.IAP.32.1.ipa",
           "size": 125923430
+        },
+        {
+          "version": "31.6",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, StopReviews\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Photo.Scan.App.Photomyne.IAP.31.6.ipa",
+          "size": 133763040
+        },
+        {
+          "version": "31.6b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, StopReviews\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Photo.Scan.App.Photomyne.IAP.31.6.ipa",
+          "size": 133763040
         }
       ],
       "category": "photo-&-video"
@@ -38086,12 +38739,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/83/2a/7e832a28-038c-b4be-c5ac-0f03d99346e6/51d44899-67b8-41ea-8851-8f8f8815c29a_Identification_-_iPhone_8__U00285.5__U0029.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.applesignin",
-          "aps-environment",
-          "com.apple.developer.associated-domains",
-          "com.apple.security.application-groups"
-        ],
+        "entitlements": [],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "PlantSnap needs to store the photos you take in your camera gallery.",
           "NSCameraUsageDescription": "Your Camera is used to take photos of the plants you want to identify.",
@@ -38112,24 +38760,24 @@
         },
         {
           "version": "7.4.2",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/PlantSnap.Premium.7.4.2.ipa",
+          "size": 54899388
+        },
+        {
+          "version": "7.4.2b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/PlantSnap.Premium.7.4.2.ipa",
+          "size": 54899388
+        },
+        {
+          "version": "7.4.2c",
           "date": "2026-01-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03/PlantSnap.-.Plant.Identifier-v7.4.2-riftysipas.ipa",
           "size": 54882240
-        },
-        {
-          "version": "7.0.0",
-          "date": "2025-12-29",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, riftysuipopup\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29/PlantSnap.-.Plant.Identifier-v7.0.0-riftysipas.ipa",
-          "size": 52482384
-        },
-        {
-          "version": "6.4.7",
-          "date": "2026-01-03",
-          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-2/PlantSnap.Premium.6.4.7.ipa",
-          "size": 71546299
         }
       ],
       "category": "education"
@@ -41245,7 +41893,15 @@
       "size": 154261046,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.translation-app",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.siri",
+          "com.apple.developer.applesignin",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Gives you the possibility to save images from web.",
           "NSCameraUsageDescription": "Used for TesseractOCR",
@@ -41272,11 +41928,18 @@
           "size": 174937314
         },
         {
-          "version": "14.0",
-          "date": "2025-12-31",
-          "localizedDescription": "Tweaks: CachefixPatch, NewFix1, NewFix2, ReversoAIPatch, Sideloadbypass1\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Reverso.Context_14.0_1727813485.ipa",
-          "size": 278088090
+          "version": "16.0",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, ReversoAIPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Reverso.translate.Pro.16.0.ipa",
+          "size": 175228693
+        },
+        {
+          "version": "16.0b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, ReversoAIPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Reverso.translate.Pro.16.0.ipa",
+          "size": 175228693
         }
       ],
       "category": "reference"
@@ -42448,6 +43111,20 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/Scoreboard.Pro.1.7.9.ipa",
           "size": 13724753
+        },
+        {
+          "version": "1.7.8",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, chocorc\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Scoreboard.Pro.1.7.8.ipa",
+          "size": 12948519
+        },
+        {
+          "version": "1.7.8b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, chocorc\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Scoreboard.Pro.1.7.8.ipa",
+          "size": 12948519
         }
       ],
       "category": "sports"
@@ -42832,6 +43509,93 @@
         }
       ],
       "category": "utilities"
+    },
+    {
+      "name": "ShieldApps VPN",
+      "bundleIdentifier": "com.shieldapps.vpn",
+      "developerName": "ShieldApps",
+      "subtitle": "Subscription Unlocked",
+      "version": "3.8.0",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: AutoItunes, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, popupmelon\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/ShieldApps.VPN_3.8.0_Crack_Melon.ipa",
+      "localizedDescription": "Subscription Unlocked\n\nShieldApps VPN 3.8.0 - com.shieldapps.vpn\n- App to secure your internet connection and privacy on public Wi‑Fi with encrypted tunnels, access to over 20 servers worldwide, no‑logs policy, and built‑in ad‑blocking.\n- Subscription unlocked\n- By @melonn01 (",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/1e/65/cb1e6523-97d9-3f18-bba8-9eeaa71fee89/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 2915312,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/01/21/7d012115-0d9c-9ccf-d1ab-40d458905ebf/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/88/3c/25883cdd-c003-4d45-a9f9-0136c328fed6/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/48/31/5e4831ef-d58f-3be9-0db0-d0a3e787138b/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/74/6e/aa746e3e-ad1f-3230-33a2-ad9fa443f0e6/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/08/da/eb08da87-9966-5c04-16ab-667fd855e755/pr_source.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "3.8.0",
+          "date": "2025-02-10",
+          "localizedDescription": "Tweaks: AutoItunes, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, popupmelon\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/ShieldApps.VPN_3.8.0_Crack_Melon.ipa",
+          "size": 2915312
+        },
+        {
+          "version": "3.8.0b",
+          "date": "2025-02-10",
+          "localizedDescription": "Tweaks: AutoItunes, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, popupmelon\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/ShieldApps.VPN_3.8.0_Crack_Melon.ipa",
+          "size": 2915312
+        }
+      ],
+      "category": "utilities"
+    },
+    {
+      "name": "ShiftWorkCal",
+      "bundleIdentifier": "jp.ebisusoft.shiftworkcallite",
+      "developerName": "Ebisu Soft Inc.",
+      "subtitle": "Tweaked with CydiaSubstrate, ShiftWorkCalPremium",
+      "version": "2025.2.3",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: CydiaSubstrate, ShiftWorkCalPremium\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Shift.Work.Calendar.Premium.2025.2.3.ipa",
+      "localizedDescription": "Shift Work Calendar | Minimum OS version 16.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/53/c7/e753c7cd-d6f0-762c-d852-82d04b6bb7d5/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 19420682,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "NSPhotoLibraryUsageDescription",
+          "NSCameraUsageDescription": "NSCameraUsageDescription",
+          "NSCalendarsUsageDescription": "NSCalendarsUsageDescription",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you.",
+          "NSPhotoLibraryAddUsageDescription": "NSPhotoLibraryUsageDescription"
+        }
+      },
+      "versions": [
+        {
+          "version": "2025.2.3",
+          "date": "2025-09-17",
+          "localizedDescription": "Tweaks: CydiaSubstrate, ShiftWorkCalPremium\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Shift.Work.Calendar.Premium.2025.2.3.ipa",
+          "size": 19420682
+        },
+        {
+          "version": "2025.2.3b",
+          "date": "2025-09-17",
+          "localizedDescription": "Tweaks: CydiaSubstrate, ShiftWorkCalPremium\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Shift.Work.Calendar.Premium.2025.2.3.ipa",
+          "size": 19420682
+        }
+      ],
+      "category": "productivity"
     },
     {
       "name": "Shinobi",
@@ -44344,14 +45108,14 @@
       "bundleIdentifier": "com.plusblog.smpro",
       "developerName": "Takahiko Hatano",
       "subtitle": "Pro Unlocked",
-      "version": "5.5",
-      "versionDate": "2025-12-31",
+      "version": "5.7",
+      "versionDate": "2026-01-11",
       "versionDescription": "Tweaks: CydiaSubstrate, SMPRO_iApps, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/SMPRO.Pro.5.5.ipa",
-      "localizedDescription": "Pro Unlocked\n\nSMPRO | Pro unlocked\n\n---\n\nSMPRO creates iPhone frames on your images and videos.\nThere is a limit of 3 saved images per day, but all functions are free.\nDownloaded over 400,000!\n\nSMPRO has a long history, with the first release in August 2013.\nSince then, now contains over 1,000 mocks!\n\n[Combine Multiple Mockups into a Single Image]\nUtilize mockups to showcase prototypes and demonstrations of websites and mobile apps. Combine multiple devices to emphasize the real user experience. Enhance the business context by adding o",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/SMPRO.Pro.5.7.ipa",
+      "localizedDescription": "Pro Unlocked\n\nSMPRO | Pro unlocked | Minimum OS version 14.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/ce/af/15ceaf72-d5a4-1a1b-83c8-9f16450f7a57/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 299931953,
+      "size": 283063871,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6b/55/b6/6b55b6ca-a7be-70de-a231-7080f5d98c0b/ea3af05a-8618-4ee0-8683-ae2aa2f15312_en_20.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/53/0e/95/530e9566-a846-2b2b-52cc-71338a6fd91e/db2aba9a-97b4-46fd-b89b-09ec7126e000_en_21.png/392x696bb.png",
@@ -44370,6 +45134,20 @@
         }
       },
       "versions": [
+        {
+          "version": "5.7",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, SMPRO_iApps, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/SMPRO.Pro.5.7.ipa",
+          "size": 283063871
+        },
+        {
+          "version": "5.7b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, SMPRO_iApps, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/SMPRO.Pro.5.7.ipa",
+          "size": 283063871
+        },
         {
           "version": "5.5",
           "date": "2025-12-31",
@@ -48218,26 +48996,34 @@
       "bundleIdentifier": "com.ocho.SudokuaDay",
       "developerName": "Ocho",
       "subtitle": "Pro Features Unlocked",
-      "version": "2.1.6",
-      "versionDate": "2026-01-09",
+      "version": "2.1.7",
+      "versionDate": "2026-01-11",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/Sudoku.a.Day.Pro.2.1.6.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Sudoku.a.Day.Pro.2.1.7.ipa",
       "localizedDescription": "Pro Features Unlocked\n\nSudoku a Day | Minimum OS version 18.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/09/a9/7b09a9e5-61cb-ca18-b50a-a8a4b7f06211/appIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 34914453,
+      "size": 54936397,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.associated-domains.mdm-managed",
-          "com.apple.developer.game-center",
-          "com.apple.developer.associated-domains",
-          "com.apple.security.application-groups"
-        ],
+        "entitlements": [],
         "privacy": {}
       },
       "versions": [
+        {
+          "version": "2.1.7",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Sudoku.a.Day.Pro.2.1.7.ipa",
+          "size": 54936397
+        },
+        {
+          "version": "2.1.7b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Sudoku.a.Day.Pro.2.1.7.ipa",
+          "size": 54936397
+        },
         {
           "version": "2.1.6",
           "date": "2026-01-09",
@@ -48251,20 +49037,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/Sudoku.a.Day.Pro.2.1.5.ipa",
           "size": 34913240
-        },
-        {
-          "version": "2.1.4",
-          "date": "2026-01-10",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Sudoku.a.Day.Pro.2.1.4.ipa",
-          "size": 25543858
-        },
-        {
-          "version": "2.1.2",
-          "date": "2026-01-02",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02-2/Sudoku.a.Day.Pro.2.1.2.ipa",
-          "size": 27940854
         }
       ],
       "category": "games"
@@ -50554,11 +51326,89 @@
           "size": 23247177
         },
         {
-          "version": "3.21.2",
-          "date": "2026-01-02",
+          "version": "3.22.3",
+          "date": "2026-01-11",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02-1/Things.3.3.21.2.ipa",
-          "size": 21236950
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Things.3.3.22.3.ipa",
+          "size": 22587811
+        },
+        {
+          "version": "3.22.3b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Things.3.3.22.3.ipa",
+          "size": 22587811
+        },
+        {
+          "version": "3.22",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Things.3.3.22.ipa",
+          "size": 22580365
+        }
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "Things",
+      "bundleIdentifier": "com.culturedcode.ThingsiPad",
+      "developerName": "Cultured Code GmbH & Co. KG",
+      "subtitle": "Tweaked with Sideloadbypass1, Sideloadbypass2",
+      "version": "3.22.3",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Things.3.for.iPad.3.22.3.ipa",
+      "localizedDescription": "Things 3 for iPad | Paid app $19,99 | Decrypted by userhidden | Minimum OS version 15.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/88/a2/8188a2f3-9c40-05c3-aa11-607be763e677/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 22575533,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.siri",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.private.skip-library-validation",
+          "com.apple.security.application-groups",
+          "platform-application",
+          "run-unsigned-code"
+        ],
+        "privacy": {
+          "NSCalendarsUsageDescription": "This will allow you to see your calendar events in Things.",
+          "NSRemindersUsageDescription": "This will allow you to import to-dos from the Reminders app.",
+          "NSSiriUsageDescription": "This will allow you to add new tasks or show a list with Siri.",
+          "NSLocalNetworkUsageDescription": "Things uses the local network to provide faster sync between your devices."
+        }
+      },
+      "versions": [
+        {
+          "version": "3.22.3",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Things.3.for.iPad.3.22.3.ipa",
+          "size": 22575533
+        },
+        {
+          "version": "3.22.3b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Things.3.for.iPad.3.22.3.ipa",
+          "size": 22575533
+        },
+        {
+          "version": "3.22.2",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Things.3.for.iPad.3.22.2.ipa",
+          "size": 23998791
+        },
+        {
+          "version": "3.22.2b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Things.3.for.iPad.3.22.2.ipa",
+          "size": 23998791
         }
       ],
       "category": "productivity"
@@ -50773,11 +51623,11 @@
           "size": 80962216
         },
         {
-          "version": "6.44",
-          "date": "2026-01-04",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-4/Tide.Guide.Charts.Tables-v6.44-riftysipas.ipa",
-          "size": 118120016
+          "version": "7.0.3",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Tide.Guide_.Charts.Tables_v7.0.3_tg%40Sa1y0miii.ipa",
+          "size": 145243390
         }
       ],
       "category": "weather"
@@ -51344,6 +52194,20 @@
           "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-6/ToonMe.IAP.0.11.31.ipa",
           "size": 130664722
+        },
+        {
+          "version": "0.11.29",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/ToonMe.IAP.0.11.29.ipa",
+          "size": 131322683
+        },
+        {
+          "version": "0.11.29b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/ToonMe.IAP.0.11.29.ipa",
+          "size": 131322683
         }
       ],
       "category": "photo-&-video"
@@ -52975,11 +53839,11 @@
           "size": 155154692
         },
         {
-          "version": "4.5.4",
-          "date": "2026-01-09",
+          "version": "4.5.5",
+          "date": "2026-01-11",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/UNSCRIPTED.Photography.Poses.Pro.4.5.4.ipa",
-          "size": 136401253
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/UNSCRIPTED.Photography.Poses.Pro.4.5.5.ipa",
+          "size": 136086343
         }
       ],
       "category": "photo-&-video"
@@ -53106,15 +53970,15 @@
       "name": "Uplens",
       "bundleIdentifier": "app.uplens",
       "developerName": "MPGames",
-      "subtitle": "Click Restore Purchases",
-      "version": "3.4.5",
-      "versionDate": "2026-01-08",
-      "versionDescription": "Tweaks: CydiaSubstrate, uplens\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-12/Uplens.Pro.3.4.5.ipa",
-      "localizedDescription": "Click Restore Purchases\n\nUplens: Photo & Video Editor | Note: Click Restore Purchases | Tweak made by Zzz Zzz | Minimum OS version 15.0",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "3.4.6",
+      "versionDate": "2026-01-10",
+      "versionDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Uplens_Photo_._Video_Editor_v3_4_6_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nUplens: Photo & Video Editor | Subscription Unlocked",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/52/02/4b520275-219b-0cfd-d2bd-640aa4683695/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 176205415,
+      "size": 178546577,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/35/80/9c35805b-fffa-4469-a1ad-fbce1e949023/daf3b126-3496-4cd4-b672-86d05ce53882_1-5_U00275-en.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/b7/61/b0b761d1-4520-bb1f-6f9c-2a33cf99be0d/24864328-dab1-450c-9a87-20009c67cce8_2-5_U00275-en.jpg/392x696bb.jpg",
@@ -53134,6 +53998,20 @@
       },
       "versions": [
         {
+          "version": "3.4.6",
+          "date": "2026-01-10",
+          "localizedDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Uplens_Photo_._Video_Editor_v3_4_6_Subscription_Unlocked_blatant.ipa",
+          "size": 178546577
+        },
+        {
+          "version": "3.4.6b",
+          "date": "2026-01-10",
+          "localizedDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Uplens_Photo_._Video_Editor_v3_4_6_Subscription_Unlocked_blatant.ipa",
+          "size": 178546577
+        },
+        {
           "version": "3.4.5",
           "date": "2026-01-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, uplens\n\nSource: @binnichtaktivsipas",
@@ -53146,20 +54024,6 @@
           "localizedDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-1/Uplens_Photo_._Video_Editor_v3_4_5_Subscription_Unlocked_blatant.ipa",
           "size": 178589583
-        },
-        {
-          "version": "3.4.4",
-          "date": "2026-01-08",
-          "localizedDescription": "Tweaks: CydiaSubstrate, uplens\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-11/Uplens.Pro.3.4.4.ipa",
-          "size": 176732089
-        },
-        {
-          "version": "3.4.4b",
-          "date": "2025-12-29",
-          "localizedDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-1/Uplens_Photo_._Video_Editor_v3_4_4_Subscription_Unlocked_blatant.ipa",
-          "size": 179120091
         }
       ],
       "category": "photo-&-video"
@@ -54385,7 +55249,11 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/a4/2f/89a42fb0-4f1e-f2c6-d780-3e815fadaeb2/d52706cd-f5c3-461a-a606-6b4395935d09_vivacut-3.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.applesignin"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Required for photo editing",
           "NSCameraUsageDescription": "Please enable the access to this permission. This allows you to record videos or photos.",
@@ -54420,10 +55288,10 @@
         },
         {
           "version": "4.5.0b",
-          "date": "2026-01-10",
-          "localizedDescription": "Tweaks: CydiaSubstrate, VivaCutPro\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/VivaCut.Pro.4.5.0.ipa",
-          "size": 217328499
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: VivaCut, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/VivaCut_AI_Video_Editor_v4_5_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 224712603
         }
       ],
       "category": "photo-&-video"
@@ -54793,6 +55661,55 @@
         }
       ],
       "category": "productivity"
+    },
+    {
+      "name": "VoiceTube",
+      "bundleIdentifier": "tw.tyche.voicetube",
+      "developerName": "REDIDEA CO., LTD.",
+      "subtitle": "Pro Features Unlocked",
+      "version": "4.16.0",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: CydiaSubstrate, VoiceTubePatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/VoiceTube.Pro.4.16.0.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nVoiceTube - Learn English | Tweak made by ⏤͟͟✧𝓕𝓮𝓶𝓽𝓸🌪 | Minimum OS version 14.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/8a/81/b18a8138-db98-ee89-b8b7-996231f5b1f8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 173844700,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Used to share images when commenting",
+          "NSCameraUsageDescription": "Used to share images when commenting",
+          "NSMicrophoneUsageDescription": "VoiceTube needs access to your microphone in order to record audio.",
+          "NSLocationWhenInUseUsageDescription": "We need GPS location to improve user experience.",
+          "NSLocationAlwaysUsageDescription": "We need GPS location to improve user experience.",
+          "NSSpeechRecognitionUsageDescription": "Speech Recognition Usage Description in the visual editor.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.16.0",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, VoiceTubePatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/VoiceTube.Pro.4.16.0.ipa",
+          "size": 173844700
+        },
+        {
+          "version": "4.16.0b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, VoiceTubePatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/VoiceTube.Pro.4.16.0.ipa",
+          "size": 173844700
+        }
+      ],
+      "category": "education"
     },
     {
       "name": "Voloco",
@@ -55214,7 +56131,12 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/c2/51/45c25176-d6d6-1c38-52e8-866f6a24e6cc/34756dd8-f593-4356-ba71-149a03dcdef5_IMG_3927_1.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Walli needs permission to Photos so it can save downloaded wallpapers or update your avatar.",
           "NSCameraUsageDescription": "Walli needs permission to use Camera so it can update your avatar.",
@@ -55231,18 +56153,25 @@
           "size": 131130195
         },
         {
+          "version": "1.92.0",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: WalliPro\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Walli.Pro.1.92.0.ipa",
+          "size": 120197598
+        },
+        {
+          "version": "1.92.0b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: WalliPro\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Walli.Pro.1.92.0.ipa",
+          "size": 120197598
+        },
+        {
           "version": "1.46.0",
           "date": "2026-01-03",
           "localizedDescription": "Tweaks: WalliPro\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-2/Walli.Pro.1.46.0.ipa",
           "size": 66477946
-        },
-        {
-          "version": "1.44.0",
-          "date": "2025-12-31",
-          "localizedDescription": "Tweaks: WalliPro\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-2/Walli.Pro.1.44.0.ipa",
-          "size": 66083261
         }
       ],
       "category": "entertainment"
@@ -55351,6 +56280,20 @@
         },
         {
           "version": "2.0.6",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, WallpapersCentralUnlocked\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Wallpapers.Central.2.0.6.ipa",
+          "size": 19902893
+        },
+        {
+          "version": "2.0.6b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: CydiaSubstrate, WallpapersCentralUnlocked\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Wallpapers.Central.2.0.6.ipa",
+          "size": 19902893
+        },
+        {
+          "version": "2.0.6c",
           "date": "2026-01-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, WallpapersCentralUnlocked\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02-2/Wallpapers.Central.2.0.6.ipa",
@@ -56328,17 +57271,17 @@
         },
         {
           "version": "26.0",
-          "date": "2026-01-01",
-          "localizedDescription": "Tweaks: CydiaSubstrate, WidgySideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/Widgy_Widgets_Home_Lock_Watch_v26_0_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 60878243
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Widgy.Widgets.IAP.26.0.ipa",
+          "size": 54927395
         },
         {
-          "version": "4.20",
-          "date": "2025-12-31",
-          "localizedDescription": "Tweaks: SatellaJailed, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-4/Widgy_Widgets_Home_Lock_Watch_v4_20_Satella_Injected_blatant_Patched.ipa",
-          "size": 57131085
+          "version": "26.0b",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-2/Widgy.Widgets.IAP.26.0.ipa",
+          "size": 54927395
         }
       ],
       "category": "graphics-&-design"
@@ -56627,11 +57570,11 @@
           "size": 144196689
         },
         {
-          "version": "15.3.9b",
-          "date": "2026-01-10",
+          "version": "15.3.8",
+          "date": "2026-01-09",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, Windyapp\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Windy.app.Pro.15.3.9.ipa",
-          "size": 144196689
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/Windy.app.Pro.15.3.8.ipa",
+          "size": 143750370
         }
       ],
       "category": "weather"
@@ -58359,11 +59302,11 @@
           "size": 275523536
         },
         {
-          "version": "1.116.0b",
-          "date": "2026-01-10",
+          "version": "1.115.0",
+          "date": "2026-01-09",
           "localizedDescription": "Tweaks: ZingAiPremium\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-1/Zing.AI.Premium.1.116.0.ipa",
-          "size": 275523536
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/Zing.AI.Premium.1.115.0.ipa",
+          "size": 275527221
         }
       ],
       "category": "health-&-fitness"
@@ -59308,11 +60251,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 1.11",
+      "identifier": "telos-update-2026-01-11",
+      "caption": "476 Apps Updated:\n• 92 Photo & Video\n• 80 Health & Fitness\n• 56 Productivity\n• 40 Education\n• 30 Graphics & Design\n• 24 Games\n• 22 Utilities\n• 18 News\n• 16 Lifestyle\n• 16 Entertainment\n• 16 Social Networking\n• 14 Music\n• 12 Weather\n• 6 Sports\n• 6 Reference\n• 6 Travel\n• 6 Medical\n• 4 Developer Tools\n• 2 Finance\n• 2 Business\n• 2 Books\n• 2 Shopping\n• 2 Navigation\n• 2 Other",
+      "date": "2026-01-11",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.wallpapershub.anime"
+    },
+    {
       "title": "⚙️ Telos Update 1.10",
       "identifier": "telos-update-2026-01-10",
-      "caption": "452 Apps Updated:\n• 110 Photo & Video\n• 82 Health & Fitness\n• 42 Productivity\n• 30 Music\n• 28 Games\n• 26 Education\n• 19 Utilities\n• 18 Entertainment\n• 15 News\n• 14 Lifestyle\n• 13 Graphics & Design\n• 12 Social Networking\n• 7 Navigation\n• 7 Reference\n• 7 Weather\n• 6 Developer Tools\n• 4 Finance\n• 3 Food & Drink\n• 3 Books\n• 2 Business\n• 2 Travel\n• 1 Sports\n• 1 Medical",
+      "caption": "421 Apps Updated:\n• 104 Photo & Video\n• 73 Health & Fitness\n• 39 Productivity\n• 27 Music\n• 27 Games\n• 23 Education\n• 18 Entertainment\n• 17 Utilities\n• 14 News\n• 13 Lifestyle\n• 12 Social Networking\n• 12 Graphics & Design\n• 7 Navigation\n• 7 Reference\n• 6 Developer Tools\n• 6 Weather\n• 4 Finance\n• 3 Food & Drink\n• 3 Books\n• 2 Business\n• 2 Travel\n• 1 Sports\n• 1 Medical",
       "date": "2026-01-10",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.burbn.instagram"
     },
@@ -59321,7 +60273,7 @@
       "identifier": "telos-update-2026-01-09",
       "caption": "618 Apps Updated:\n• 138 Photo & Video\n• 103 Health & Fitness\n• 73 Productivity\n• 42 Games\n• 30 Music\n• 29 Entertainment\n• 28 Lifestyle\n• 26 Education\n• 24 News\n• 24 Utilities\n• 23 Graphics & Design\n• 18 Social Networking\n• 12 Navigation\n• 8 Developer Tools\n• 7 Books\n• 7 Travel\n• 6 Finance\n• 5 Weather\n• 5 Reference\n• 4 Business\n• 3 Sports\n• 2 Medical\n• 1 Other",
       "date": "2026-01-09",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.atebits.Tweetie2"
     },
@@ -59330,7 +60282,7 @@
       "identifier": "telos-update-2026-01-08",
       "caption": "694 Apps Updated:\n• 173 Photo & Video\n• 108 Health & Fitness\n• 86 Productivity\n• 59 Education\n• 42 Music\n• 34 Utilities\n• 26 Entertainment\n• 25 Games\n• 21 Graphics & Design\n• 19 Lifestyle\n• 18 News\n• 16 Travel\n• 16 Weather\n• 13 Reference\n• 8 Navigation\n• 6 Social Networking\n• 6 Business\n• 5 Developer Tools\n• 5 Finance\n• 4 Medical\n• 2 Sports\n• 2 Books",
       "date": "2026-01-08",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "de.komoot.berlinbikeapp"
     },
@@ -59339,7 +60291,7 @@
       "identifier": "telos-update-2026-01-07",
       "caption": "652 Apps Updated:\n• 171 Photo & Video\n• 124 Health & Fitness\n• 95 Productivity\n• 63 Education\n• 27 Music\n• 26 Entertainment\n• 25 Utilities\n• 18 Reference\n• 17 Graphics & Design\n• 17 Travel\n• 13 Weather\n• 13 Lifestyle\n• 12 Medical\n• 7 Social Networking\n• 6 Sports\n• 6 Finance\n• 3 Developer Tools\n• 2 Books\n• 2 Business\n• 2 Games\n• 1 Navigation\n• 1 Other\n• 1 News",
       "date": "2026-01-07",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "archery.storify"
     },
@@ -59348,7 +60300,7 @@
       "identifier": "telos-update-2026-01-06",
       "caption": "466 Apps Updated:\n• 131 Photo & Video\n• 84 Health & Fitness\n• 42 Education\n• 40 Productivity\n• 35 Utilities\n• 17 Entertainment\n• 16 Travel\n• 15 Music\n• 15 Weather\n• 12 Games\n• 10 Lifestyle\n• 9 Business\n• 8 Social Networking\n• 8 Graphics & Design\n• 7 Reference\n• 4 Finance\n• 4 Developer Tools\n• 2 Sports\n• 2 News\n• 2 Medical\n• 1 Navigation\n• 1 Books\n• 1 Other",
       "date": "2026-01-06",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.videobrowser.ios"
     },
@@ -59357,7 +60309,7 @@
       "identifier": "telos-update-2026-01-05",
       "caption": "879 Apps Updated:\n• 242 Photo & Video\n• 174 Health & Fitness\n• 86 Productivity\n• 81 Education\n• 70 Utilities\n• 32 Graphics & Design\n• 27 Entertainment\n• 25 Travel\n• 18 Lifestyle\n• 18 Weather\n• 15 Social Networking\n• 15 Music\n• 15 Reference\n• 13 Medical\n• 9 Finance\n• 7 Sports\n• 7 News\n• 7 Business\n• 6 Developer Tools\n• 5 Games\n• 4 Navigation\n• 3 Books",
       "date": "2026-01-05",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.locket.Locket"
     },
@@ -59366,7 +60318,7 @@
       "identifier": "telos-update-2026-01-04",
       "caption": "976 Apps Updated:\n• 217 Health & Fitness\n• 177 Photo & Video\n• 119 Productivity\n• 84 Education\n• 51 Games\n• 43 Utilities\n• 40 Lifestyle\n• 29 Finance\n• 28 Entertainment\n• 26 Graphics & Design\n• 18 Sports\n• 16 Music\n• 16 Medical\n• 15 Travel\n• 14 Navigation\n• 14 Business\n• 13 Social Networking\n• 11 Reference\n• 10 Weather\n• 10 Books\n• 9 Food & Drink\n• 9 Developer Tools\n• 7 News",
       "date": "2026-01-04",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.roehl.habitkit"
     },
@@ -59375,7 +60327,7 @@
       "identifier": "telos-update-2026-01-03",
       "caption": "695 Apps Updated:\n• 157 Photo & Video\n• 104 Health & Fitness\n• 71 Games\n• 67 Productivity\n• 60 Education\n• 34 Utilities\n• 31 Music\n• 27 Lifestyle\n• 22 Entertainment\n• 15 Finance\n• 12 Graphics & Design\n• 12 Medical\n• 11 Weather\n• 10 Business\n• 9 Social Networking\n• 9 Travel\n• 9 News\n• 9 Food & Drink\n• 8 Sports\n• 6 Reference\n• 6 Navigation\n• 4 Developer Tools\n• 2 Books",
       "date": "2026-01-03",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.myfitnesspal.mfp"
     },
@@ -59384,18 +60336,9 @@
       "identifier": "telos-update-2026-01-02",
       "caption": "661 Apps Updated:\n• 149 Photo & Video\n• 89 Health & Fitness\n• 72 Productivity\n• 49 Utilities\n• 45 Education\n• 41 Entertainment\n• 37 Games\n• 33 Music\n• 22 Social Networking\n• 19 Graphics & Design\n• 16 News\n• 15 Lifestyle\n• 11 Travel\n• 10 Finance\n• 8 Business\n• 8 Weather\n• 7 Medical\n• 6 Developer Tools\n• 6 Reference\n• 6 Navigation\n• 4 Books\n• 2 Shopping\n• 2 Sports\n• 2 Food & Drink\n• 2 Other",
       "date": "2026-01-02",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.karnal.casing"
-    },
-    {
-      "title": "⚙️ Telos Update 1.1",
-      "identifier": "telos-update-2026-01-01",
-      "caption": "826 Apps Updated:\n• 197 Photo & Video\n• 179 Health & Fitness\n• 84 Productivity\n• 82 Education\n• 60 Utilities\n• 31 Graphics & Design\n• 27 Travel\n• 26 Music\n• 21 Social Networking\n• 20 Entertainment\n• 20 Developer Tools\n• 16 Medical\n• 14 Lifestyle\n• 13 Reference\n• 10 Weather\n• 8 Books\n• 6 Finance\n• 5 Navigation\n• 3 Business\n• 2 Sports\n• 2 Games",
-      "date": "2026-01-01",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.yazio.ios.YAZIO"
+      "appID": "com.karnal.casing"
     }
   ]
 }
