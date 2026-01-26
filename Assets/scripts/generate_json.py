@@ -302,37 +302,53 @@ def generate_store_json(apps: list[AppInfo], config: dict) -> dict:
 
 
 def generate_esign_json(apps: list[AppInfo], config: dict) -> dict:
-    """Generate Esign format JSON with object keys."""
-    esign_data = {}
+    """Generate Esign format JSON with standard structure."""
+    
+    # Root structure
+    repo = os.environ.get('GITHUB_REPOSITORY', os.environ.get('GITHUB_REPO', 'user/repo'))
+    branch = os.environ.get('GITHUB_REF_NAME', os.environ.get('GITHUB_BRANCH', 'main'))
+    json_folder = "JSON" # Hardcoded in main() as 'JSON' folder
+    
+    esign_data = {
+        "name": config.get('source_name', 'TELOS IPA Library'),
+        "identifier": config.get('source_id', 'com.telos.library'),
+        "sourceURL": f"https://raw.githubusercontent.com/{repo}/{branch}/{json_folder}/esign.json",
+        "author": config.get('developer_name', 'TELOS'),
+        "apps": []
+    }
+    
     tint_color = config.get('tint_color', '5865F2').lstrip('#')
+    added_keys = set()
     
     for app in apps:
         name_key = app.app_name.replace(' ', '_').replace('-', '_')
         version_key = app.version.replace('.', '_')
         key = f"{name_key}_{version_key}"
         
-        if key in esign_data:
+        if key in added_keys:
             continue
+        added_keys.add(key)
         
         description = clean_description("", app.tweaks)
         dev_name = f"{app.app_name} {app.version} x {config.get('developer_name', 'TELOS')}"
         
-        esign_data[key] = {
+        # Determine screenshot URLs if available (not passed in AppInfo currently, using empty list)
+        
+        app_data = {
             "name": f"{app.app_name} {app.version}",
             "bundleIdentifier": app.bundle_id,
             "developerName": dev_name,
             "version": app.version,
-            "versionDate": app.file_date,
+            "versionDate": app.file_date, # Already formatted YYYY-MM-DD in extract_ipa_info
             "downloadURL": app.github_url,
             "localizedDescription": description or f"{app.app_name} for iOS",
             "iconURL": "",
             "tintColor": tint_color,
             "size": app.file_size,
-            "screenshots": [],
+            "screenshotURLs": [], # Standard key
         }
-    
-    esign_data["features"] = ["IPA signer", "Tweak injector"]
-    esign_data["temporal_info"] = {"release_date": datetime.utcnow().strftime('%Y-%m-%d')}
+        
+        esign_data["apps"].append(app_data)
     
     return esign_data
 
@@ -378,7 +394,7 @@ def generate_scarlet_json(apps: list[AppInfo], config: dict) -> dict:
         "identifier": config.get('source_id', 'com.telos.library'),
         "subtitle": config.get('source_subtitle', 'Automated IPA Repository'),
         "description": config.get('source_description', 'Welcome to TELOS!'),
-        "version": "1.0.0",
+        "version": "1.1.0",
         "versionDate": datetime.utcnow().strftime('%Y-%m-%d'),
         "accentColor": {"red": round(r, 2), "green": round(g, 2), "blue": round(b, 2)},
         "iconURL": config.get('icon_url', ''),
