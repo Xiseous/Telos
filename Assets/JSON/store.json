@@ -20528,42 +20528,6 @@
     },
     {
       "name": "Opener",
-      "bundleIdentifier": "com.tijo.opener.Opener",
-      "developerName": "tijo, inc.",
-      "subtitle": "Tweaked with zxPluginsInject",
-      "version": "1.14",
-      "versionDate": "2026-01-02",
-      "versionDescription": "Tweaks: zxPluginsInject\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/com.tijo.opener.Opener-1.14-patched.ipa",
-      "localizedDescription": "Opener for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/dd/be/84ddbe6e-b228-5c1a-2a04-c399cdbf8e57/AppIcon-0-0-1x_U007epad-0-5-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 775129,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/98/3f/5a/983f5a71-7468-286b-dbab-29bc44ed54b4/pr_source.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e0/14/1ce01420-043e-7524-dbb7-2adb8f6ead93/pr_source.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/3b/4f/8f3b4fbd-e807-6f17-ae32-ec4efb5f53c7/pr_source.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/64/b1/2564b112-728c-a0f7-fe51-27c42bc53343/pr_source.jpg/392x696bb.jpg"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryAddUsageDescription": "Opener saves photos to your Photo Library upon your request."
-        }
-      },
-      "versions": [
-        {
-          "version": "1.14",
-          "date": "2026-01-02",
-          "localizedDescription": "Tweaks: zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/com.tijo.opener.Opener-1.14-patched.ipa",
-          "size": 775129
-        }
-      ],
-      "category": "utilities"
-    },
-    {
-      "name": "Opener",
       "bundleIdentifier": "pineapplelabs.Opener",
       "developerName": "Big Pineapple LLC",
       "subtitle": "Tweaked with CydiaSubstrate, Satella Jailed",
@@ -20598,6 +20562,42 @@
           "localizedDescription": "Tweaks: zxPluginsInject\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/pineapplelabs.Opener-1.14-eeveedecrypter-patched.ipa",
           "size": 439168
+        }
+      ],
+      "category": "utilities"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "developerName": "tijo, inc.",
+      "subtitle": "Tweaked with zxPluginsInject",
+      "version": "1.14",
+      "versionDate": "2026-01-02",
+      "versionDescription": "Tweaks: zxPluginsInject\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/com.tijo.opener.Opener-1.14-patched.ipa",
+      "localizedDescription": "Opener for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/dd/be/84ddbe6e-b228-5c1a-2a04-c399cdbf8e57/AppIcon-0-0-1x_U007epad-0-5-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 775129,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/98/3f/5a/983f5a71-7468-286b-dbab-29bc44ed54b4/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e0/14/1ce01420-043e-7524-dbb7-2adb8f6ead93/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/3b/4f/8f3b4fbd-e807-6f17-ae32-ec4efb5f53c7/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/64/b1/2564b112-728c-a0f7-fe51-27c42bc53343/pr_source.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "Opener saves photos to your Photo Library upon your request."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.14",
+          "date": "2026-01-02",
+          "localizedDescription": "Tweaks: zxPluginsInject\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/com.tijo.opener.Opener-1.14-patched.ipa",
+          "size": 775129
         }
       ],
       "category": "utilities"
@@ -35300,6 +35300,77 @@
     },
     {
       "name": "‎WA Business",
+      "bundleIdentifier": "com.fouadraheb.watusiSMB",
+      "developerName": "WhatsApp Inc.",
+      "subtitle": "Watusi 3 V1.3.1",
+      "version": "25.37.76",
+      "versionDate": "2026-01-18",
+      "versionDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WABusiness_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa",
+      "localizedDescription": "Watusi 3 V1.3.1\n\nWatusi 3 v1.3.1 | Cracked by Anonymous",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/dc/81/afdc8188-289d-765b-3be1-cff263b712b1/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 137066826,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/75/4e/86754ed1-e732-d4ff-79d5-1fb670efa4bf/01_iOS_Profile.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/39/c6ed3962-4b40-b9b1-2f54-cd6f2a2297ef/02_iOS_Status.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/84/60/0a846063-a25b-7359-9750-8621d057c3e0/03_iOS_Catalog.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/dc/0f/0cdc0f5b-800a-b8c0-8aea-6ab2f27aa5a2/04_iOS_Awaymessage.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/24/01/672401cc-2ad7-160d-4d80-144b1d3383f5/05_iOS_labels.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.pushkit.unrestricted-voip",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.carplay-messaging",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.messaging-app",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.siri",
+          "com.apple.developer.calling-app",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "com.apple.developer.networking.carrier-constrained.appcategory",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
+          "NSCameraUsageDescription": "‎This lets you make video calls, take photos, and record videos.",
+          "NSMicrophoneUsageDescription": "‎This lets you make calls, send voice messages, and record videos with sound.",
+          "NSLocationWhenInUseUsageDescription": "‎This lets you send your current location or nearby places.",
+          "NSLocationAlwaysUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSContactsUsageDescription": "‎Upload your contacts to WhatsApp's servers to help you quickly get in touch with your customers and help us provide a better experience.",
+          "NSCalendarsUsageDescription": "‎This lets you create events on your calendar.",
+          "NSRemindersUsageDescription": "‎This lets you set reminders to call your customers back.",
+          "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSFaceIDUsageDescription": "‎Use Face ID to authenticate on WhatsApp Business.",
+          "NSLocalNetworkUsageDescription": "‎This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+          "NSPhotoLibraryAddUsageDescription": "‎This lets you save photos and videos to your library."
+        }
+      },
+      "versions": [
+        {
+          "version": "25.37.76",
+          "date": "2026-01-18",
+          "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WABusiness_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa",
+          "size": 137066826
+        },
+        {
+          "version": "25.37.76b",
+          "date": "2026-01-18",
+          "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WABusiness_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa",
+          "size": 137066826
+        }
+      ],
+      "category": "business"
+    },
+    {
+      "name": "‎WA Business",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
       "developerName": "WhatsApp Inc.",
       "subtitle": "Tweaked with ContactSync, OnlineNotify",
@@ -35379,77 +35450,6 @@
           "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WABusiness_25.37.76_WC3_1.3.1_TS_blatants.ipa",
           "size": 138880908
-        }
-      ],
-      "category": "business"
-    },
-    {
-      "name": "‎WA Business",
-      "bundleIdentifier": "com.fouadraheb.watusiSMB",
-      "developerName": "WhatsApp Inc.",
-      "subtitle": "Watusi 3 V1.3.1",
-      "version": "25.37.76",
-      "versionDate": "2026-01-18",
-      "versionDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WABusiness_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa",
-      "localizedDescription": "Watusi 3 V1.3.1\n\nWatusi 3 v1.3.1 | Cracked by Anonymous",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/dc/81/afdc8188-289d-765b-3be1-cff263b712b1/AppIconSMB-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 137066826,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/75/4e/86754ed1-e732-d4ff-79d5-1fb670efa4bf/01_iOS_Profile.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/ed/39/c6ed3962-4b40-b9b1-2f54-cd6f2a2297ef/02_iOS_Status.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0a/84/60/0a846063-a25b-7359-9750-8621d057c3e0/03_iOS_Catalog.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0c/dc/0f/0cdc0f5b-800a-b8c0-8aea-6ab2f27aa5a2/04_iOS_Awaymessage.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/24/01/672401cc-2ad7-160d-4d80-144b1d3383f5/05_iOS_labels.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.pushkit.unrestricted-voip",
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.carplay-messaging",
-          "aps-environment",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.messaging-app",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.siri",
-          "com.apple.developer.calling-app",
-          "com.apple.developer.networking.carrier-constrained.app-optimized",
-          "com.apple.developer.networking.carrier-constrained.appcategory",
-          "com.apple.security.application-groups"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
-          "NSCameraUsageDescription": "‎This lets you make video calls, take photos, and record videos.",
-          "NSMicrophoneUsageDescription": "‎This lets you make calls, send voice messages, and record videos with sound.",
-          "NSLocationWhenInUseUsageDescription": "‎This lets you send your current location or nearby places.",
-          "NSLocationAlwaysUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
-          "NSContactsUsageDescription": "‎Upload your contacts to WhatsApp's servers to help you quickly get in touch with your customers and help us provide a better experience.",
-          "NSCalendarsUsageDescription": "‎This lets you create events on your calendar.",
-          "NSRemindersUsageDescription": "‎This lets you set reminders to call your customers back.",
-          "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls.",
-          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
-          "NSFaceIDUsageDescription": "‎Use Face ID to authenticate on WhatsApp Business.",
-          "NSLocalNetworkUsageDescription": "‎This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
-          "NSPhotoLibraryAddUsageDescription": "‎This lets you save photos and videos to your library."
-        }
-      },
-      "versions": [
-        {
-          "version": "25.37.76",
-          "date": "2026-01-18",
-          "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WABusiness_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa",
-          "size": 137066826
-        },
-        {
-          "version": "25.37.76b",
-          "date": "2026-01-18",
-          "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WABusiness_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa",
-          "size": 137066826
         }
       ],
       "category": "business"
@@ -35855,11 +35855,11 @@
     {
       "title": "⚙️ Telos Update 1.30",
       "identifier": "telos-update-2026-01-30",
-      "caption": "39 Apps Updated:\n• 14 Photo & Video\n• 6 Health & Fitness\n• 3 Sports\n• 3 Productivity\n• 2 Games\n• 2 Social Networking\n• 2 Education\n• 2 Utilities\n• 1 News\n• 1 Graphics & Design\n• 1 Business\n• 1 Music\n• 1 Developer Tools",
+      "caption": "39 Apps Updated:\n• 14 Photo & Video\n• 6 Health & Fitness\n• 3 Productivity\n• 3 Sports\n• 2 Social Networking\n• 2 Games\n• 2 Education\n• 2 Utilities\n• 1 News\n• 1 Graphics & Design\n• 1 Business\n• 1 Music\n• 1 Developer Tools",
       "date": "2026-01-30",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.zillionwhales.mushroomwars2"
+      "appID": "com.facebook.Facebook"
     },
     {
       "title": "⚙️ Telos Update 1.29",
