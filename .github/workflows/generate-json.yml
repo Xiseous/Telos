@@ -1,0 +1,84 @@
+name: TELOS JSON Generator
+
+# ============================================================================
+# TRIGGERS
+# ============================================================================
+on:
+  # Run when a new release is published
+  release:
+    types: [published, edited]
+  
+  # Run on schedule (daily at midnight UTC)
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # Manual trigger from Actions tab
+  workflow_dispatch:
+    inputs:
+      regenerate_all:
+        description: 'Regenerate all JSON files'
+        required: false
+        default: 'true'
+
+# ============================================================================
+# NOTE: Configuration is loaded from .github/config.yml
+# Edit that file to customize source metadata, not environment variables
+# ============================================================================
+
+jobs:
+  generate-json:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Install dependencies
+        run: |
+          pip install plistlib biplist httpx PyGithub pyyaml
+      
+      - name: Generate JSON from Releases
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python assets/scripts/generate_json.py
+      
+      - name: Commit and push JSON files
+        run: |
+          git config user.name "TELOS Bot"
+          git config user.email "telos@github-actions"
+          
+          DATE=$(date +"%B %d, %Y")
+          
+          git add assets/*.json
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to JSON files"
+          else
+            git commit -m "⚙️ Telos Update: ${DATE}"
+            git push
+          fi
+
+# ============================================================================
+# CONFIGURATION
+# ============================================================================
+# 
+# Configuration is loaded from: .github/config.yml
+# Edit that file to customize:
+#   - source_name, source_id, source_subtitle, source_description
+#   - developer_name, tint_color
+#   - website, icon_url, header_url, news_url
+#   - priority_apps, max_versions, max_screenshots_per_app
+#
+# TRIGGER INFO:
+# - Runs automatically when a release is published
+# - Runs daily at midnight UTC
+# - Can be triggered manually from Actions tab
