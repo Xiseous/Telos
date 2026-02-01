@@ -36,7 +36,11 @@ TELOS Docker Container
 │   ├── IPA Processor (ZIP + Plist)
 │   ├── App Store Client (iTunes API)
 │   ├── GitHub Releases Manager
-│   └── JSON Generators (4 formats)
+│   ├── JSON Generators (4 formats)
+│   ├── Database Reconciliation
+│   ├── Git History Cleanup
+│   ├── Health Monitoring
+│   └── Scheduled Jobs (APScheduler)
 ├── Frontend (React + Vite)
 │   ├── Dashboard (real-time status)
 │   ├── Database Browser
@@ -45,6 +49,10 @@ TELOS Docker Container
 │   ├── Logs Viewer
 │   └── Settings
 └── PostgreSQL Database
+    ├── Downloaded IPAs
+    ├── Activity Logs
+    ├── Privacy Cache
+    └── App Store Cache
 ```
 
 ---
