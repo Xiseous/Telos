@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.limepresso.pomodorofree",
-    "com.albernackee.blur",
-    "RVS-Riverside.fm",
-    "com.joincarbon.nutrition",
-    "au.com.michaeltigas.MiniOS"
+    "app.uplens",
+    "boomer.Smart-Video",
+    "com.paradyme.solarsmasher",
+    "com.zerone.hidesktop",
+    "com.burbn.instagram"
   ],
   "apps": [
     {
@@ -94,13 +94,6 @@
           "localizedDescription": "Tweaks: AutoRevenueCat, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Not.Boring.Camera-v1.42-riftysipas.ipa",
           "size": 120834401
-        },
-        {
-          "version": "1.42b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: AutoRevenueCat, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Not.Boring.Camera-v1.42-riftysipas.ipa",
-          "size": 120834401
         }
       ],
       "category": "photo-&-video"
@@ -156,11 +149,11 @@
           "size": 278582934
         },
         {
-          "version": "3.1.421b",
+          "version": "3.1.416",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/DRIVE-v3.1.421-riftysipas.ipa",
-          "size": 278582934
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/DRIVE-v3.1.416-riftysipas.ipa",
+          "size": 274362605
         }
       ],
       "category": "games"
@@ -769,7 +762,14 @@
       "size": 56976378,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.siri",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.journal.allow",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSCameraUsageDescription": "We need an access to camera in order to let you take photos.",
           "NSSiriUsageDescription": "We need an access to Siri in order to let you perform various actions within the app.",
@@ -799,11 +799,11 @@
           "size": 57408307
         },
         {
-          "version": "2.6.5b",
+          "version": "2.6.3",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Expense.Tracker.-.Accountit-v2.6.5-riftysipas.ipa",
-          "size": 57408307
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Expense.Tracker.-.Accountit-v2.6.3-riftysipas.ipa",
+          "size": 41103953
         }
       ],
       "category": "finance"
@@ -3072,13 +3072,6 @@
         },
         {
           "version": "36b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Artist.ai.-.AI.Art.Generator-v36-riftysipas.ipa",
-          "size": 213478505
-        },
-        {
-          "version": "36c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Artist.ai.-.AI.Art.Generator-v36-riftysipas.ipa",
@@ -5265,7 +5258,7 @@
       "version": "6.7.9",
       "versionDate": "2026-02-03",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Block.Blast.-v6.7.9-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Block.Blast.-v6.7.9-riftysipas.ipa",
       "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nBlock Blast! | No Ads | Patched ✓ | Additional Information ℹ️",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/02/ad/e6/02ade6b0-bbd8-e147-588b-eec7d9d2fb33/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
@@ -5295,11 +5288,18 @@
           "version": "6.7.9",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Block.Blast.-v6.7.9-riftysipas.ipa",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Block.Blast.-v6.7.9-riftysipas.ipa",
           "size": 129007901
         },
         {
           "version": "6.7.9b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Block.Blast.-v6.7.9-riftysipas.ipa",
+          "size": 129007901
+        },
+        {
+          "version": "6.7.9c",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Block.Blast.-v6.7.9-riftysipas.ipa",
@@ -5311,13 +5311,6 @@
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-8/Block.Blast.-v6.7.8-riftysipas.ipa",
           "size": 127769221
-        },
-        {
-          "version": "6.6.7",
-          "date": "2026-02-02",
-          "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-8/Block.Blast.-v6.6.7-riftysipas.ipa",
-          "size": 127381145
         }
       ],
       "category": "games"
@@ -5768,18 +5761,18 @@
           "size": 211843765
         },
         {
-          "version": "9.4.0b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysbowmaster\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Bowmasters.-.Multiplayer.Game-v9.4.0-riftysipas.ipa",
-          "size": 211843765
-        },
-        {
           "version": "8.0.10",
           "date": "2025-12-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, nostealing\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29/Bowmasters_v8.0.10-riftysipas.ipa",
           "size": 205970486
+        },
+        {
+          "version": "6.6.0",
+          "date": "2025-12-29",
+          "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, riftysbowmaster\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29/Bowmasters_v6.6.0-riftysipas.ipa",
+          "size": 297479109
         }
       ],
       "category": "games"
@@ -6162,13 +6155,6 @@
           "size": 59061969
         },
         {
-          "version": "356b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Brainbuddy.Quit.Porn.Now-v356-riftysipas.ipa",
-          "size": 59061969
-        },
-        {
           "version": "355",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
@@ -6176,11 +6162,11 @@
           "size": 58978386
         },
         {
-          "version": "355b",
+          "version": "354",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Brainbuddy.Quit.Porn.Now-v355-riftysipas.ipa",
-          "size": 58978386
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Brainbuddy.Quit.Porn.Now-v354-riftysipas.ipa",
+          "size": 58976691
         }
       ],
       "category": "health-&-fitness"
@@ -6253,13 +6239,6 @@
       "versions": [
         {
           "version": "3.1.79",
-          "date": "2025-11-10",
-          "localizedDescription": "Tweaks: CydiaSubstrate, autoRevenuecat, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Brass.-.Icon.Themes.Widgets-v3.1.79-riftysipas.ipa",
-          "size": 146787061
-        },
-        {
-          "version": "3.1.79b",
           "date": "2025-11-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, autoRevenuecat, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Brass.-.Icon.Themes.Widgets-v3.1.79-riftysipas.ipa",
@@ -7640,14 +7619,14 @@
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "13.3.0",
-      "versionDate": "2026-02-02",
+      "version": "13.3.1",
+      "versionDate": "2026-02-03",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-8/Captions.For.Talking.Videos-v13.3.0-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Captions.For.Talking.Videos-v13.3.1-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nCaptions: For Talking Videos\nPremium Unlocked\nNotes: Press restore once then close the app if subscription isn't activated\nPatched ✓\nAdditional Information ℹ️",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/81/47/3a81470e-3b7b-bada-ba66-9d0caa01b3fb/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 403150328,
+      "size": 403152162,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/e6/30/62e63038-6153-9ddc-fd18-7cea14bd5101/2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/35/71/0235719f-b4da-85c5-012f-73ee8cc18b8e/3.png/392x696bb.png",
@@ -7668,32 +7647,32 @@
       },
       "versions": [
         {
-          "version": "13.3.0",
-          "date": "2026-02-02",
+          "version": "13.3.1",
+          "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-8/Captions.For.Talking.Videos-v13.3.0-riftysipas.ipa",
-          "size": 403150328
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Captions.For.Talking.Videos-v13.3.1-riftysipas.ipa",
+          "size": 403152162
         },
         {
-          "version": "13.3.0b",
-          "date": "2026-02-01",
-          "localizedDescription": "Tweaks: Captions\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01/Captions.Pro.13.3.0.ipa",
-          "size": 404912044
+          "version": "13.3.1b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Captions.For.Talking.Videos-v13.3.1-riftysipas.ipa",
+          "size": 403152162
         },
         {
-          "version": "13.3.0c",
-          "date": "2026-01-30",
+          "version": "13.3.1c",
+          "date": "2026-02-03",
           "localizedDescription": "Tweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/Captions_AI_Short_Form_Video_v13_3_0_Scale_Subscription_Unlocked.ipa",
-          "size": 410407688
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Captions_AI_Short_Form_Video_v13_3_1_Scale_Subscription_Unlocked.ipa",
+          "size": 410409381
         },
         {
-          "version": "13.3.0d",
-          "date": "2026-01-30",
+          "version": "13.3.1d",
+          "date": "2026-02-03",
           "localizedDescription": "Tweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/Captions_AI_Short_Form_Video_v13_3_0_Scale_Subscription_Unlocked.ipa",
-          "size": 410407688
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Captions_AI_Short_Form_Video_v13_3_1_Scale_Subscription_Unlocked.ipa",
+          "size": 410409381
         }
       ],
       "category": "photo-&-video"
@@ -7869,21 +7848,7 @@
           "size": 62003842
         },
         {
-          "version": "2.74.4680b",
-          "date": "2025-11-10",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftyscarbon\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Carbon.-.Macro.Coach.Tracker-v2.74.4680-riftysipas.ipa",
-          "size": 62003842
-        },
-        {
           "version": "2.73.4538",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftyscarbon\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Carbon.-.Macro.Coach.Tracker-v2.73.4538-riftysipas.ipa",
-          "size": 61157431
-        },
-        {
-          "version": "2.73.4538b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftyscarbon\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Carbon.-.Macro.Coach.Tracker-v2.73.4538-riftysipas.ipa",
@@ -8636,13 +8601,6 @@
         },
         {
           "version": "5.3.1",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, autoRevenuecat, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Cheatsheet.Sticky.Note.Widget-v5.3.1-riftysipas.ipa",
-          "size": 54402691
-        },
-        {
-          "version": "5.3.1b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, autoRevenuecat, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Cheatsheet.Sticky.Note.Widget-v5.3.1-riftysipas.ipa",
@@ -10328,11 +10286,11 @@
           "size": 39073612
         },
         {
-          "version": "1.60b",
+          "version": "1.59",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Cozy.Couples.Relationship.App-v1.60-riftysipas.ipa",
-          "size": 39073612
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Cozy.Couples.Relationship.App-v1.59-riftysipas.ipa",
+          "size": 39071823
         }
       ],
       "category": "lifestyle"
@@ -10895,13 +10853,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdancebit, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Dancebit.Weight.Loss.Workouts-v2.75-riftysipas.ipa",
           "size": 182922170
-        },
-        {
-          "version": "2.75b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdancebit, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Dancebit.Weight.Loss.Workouts-v2.75-riftysipas.ipa",
-          "size": 182922170
         }
       ],
       "category": "health-&-fitness"
@@ -10933,13 +10884,6 @@
       "versions": [
         {
           "version": "3.5.2",
-          "date": "2025-11-10",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Dark.Noise.Ambient.Sounds-v3.5.2-riftysipas.ipa",
-          "size": 196159110
-        },
-        {
-          "version": "3.5.2b",
           "date": "2025-11-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Dark.Noise.Ambient.Sounds-v3.5.2-riftysipas.ipa",
@@ -11964,11 +11908,11 @@
           "size": 509408269
         },
         {
-          "version": "5.5b",
+          "version": "5.4.4",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/djay.-.DJ.App.AI.Mixer-v5.5-riftysipas.ipa",
-          "size": 509408269
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/djay.-.DJ.App.AI.Mixer-v5.4.4-riftysipas.ipa",
+          "size": 507847440
         }
       ],
       "category": "music"
@@ -12137,24 +12081,24 @@
         },
         {
           "version": "8.19.2b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Documents, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Documents.Pro.8.19.2.ipa",
-          "size": 345649665
-        },
-        {
-          "version": "8.19.2c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Documents, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Documents.Pro.8.19.2.ipa",
           "size": 345649665
         },
         {
-          "version": "8.19.2d",
+          "version": "8.19.2c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: Documents, FilePickerFix, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-10/Documents_File_Manager_._Docs_v8_19_2_DocumentsPlus_Unlocked_blatant.ipa",
           "size": 354773408
+        },
+        {
+          "version": "8.14.13",
+          "date": "2026-01-07",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Documents, sideloadFixerLol\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-9/Documents_v8.14.13_DocumentsPlus_Unlocked_blatant.ipa",
+          "size": 208095684
         }
       ],
       "category": "productivity"
@@ -12609,13 +12553,6 @@
           "size": 93456349
         },
         {
-          "version": "5.5.98b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Dune.-v5.5.98-riftysipas.ipa",
-          "size": 93456349
-        },
-        {
           "version": "5.5.50",
           "date": "2025-12-29",
           "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, riftysdunetweak\n\nSource: @riftysIPAlibrary",
@@ -12628,6 +12565,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, riftysdunetweak\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29/Dune_v5.5.48-riftysipas.ipa",
           "size": 80549729
+        },
+        {
+          "version": "5.5.40",
+          "date": "2025-12-29",
+          "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), riftysdunetweak\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29/Dune_v5.5.40-riftysipas.ipa",
+          "size": 78946294
         }
       ],
       "category": "games"
@@ -12637,14 +12581,14 @@
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "developerName": "Duolingo",
       "subtitle": "All Features | Patched",
-      "version": "7.107.2",
-      "versionDate": "2026-01-28",
+      "version": "7.108.0",
+      "versionDate": "2026-02-03",
       "versionDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-2/Duolingo_Language_Lessons_v7_107_2_Duolingo_MAX_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Duolingo_Language_Lessons_v7_108_0_Duolingo_MAX_Unlocked_blatant.ipa",
       "localizedDescription": "All Features | Patched | Tweaked\n\nDuolingo - Language Lessons\nDuolingo MAX Unlocked\nSign-in with google/apple.\nCredit to j4gm4g for providing the original script.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/08/ab/7e08ab92-dfaa-a242-2a2f-26b58eae1279/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/3b/0a/5b3b0a2b-7f47-0b66-8494-a154cdef8e62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 214617111,
+      "size": 213711505,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/16/35/0d16355e-7b7a-4903-aa0a-ecfefdaa7e08/b715d679-c25d-41c1-8b55-6c00114fa81e_en_iphone5.5_screen_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/14/cd/f814cd12-cb2b-baeb-2870-404d9186defb/93f4d1c8-4144-44de-8b57-a5a091c838f4_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_3.png/392x696bb.png",
@@ -12676,6 +12620,20 @@
       },
       "versions": [
         {
+          "version": "7.108.0",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Duolingo_Language_Lessons_v7_108_0_Duolingo_MAX_Unlocked_blatant.ipa",
+          "size": 213711505
+        },
+        {
+          "version": "7.108.0b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Duolingo_Language_Lessons_v7_108_0_Duolingo_MAX_Unlocked_blatant.ipa",
+          "size": 213711505
+        },
+        {
           "version": "7.107.2",
           "date": "2026-01-27",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
@@ -12688,20 +12646,6 @@
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-2/Duolingo_Language_Lessons_v7_107_2_Duolingo_MAX_Unlocked_blatant.ipa",
           "size": 214617111
-        },
-        {
-          "version": "7.107.0",
-          "date": "2026-01-27",
-          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/Duolingo_Language_Lessons_v7_107_0_Duolingo_MAX_Unlocked_blatant.ipa",
-          "size": 214581826
-        },
-        {
-          "version": "7.107.0b",
-          "date": "2026-01-27",
-          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/Duolingo_Language_Lessons_v7_107_0_Duolingo_MAX_Unlocked_blatant.ipa",
-          "size": 214581826
         }
       ],
       "category": "education"
@@ -12991,13 +12935,6 @@
         },
         {
           "version": "1.35.2",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Egg.Inc.-v1.35.2-riftysipas.ipa",
-          "size": 56285905
-        },
-        {
-          "version": "1.35.2b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Egg.Inc.-v1.35.2-riftysipas.ipa",
@@ -13498,13 +13435,6 @@
         },
         {
           "version": "2.8.1",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/AI.Background.Remover.-.Ereasy-v2.8.1-riftysipas.ipa",
-          "size": 80343545
-        },
-        {
-          "version": "2.8.1b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/AI.Background.Remover.-.Ereasy-v2.8.1-riftysipas.ipa",
@@ -14664,13 +14594,6 @@
           "size": 334293846
         },
         {
-          "version": "3.117b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Facetune_Video_._Photo_Editor_v3_117_Subscription_Unlocked_blatant.ipa",
-          "size": 334293846
-        },
-        {
           "version": "3.76.2",
           "date": "2026-01-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Facetune, sideloadKeychainfix\n\nSource: @blatants",
@@ -14683,6 +14606,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Facetune, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/Facetune_v3.76.1_Subscription_Unlocked_blatant.ipa",
           "size": 335352233
+        },
+        {
+          "version": "3.76",
+          "date": "2026-01-07",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Facetune, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/Facetune_v3.76_Subscription_Unlocked_blatant.ipa",
+          "size": 335397022
         }
       ],
       "category": "photo-&-video"
@@ -14716,13 +14646,6 @@
       "versions": [
         {
           "version": "1.2.7",
-          "date": "2025-10-21",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Factly.-.Learn.something.new-v1.2.7-riftysipas.ipa",
-          "size": 68056950
-        },
-        {
-          "version": "1.2.7b",
           "date": "2025-10-21",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Factly.-.Learn.something.new-v1.2.7-riftysipas.ipa",
@@ -15203,18 +15126,18 @@
           "size": 124753801
         },
         {
-          "version": "15.0.3b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/FarOut.Guides-v15.0.3-riftysipas.ipa",
-          "size": 124753801
-        },
-        {
           "version": "15.0.2",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/FarOut.Guides-v15.0.2-riftysipas.ipa",
           "size": 124698799
+        },
+        {
+          "version": "15.0.1",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/FarOut.Guides-v15.0.1-riftysipas.ipa",
+          "size": 124687067
         }
       ],
       "category": "navigation"
@@ -15651,13 +15574,6 @@
         },
         {
           "version": "4.5.9b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Filtru.Brew.the.best.coffee-v4.5.9-riftysipas.ipa",
-          "size": 90845876
-        },
-        {
-          "version": "4.5.9c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Filtru.Brew.the.best.coffee-v4.5.9-riftysipas.ipa",
@@ -15669,6 +15585,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-7/Filtru.Brew.the.best.coffee-v4.5.6-riftysipas.ipa",
           "size": 85423253
+        },
+        {
+          "version": "4.5.5",
+          "date": "2026-02-02",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-8/Filtru.Brew.the.best.coffee-v4.5.5-riftysipas.ipa",
+          "size": 85423584
         }
       ],
       "category": "food-&-drink"
@@ -16346,13 +16269,6 @@
         },
         {
           "version": "4.9.6b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/FL.Studio.Mobile.IAP.4.9.6.ipa",
-          "size": 315176463
-        },
-        {
-          "version": "4.9.6c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/FL.Studio.Mobile.IAP.4.9.6.ipa",
@@ -16505,13 +16421,6 @@
         },
         {
           "version": "25.10.1",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysflashscore, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Flashscore.Live.Scores.News-v25.10.1-riftysipas.ipa",
-          "size": 65103739
-        },
-        {
-          "version": "25.10.1b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysflashscore, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Flashscore.Live.Scores.News-v25.10.1-riftysipas.ipa",
@@ -17106,13 +17015,6 @@
         },
         {
           "version": "1.8.3",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Flourish.-.Daily.Affirmations-v1.8.3-riftysipas.ipa",
-          "size": 55526189
-        },
-        {
-          "version": "1.8.3b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Flourish.-.Daily.Affirmations-v1.8.3-riftysipas.ipa",
@@ -17848,7 +17750,7 @@
       "version": "1224.0",
       "versionDate": "2026-02-03",
       "versionDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/FotMob.-.Soccer.Live.Scores-v1224.0-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/FotMob.-.Soccer.Live.Scores-v1224.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓** | *Bundle Id:** Com.Mobilefootie.Fotmobpro\n\nFotMob - Soccer Live Scores | Premium Unlocked | Patched ✓ | Additional Information ℹ️",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/d8/ce/51d8ce9e-6b57-16c6-2984-682f08314828/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
@@ -17880,11 +17782,18 @@
           "version": "1224.0",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/FotMob.-.Soccer.Live.Scores-v1224.0-riftysipas.ipa",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/FotMob.-.Soccer.Live.Scores-v1224.0-riftysipas.ipa",
           "size": 52471429
         },
         {
           "version": "1224.0b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/FotMob.-.Soccer.Live.Scores-v1224.0-riftysipas.ipa",
+          "size": 52471429
+        },
+        {
+          "version": "1224.0c",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/FotMob.-.Soccer.Live.Scores-v1224.0-riftysipas.ipa",
@@ -17896,13 +17805,6 @@
           "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-8/FotMob.-.Soccer.Live.Scores-v1221.0-riftysipas.ipa",
           "size": 51150775
-        },
-        {
-          "version": "1220.0",
-          "date": "2026-02-02",
-          "localizedDescription": "Tweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-8/FotMob.-.Soccer.Live.Scores-v1220.0-riftysipas.ipa",
-          "size": 51149974
         }
       ],
       "category": "sports"
@@ -17958,11 +17860,11 @@
           "size": 287238809
         },
         {
-          "version": "1.57.69b",
+          "version": "1.55.129",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Found.It.Hidden.Object.Game-v1.57.69-riftysipas.ipa",
-          "size": 287238809
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Found.It.Hidden.Object.Game-v1.55.129-riftysipas.ipa",
+          "size": 277637154
         }
       ],
       "category": "games"
@@ -18862,7 +18764,7 @@
       "version": "4.0.1",
       "versionDate": "2026-02-03",
       "versionDescription": "Tweaks: GlowUp, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/GlowUp_Photo_Editor_v4_0_1_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/GlowUp_Photo_Editor_v4_0_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nGlowUp - Photo Editor\nSubscription Unlocked\nIgnore purchase popup's and restart the app if subscription isn't active.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/31/72/e7/3172e706-d9df-715d-2446-65887bfcdd84/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
@@ -18894,11 +18796,18 @@
           "version": "4.0.1",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: GlowUp, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/GlowUp_Photo_Editor_v4_0_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/GlowUp_Photo_Editor_v4_0_1_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 181421372
         },
         {
           "version": "4.0.1b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: GlowUp, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/GlowUp_Photo_Editor_v4_0_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 181421372
+        },
+        {
+          "version": "4.0.1c",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: GlowUp, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/GlowUp_Photo_Editor_v4_0_1_Subscription_Unlocked_blatant_Patched.ipa",
@@ -18906,13 +18815,6 @@
         },
         {
           "version": "4.0.0",
-          "date": "2026-01-28",
-          "localizedDescription": "Tweaks: GlowUp, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-4/GlowUp_Photo_Editor_v4_0_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 181554084
-        },
-        {
-          "version": "4.0.0b",
           "date": "2026-01-28",
           "localizedDescription": "Tweaks: GlowUp, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-4/GlowUp_Photo_Editor_v4_0_0_Subscription_Unlocked_blatant_Patched.ipa",
@@ -19467,13 +19369,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Gradient.You.Look.Like-v1148-riftysipas.ipa",
           "size": 197362269
-        },
-        {
-          "version": "1148b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Gradient.You.Look.Like-v1148-riftysipas.ipa",
-          "size": 197362269
         }
       ],
       "category": "photo-&-video"
@@ -19797,13 +19692,6 @@
           "size": 104951737
         },
         {
-          "version": "3.1.1b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysrc, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Grounded.Quit.Weed.Smoking-v3.1.1-riftysipas.ipa",
-          "size": 104951737
-        },
-        {
           "version": "3.1.0",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysrc, zxPluginsInject\n\nSource: @riftysIPAlibrary",
@@ -20099,13 +19987,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/GymStreak.AI.Personal.Trainer-v6.2.2-riftysipas.ipa",
           "size": 50181099
-        },
-        {
-          "version": "6.2.2b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/GymStreak.AI.Personal.Trainer-v6.2.2-riftysipas.ipa",
-          "size": 50181099
         }
       ],
       "category": "health-&-fitness"
@@ -20266,18 +20147,18 @@
           "size": 13571330
         },
         {
-          "version": "7.1.2b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Awesome.Habits.Habit.Tracker-v7.1.2-riftysipas.ipa",
-          "size": 13571330
-        },
-        {
           "version": "7.1.1",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Awesome.Habits.Habit.Tracker-v7.1.1-riftysipas.ipa",
           "size": 9731539
+        },
+        {
+          "version": "7.1",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Awesome.Habits.Habit.Tracker-v7.1-riftysipas.ipa",
+          "size": 9759760
         }
       ],
       "category": "productivity"
@@ -20511,13 +20392,6 @@
         },
         {
           "version": "367.3b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Headway\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Headway.Premium.367.3.ipa",
-          "size": 278645243
-        },
-        {
-          "version": "367.3c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Headway\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Headway.Premium.367.3.ipa",
@@ -20529,6 +20403,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Headway\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-8/Headway.Premium.367.0.ipa",
           "size": 281852368
+        },
+        {
+          "version": "354.1",
+          "date": "2026-01-02",
+          "localizedDescription": "Tweaks: Headway, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/Headway_Daily_Micro_Learning_v354_1_Subscription_Unlocked_blatant.ipa",
+          "size": 332117914
         }
       ],
       "category": "education"
@@ -21165,14 +21046,14 @@
       "bundleIdentifier": "com.zerone.hidesktop",
       "developerName": "Xiamen ShenZhuo Information Technology Co., Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "4.3.82",
-      "versionDate": "2026-02-01",
+      "version": "4.3.83",
+      "versionDate": "2026-02-03",
       "versionDescription": "Tweaks: blatantsPatch, iScreen\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01/iScreen_Widgets_._Wallpaper_v4_3_82_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/iScreen_Widgets_._Wallpaper_v4_3_83_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\niScreen - Widgets & Wallpaper | Subscription Unlocked",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/cb/a4/53cba410-817e-9777-4aa6-3e82b39c7829/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 450552124,
+      "size": 450562083,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b3/70/38/b37038bc-ce7d-6cd8-506b-dd530b6166ae/2208-OS26__U82f1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/a6/97/6ba697b8-46b4-a052-d36e-62f116c53107/2208-_U58c1_U7eb8__U82f1.png/392x696bb.png",
@@ -21207,6 +21088,20 @@
       },
       "versions": [
         {
+          "version": "4.3.83",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: blatantsPatch, iScreen\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/iScreen_Widgets_._Wallpaper_v4_3_83_Subscription_Unlocked_blatant.ipa",
+          "size": 450562083
+        },
+        {
+          "version": "4.3.83b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: blatantsPatch, iScreen\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/iScreen_Widgets_._Wallpaper_v4_3_83_Subscription_Unlocked_blatant.ipa",
+          "size": 450562083
+        },
+        {
           "version": "4.3.82",
           "date": "2026-01-30",
           "localizedDescription": "Tweaks: blatantsPatch, iScreen\n\nSource: @blatants",
@@ -21219,20 +21114,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, iScreen\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-6/HiWidget_v4.1.56_Subscription_Unlocked_blatant.ipa",
           "size": 317036923
-        },
-        {
-          "version": "4.1.55",
-          "date": "2026-01-06",
-          "localizedDescription": "Tweaks: CydiaSubstrate, iScreen\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-6/HiWidget_v4.1.55_Subscription_Unlocked_blatant.ipa",
-          "size": 317037111
-        },
-        {
-          "version": "4.1.50",
-          "date": "2026-01-07",
-          "localizedDescription": "Tweaks: CydiaSubstrate, iScreen\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/HiWidget_v4.1.50_Subscription_Unlocked_blatant.ipa",
-          "size": 313240268
         }
       ],
       "category": "graphics-&-design"
@@ -22948,13 +22829,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Inspo.-.AI.Recipe.Keeper-v2.7-riftysipas.ipa",
           "size": 57867893
-        },
-        {
-          "version": "2.7b",
-          "date": "2025-11-05",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Inspo.-.AI.Recipe.Keeper-v2.7-riftysipas.ipa",
-          "size": 57867893
         }
       ],
       "category": "food-&-drink"
@@ -22963,15 +22837,15 @@
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
-      "subtitle": "Tweaked with CydiaSubstrate, IGFormat",
+      "subtitle": "Patched | Tweaked",
       "version": "415.0.0",
       "versionDate": "2026-02-03",
-      "versionDescription": "Tweaks: CydiaSubstrate, IGFormat, IGHDMedia, blatantsPatch, sideloadFixerLol\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Instagram.IGFormat.415.0.0.ipa",
-      "localizedDescription": "Instagram IGFormat | Make Instagram Better! | Telegram channel | Minimum OS version 16.3",
+      "versionDescription": "Tweaks: CydiaSubstrate, IGFormat, IGHDMedia, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Instagram_v415_0_0_IGFormat_v1_94_%2B_IGHDMedia_v1_1_blatant_Patched.ipa",
+      "localizedDescription": "Patched | Tweaked\n\nInstagram\nIGFormat v1.94 + IGHDMedia v1.1\nTweak by DENS0R Showcase\nChangelog:\nIGFormat V1.94\n- Hide Group Chat Creation : Disable group chat on multi-select\n- No Screenshot Detect : Take screenshots without detection\n- Auto Re-Enable Anonymous Read : Automatically turns anonymous reading back on when you exit the app\n- Automatic Updates Check : Shows an update panel when a new IGFormat version is available",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/75/3f/b1753f00-8d4b-edc4-e98e-ef644ba264f6/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 253441355,
+      "size": 264961562,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/392x696bb.jpg",
@@ -23027,30 +22901,30 @@
         {
           "version": "415.0.0",
           "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, IGFormat, IGHDMedia, blatantsPatch, sideloadFixerLol\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Instagram.IGFormat.415.0.0.ipa",
-          "size": 253441355
+          "localizedDescription": "Tweaks: CydiaSubstrate, IGFormat, IGHDMedia, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Instagram_v415_0_0_IGFormat_v1_94_%2B_IGHDMedia_v1_1_blatant_Patched.ipa",
+          "size": 264961562
         },
         {
           "version": "415.0.0b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: CydiaSubstrate, IGFormat, IGHDMedia, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Instagram_v415_0_0_IGFormat_v1_94_%2B_IGHDMedia_v1_1_blatant_Patched.ipa",
+          "size": 264961562
+        },
+        {
+          "version": "415.0.0c",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, IGFormat, IGHDMedia, blatantsPatch, sideloadFixerLol\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Instagram.IGFormat.415.0.0.ipa",
           "size": 253441355
         },
         {
-          "version": "415.0.0c",
+          "version": "415.0.0d",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: BHInsta, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Instagram.v415.0.0.BHInsta.v1.2.blatant.Patched.ipa",
           "size": 254683035
-        },
-        {
-          "version": "415.0.0d",
-          "date": "2026-02-02",
-          "localizedDescription": "Tweaks: Theta, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Instagram.v415.0.0.Theta.v5.0.blatant.Patched.ipa",
-          "size": 274804239
         }
       ],
       "category": "photo-&-video"
@@ -24773,11 +24647,11 @@
           "size": 91928605
         },
         {
-          "version": "4.1.1b",
+          "version": "4.0.5",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Food.Check.AI.Product.Scanner-v4.1.1-riftysipas.ipa",
-          "size": 91928605
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Food.Check.AI.Product.Scanner-v4.0.5-riftysipas.ipa",
+          "size": 93766505
         }
       ],
       "category": "health-&-fitness"
@@ -25227,13 +25101,6 @@
       "versions": [
         {
           "version": "1.0.26",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Lens.AI.Scanner.Identifier-v1.0.26-riftysipas.ipa",
-          "size": 90413694
-        },
-        {
-          "version": "1.0.26b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Lens.AI.Scanner.Identifier-v1.0.26-riftysipas.ipa",
@@ -26236,13 +26103,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Live.Transcribe-v2.41-riftysipas.ipa",
           "size": 81970209
-        },
-        {
-          "version": "2.41b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Live.Transcribe-v2.41-riftysipas.ipa",
-          "size": 81970209
         }
       ],
       "category": "utilities"
@@ -26833,11 +26693,11 @@
           "size": 15085397
         },
         {
-          "version": "2.1.15b",
+          "version": "2.1.13",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyslunatask, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Lunatask.A.Better.To-Do.List-v2.1.15-riftysipas.ipa",
-          "size": 15085397
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Lunatask.A.Better.To-Do.List-v2.1.13-riftysipas.ipa",
+          "size": 15164659
         }
       ],
       "category": "productivity"
@@ -26887,13 +26747,6 @@
         },
         {
           "version": "3.0.5b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Lungy.Breathing.Exercises-v3.0.5-riftysipas.ipa",
-          "size": 222650785
-        },
-        {
-          "version": "3.0.5c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Lungy.Breathing.Exercises-v3.0.5-riftysipas.ipa",
@@ -26905,6 +26758,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-8/Lungy.Breathing.Exercises-v2.9.26-riftysipas.ipa",
           "size": 214317666
+        },
+        {
+          "version": "2.9.25",
+          "date": "2026-02-02",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-10/Lungy.Breathing.Exercises-v2.9.25-riftysipas.ipa",
+          "size": 218748530
         }
       ],
       "category": "health-&-fitness"
@@ -28004,13 +27864,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Mesmerize.-.Visual.Meditation-v2.32-riftysipas.ipa",
           "size": 252236946
-        },
-        {
-          "version": "2.32b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Mesmerize.-.Visual.Meditation-v2.32-riftysipas.ipa",
-          "size": 252236946
         }
       ],
       "category": "health-&-fitness"
@@ -28200,13 +28053,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Track.Live.Flights.-.Mileways-v4.7.1-riftysipas.ipa",
           "size": 113266373
-        },
-        {
-          "version": "4.7.1b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Track.Live.Flights.-.Mileways-v4.7.1-riftysipas.ipa",
-          "size": 113266373
         }
       ],
       "category": "travel"
@@ -28246,23 +28092,23 @@
         {
           "version": "11.2.0b",
           "date": "2026-02-02",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Mimo, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Mimo.Max.11.2.0.ipa",
-          "size": 74060576
-        },
-        {
-          "version": "11.2.0c",
-          "date": "2026-02-02",
           "localizedDescription": "Tweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Mimo_Learn_Coding_Programming_v11_2_0_Max_Subscription_Unlocked.ipa",
           "size": 78129256
         },
         {
-          "version": "11.2.0d",
+          "version": "11.2.0c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Mimo, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Mimo.Max.11.2.0.ipa",
           "size": 74060576
+        },
+        {
+          "version": "11.2.0d",
+          "date": "2026-02-02",
+          "localizedDescription": "Tweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-10/Mimo_Learn_Coding_Programming_v11_2_0_Max_Subscription_Unlocked.ipa",
+          "size": 78129256
         }
       ],
       "category": "education"
@@ -29702,13 +29548,6 @@
           "size": 46353005
         },
         {
-          "version": "5.1.4b",
-          "date": "2025-11-12",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/MusicHarbor.-.Track.New.Music-v5.1.4-riftysipas.ipa",
-          "size": 46353005
-        },
-        {
           "version": "5.1.3",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
@@ -29748,13 +29587,6 @@
       "versions": [
         {
           "version": "2.2.1",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/MusicSmart.-.Liner.Notes-v2.2.1-riftysipas.ipa",
-          "size": 18351846
-        },
-        {
-          "version": "2.2.1b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/MusicSmart.-.Liner.Notes-v2.2.1-riftysipas.ipa",
@@ -30001,11 +29833,11 @@
           "size": 182395118
         },
         {
-          "version": "1.28.1b",
+          "version": "1.27.0",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/My.Perfect.Hotel-v1.28.1-riftysipas.ipa",
-          "size": 182395118
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/My.Perfect.Hotel-v1.27.0-riftysipas.ipa",
+          "size": 181038447
         }
       ],
       "category": "games"
@@ -30658,13 +30490,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Apnea.Trainer.Nea-v1.4.0-riftysipas.ipa",
           "size": 48052547
-        },
-        {
-          "version": "1.4.0b",
-          "date": "2025-10-20",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Apnea.Trainer.Nea-v1.4.0-riftysipas.ipa",
-          "size": 48052547
         }
       ],
       "category": "health-&-fitness"
@@ -30866,13 +30691,6 @@
       "versions": [
         {
           "version": "1.5.53",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/neurolist.AI.Planner.for.ADHD-v1.5.53-riftysipas.ipa",
-          "size": 35273695
-        },
-        {
-          "version": "1.5.53b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/neurolist.AI.Planner.for.ADHD-v1.5.53-riftysipas.ipa",
@@ -31107,13 +30925,6 @@
         },
         {
           "version": "6.2.1",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Noise.Machine.-.Brown.White-v6.2.1-riftysipas.ipa",
-          "size": 96494629
-        },
-        {
-          "version": "6.2.1b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Noise.Machine.-.Brown.White-v6.2.1-riftysipas.ipa",
@@ -32033,18 +31844,18 @@
           "size": 97914362
         },
         {
-          "version": "3.5.1b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, ogrifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Offline.Games.-.No.Wifi.Games-v3.5.1-riftysipas.ipa",
-          "size": 97914362
-        },
-        {
           "version": "3.4.9",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, ogrifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Offline.Games.-.No.Wifi.Games-v3.4.9-riftysipas.ipa",
           "size": 95855483
+        },
+        {
+          "version": "3.4.8",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, ogrifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Offline.Games.-.No.Wifi.Games-v3.4.8-riftysipas.ipa",
+          "size": 98396567
         }
       ],
       "category": "games"
@@ -32115,7 +31926,7 @@
       "version": "3.8.0",
       "versionDate": "2026-02-03",
       "versionDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Offline.Music.Player.v3.8.0.Pro.Unlocked.blatant.Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Offline.Music.Player.v3.8.0.Pro.Unlocked.blatant.Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nOffline Music Player | Pro Unlocked",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/52/9c/cc529c72-414d-b38e-a253-b088640e246c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
@@ -32150,11 +31961,18 @@
           "version": "3.8.0",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Offline.Music.Player.v3.8.0.Pro.Unlocked.blatant.Patched.ipa",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Offline.Music.Player.v3.8.0.Pro.Unlocked.blatant.Patched.ipa",
           "size": 95723694
         },
         {
           "version": "3.8.0b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Offline.Music.Player.v3.8.0.Pro.Unlocked.blatant.Patched.ipa",
+          "size": 95723694
+        },
+        {
+          "version": "3.8.0c",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Offline.Music.Player.v3.8.0.Pro.Unlocked.blatant.Patched.ipa",
@@ -32166,13 +31984,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/MusicPlayer_v3.4.5_Pro_Unlocked_blatant.ipa",
           "size": 88547041
-        },
-        {
-          "version": "3.4.4",
-          "date": "2026-01-07",
-          "localizedDescription": "Tweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/MusicPlayer_v3.4.4_Pro_Unlocked_blatant.ipa",
-          "size": 88551634
         }
       ],
       "category": "music"
@@ -32255,13 +32066,6 @@
         },
         {
           "version": "3.20.3",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/OffScreen.Screen.Time.Control-v3.20.3-riftysipas.ipa",
-          "size": 62809300
-        },
-        {
-          "version": "3.20.3b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/OffScreen.Screen.Time.Control-v3.20.3-riftysipas.ipa",
@@ -32917,18 +32721,18 @@
           "size": 100111360
         },
         {
-          "version": "5.5.3b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysOSmaps\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/OS.Maps.Walk.Hike.Run.Bike-v5.5.3-riftysipas.ipa",
-          "size": 100111360
-        },
-        {
           "version": "5.5.2",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysOSmaps\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/OS.Maps.Walk.Hike.Run.Bike-v5.5.2-riftysipas.ipa",
           "size": 92615686
+        },
+        {
+          "version": "5.5.0",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysOSmaps, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/OS.Maps.Walk.Hike.Run.Bike-v5.5.0-riftysipas.ipa",
+          "size": 93123962
         }
       ],
       "category": "navigation"
@@ -33445,13 +33249,6 @@
           "version": "1.0.1b",
           "date": "2019-07-16",
           "localizedDescription": "Tweaks: SatellaJailed, ZiSpop-up, flutersult, iOSGods, lidersunframe\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Papa.s.Donuteria.To.Go.1.0.1.user_hidden.ipa",
-          "size": 47000909
-        },
-        {
-          "version": "1.0.1c",
-          "date": "2019-07-16",
-          "localizedDescription": "Tweaks: SatellaJailed, ZiSpop-up, flutersult, iOSGods, lidersunframe\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-11/Papa.s.Donuteria.To.Go.1.0.1.user_hidden.ipa",
           "size": 47000909
         }
@@ -33500,13 +33297,6 @@
         },
         {
           "version": "1.2.0b",
-          "date": "2019-01-24",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Papa.s.Freezeria.To.Go.1.2.0.user_hidden.ipa",
-          "size": 53707831
-        },
-        {
-          "version": "1.2.0c",
           "date": "2019-01-24",
           "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-11/Papa.s.Freezeria.To.Go.1.2.0.user_hidden.ipa",
@@ -33563,13 +33353,6 @@
         },
         {
           "version": "1.1.0b",
-          "date": "2019-01-24",
-          "localizedDescription": "Tweaks: SatellaJailed, ZiSpop-up, flutersult, iOSGods, lidersunframe\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Papa.s.Hot.Doggeria.To.Go.1.1.0.user_hidden.ipa",
-          "size": 78821902
-        },
-        {
-          "version": "1.1.0c",
           "date": "2019-01-24",
           "localizedDescription": "Tweaks: SatellaJailed, ZiSpop-up, flutersult, iOSGods, lidersunframe\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Papa.s.Hot.Doggeria.To.Go.1.1.0.user_hidden.ipa",
@@ -33629,13 +33412,6 @@
           "version": "1.2.0b",
           "date": "2019-08-15",
           "localizedDescription": "Tweaks: SatellaJailed, ZiSpop-up, flutersult, iOSGods, lidersunframe\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Papa.s.Pancakeria.To.Go.1.2.0.user_hidden.ipa",
-          "size": 30038894
-        },
-        {
-          "version": "1.2.0c",
-          "date": "2019-08-15",
-          "localizedDescription": "Tweaks: SatellaJailed, ZiSpop-up, flutersult, iOSGods, lidersunframe\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Papa.s.Pancakeria.To.Go.1.2.0.user_hidden.ipa",
           "size": 30038894
         }
@@ -33686,13 +33462,6 @@
           "version": "1.1.0b",
           "date": "2019-01-24",
           "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Papa.s.Pizzeria.To.Go.1.1.0.user_hidden.ipa",
-          "size": 69276670
-        },
-        {
-          "version": "1.1.0c",
-          "date": "2019-01-24",
-          "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Papa.s.Pizzeria.To.Go.1.1.0.user_hidden.ipa",
           "size": 69276670
         }
@@ -33739,13 +33508,6 @@
         },
         {
           "version": "1.1.0b",
-          "date": "2019-02-02",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Papa.s.Scooperia.To.Go.1.1.0.user_hidden.ipa",
-          "size": 45150856
-        },
-        {
-          "version": "1.1.0c",
           "date": "2019-02-02",
           "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Papa.s.Scooperia.To.Go.1.1.0.user_hidden.ipa",
@@ -33803,13 +33565,6 @@
         },
         {
           "version": "1.0.0b",
-          "date": "2020-04-21",
-          "localizedDescription": "Tweaks: SatellaJailed, ZiSpop-up, flutersult, iOSGods, lidersunframe\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Papa.s.Sushiria.To.Go.1.0.0.user_hidden.ipa",
-          "size": 28548733
-        },
-        {
-          "version": "1.0.0c",
           "date": "2020-04-21",
           "localizedDescription": "Tweaks: SatellaJailed, ZiSpop-up, flutersult, iOSGods, lidersunframe\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Papa.s.Sushiria.To.Go.1.0.0.user_hidden.ipa",
@@ -33895,13 +33650,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Paper.io.2-v4.21.2-riftysipas.ipa",
           "size": 127330487
-        },
-        {
-          "version": "4.21.2b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Paper.io.2-v4.21.2-riftysipas.ipa",
-          "size": 127330487
         }
       ],
       "category": "games"
@@ -33945,13 +33693,6 @@
         },
         {
           "version": "2.3.39",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Parallel.Live.Fake.Live-v2.3.39-riftysipas.ipa",
-          "size": 204259914
-        },
-        {
-          "version": "2.3.39b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Parallel.Live.Fake.Live-v2.3.39-riftysipas.ipa",
@@ -34200,7 +33941,7 @@
       "version": "6.3.5",
       "versionDate": "2026-02-03",
       "versionDescription": "Tweaks: Paste, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Paste_._Limitless_Clipboard_v6_3_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Paste_._Limitless_Clipboard_v6_3_5_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nPaste – Limitless Clipboard\nSubscription Unlocked\nThe app works properly when installed with a dev/dist certificate that has App Groups set up correctly.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/ab/8c/dcab8c6d-45e9-8dd9-3276-ebebefdff61d/AppIcon-0-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
@@ -34223,11 +33964,18 @@
           "version": "6.3.5",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: Paste, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Paste_._Limitless_Clipboard_v6_3_5_Subscription_Unlocked_blatant.ipa",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Paste_._Limitless_Clipboard_v6_3_5_Subscription_Unlocked_blatant.ipa",
           "size": 102344793
         },
         {
           "version": "6.3.5b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: Paste, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Paste_._Limitless_Clipboard_v6_3_5_Subscription_Unlocked_blatant.ipa",
+          "size": 102344793
+        },
+        {
+          "version": "6.3.5c",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: Paste, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Paste_._Limitless_Clipboard_v6_3_5_Subscription_Unlocked_blatant.ipa",
@@ -34342,13 +34090,6 @@
         },
         {
           "version": "2026.2b",
-          "date": "2026-02-02",
-          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/PDF.Viewer.Pro.2026.2.ipa",
-          "size": 43487766
-        },
-        {
-          "version": "2026.2c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/PDF.Viewer.Pro.2026.2.ipa",
@@ -34642,13 +34383,6 @@
         },
         {
           "version": "6.4.11b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Pennies.Budget.Bill.Tracker-v6.4.11-riftysipas.ipa",
-          "size": 38656987
-        },
-        {
-          "version": "6.4.11c",
           "date": "2026-01-09",
           "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/Pennies_v6.4.11_tg%40Sa1y0miii.ipa",
@@ -35002,11 +34736,11 @@
           "size": 44003716
         },
         {
-          "version": "2.1.2b",
+          "version": "2.1.0",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Phone.Tracker.-.Family.Locator-v2.1.2-riftysipas.ipa",
-          "size": 44003716
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Phone.Tracker.-.Family.Locator-v2.1.0-riftysipas.ipa",
+          "size": 37411208
         }
       ],
       "category": "lifestyle"
@@ -35329,13 +35063,6 @@
         },
         {
           "version": "32.4b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, StopReviews\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Photo.Scan.App.Photomyne.IAP.32.4.ipa",
-          "size": 152336002
-        },
-        {
-          "version": "32.4c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, SatellaJailed, StopReviews\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Photo.Scan.App.Photomyne.IAP.32.4.ipa",
@@ -35642,24 +35369,24 @@
         },
         {
           "version": "29.2.4b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: Picsart\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Picsart.Pro.29.2.4.ipa",
-          "size": 101405544
-        },
-        {
-          "version": "29.2.4c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Picsart_AI_Photo_Editor._Video_v29_2_4_Subscription_Unlocked_blatant.ipa",
           "size": 109705619
         },
         {
-          "version": "29.2.4d",
+          "version": "29.2.4c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: Picsart\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Picsart.Pro.29.2.4.ipa",
           "size": 101405544
+        },
+        {
+          "version": "29.2.4d",
+          "date": "2026-02-02",
+          "localizedDescription": "Tweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-10/Picsart_AI_Photo_Editor._Video_v29_2_4_Subscription_Unlocked_blatant.ipa",
+          "size": 109705619
         }
       ],
       "category": "photo-&-video"
@@ -36734,18 +36461,18 @@
           "size": 55144377
         },
         {
-          "version": "7.4.1b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/PlantSnap.-.Plant.Identifier-v7.4.1-riftysipas.ipa",
-          "size": 55144377
-        },
-        {
           "version": "7.4.0",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/PlantSnap.-.Plant.Identifier-v7.4.0-riftysipas.ipa",
           "size": 56345292
+        },
+        {
+          "version": "6.2.11",
+          "date": "2026-02-02",
+          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-9/PlantSnap.Premium.6.2.11.ipa",
+          "size": 37717876
         }
       ],
       "category": "education"
@@ -36795,11 +36522,11 @@
           "size": 27546499
         },
         {
-          "version": "1.3.0b",
+          "version": "1.2.1",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, chocorc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Plesso.emotional.intelligence-v1.3.0-riftysipas.ipa",
-          "size": 27546499
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Plesso.emotional.intelligence-v1.2.1-riftysipas.ipa",
+          "size": 29553249
         }
       ],
       "category": "health-&-fitness"
@@ -37777,13 +37504,6 @@
           "localizedDescription": "Tweaks: AutoItunes, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/ProKnockOut-Cut.Paste.Photos-v7.82-riftysipas.ipa",
           "size": 137152498
-        },
-        {
-          "version": "7.82b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: AutoItunes, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/ProKnockOut-Cut.Paste.Photos-v7.82-riftysipas.ipa",
-          "size": 137152498
         }
       ],
       "category": "photo-&-video"
@@ -38341,11 +38061,11 @@
           "size": 183520720
         },
         {
-          "version": "3.6.22b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, popuprifty, racemaster\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Race.Master.3D.Car.Racing-v3.6.22-riftysipas.ipa",
-          "size": 183520720
+          "version": "3.6.17",
+          "date": "2025-12-29",
+          "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, nostealing, racemaster\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29/RaceMaster_v3.6.17-riftysipas.ipa",
+          "size": 171836296
         }
       ],
       "category": "games"
@@ -38935,13 +38655,6 @@
         },
         {
           "version": "3.9.21b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Reframe.Drink.Less.Thrive-v3.9.21-riftysipas.ipa",
-          "size": 263118536
-        },
-        {
-          "version": "3.9.21c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Reframe.Drink.Less.Thrive-v3.9.21-riftysipas.ipa",
@@ -38953,6 +38666,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-8/Reframe.Drink.Less.Thrive-v3.9.20-riftysipas.ipa",
           "size": 262219984
+        },
+        {
+          "version": "3.8.100",
+          "date": "2026-02-02",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-8/Reframe.Drink.Less.Thrive-v3.8.100-riftysipas.ipa",
+          "size": 323406870
         }
       ],
       "category": "health-&-fitness"
@@ -39547,13 +39267,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Reveri.Brain.Over.Pain-v3.90.1-riftysipas.ipa",
           "size": 147022437
-        },
-        {
-          "version": "3.90.1b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Reveri.Brain.Over.Pain-v3.90.1-riftysipas.ipa",
-          "size": 147022437
         }
       ],
       "category": "health-&-fitness"
@@ -39621,14 +39334,14 @@
       "bundleIdentifier": "com.risesci.nyx",
       "developerName": "Rise Science Inc",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "0.1.564",
-      "versionDate": "2026-01-30",
+      "version": "0.1.565",
+      "versionDate": "2026-02-03",
       "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/RISE_Sleep_Tracker_v1_564_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/RISE_Sleep_Tracker_v1_565_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nRISE: Sleep Tracker\nSubscription Unlocked\n>Certificate with healthkit entitlement is required.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/d8/a6/38d8a644-520d-7d00-9732-fa20824a984f/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 140177017,
+      "size": 141307596,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/fe/b7/f5feb7b6-0c2d-3758-7ecd-21e4553cd2c7/a457da92-9a8d-48e8-8150-8f355011e70e_5.5_SS1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/32/1f/ee321f6f-dd06-60b8-533c-19d00ca084f9/6c0d466d-dd53-4e7e-a3e7-fe3bdb1f5f29_5.5_SS2.png/392x696bb.png",
@@ -39662,6 +39375,20 @@
       },
       "versions": [
         {
+          "version": "0.1.565",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/RISE_Sleep_Tracker_v1_565_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 141307596
+        },
+        {
+          "version": "0.1.565b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/RISE_Sleep_Tracker_v1_565_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 141307596
+        },
+        {
           "version": "0.1.564",
           "date": "2026-01-30",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
@@ -39674,20 +39401,6 @@
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/RISE_Sleep_Tracker_v1_564_0_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 140177017
-        },
-        {
-          "version": "0.1.563",
-          "date": "2026-01-24",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-24/RISE_Sleep_Tracker_v1_563_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 140167899
-        },
-        {
-          "version": "0.1.563b",
-          "date": "2026-01-24",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-24/RISE_Sleep_Tracker_v1_563_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 140167899
         }
       ],
       "category": "health-&-fitness"
@@ -40111,13 +39824,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/RoutineFlow.Guided.Routines-v0.9.89-riftysipas.ipa",
           "size": 36655123
-        },
-        {
-          "version": "0.9.89b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/RoutineFlow.Guided.Routines-v0.9.89-riftysipas.ipa",
-          "size": 36655123
         }
       ],
       "category": "productivity"
@@ -40328,13 +40034,6 @@
         },
         {
           "version": "4.25",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Scenic.Motorcycle.Navigation-v4.25-riftysipas.ipa",
-          "size": 115784364
-        },
-        {
-          "version": "4.25b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Scenic.Motorcycle.Navigation-v4.25-riftysipas.ipa",
@@ -40599,13 +40298,6 @@
         },
         {
           "version": "2.10.10b",
-          "date": "2026-02-02",
-          "localizedDescription": "Tweaks: ScannerApp, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Scanner.v2.10.10.Premium.Unlocked.blatant.Patched.ipa",
-          "size": 44808135
-        },
-        {
-          "version": "2.10.10c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: ScannerApp, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Scanner.v2.10.10.Premium.Unlocked.blatant.Patched.ipa",
@@ -41069,11 +40761,11 @@
           "size": 353610033
         },
         {
-          "version": "6.4.2b",
+          "version": "6.4.1",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Workout.for.Seniors.Chair.Yoga-v6.4.2-riftysipas.ipa",
-          "size": 353610033
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Workout.for.Seniors.Chair.Yoga-v6.4.1-riftysipas.ipa",
+          "size": 353612607
         }
       ],
       "category": "health-&-fitness"
@@ -41293,13 +40985,6 @@
         },
         {
           "version": "3.33",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Shape.Lucid.Dreaming-v3.33-riftysipas.ipa",
-          "size": 9187476
-        },
-        {
-          "version": "3.33b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Shape.Lucid.Dreaming-v3.33-riftysipas.ipa",
@@ -41665,13 +41350,6 @@
       "versions": [
         {
           "version": "4.2.1",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Shopii.-.Grocery.List.To.Do-v4.2.1-riftysipas.ipa",
-          "size": 13737070
-        },
-        {
-          "version": "4.2.1b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Shopii.-.Grocery.List.To.Do-v4.2.1-riftysipas.ipa",
@@ -42320,21 +41998,7 @@
           "size": 303817661
         },
         {
-          "version": "2.21.0b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, popuprifty, riftysleeptracker\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Sleep.Tracker.Recorder.Sound-v2.21.0-riftysipas.ipa",
-          "size": 303817661
-        },
-        {
           "version": "2.20.0",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, popuprifty, riftysleeptracker\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Sleep.Tracker.Recorder.Sound-v2.20.0-riftysipas.ipa",
-          "size": 298442515
-        },
-        {
-          "version": "2.20.0b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, popuprifty, riftysleeptracker\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Sleep.Tracker.Recorder.Sound-v2.20.0-riftysipas.ipa",
@@ -42599,13 +42263,6 @@
       "versions": [
         {
           "version": "5.0.3",
-          "date": "2025-10-12",
-          "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, popuprifty, slingdrift-rifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Sling.Drift-v5.0.3-riftysipas.ipa",
-          "size": 69739584
-        },
-        {
-          "version": "5.0.3b",
           "date": "2025-10-12",
           "localizedDescription": "Tweaks: CydiaSubstrate, fixipa1, fixipa2, popuprifty, slingdrift-rifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Sling.Drift-v5.0.3-riftysipas.ipa",
@@ -43137,17 +42794,17 @@
         },
         {
           "version": "6.3.15b",
-          "date": "2026-02-03",
+          "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/SnapEdit.Premium.6.3.15.ipa",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/SnapEdit.Premium.6.3.15.ipa",
           "size": 124992132
         },
         {
           "version": "6.3.15c",
           "date": "2026-02-02",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/SnapEdit.Premium.6.3.15.ipa",
-          "size": 124992132
+          "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-10/SnapEdit_Photo_Editor_AI_v6_3_15_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 130117233
         },
         {
           "version": "6.3.15d",
@@ -43323,15 +42980,15 @@
       "name": "SNOW",
       "bundleIdentifier": "com.campmobile.snow",
       "developerName": "SNOW Corporation",
-      "subtitle": "Tweaked with CydiaSubstrate, SNOWPatch",
+      "subtitle": "Subscription Unlocked | Patched",
       "version": "14.7.21",
       "versionDate": "2026-02-03",
-      "versionDescription": "Tweaks: CydiaSubstrate, SNOWPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Snow.VIP.14.7.21.ipa",
-      "localizedDescription": "SNOW - AI Profile | Tweak made by Dell | Minimum OS version 15.0",
+      "versionDescription": "Tweaks: SNOW, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/SNOW_AI_Profile_v14_7_21_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSNOW - AI Profile\nSubscription Unlocked\nIgnore purchase popup's and restart the app if subscription isn't active.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/0f/cc/ab0fccec-4e32-a637-fdee-c71314467796/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 129947712,
+      "size": 135940624,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/ce/e9/accee9ca-444b-9341-a238-d6f33543fe2d/_U1100_U1167_U110b_U116e_U11af_U1109_U1166_U110f_U1165_U11ba_EN__U00281_U0029.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/13/75/3b137540-e944-3835-1366-4c82b0acb6ac/_U110b_U1161_U110b_U1175_U1111_U1169_U11ab_EN.png/392x696bb.png",
@@ -43357,30 +43014,30 @@
         {
           "version": "14.7.21",
           "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, SNOWPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Snow.VIP.14.7.21.ipa",
-          "size": 129947712
+          "localizedDescription": "Tweaks: SNOW, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/SNOW_AI_Profile_v14_7_21_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 135940624
         },
         {
           "version": "14.7.21b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: SNOW, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/SNOW_AI_Profile_v14_7_21_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 135940624
+        },
+        {
+          "version": "14.7.21c",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, SNOWPatch\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Snow.VIP.14.7.21.ipa",
           "size": 129947712
         },
         {
-          "version": "14.7.21c",
+          "version": "14.7.21d",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: SNOW, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/SNOW_AI_Profile_v14_7_21_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 135940624
-        },
-        {
-          "version": "14.7.21d",
-          "date": "2026-02-02",
-          "localizedDescription": "Tweaks: CydiaSubstrate, SNOWPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Snow.VIP.14.7.21.ipa",
-          "size": 129947712
         }
       ],
       "category": "photo-&-video"
@@ -43574,7 +43231,7 @@
       "version": "2.6.6",
       "versionDate": "2026-02-03",
       "versionDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Solar.Smash-v2.6.6-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Solar.Smash-v2.6.6-riftysipas.ipa",
       "localizedDescription": "*Tweak:** No Ads | *Patched ✓**\n\nSolar Smash | No Ads | Patched ✓ | Additional Information ℹ️",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/36/a5/9736a5d0-6a73-ab53-bd78-53de7ce18b71/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
@@ -43599,11 +43256,18 @@
           "version": "2.6.6",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Solar.Smash-v2.6.6-riftysipas.ipa",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Solar.Smash-v2.6.6-riftysipas.ipa",
           "size": 309768227
         },
         {
           "version": "2.6.6b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Solar.Smash-v2.6.6-riftysipas.ipa",
+          "size": 309768227
+        },
+        {
+          "version": "2.6.6c",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Solar.Smash-v2.6.6-riftysipas.ipa",
@@ -43916,13 +43580,6 @@
         },
         {
           "version": "8.46.0b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/SoundCloud.8.46.0.NoAds.ipa",
-          "size": 106694198
-        },
-        {
-          "version": "8.46.0c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/SoundCloud.8.46.0.NoAds.ipa",
@@ -43934,6 +43591,13 @@
           "localizedDescription": "Tweaks: ADsBlocker, CydiaSubstrate, SCMusicPlus, sideloadKeychainfix, zxPluginsInject\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/SoundCloud8.22.1AdfreeMoePatched.ipa",
           "size": 99686944
+        },
+        {
+          "version": "8.20.0",
+          "date": "2026-01-02",
+          "localizedDescription": "Tweaks: ADsBlocker, CydiaSubstrate, SCMusicPlus, sideloadKeychainfix, zxPluginsInject\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/soundcloud8.20.0AdfreeMoePatched.ipa",
+          "size": 96757634
         }
       ],
       "category": "music"
@@ -44406,13 +44070,6 @@
         },
         {
           "version": "1.0.109",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Voice.Recorder.AI.Notes.Spiik-v1.0.109-riftysipas.ipa",
-          "size": 21994306
-        },
-        {
-          "version": "1.0.109b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Voice.Recorder.AI.Notes.Spiik-v1.0.109-riftysipas.ipa",
@@ -46174,13 +45831,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Stress.Ball.-.Anxiety.Relief-v15.9-riftysipas.ipa",
           "size": 103844077
-        },
-        {
-          "version": "15.9b",
-          "date": "2025-10-10",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Stress.Ball.-.Anxiety.Relief-v15.9-riftysipas.ipa",
-          "size": 103844077
         }
       ],
       "category": "health-&-fitness"
@@ -46299,13 +45949,6 @@
         },
         {
           "version": "6.7.0",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Stretch.Stretching.Mobility-v6.7.0-riftysipas.ipa",
-          "size": 64656275
-        },
-        {
-          "version": "6.7.0b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Stretch.Stretching.Mobility-v6.7.0-riftysipas.ipa",
@@ -46501,13 +46144,6 @@
       "versions": [
         {
           "version": "4.3.11",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Stronger.-.Gym.Workout.Planner-v4.3.11-riftysipas.ipa",
-          "size": 148733107
-        },
-        {
-          "version": "4.3.11b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Stronger.-.Gym.Workout.Planner-v4.3.11-riftysipas.ipa",
@@ -46823,11 +46459,11 @@
           "size": 21459003
         },
         {
-          "version": "1.5.0b",
+          "version": "1.4.0",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Sumato.-.AI.Note.Taker-v1.5.0-riftysipas.ipa",
-          "size": 21459003
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Sumato.-.AI.Note.Taker-v1.4.0-riftysipas.ipa",
+          "size": 21434472
         }
       ],
       "category": "productivity"
@@ -46873,13 +46509,6 @@
           "size": 24181303
         },
         {
-          "version": "3.11.0b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Summarify.AI.For.YouTube-v3.11.0-riftysipas.ipa",
-          "size": 24181303
-        },
-        {
           "version": "3.9.0",
           "date": "2025-12-31",
           "localizedDescription": "Tweaks: Summarify, blatantsPatch\n\nSource: @blatants",
@@ -46892,6 +46521,13 @@
           "localizedDescription": "Tweaks: Summarify, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Summarify_AI_For_YouTube_v3_8_1_Subscription_Unlocked_blatant_patched.ipa",
           "size": 25513436
+        },
+        {
+          "version": "3.7.5",
+          "date": "2026-01-03",
+          "localizedDescription": "Tweaks: Summarify, b1atantPluginsInject\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-1/Summarify_AI_For_YouTube_v3_7_5_Subscription_Unlocked_blatant_patched.ipa",
+          "size": 24856269
         }
       ],
       "category": "productivity"
@@ -47052,18 +46688,18 @@
           "size": 40275284
         },
         {
-          "version": "3.46.0c",
-          "date": "2026-02-03",
+          "version": "3.43.0",
+          "date": "2025-12-30",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Super_Agent_for_Safari_v3_46_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 40275284
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/Super_Agent_for_Safari_v3_43_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 41108694
         },
         {
-          "version": "3.46.0d",
-          "date": "2026-02-03",
+          "version": "3.42.0",
+          "date": "2025-12-30",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Super_Agent_for_Safari_v3_46_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 40275284
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/Super_Agent_for_Safari_v3_42_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 40029924
         }
       ],
       "category": "utilities"
@@ -47972,13 +47608,6 @@
         },
         {
           "version": "5.73.2b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, TarteelPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Tarteel.Premium.5.73.2.ipa",
-          "size": 123811595
-        },
-        {
-          "version": "5.73.2c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, TarteelPatch\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Tarteel.Premium.5.73.2.ipa",
@@ -47990,6 +47619,13 @@
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, TarteelPatch, substrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Tarteel_5.60.1_1745084687.ipa",
           "size": 125807273
+        },
+        {
+          "version": "5.58.0",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, TarteelPatch, sideloadFixerLol, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Tarteel_5.58.0_1740790392.ipa",
+          "size": 126752887
         }
       ],
       "category": "books"
@@ -48084,13 +47720,6 @@
         },
         {
           "version": "1.0.121",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Teleprompter.for.Video.Pro-v1.0.121-riftysipas.ipa",
-          "size": 28681576
-        },
-        {
-          "version": "1.0.121b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Teleprompter.for.Video.Pro-v1.0.121-riftysipas.ipa",
@@ -48441,13 +48070,6 @@
       "versions": [
         {
           "version": "1.0.13",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, chocorc\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/The.Architect.-.Voice.Memo-v1.0.13-riftysipas.ipa",
-          "size": 48581405
-        },
-        {
-          "version": "1.0.13b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, StopReviews, chocorc\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/The.Architect.-.Voice.Memo-v1.0.13-riftysipas.ipa",
@@ -48816,13 +48438,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Good.Things.gratitude.journal-v6.3.2-riftysipas.ipa",
           "size": 18349626
-        },
-        {
-          "version": "6.3.2b",
-          "date": "2025-11-06",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Good.Things.gratitude.journal-v6.3.2-riftysipas.ipa",
-          "size": 18349626
         }
       ],
       "category": "health-&-fitness"
@@ -49021,13 +48636,6 @@
         },
         {
           "version": "3.40.1b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Tiimo.AI.Plan.Focus.To-do-v3.40.1-riftysipas.ipa",
-          "size": 91649098
-        },
-        {
-          "version": "3.40.1c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Tiimo.AI.Plan.Focus.To-do-v3.40.1-riftysipas.ipa",
@@ -49039,6 +48647,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-8/Tiimo.AI.Plan.Focus.To-do-v3.37.0-riftysipas.ipa",
           "size": 107758457
+        },
+        {
+          "version": "3.36.0",
+          "date": "2026-02-02",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-10/Tiimo.AI.Plan.Focus.To-do-v3.36.0-riftysipas.ipa",
+          "size": 110126424
         }
       ],
       "category": "productivity"
@@ -49159,13 +48774,6 @@
         },
         {
           "version": "3.4.1635",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Time.Squared.-.Hours.Tracker-v3.4.1635-riftysipas.ipa",
-          "size": 38812437
-        },
-        {
-          "version": "3.4.1635b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Time.Squared.-.Hours.Tracker-v3.4.1635-riftysipas.ipa",
@@ -49981,13 +49589,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Trading.Game.-.Stock.Simulator-v4.6.91-riftysipas.ipa",
           "size": 30478508
-        },
-        {
-          "version": "4.6.91b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Trading.Game.-.Stock.Simulator-v4.6.91-riftysipas.ipa",
-          "size": 30478508
         }
       ],
       "category": "education"
@@ -50091,13 +49692,6 @@
       "versions": [
         {
           "version": "3.6.16",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftytrainminer\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Train.Miner.Idle.Railway.Game-v3.6.16-riftysipas.ipa",
-          "size": 86465819
-        },
-        {
-          "version": "3.6.16b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftytrainminer\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Train.Miner.Idle.Railway.Game-v3.6.16-riftysipas.ipa",
@@ -50262,13 +49856,6 @@
         },
         {
           "version": "2.24b",
-          "date": "2026-02-02",
-          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/TravelBoast.Pro.2.24.ipa",
-          "size": 339523581
-        },
-        {
-          "version": "2.24c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/TravelBoast.Pro.2.24.ipa",
@@ -51128,15 +50715,15 @@
       "name": "Unfold",
       "bundleIdentifier": "com.moonlab.unfoldstories",
       "developerName": "Squarespace, Inc.",
-      "subtitle": "Tweaked with AutoRc, CydiaSubstrate",
+      "subtitle": "Subscription Unlocked | Patched",
       "version": "8.154.0",
       "versionDate": "2026-02-03",
-      "versionDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Unfold.Video.Photo.Editor.Plus.8.154.0.ipa",
-      "localizedDescription": "Unfold: Video & Photo Editor | Tweak made by Chocolate FLuffy | Minimum OS version 14.0",
+      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Unfold_Reels_._Story_Maker_v8_154_0_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nUnfold: Reels & Story Maker | Subscription Unlocked",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/3b/5e/aa3b5e95-139e-66e9-86e9-a9f04fc6411e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 167323819,
+      "size": 174506321,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/51/47/c0514749-ff9a-3b93-8cf2-260242139a6d/4dbb9940-67ea-429f-8352-364c31f13a66_option_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/ff/d3/93ffd355-6449-741d-5aa1-e78779fa25bd/2585f158-68b0-43c9-be57-df9f2c8e4043_Unfold_AS_SC_03.jpg/392x696bb.jpg",
@@ -51164,30 +50751,30 @@
         {
           "version": "8.154.0",
           "date": "2026-02-03",
-          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Unfold.Video.Photo.Editor.Plus.8.154.0.ipa",
-          "size": 167323819
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Unfold_Reels_._Story_Maker_v8_154_0_Subscription_Unlocked_blatant.ipa",
+          "size": 174506321
         },
         {
           "version": "8.154.0b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Unfold_Reels_._Story_Maker_v8_154_0_Subscription_Unlocked_blatant.ipa",
+          "size": 174506321
+        },
+        {
+          "version": "8.154.0c",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Unfold.Video.Photo.Editor.Plus.8.154.0.ipa",
           "size": 167323819
         },
         {
-          "version": "8.154.0c",
+          "version": "8.154.0d",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Unfold.Video.Photo.Editor.Plus.8.154.0.ipa",
           "size": 167323819
-        },
-        {
-          "version": "8.154.0d",
-          "date": "2026-02-02",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Unfold_Reels_._Story_Maker_v8_154_0_Subscription_Unlocked_blatant.ipa",
-          "size": 174506321
         }
       ],
       "category": "photo-&-video"
@@ -51442,15 +51029,15 @@
       "name": "Uplens",
       "bundleIdentifier": "app.uplens",
       "developerName": "MPGames",
-      "subtitle": "Click Restore Purchases",
+      "subtitle": "Subscription Unlocked | Patched",
       "version": "3.4.7",
       "versionDate": "2026-02-03",
-      "versionDescription": "Tweaks: CydiaSubstrate, uplens\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Uplens.Pro.3.4.7.ipa",
-      "localizedDescription": "Click Restore Purchases\n\nUplens: Photo & Video Editor | Note: Click Restore Purchases | Tweak made by Zzz Zzz | Minimum OS version 15.0",
+      "versionDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Uplens_Photo_._Video_Editor_v3_4_7_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nUplens: Photo & Video Editor | Subscription Unlocked",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/e2/93/dce293c1-b1c6-400a-3002-88feea2a0168/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 176255670,
+      "size": 178638045,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/35/80/9c35805b-fffa-4469-a1ad-fbce1e949023/daf3b126-3496-4cd4-b672-86d05ce53882_1-5_U00275-en.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/b7/61/b0b761d1-4520-bb1f-6f9c-2a33cf99be0d/24864328-dab1-450c-9a87-20009c67cce8_2-5_U00275-en.jpg/392x696bb.jpg",
@@ -51476,30 +51063,30 @@
         {
           "version": "3.4.7",
           "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, uplens\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Uplens.Pro.3.4.7.ipa",
-          "size": 176255670
+          "localizedDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Uplens_Photo_._Video_Editor_v3_4_7_Subscription_Unlocked_blatant.ipa",
+          "size": 178638045
         },
         {
           "version": "3.4.7b",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Uplens_Photo_._Video_Editor_v3_4_7_Subscription_Unlocked_blatant.ipa",
+          "size": 178638045
+        },
+        {
+          "version": "3.4.7c",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, uplens\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Uplens.Pro.3.4.7.ipa",
           "size": 176255670
         },
         {
-          "version": "3.4.7c",
+          "version": "3.4.7d",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, uplens\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Uplens.Pro.3.4.7.ipa",
           "size": 176255670
-        },
-        {
-          "version": "3.4.7d",
-          "date": "2026-02-02",
-          "localizedDescription": "Tweaks: Uplens, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Uplens_Photo_._Video_Editor_v3_4_7_Subscription_Unlocked_blatant.ipa",
-          "size": 178638045
         }
       ],
       "category": "photo-&-video"
@@ -51844,13 +51431,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/AI.Captions.for.Videos.VidCap-v1.0.226-riftysipas.ipa",
           "size": 34195313
-        },
-        {
-          "version": "1.0.226b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/AI.Captions.for.Videos.VidCap-v1.0.226-riftysipas.ipa",
-          "size": 34195313
         }
       ],
       "category": "photo-&-video"
@@ -52151,13 +51731,6 @@
           "size": 189201242
         },
         {
-          "version": "2.1.1b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Video.Up.Video.Editor.Maker-v2.1.1-riftysipas.ipa",
-          "size": 189201242
-        },
-        {
           "version": "2.1.0",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
@@ -52373,13 +51946,6 @@
         },
         {
           "version": "1.130.2b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, VidsAIPatch, sideloadbypass1, sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Vids.AI.Pro.1.130.2.ipa",
-          "size": 243272489
-        },
-        {
-          "version": "1.130.2c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, VidsAIPatch, sideloadbypass1, sideloadbypass2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Vids.AI.Pro.1.130.2.ipa",
@@ -52907,11 +52473,11 @@
           "size": 106867289
         },
         {
-          "version": "9.12.0b",
+          "version": "9.11.0",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Voloco.Vocal.Recording.Studio-v9.12.0-riftysipas.ipa",
-          "size": 106867289
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Voloco.Vocal.Recording.Studio-v9.11.0-riftysipas.ipa",
+          "size": 107785490
         }
       ],
       "category": "music"
@@ -53689,13 +53255,6 @@
         },
         {
           "version": "1.38",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyswechef, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/WeChef.-.Recipe.Journal-v1.38-riftysipas.ipa",
-          "size": 161936232
-        },
-        {
-          "version": "1.38b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyswechef, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/WeChef.-.Recipe.Journal-v1.38-riftysipas.ipa",
@@ -55086,13 +54645,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Yoga%2B.by.Mary-v6.7.0-riftysipas.ipa",
           "size": 64724765
-        },
-        {
-          "version": "6.7.0b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Yoga%2B.by.Mary-v6.7.0-riftysipas.ipa",
-          "size": 64724765
         }
       ],
       "category": "health-&-fitness"
@@ -55390,13 +54942,6 @@
         },
         {
           "version": "9.05.2b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate, blatantsPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/YouTube.Music.Ultimate.9.05.2.ipa",
-          "size": 98562915
-        },
-        {
-          "version": "9.05.2c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate, blatantsPatch\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/YouTube.Music.Ultimate.9.05.2.ipa",
@@ -55408,6 +54953,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, YTMusicUltimate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01/YouTubeMusicUltimate.6.50.2.ipa",
           "size": 74025620
+        },
+        {
+          "version": "6.45.5",
+          "date": "2026-02-02",
+          "localizedDescription": "Tweaks: CydiaSubstrate, YTMusicUltimate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-9/YouTubeMusicUltimate.6.45.5.ipa",
+          "size": 87549275
         }
       ],
       "category": "music"
@@ -55598,13 +55150,6 @@
         },
         {
           "version": "1.84.2",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Zen.Color.-.Color.By.Number-v1.84.2-riftysipas.ipa",
-          "size": 136955246
-        },
-        {
-          "version": "1.84.2b",
           "date": "2026-02-03",
           "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Zen.Color.-.Color.By.Number-v1.84.2-riftysipas.ipa",
@@ -55805,13 +55350,6 @@
         },
         {
           "version": "1.44b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Zinnia.Planner.Journal-v1.44-riftysipas.ipa",
-          "size": 91778746
-        },
-        {
-          "version": "1.44c",
           "date": "2026-02-02",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-11/Zinnia.Planner.Journal-v1.44-riftysipas.ipa",
@@ -55823,6 +55361,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-11/Zinnia.Planner.Journal-v1.43.2-riftysipas.ipa",
           "size": 92120611
+        },
+        {
+          "version": "1.43.1",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-13/Zinnia.Planner.Journal-v1.43.1-riftysipas.ipa",
+          "size": 92008715
         }
       ],
       "category": "lifestyle"
@@ -56921,7 +56466,7 @@
     {
       "title": "⚙️ Telos Update 2.3",
       "identifier": "telos-update-2026-02-03",
-      "caption": "1048 Apps Updated:\n• 272 Health & Fitness\n• 151 Productivity\n• 119 Games\n• 110 Photo & Video\n• 83 Education\n• 64 Lifestyle\n• 38 Finance\n• 30 Weather\n• 26 Music\n• 25 Food & Drink\n• 24 Business\n• 22 Utilities\n• 18 Medical\n• 18 Sports\n• 16 Navigation\n• 10 Graphics & Design\n• 7 Entertainment\n• 5 Books\n• 3 News\n• 2 Shopping\n• 2 Reference\n• 2 Travel\n• 1 Social Networking",
+      "caption": "673 Apps Updated:\n• 163 Health & Fitness\n• 98 Productivity\n• 79 Photo & Video\n• 78 Games\n• 56 Education\n• 39 Lifestyle\n• 23 Finance\n• 18 Weather\n• 17 Music\n• 16 Food & Drink\n• 15 Business\n• 15 Sports\n• 14 Utilities\n• 12 Medical\n• 10 Navigation\n• 7 Graphics & Design\n• 4 Entertainment\n• 3 Books\n• 2 News\n• 1 Social Networking\n• 1 Shopping\n• 1 Reference\n• 1 Travel",
       "date": "2026-02-03",
       "tintColor": "#02433b",
       "notify": true,
