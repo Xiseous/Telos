@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.cumbemg.davinci",
-    "com.elevateapp.kamino.kamino",
-    "com.polywise.weekly",
-    "io.labhouse.audioapp",
-    "co.smartreceipts.ios"
+    "co.visualsupply.cam",
+    "com.puzzle1studio.ap.brickoutshoottheball",
+    "com.shi.Globetrotter",
+    "com.bowery-digital.bend",
+    "PhotoEditor.PhotoCollage.inCollage"
   ],
   "apps": [
     {
@@ -3352,6 +3352,94 @@
       "category": "social-networking"
     },
     {
+      "name": "Bend",
+      "bundleIdentifier": "com.bowery-digital.bend",
+      "developerName": "Bowery Digital",
+      "subtitle": "Pro Features Unlocked",
+      "version": "7.1.2",
+      "versionDate": "2026-02-07",
+      "versionDescription": "Tweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Bend.Pro.7.1.2.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nBend: Stretching & Flexibility | Minimum OS version 15.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/eb/b5/e3ebb5e2-5875-c2aa-d5b1-7ed5d40f2e30/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 96473271,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/04/8a/f5048ac9-604a-3e65-ba20-de9d0aaf4c22/0_APP_IPHONE_55_0.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/30/a5/8330a599-5c97-8432-bd20-f7e0fdb87ace/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/0b/dd/130bdda2-f2ba-bd36-59da-419ce460f230/2_APP_IPHONE_55_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/b9/fe/9db9fe53-95f2-76ed-0967-058bb3766254/3_APP_IPHONE_55_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/e9/85/ade98560-ed5b-892f-7bac-f6c0bf696336/4_APP_IPHONE_55_4.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSHealthShareUsageDescription": "Bend will use your health information to track your exercise activity.",
+          "NSHealthUpdateUsageDescription": "Bend will track your exercise activity and save it to Apple Health.",
+          "NSUserTrackingUsageDescription": "Your data will be used to provide you personalized content that is most relevant to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "7.1.2",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Bend.Pro.7.1.2.ipa",
+          "size": 96473271
+        },
+        {
+          "version": "7.1.2b",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Bend.Pro.7.1.2.ipa",
+          "size": 96473271
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
+      "name": "Benkyō",
+      "bundleIdentifier": "app.benkyo.Benkyo",
+      "developerName": "Romain Pellen",
+      "subtitle": "Pro Features Unlocked",
+      "version": "2.5.4",
+      "versionDate": "2026-02-07",
+      "versionDescription": "Tweaks: CydiaSubstrate, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Learn.Japanese.Kanji.Pro.2.5.4.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nLearn Japanese Kanji: Benkyō | Minimum OS version 15.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/3d/2d/183d2de8-28e6-a6bc-9132-c557b1d96c4c/Benkyo_glass_icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 109804503,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/8c/b8/068cb856-7e6e-a8e8-44a1-15188786191e/3c7e84c5-88c8-4152-bf75-f96b94437450_iPhone8_1_en.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/1c/84/4a1c847d-cbcc-a37c-6a55-376e309c9a17/6e53d6db-5200-4cca-aead-aa11d499305f_iPhone8_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/98/a4/6398a46b-9d36-16cc-f666-77aa146099ab/852541ba-b39b-46e4-8080-46e31ae0f26d_iPhone8_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/3b/d0/1f3bd001-38f5-0c66-44e6-a171d1a52c9b/a6d210b8-1383-49fa-a739-1ed46a469b5c_iPhone8_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/a0/b5/afa0b5c2-a374-254f-5b63-d9f0dd61f57f/d4dc91e6-2da4-43b3-bb32-19e2cedc0f2a_iPhone8_5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "versions": [
+        {
+          "version": "2.5.4",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: CydiaSubstrate, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Learn.Japanese.Kanji.Pro.2.5.4.ipa",
+          "size": 109804503
+        },
+        {
+          "version": "2.5.4b",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: CydiaSubstrate, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Learn.Japanese.Kanji.Pro.2.5.4.ipa",
+          "size": 109804503
+        }
+      ],
+      "category": "education"
+    },
+    {
       "name": "Big Hunter",
       "bundleIdentifier": "com.kakarod.bighunter",
       "developerName": "Kakarod Interactive",
@@ -4366,6 +4454,55 @@
         }
       ],
       "category": "entertainment"
+    },
+    {
+      "name": "Brick Out",
+      "bundleIdentifier": "com.puzzle1studio.ap.brickoutshoottheball",
+      "developerName": "Puzzle1Studio,inc.",
+      "subtitle": "Unlimited Gems",
+      "version": "26.0205.00",
+      "versionDate": "2026-02-07",
+      "versionDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Brick.Out.IGG.26.0205.00.ipa",
+      "localizedDescription": "Unlimited Gems\n\nBrick Out - Shoot the ball | iGameGod was added to get unlimited gems💎 | Minimum OS version 13.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/97/9f/52979f65-4580-c28f-1aa6-e272f33e0a31/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 90573522,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/26/92/b9269243-5c36-8638-9162-12f48be7b417/1e00cc5a-acc8-4f1c-b49f-8445ffe5f1ec_5.5-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/c5/7c/69c57ce9-d852-c2d7-8045-588d6c22f627/a9fde653-9fd0-4e49-a2c7-6fb28c5a70f0_5.5-2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/86/0d/1c860d97-2737-a630-42f5-0d263f7b5947/010077f5-8456-4874-88db-a5022aa2c58f_5.5-3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/48/e3/c748e371-9412-1f64-5610-ead58b1a7613/43f737c2-fc80-4a51-8713-1dc9bb1aec9e_5.5-4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/c5/b3/07c5b3c0-00da-125a-71e9-cd9981ad9f1e/f044dd34-9051-4b10-9138-2951fc1c1e26_5.5-5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "For Customer Service",
+          "NSCameraUsageDescription": "Not using Camera",
+          "NSLocationWhenInUseUsageDescription": "Application can access location imformation to improve advertising experience",
+          "NSLocationAlwaysUsageDescription": "Application can access location imformation to improve advertising experience",
+          "NSCalendarsUsageDescription": "Not using Calendar",
+          "NSUserTrackingUsageDescription": "To help us maintain a better gaming experience, we’d appreciate it if you click 'Allow.' Your data will only be used to provide personalized services and ads."
+        }
+      },
+      "versions": [
+        {
+          "version": "26.0205.00",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Brick.Out.IGG.26.0205.00.ipa",
+          "size": 90573522
+        },
+        {
+          "version": "26.0205.00b",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Brick.Out.IGG.26.0205.00.ipa",
+          "size": 90573522
+        }
+      ],
+      "category": "games"
     },
     {
       "name": "Bridge Race",
@@ -13862,31 +13999,49 @@
       "name": "Globetrotter",
       "bundleIdentifier": "com.shi.Globetrotter",
       "developerName": "Pixelfolio Inc.",
-      "subtitle": "Tweaked with GlobetrotterPro",
-      "version": "1.1.3",
-      "versionDate": "2026-02-01",
+      "subtitle": "Pro Features Unlocked",
+      "version": "1.6.0",
+      "versionDate": "2026-02-07",
       "versionDescription": "Tweaks: GlobetrotterPro\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01/com_shi_Globetrotter_1_1_3_6469319235_863112990_US_decrypt_1708557408%2Bcom.ipa",
-      "localizedDescription": "Globetrotter for iOS",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Globetrotter.Pro.1.6.0.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nGlobetrotter: Travel Tracker | Minimum OS version 17.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/3f/cc/643fcc55-c411-5fff-9e21-02207ee4789b/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 168223234,
+      "size": 154177749,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/2f/a9/7d2fa977-5ba9-0ba6-dc4c-a7da40a971a9/4f448dc3-369d-4046-b4b4-bb435823fbaa_iPhone8-2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/51/57/ce5157a5-f149-31b0-4d18-65ef3da57ae0/580bb33b-177e-4f1c-b83f-39f5878d6d2c_iPhone8-3.png/392x696bb.png"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.weatherkit",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Allow Globetrotter to access your photo library to display photos you've taken in a grid and on the map.",
           "NSCameraUsageDescription": "Allow Globetrotter to access your camera to place photos in the real world in AR. This is only used to display the surroundings and find surfaces for AR.",
-          "NSLocationWhenInUseUsageDescription": "Allow Globetrotter to use your location to determine which areas to show by default on the map, and which photos to display first around your current location.",
           "NSContactsUsageDescription": "Allow Globetrotter to access your contacts to determine your profile picture.",
           "NSFaceIDUsageDescription": "Allow Globetrotter to use Face ID biometric authentication to allow access to the app on launch when the app is locked.",
           "NSPhotoLibraryAddUsageDescription": "Allow Globetrotter to delete images from your camera roll."
         }
       },
       "versions": [
+        {
+          "version": "1.6.0",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: GlobetrotterPro\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Globetrotter.Pro.1.6.0.ipa",
+          "size": 154177749
+        },
+        {
+          "version": "1.6.0b",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: GlobetrotterPro\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Globetrotter.Pro.1.6.0.ipa",
+          "size": 154177749
+        },
         {
           "version": "1.1.3",
           "date": "2026-02-01",
@@ -16281,15 +16436,15 @@
       "name": "InCollage",
       "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
       "developerName": "SHANTANU PTE. LTD.",
-      "subtitle": "Premium Unlocked | Patched",
+      "subtitle": "Pro Features Unlocked",
       "version": "2.2.20",
-      "versionDate": "2026-02-06",
-      "versionDescription": "Tweaks: InCollage, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-26/Photo_Collage_Maker_InCollage_v2_2_20_Premium_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nPhoto Collage Maker: InCollage | Premium Unlocked",
+      "versionDate": "2026-02-07",
+      "versionDescription": "Tweaks: InCollage\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/InCollage.Pro.2.2.20.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nPhoto Collage Maker: InCollage | Tweak made by Blatant | Minimum OS version 14.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/f9/ba/9cf9bac1-b99f-e19f-8913-7377b57815ea/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 161531890,
+      "size": 157808004,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/d4/b2/c5d4b2ca-3d59-41dd-9388-09b512758f07/Collage_Maker-5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/35/7b/16/357b167d-c0e9-0ec3-3839-774f3dd63a1a/AI_Enhancer-5.5.jpg/392x696bb.jpg",
@@ -16310,30 +16465,30 @@
         {
           "version": "2.2.20",
           "date": "2026-02-06",
+          "localizedDescription": "Tweaks: InCollage\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/InCollage.Pro.2.2.20.ipa",
+          "size": 157808004
+        },
+        {
+          "version": "2.2.20b",
+          "date": "2026-02-06",
+          "localizedDescription": "Tweaks: InCollage\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/InCollage.Pro.2.2.20.ipa",
+          "size": 157808004
+        },
+        {
+          "version": "2.2.20c",
+          "date": "2026-02-06",
           "localizedDescription": "Tweaks: InCollage, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-26/Photo_Collage_Maker_InCollage_v2_2_20_Premium_Unlocked_blatant_Patched.ipa",
           "size": 161531890
         },
         {
-          "version": "2.2.20b",
+          "version": "2.2.20d",
           "date": "2026-02-06",
           "localizedDescription": "Tweaks: InCollage, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-24/Photo_Collage_Maker_InCollage_v2_2_20_Premium_Unlocked_blatant_Patched.ipa",
           "size": 161531890
-        },
-        {
-          "version": "2.2.13",
-          "date": "2026-01-03",
-          "localizedDescription": "Tweaks: InCollage, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-1/Photo_Collage_Maker_InCollage_v2_2_13_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 154506993
-        },
-        {
-          "version": "2.2.13b",
-          "date": "2026-01-03",
-          "localizedDescription": "Tweaks: InCollage, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-1/Photo_Collage_Maker_InCollage_v2_2_13_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 154506993
         }
       ],
       "category": "photo-&-video"
@@ -22835,6 +22990,54 @@
       "category": "entertainment"
     },
     {
+      "name": "OnTheWay",
+      "bundleIdentifier": "ideastudio.Weather-on-the-Way",
+      "developerName": "Piotr Knapczyk",
+      "subtitle": "Pro Features Unlocked",
+      "version": "2.4.3",
+      "versionDate": "2026-02-07",
+      "versionDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Weather.on.the.Way.Pro.2.4.3.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nWeather on the Way | Minimum OS version 15.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/7a/cc/337accb7-4761-5d89-2d0e-3f54c5496980/AppIcon-Revised-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 44103341,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/81/be/1581be17-b8aa-c5da-2ee1-bf897caf9bd9/808e6ca1-4819-43af-ac14-791117fa7c4d_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/cb/37/0ecb371d-2d34-ba58-83e2-d8e96ddb8000/046845d0-1aa4-4068-9b2b-af3d2be2de61_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/28/cb/9d28cb43-db30-3b82-6785-e2640ed03fb8/67716423-30ba-4f05-a936-085c95d1e180_2_small.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/8a/1d/7f8a1d46-eb40-54f9-6e76-0301216bbaf7/dd710f28-d4e3-42b6-9192-08a98f48e42c_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/ac/2d/54ac2d2f-34c4-ac5c-2d58-a996584bb135/a9885f79-8525-498a-bc7b-cb356ad0588e_5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Speech recognition is used to enter locations",
+          "NSLocationWhenInUseUsageDescription": "Enable to see the weather forecast for your current location and plan your road trip.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Select \"Always Allow\" for updates while using other apps and in CarPlay",
+          "NSSpeechRecognitionUsageDescription": "Speech recognition is used to enter locations",
+          "NSPhotoLibraryAddUsageDescription": "The application needs permission to write photos"
+        }
+      },
+      "versions": [
+        {
+          "version": "2.4.3",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Weather.on.the.Way.Pro.2.4.3.ipa",
+          "size": 44103341
+        },
+        {
+          "version": "2.4.3b",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Weather.on.the.Way.Pro.2.4.3.ipa",
+          "size": 44103341
+        }
+      ],
+      "category": "weather"
+    },
+    {
       "name": "Opal",
       "bundleIdentifier": "com.withopal.opal",
       "developerName": "Opal OS",
@@ -23991,6 +24194,58 @@
         }
       ],
       "category": "productivity"
+    },
+    {
+      "name": "Persona",
+      "bundleIdentifier": "com.tickettothemoon.video.persona",
+      "developerName": "Ticket To The Moon, Inc.",
+      "subtitle": "Tweaked with RevenueCatFix26",
+      "version": "1.15.6",
+      "versionDate": "2026-02-07",
+      "versionDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Persona.VIP.1.15.6.ipa",
+      "localizedDescription": "Persona: Beauty Camera | Minimum OS version 15.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/ff/28/f6ff28fd-81c9-a82f-9368-d3a36d5f1547/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 164143194,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/4a/8b/a64a8bfd-2141-1f16-0d1d-b483a7dda199/4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/b5/3c/13b53cf2-e391-bf82-42bc-9f07fae753d8/2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/0b/32/ff0b32d1-6ddd-e56c-a2ae-f53961a6937b/3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/35/85/8935850d-d76d-6063-183a-53d45eb2e166/5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/49/0e/db490ef8-750a-53f9-7cec-a569f87e5502/1.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Let Persona access gallery",
+          "NSCameraUsageDescription": "It will enable you to take selfies using our app for face editing",
+          "NSMicrophoneUsageDescription": "Let Persona use microphone",
+          "NSUserTrackingUsageDescription": "This allows us to provide personalized content and measure advertising efficiency",
+          "NSPhotoLibraryAddUsageDescription": "Let Persona access gallery"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.15.6",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Persona.VIP.1.15.6.ipa",
+          "size": 164143194
+        },
+        {
+          "version": "1.15.6b",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Persona.VIP.1.15.6.ipa",
+          "size": 164143194
+        }
+      ],
+      "category": "photo-&-video"
     },
     {
       "name": "Petty",
@@ -36104,6 +36359,62 @@
       "category": "utilities"
     },
     {
+      "name": "Unscripted",
+      "bundleIdentifier": "com.ibit.UNPOSED",
+      "developerName": "OMJ Holdings Pty Ltd",
+      "subtitle": "Pro Features Unlocked",
+      "version": "4.7.0",
+      "versionDate": "2026-02-07",
+      "versionDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/UNSCRIPTED.Photography.Poses.Pro.4.7.0.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nUNSCRIPTED Photography Poses | Minimum OS version 17.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/cc/7e/e0cc7e71-bbb6-1910-c961-7f023b922c92/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 156926022,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/e7/c8/95e7c833-b668-03ae-bc04-bf81ed90b9b7/5ac8ac8c-24f2-4c14-9e4f-0a56a428f737_15.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/b3/e1/87b3e1df-499e-29d8-75d5-fe3fd7699b47/f82882fd-5f30-4a57-aacf-6180adb0747a_25.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/10/a8/1610a8ce-6063-ce3e-ceb5-c877b3427d64/fe835d3d-bd28-4692-8764-59c6af0d2311_35.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/a1/03/dea10348-211f-7ae4-eafc-6d18c4517cc3/991439ca-ad55-4271-afaa-450b90fbe6be_45.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/ea/5c/44ea5cea-ba55-c4d6-f444-bc090e4bcaec/2e3c87bf-fc56-4b09-90cd-2b0ca44379ce_55.5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Use for submit pose as suggestion.",
+          "NSCameraUsageDescription": "Use for submit pose as suggestion.",
+          "NSMicrophoneUsageDescription": "This enables support chat and voice messaging features.",
+          "NSLocationWhenInUseUsageDescription": "We use your location to provide accurate golden hour times",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Suntracker runs on real-time location — tap Always Allow to stay accurate",
+          "NSCalendarsUsageDescription": "Used to save photoshoot date in your calendar.",
+          "NSRemindersUsageDescription": "Used to save photoshoot date in your calendar.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalised advertising for products that are most relevant to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.7.0",
+          "date": "2026-02-05",
+          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/UNSCRIPTED.Photography.Poses.Pro.4.7.0.ipa",
+          "size": 156926022
+        },
+        {
+          "version": "4.7.0b",
+          "date": "2026-02-05",
+          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/UNSCRIPTED.Photography.Poses.Pro.4.7.0.ipa",
+          "size": 156926022
+        }
+      ],
+      "category": "photo-&-video"
+    },
+    {
       "name": "Unzip",
       "bundleIdentifier": "com.cuilingshi.fileextract",
       "developerName": "书勇 贾",
@@ -37154,15 +37465,15 @@
       "name": "VSCO",
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "Visual Supply Company",
-      "subtitle": "Subscription Unlocked | Patched",
-      "version": "444.0.1",
-      "versionDate": "2025-12-30",
-      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/VSCO_Photo_Editor_v444_0_1_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nVSCO: Photo Editor | Subscription Unlocked\n\n---\n\nVSCO — community, tools, and exposure for all photographers.\n\nVSCO is a community-driven platform that equips photographers to expand creatively and professionally. We empower photographers to connect with other creatives and businesses with our suite of creative tools that spans from mobile to desktop and across our global community.\n\nFREE PHOTO EDITOR\n\nTake your photography to the next level with free VSCO presets. Easily import and edit your RAW photos. Use editing tools like Contrast and Sat",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/72/4b/a6724bba-ab83-ebb6-eb38-0c9f662bea7f/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "subtitle": "Pro Features Unlocked",
+      "version": "456.0.2",
+      "versionDate": "2026-02-07",
+      "versionDescription": "Tweaks: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/VSCO.Pro.456.0.2.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nVSCO: Photo & Video Editor | Minimum OS version 15.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/ef/77/05ef77f1-e960-7a53-aa9f-df57989b28a6/app-icon-production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 206349928,
+      "size": 200257656,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/b0/22/3cb0225e-03cb-363b-dd97-451f113b4481/mzl.iminvglq.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/50/ec/c550ec30-fffa-f371-b7bf-20386ef2fc7d/mzl.rwpqyyls.jpg/576x768bb.jpg",
@@ -37191,6 +37502,20 @@
       },
       "versions": [
         {
+          "version": "456.0.2",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/VSCO.Pro.456.0.2.ipa",
+          "size": 200257656
+        },
+        {
+          "version": "456.0.2b",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/VSCO.Pro.456.0.2.ipa",
+          "size": 200257656
+        },
+        {
           "version": "444.0.1",
           "date": "2025-12-30",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
@@ -37203,20 +37528,6 @@
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/VSCO_Photo_Editor_v444_0_0_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 206354438
-        },
-        {
-          "version": "441.0.3",
-          "date": "2025-12-30",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/VSCO_Photo_Editor_v441_0_3_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 147269499
-        },
-        {
-          "version": "441.0.1",
-          "date": "2025-12-31",
-          "localizedDescription": "Tweaks: AutoRevenueCat, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-1/VSCO_Photo_Editor_v441_0_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 135622708
         }
       ],
       "category": "photo-&-video"
@@ -39777,7 +40088,7 @@
     {
       "title": "⚙️ Telos Update 2.7",
       "identifier": "telos-update-2026-02-07",
-      "caption": "40 Apps Updated:\n• 7 Photo & Video\n• 5 Health & Fitness\n• 4 Games\n• 4 Education\n• 4 Entertainment\n• 3 Productivity\n• 2 Navigation\n• 2 Music\n• 2 Weather\n• 2 Finance\n• 2 Utilities\n• 1 Travel\n• 1 Lifestyle\n• 1 Graphics & Design",
+      "caption": "58 Apps Updated:\n• 17 Photo & Video\n• 7 Health & Fitness\n• 6 Games\n• 6 Education\n• 4 Weather\n• 4 Entertainment\n• 3 Productivity\n• 2 Navigation\n• 2 Music\n• 2 Finance\n• 2 Utilities\n• 1 Travel\n• 1 Lifestyle\n• 1 Graphics & Design",
       "date": "2026-02-07",
       "tintColor": "#02433b",
       "notify": true,
