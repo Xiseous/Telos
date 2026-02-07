@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.eifrig.blitzerdepro",
     "co.visualsupply.cam",
     "com.puzzle1studio.ap.brickoutshoottheball",
     "com.shi.Globetrotter",
-    "com.bowery-digital.bend",
-    "PhotoEditor.PhotoCollage.inCollage"
+    "com.bowery-digital.bend"
   ],
   "apps": [
     {
@@ -3460,13 +3460,6 @@
           "localizedDescription": "Version: 7.1.2\n\nTweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Bend.Pro.7.1.2.ipa",
           "size": 96473271
-        },
-        {
-          "version": "7.1.2b",
-          "date": "2026-02-07",
-          "localizedDescription": "Version: 7.1.2\n\nTweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Bend.Pro.7.1.2.ipa",
-          "size": 96473271
         }
       ],
       "category": "health-&-fitness"
@@ -3499,13 +3492,6 @@
       "versions": [
         {
           "version": "2.5.4",
-          "date": "2026-02-07",
-          "localizedDescription": "Version: 2.5.4\n\nTweaks: CydiaSubstrate, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Learn.Japanese.Kanji.Pro.2.5.4.ipa",
-          "size": 109804503
-        },
-        {
-          "version": "2.5.4b",
           "date": "2026-02-07",
           "localizedDescription": "Version: 2.5.4\n\nTweaks: CydiaSubstrate, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Learn.Japanese.Kanji.Pro.2.5.4.ipa",
@@ -3883,6 +3869,61 @@
         }
       ],
       "category": "photo-&-video"
+    },
+    {
+      "beta": false,
+      "name": "Blitzer.de PRO",
+      "bundleIdentifier": "com.eifrig.blitzerdepro",
+      "developerName": "Eifrig Media",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "400.3.2",
+      "versionDate": "2026-02-07",
+      "versionDescription": "Version: 400.3.2\n\nTweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Blitzer.de.PRO.IAP.400.3.2.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SatellaJailed\n\nBlitzer.de PRO | paid app 0,49€ | Tap on buy then cancel | Minimum OS version 15.0\n\n---\nThe best traffic safety app!\nBlitzer.de PRO keeps you informed with live alerts on mobile and fixed hazards, breakdowns, accidents, traffic jams, and more in your vicinity. Join Europe's largest and most well-known traffic community with over 5 million active users, making your car journey safer and more relaxed.\n\n► VARIOUS VIEWS\nChoose between the simple Classic view, the map view, or the discreet Dark Mode.\n\n►AUTO START & STOP\nJust get in & drive! Define your own shortcuts, and the app activat",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/b0/5e/05b05e4c-ae72-6c3a-15b7-97fcfe4ca8d8/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 106995895,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/97/d1/4c/97d14cae-e4bb-f100-1b02-ed11b287d10b/eac9cd13-b292-4d98-a8bc-69cb9dec57d8_EN_5_5_inch_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6d/5b/a6/6d5ba68a-b405-3de6-5174-e6ff16e15b72/cc3e76b6-bd2a-4eb7-b02f-5e50d29e05e4_EN_5_5_inch_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/1c/15/8f/1c158f6c-4bd9-8eba-c3aa-67d1bbd7d75d/fa5ee06f-78cb-4534-8113-7f2d4c945058_EN_5_5_inch_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/87/af/fe/87affe06-f3c3-6ad7-b2d2-3ea4ce338ea4/423e0994-ae3f-4e7f-8baf-75660d212af2_EN_5_5_inch_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/23/55/bf/2355bfd6-ed4a-858d-3cf6-f1a5d7223bee/5b1457fb-c224-4246-b783-5b751e04a217_EN_5_5_inch_5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.private.skip-library-validation",
+          "com.apple.security.application-groups",
+          "platform-application",
+          "run-unsigned-code"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "The app needs photo access if you want to attach an image when contacting us.",
+          "NSCameraUsageDescription": "The app needs camera access if you want to attach a camera image when contacting us.",
+          "NSLocationWhenInUseUsageDescription": "For the app to give alerts it needs your location.",
+          "NSLocationAlwaysUsageDescription": "For the app to give alerts it needs your location.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "For the app to give alerts it needs your location."
+        }
+      },
+      "versions": [
+        {
+          "version": "400.3.2",
+          "date": "2026-02-07",
+          "localizedDescription": "Version: 400.3.2\n\nTweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Blitzer.de.PRO.IAP.400.3.2.ipa",
+          "size": 106995895
+        },
+        {
+          "version": "400.3.2b",
+          "date": "2026-02-07",
+          "localizedDescription": "Version: 400.3.2\n\nTweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Blitzer.de.PRO.IAP.400.3.2.ipa",
+          "size": 106995895
+        }
+      ],
+      "category": "navigation"
     },
     {
       "beta": false,
@@ -4586,13 +4627,6 @@
       "versions": [
         {
           "version": "26.0205.00",
-          "date": "2026-02-07",
-          "localizedDescription": "Version: 26.0205.00\n\nTweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Brick.Out.IGG.26.0205.00.ipa",
-          "size": 90573522
-        },
-        {
-          "version": "26.0205.00b",
           "date": "2026-02-07",
           "localizedDescription": "Version: 26.0205.00\n\nTweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Brick.Out.IGG.26.0205.00.ipa",
@@ -14301,13 +14335,6 @@
           "size": 154177749
         },
         {
-          "version": "1.6.0b",
-          "date": "2026-02-07",
-          "localizedDescription": "Version: 1.6.0\n\nTweaks: GlobetrotterPro\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Globetrotter.Pro.1.6.0.ipa",
-          "size": 154177749
-        },
-        {
           "version": "1.1.3",
           "date": "2026-02-01",
           "localizedDescription": "Version: 1.1.3\n\nTweaks: GlobetrotterPro\n\nSource: @binnichtaktivsipas",
@@ -16733,24 +16760,24 @@
         },
         {
           "version": "2.2.20b",
-          "date": "2026-02-07",
-          "localizedDescription": "Version: 2.2.20\n\nTweaks: InCollage\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/InCollage.Pro.2.2.20.ipa",
-          "size": 157808004
-        },
-        {
-          "version": "2.2.20c",
           "date": "2026-02-06",
           "localizedDescription": "Version: 2.2.20\n\nTweaks: InCollage, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-26/Photo_Collage_Maker_InCollage_v2_2_20_Premium_Unlocked_blatant_Patched.ipa",
           "size": 161531890
         },
         {
-          "version": "2.2.20d",
+          "version": "2.2.20c",
           "date": "2026-02-06",
           "localizedDescription": "Version: 2.2.20\n\nTweaks: InCollage, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-24/Photo_Collage_Maker_InCollage_v2_2_20_Premium_Unlocked_blatant_Patched.ipa",
           "size": 161531890
+        },
+        {
+          "version": "2.2.13",
+          "date": "2026-01-03",
+          "localizedDescription": "Version: 2.2.13\n\nTweaks: InCollage, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-1/Photo_Collage_Maker_InCollage_v2_2_13_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 154506993
         }
       ],
       "category": "photo-&-video"
@@ -23418,13 +23445,6 @@
           "localizedDescription": "Version: 2.4.3\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Weather.on.the.Way.Pro.2.4.3.ipa",
           "size": 44103341
-        },
-        {
-          "version": "2.4.3b",
-          "date": "2026-02-07",
-          "localizedDescription": "Version: 2.4.3\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Weather.on.the.Way.Pro.2.4.3.ipa",
-          "size": 44103341
         }
       ],
       "category": "weather"
@@ -24662,13 +24682,6 @@
       "versions": [
         {
           "version": "1.15.6",
-          "date": "2026-02-07",
-          "localizedDescription": "Version: 1.15.6\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Persona.VIP.1.15.6.ipa",
-          "size": 164143194
-        },
-        {
-          "version": "1.15.6b",
           "date": "2026-02-07",
           "localizedDescription": "Version: 1.15.6\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Persona.VIP.1.15.6.ipa",
@@ -37006,13 +37019,6 @@
           "localizedDescription": "Version: 4.7.0\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/UNSCRIPTED.Photography.Poses.Pro.4.7.0.ipa",
           "size": 156926022
-        },
-        {
-          "version": "4.7.0b",
-          "date": "2026-02-07",
-          "localizedDescription": "Version: 4.7.0\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/UNSCRIPTED.Photography.Poses.Pro.4.7.0.ipa",
-          "size": 156926022
         }
       ],
       "category": "photo-&-video"
@@ -38135,13 +38141,6 @@
           "size": 200257656
         },
         {
-          "version": "456.0.2b",
-          "date": "2026-02-07",
-          "localizedDescription": "Version: 456.0.2\n\nTweaks: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/VSCO.Pro.456.0.2.ipa",
-          "size": 200257656
-        },
-        {
           "version": "433.0.1",
           "date": "2026-02-05",
           "localizedDescription": "Version: 433.0.1\n\nTweaks: AutoRevenueCat, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
@@ -38153,6 +38152,13 @@
           "date": "2026-01-08",
           "localizedDescription": "Version: 395.0.0\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-12/VSCO_v395.0.0_blatant.ipa",
+          "size": 137500428
+        },
+        {
+          "version": "395.0.0b",
+          "date": "2026-01-08",
+          "localizedDescription": "Version: 395.0.0\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-12/VSCO_v395.0.1_blatant.ipa",
           "size": 137500428
         }
       ],
