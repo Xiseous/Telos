@@ -719,6 +719,33 @@
       }
     },
     {
+      "name": "AllTrails",
+      "bundleIdentifier": "com.alltrails.AllTrails",
+      "developerName": "AllTrails, Inc.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: AllTrailsPatch, CachefixPatch, CydiaSubstrate, NewFix1, NewFix2\n\nAllTrails | Tweak made by Никита | Minimum OS version 17.0\n\n---\nWhether you hike, bike, run, or walk, AllTrails is your companion and guide to the outdoors. Find detailed reviews and inspiration from a community of trailgoers like you. We’ll help you plan, live, and share your outdoor adventures.\n\nAllTrails offers more than a running app or fitness activity tracker. It helps you discover dog-friendly, kid-friendly, stroller-friendly, or wheelchair-friendly trails, and more with turn-by-turn navigation to guide you through it.\n\n◆ Discover trails: Search over",
+      "version": "26.2.11",
+      "versionDate": "2026-02-08T03:30:43-00:00",
+      "versionDescription": "Build 95940 from @binnichtaktivsipas",
+      "size": 118928114,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/f0/76/01f0762b-543e-1d26-f0b9-049dddc71f86/AppIcon_Solid-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/AllTrails.Pro.26.2.11.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "AllTrails Pro 26.2.11.ipa"
+      }
+    },
+    {
       "name": "Aloha",
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
       "developerName": "Aloha Mobile",
@@ -902,32 +929,6 @@
     },
     {
       "name": "Apollo",
-      "bundleIdentifier": "com.christianselig.Apollo",
-      "developerName": "Christian Selig",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, FLEX, adlib, substrate\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
-      "version": "1.15.11",
-      "versionDate": "2026-02-06T13:20:04-00:00",
-      "versionDescription": "Build 285 from @binnichtaktivsipas",
-      "size": 108467758,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-25/Apollo_1.15.11.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Apollo_1.15.11.ipa"
-      }
-    },
-    {
-      "name": "Apollo",
       "bundleIdentifier": "com.food.Apollo",
       "developerName": "Christian Selig",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, CydiaSubstrate, RedditSideloadFix, substrate\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
@@ -950,6 +951,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Apollo_1.15.11_1721981181.ipa"
+      }
+    },
+    {
+      "name": "Apollo",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "developerName": "Christian Selig",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, FLEX, adlib, substrate\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
+      "version": "1.15.11",
+      "versionDate": "2026-02-06T13:20:04-00:00",
+      "versionDescription": "Build 285 from @binnichtaktivsipas",
+      "size": 108467758,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-25/Apollo_1.15.11.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Apollo_1.15.11.ipa"
       }
     },
     {
@@ -1912,6 +1939,32 @@
     },
     {
       "name": "BlackHole",
+      "bundleIdentifier": "com.progmore.blackhole-splitter",
+      "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Ad, loaderfix, substrate\n\n---\nSplit long videos to smaller videos for social media apps",
+      "version": "15",
+      "versionDate": "2026-02-05T20:01:34-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 12375527,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/9f/0d/c69f0d95-2014-abdc-7534-b3cb7a61ad50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/BlackHole_15_1766722385.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "BlackHole_15_1766722385.ipa"
+      }
+    },
+    {
+      "name": "BlackHole",
       "bundleIdentifier": "com.shadow.blackhole.ios.15.11.2",
       "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nAn Open-Source Music Player App for all your needs!\n\n---\nSplit long videos to smaller videos for social media apps",
@@ -1960,32 +2013,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "BlackHole-v1.15.10-ios.ipa"
-      }
-    },
-    {
-      "name": "BlackHole",
-      "bundleIdentifier": "com.progmore.blackhole-splitter",
-      "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Ad, loaderfix, substrate\n\n---\nSplit long videos to smaller videos for social media apps",
-      "version": "15",
-      "versionDate": "2026-02-05T20:01:34-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 12375527,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/9f/0d/c69f0d95-2014-abdc-7534-b3cb7a61ad50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/BlackHole_15_1766722385.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "BlackHole_15_1766722385.ipa"
       }
     },
     {
@@ -2793,32 +2820,6 @@
     },
     {
       "name": "Canary",
-      "bundleIdentifier": "Mailroom.Canary-iOS.5AF666",
-      "developerName": "Canary Connect",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CanaryUnlocked, CydiaSubstrate\n\n---\nCanary is home security made simple. The Canary app works with our security devices to connect your home to your phone, allowing you to view and protect those that matter most.\n\nMonitor your home: Watch live or recorded HD videos day or night. Access Canary’s timeline for a living history of your home. Save and bookmark your favorite clips.\n\nIntelligent notifications: When Canary identifies something out of the ordinary, you’ll get a notification with recorded HD video of the event, as well as t",
-      "version": "4.96.0",
-      "versionDate": "2026-01-12T03:04:36-00:00",
-      "versionDescription": "Build 2051 from @binnichtaktivsipas",
-      "size": 88342141,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/47/b6/6a47b6a6-7b61-a9fc-52c0-a152a71e7bc0/AppIcon_Prod-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-4/Canary_4.96.0_1754333728.ipa",
-      "minOSVersion": "13.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Canary_4.96.0_1754333728.ipa"
-      }
-    },
-    {
-      "name": "Canary",
       "bundleIdentifier": "Mailroom.Canary-iOS",
       "developerName": "Cartasec Pte. Ltd.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CanaryUnlocked\n\n- updated canary to v4.44\n— a nice email client with pgp support.\n- info:\n@zxcvbntweaked | requires iOS >=13.0 | request cracks\n\n---\nSwitch to Canary Mail to connect all your email accounts in one inbox, let AI write emails for you, surface important messages, and keep your inbox clutter-free.\n\n▶ WRITE EMAILS WITH AI ◀\n\n[ INTELLIGENT AI EMAIL WRITING ]\n• Let Canary’s AI Copilot write and proofread your emails for clarity and professionalism.\n\n[ AI COPILOT ]\n• Get AI-generated email suggestions, automated replies, AI summaries, and priority inbox insights.\n\n[ EMAIL TEMPLATES ]\n• Save and reuse your favorite email drafts with o",
@@ -2841,6 +2842,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "CanaryPro-4.44-zxcvbn.ipa"
+      }
+    },
+    {
+      "name": "Canary",
+      "bundleIdentifier": "Mailroom.Canary-iOS.5AF666",
+      "developerName": "Canary Connect",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CanaryUnlocked, CydiaSubstrate\n\n---\nCanary is home security made simple. The Canary app works with our security devices to connect your home to your phone, allowing you to view and protect those that matter most.\n\nMonitor your home: Watch live or recorded HD videos day or night. Access Canary’s timeline for a living history of your home. Save and bookmark your favorite clips.\n\nIntelligent notifications: When Canary identifies something out of the ordinary, you’ll get a notification with recorded HD video of the event, as well as t",
+      "version": "4.96.0",
+      "versionDate": "2026-01-12T03:04:36-00:00",
+      "versionDescription": "Build 2051 from @binnichtaktivsipas",
+      "size": 88342141,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/47/b6/6a47b6a6-7b61-a9fc-52c0-a152a71e7bc0/AppIcon_Prod-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-4/Canary_4.96.0_1754333728.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Canary_4.96.0_1754333728.ipa"
       }
     },
     {
@@ -5475,6 +5502,32 @@
     },
     {
       "name": "ESign",
+      "bundleIdentifier": "KZ8MJR464R.k.xyz.yyyue.esign",
+      "developerName": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nES File Explorer is a local and network file management tool that can help you manage files easily.\n\n【The main function】\n-File management\nYou can create new directories, rename, move, delete files, etc.\nSupport file sorting by name, date, size\nThe iPad version supports features such as split screen, picture-in-picture, and drag-and-drop operations between apps\n\n- file transfer\nWiFi transmission function: support the transfer of files between the mobile terminal and the computer terminal\nFace-to-",
+      "version": "5.0.0",
+      "versionDate": "2025-12-31T04:11:24-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 15024026,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/be/54/dfbe5444-5035-8ec3-c243-97ce0554bb60/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/ESign_5.0.0_1725982229.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "ESign_5.0.0_1725982229.ipa"
+      }
+    },
+    {
+      "name": "ESign",
       "bundleIdentifier": "nologs.xyz.yyyue.esign",
       "developerName": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nES File Explorer is a local and network file management tool that can help you manage files easily.\n\n【The main function】\n-File management\nYou can create new directories, rename, move, delete files, etc.\nSupport file sorting by name, date, size\nThe iPad version supports features such as split screen, picture-in-picture, and drag-and-drop operations between apps\n\n- file transfer\nWiFi transmission function: support the transfer of files between the mobile terminal and the computer terminal\nFace-to-",
@@ -5523,32 +5576,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "esign_5.0.0_unsigned.ipa"
-      }
-    },
-    {
-      "name": "ESign",
-      "bundleIdentifier": "KZ8MJR464R.k.xyz.yyyue.esign",
-      "developerName": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nES File Explorer is a local and network file management tool that can help you manage files easily.\n\n【The main function】\n-File management\nYou can create new directories, rename, move, delete files, etc.\nSupport file sorting by name, date, size\nThe iPad version supports features such as split screen, picture-in-picture, and drag-and-drop operations between apps\n\n- file transfer\nWiFi transmission function: support the transfer of files between the mobile terminal and the computer terminal\nFace-to-",
-      "version": "5.0.0",
-      "versionDate": "2025-12-31T04:11:24-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 15024026,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/be/54/dfbe5444-5035-8ec3-c243-97ce0554bb60/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/ESign_5.0.0_1725982229.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "ESign_5.0.0_1725982229.ipa"
       }
     },
     {
@@ -7605,6 +7632,33 @@
       }
     },
     {
+      "name": "GREC",
+      "bundleIdentifier": "com.igliverec.app",
+      "developerName": "Martynas Ramonas",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: AutoRc, CydiaSubstrate\n\nGREC - Live Video Recorder | Minimum OS version 15.0\n\n---\nEver wanted to watch more than one Live at the same time? With GREC, you can follow multiple streams simultaneously.\nWith GREC, it’s super simple! GREC is designed to make watching and following live videos effortless.\nUse GREC to easily watch multiple live streams from different profiles at once!\n\nGREC - KEY FEATURES\n------------------------------\n• Get notified instantly when a profile you follow goes live.\n• Track unlimited number of profiles.\n• Enjoy watching in full HD quality.\n• Watch mult",
+      "version": "4.7.1",
+      "versionDate": "2026-02-08T03:27:44-00:00",
+      "versionDescription": "Build 138 from @binnichtaktivsipas",
+      "size": 26209810,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/16/91/86169110-3c87-99c5-464e-f127950e06f4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/GREC.Pro.4.7.1.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "GREC Pro 4.7.1.ipa"
+      }
+    },
+    {
       "name": "Grok",
       "bundleIdentifier": "ai.x.GrokApp",
       "developerName": "xAI",
@@ -9162,6 +9216,33 @@
       }
     },
     {
+      "name": "KeyLifts",
+      "bundleIdentifier": "org.borrowedcache.ultimate531",
+      "developerName": "Strongomatic, LLC",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: KeyLiftsPro\n\nKeyLifts - 531 Workout Log | Minimum OS version 15.6\n\n---\nKeyLifts takes the math out of the 5/3/1 program so you can focus on getting stronger. Everything is planned out for you. Know exactly what you need to do as soon as you step into the gym. KeyLifts automatically calculates all your sets so you can focus on hitting new Personal Records.\n\nPlanning and tracking a 5/3/1 program is time-consuming and hard. You have to calculate your training max and then calculate every single set based on your training max. It doesn't have to be like that. You could",
+      "version": "5.18.0",
+      "versionDate": "2026-02-08T03:30:11-00:00",
+      "versionDescription": "Build 335 from @binnichtaktivsipas",
+      "size": 30076557,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/8d/6c/608d6c0b-e1a8-fa54-b311-e3e4cfdbc93c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/KeyLifts.Pro.5.18.0.ipa",
+      "minOSVersion": "15.6",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "KeyLifts Pro 5.18.0.ipa"
+      }
+    },
+    {
       "name": "KineMaster",
       "bundleIdentifier": "com.kinemaster.kios",
       "developerName": "KineMaster Corporation",
@@ -9732,31 +9813,6 @@
     },
     {
       "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobile",
-      "developerName": "Adobe Inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SatellaJailed, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, YourTweakName\n\nAdobe Lightroom for iPad 10.3.0 - com.adobe.lrmobile\n- A professional photo and video editor offering powerful tools like AI-powered enhancements, over 200 premium presets, and seamless cloud syncing across devices.\n- Satella added to buy premium\n- By @melonn01 (\n\n---\nJoin millions of users who trust Adobe Photoshop Lightroom as their AI-powered photo editor to bring their photos, videos and reels to life.\n\nMAKE YOUR PHOTOS AND VIDEOS STAND OUT\n\nStart with one-tap presets or filters for pictures, videos and reels. Then, fine-tune the details with powerful tools to retouch, remove objects, blur backgrounds, and make more precise edits to bring your vision to life.\n\nWhether you’re developing your skills, a seasoned pro, or just love capturing life’s moments, Li",
-      "version": "10.3.0",
-      "versionDate": "2026-01-15T00:05:29-00:00",
-      "versionDescription": "Build 10.3.0.197 from @binnichtaktivsipas",
-      "size": 174468016,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/06/a0/4c06a08d-2a25-4e70-bcc2-fa629dcb9056/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-9/Lightroom_10.3.0_Satella_Melon.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Lightroom_10.3.0_Satella_Melon.ipa"
-      }
-    },
-    {
-      "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "Adobe Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FilePickerFix, Lightroom, blatantsPatch, sideloadKeychainfix\n\nLightroom: AI Photo Editor\nSubscription Unlocked\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\n---\nEver wish your photos could really show what makes a moment special? Adobe Lightroom is a free photo and video editor that helps you do just that. From your dog’s goofy grin to that sunset that took your breath away, Adobe Lightroom makes it simple to bring those moments to life, just the way you see them.\n\nWhether you’re snapping pics on the go or curating your social feed, Lightroom puts powerful AI editor tools in your pocket to make quick edits easy and fun. Adobe Lightroom is here to help y",
@@ -9780,6 +9836,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Lightroom_AI_Photo_Editor_v11_1_1_Subscription_Unlocked_blatant.ipa"
+      }
+    },
+    {
+      "name": "Lightroom",
+      "bundleIdentifier": "com.adobe.lrmobile",
+      "developerName": "Adobe Inc.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SatellaJailed, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, YourTweakName\n\nAdobe Lightroom for iPad 10.3.0 - com.adobe.lrmobile\n- A professional photo and video editor offering powerful tools like AI-powered enhancements, over 200 premium presets, and seamless cloud syncing across devices.\n- Satella added to buy premium\n- By @melonn01 (\n\n---\nJoin millions of users who trust Adobe Photoshop Lightroom as their AI-powered photo editor to bring their photos, videos and reels to life.\n\nMAKE YOUR PHOTOS AND VIDEOS STAND OUT\n\nStart with one-tap presets or filters for pictures, videos and reels. Then, fine-tune the details with powerful tools to retouch, remove objects, blur backgrounds, and make more precise edits to bring your vision to life.\n\nWhether you’re developing your skills, a seasoned pro, or just love capturing life’s moments, Li",
+      "version": "10.3.0",
+      "versionDate": "2026-01-15T00:05:29-00:00",
+      "versionDescription": "Build 10.3.0.197 from @binnichtaktivsipas",
+      "size": 174468016,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/06/a0/4c06a08d-2a25-4e70-bcc2-fa629dcb9056/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-9/Lightroom_10.3.0_Satella_Melon.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Lightroom_10.3.0_Satella_Melon.ipa"
       }
     },
     {
@@ -10018,25 +10099,27 @@
       "name": "Locket",
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRevenueCat, CydiaSubstrate\n\nLocket Widget\ncom.locket.Locket\nCategory: Social Networking\nLocketGold\nTo make the widgets/app work with certificates > Read.\n\n---\nLocket is a widget that shows live photos from your best friends, right to your Home Screen. You and your best friends will see new pictures from each other every time you unlock your phone. It’s a little glimpse of what everyone’s up to throughout the day.\n\nHOW IT WORKS\n1. Add the Locket widget to your Home Screen\n2. When a friend sends you a photo, it instantly appears on your Locket widget!\n3. To share a pic back, tap into the widget, take a pic with the camera, and then hit send! It appears",
-      "version": "1.99.0",
-      "versionDate": "2026-01-07T02:24:54-00:00",
-      "versionDescription": "Build 1 from @blatants",
-      "size": 106597817,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/b5/ce/f1b5ce36-c4e3-ae84-c421-1a69d35b5687/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/Locket_v1.99.0_Locket_Gold_blatant.ipa",
-      "minOSVersion": "14.1",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nLocket Widget | Locket Gold\n\n---\nLocket is a widget that shows live photos from your best friends, right to your Home Screen. You and your best friends will see new pictures from each other every time you unlock your phone. It’s a little glimpse of what everyone’s up to throughout the day.\n\nHOW IT WORKS\n1. Add the Locket widget to your Home Screen\n2. When a friend sends you a photo, it instantly appears on your Locket widget!\n3. To share a pic back, tap into the widget, take a pic with the camera, and then hit send! It appears",
+      "version": "2.32.1",
+      "versionDate": "2026-02-08T03:52:51-00:00",
+      "versionDescription": "Build 2 from @blatants",
+      "size": 337888483,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/02/5d/43025dfb-13ef-2709-9535-20214923d6d6/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Locket.Widget.v2.32.1.Locket.Gold.blatant.Patched.ipa",
+      "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        1
+        0,
+        1,
+        2
       ],
       "metadata": {
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Locket_v1.99.0_Locket_Gold_blatant.ipa"
+        "originalFile": "Locket Widget v2.32.1 Locket Gold blatant Patched.ipa"
       }
     },
     {
@@ -10460,13 +10543,13 @@
       "name": "Mercury",
       "bundleIdentifier": "com.tripleglazedstudios.Weather",
       "developerName": "Triple Glazed Studios",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MercuryWeather, blatantsPatch\n\nMercury Weather\nPremium Unlocked\nWidgets work when installed with a certificate with Appgroups enabled.\n\n---\n\"It's a weather app. How much is there to say?\"\n– Malin from Triple Glazed Studios' crack product marketing team\n\nTOP FEATURES\n– Beautiful weather charts\n– Detailed daily forecast\n– Trip Forecast\n– Incredibly accurate rain forecast\n– Hurricane and storm tracking\n– Tide forecasts\n– Weather notifications\n– Radar map\n– Simple yet powerful Apple Watch app\n– Easy to glance home screen and lock screen widgets\n– Weather normals\n\nPrivacy policy:\nTerms of use:",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Mercury1, Mercury2\n\nMercury Weather | Pro unlocked | Minimum OS version 16.0\n\n---\n\"It's a weather app. How much is there to say?\"\n– Malin from Triple Glazed Studios' crack product marketing team\n\nTOP FEATURES\n– Beautiful weather charts\n– Detailed daily forecast\n– Trip Forecast\n– Incredibly accurate rain forecast\n– Hurricane and storm tracking\n– Tide forecasts\n– Weather notifications\n– Radar map\n– Simple yet powerful Apple Watch app\n– Easy to glance home screen and lock screen widgets\n– Weather normals\n\nPrivacy policy:\nTerms of use:",
       "version": "3.3",
-      "versionDate": "2026-02-07T12:47:45-00:00",
-      "versionDescription": "Build 4487 from @blatants",
-      "size": 58436975,
+      "versionDate": "2026-02-08T03:29:55-00:00",
+      "versionDescription": "Build 4487 from @binnichtaktivsipas",
+      "size": 55739644,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/37/1a/bf371ae0-6c3b-496a-90c4-26c38944ec2e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Mercury.Weather.v3.3.Premium.Unlocked.blatant.Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Mercury.Weather.Pro.3.3.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -10477,10 +10560,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Mercury Weather v3.3 Premium Unlocked blatant Patched.ipa"
+        "originalFile": "Mercury Weather Pro 3.3.ipa"
       }
     },
     {
@@ -11137,11 +11220,11 @@
       "developerName": "Loop Apps LTDA",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMusicBox: Save Music for Later | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nMusicBox is an award-winning app that helps you catalog, organize, and rediscover your music library. Critically acclaimed by MacStories, 9to5Mac, Snazzy Labs, iMore, MacMagazine, AppAdvice, and more.\n\nMacStories: “It’s rare for me these days to find new apps that elicit this kind of enthusiasm”\n9to5Mac: “With MusicBox, users can finally keep track of songs they want to listen to later”\nSnazzy Labs: “MusicBox is a great place to store music without committing it to your library”\niMore: “If you i",
       "version": "1.6.4",
-      "versionDate": "2026-02-07T12:28:27-00:00",
+      "versionDate": "2026-02-08T04:28:39-00:00",
       "versionDescription": "Build 92 from @riftysIPAlibrary",
       "size": 20686949,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/0e/a7/450ea739-9510-d010-99d7-b2e86fda3e17/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/MusicBox.Save.Music.for.Later-v1.6.4-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/MusicBox.Save.Music.for.Later-v1.6.4-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -11603,6 +11686,33 @@
       }
     },
     {
+      "name": "NoteCircle",
+      "bundleIdentifier": "com.thegenau.NoteCircle",
+      "developerName": "Genau Factory",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nNoteCircle: To Do, Checklist | Plus Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nYou organize your tasks. Then everything falls apart. NoteCircle is built for when nothing sticks—and trusted by over 1 million users worldwide, with App Store features across the US, Europe, and Asia.\n\nWhy most to-do apps don’t stick\nYou start motivated, but after a few days everything falls apart again. Tasks get buried, routines break, and important things slip through the cracks. NoteCircle solves this by giving you structure without clutter.\n\nOne clear system for your day and week\nNoteCircl",
+      "version": "4.52",
+      "versionDate": "2026-02-08T04:28:27-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 15547557,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ca/be/75cabe72-1de0-8128-c536-0103195dfc86/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/NoteCircle.To.Do.Checklist-v4.52-riftysipas.ipa",
+      "minOSVersion": "16.6",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@riftysIPAlibrary",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "NoteCircle: To Do, Checklist-v4.52-riftysipas.ipa"
+      }
+    },
+    {
       "name": "Noted",
       "bundleIdentifier": "com.digitalworkroom.noted",
       "developerName": "Digital Workroom Ltd",
@@ -11838,6 +11948,32 @@
     },
     {
       "name": "Offline Games",
+      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
+      "developerName": "Moreno Maio",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, fixipa1, fixipa2, ogrifty\n\n⁃ Unlimited Tokens | ⁃ No Ads\n\n---\nGet ready for 'Offline Games': fun for all ages, and a mental workout too! This offline game collection is like an overflowing toy box packed with more than 20 unique minigames. It's designed for classic game enthusiasts, puzzle lovers, and challenge seekers. And the best part? You don't need an internet connection to enjoy it!\n\nOur array of Number Games like 2048 and 2248 will get your neurons firing. Engage in these numeric challenges and strive to hit the highest scores. They're perfect for k",
+      "version": "2.13.3",
+      "versionDate": "2025-12-29T14:32:30-00:00",
+      "versionDescription": "Build 1699 from @riftysIPAlibrary",
+      "size": 88752578,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/af/f9/26aff919-7a10-7c7d-1454-811e5f63204b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29/OfflineGames_v2.13.3-riftysipas.ipa",
+      "minOSVersion": "12.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@riftysIPAlibrary",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "OfflineGames_v2.13.3-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Offline Games",
       "bundleIdentifier": "com.media720.offlinegames",
       "developerName": "720 Media LLC",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nOffline Games No WiFi Fun 100+ | Ads Removed | Patched ✓ | Additional Information ℹ️\n\n---\nOffline Games: Dive into Endless Fun without Wi-Fi!\n\nStep into a universe of gaming diversity, all available without an internet connection! With \"Offline Games,\" dive deep into an expansive collection, from brain-teasing puzzles and classic arcades to strategic board games and exciting card challenges. Whether you're merging objects, aiming for high scores in pinball, or chasing the iconic 2048, our suite ensures you're never short of options.\n\nAlways Offline: Play to your heart's content witho",
@@ -11861,32 +11997,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Offline Games No WiFi Fun 100+-v1.52-riftysipas.ipa"
-      }
-    },
-    {
-      "name": "Offline Games",
-      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
-      "developerName": "Moreno Maio",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, fixipa1, fixipa2, ogrifty\n\n⁃ Unlimited Tokens | ⁃ No Ads\n\n---\nGet ready for 'Offline Games': fun for all ages, and a mental workout too! This offline game collection is like an overflowing toy box packed with more than 20 unique minigames. It's designed for classic game enthusiasts, puzzle lovers, and challenge seekers. And the best part? You don't need an internet connection to enjoy it!\n\nOur array of Number Games like 2048 and 2248 will get your neurons firing. Engage in these numeric challenges and strive to hit the highest scores. They're perfect for k",
-      "version": "2.13.3",
-      "versionDate": "2025-12-29T14:32:30-00:00",
-      "versionDescription": "Build 1699 from @riftysIPAlibrary",
-      "size": 88752578,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/af/f9/26aff919-7a10-7c7d-1454-811e5f63204b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29/OfflineGames_v2.13.3-riftysipas.ipa",
-      "minOSVersion": "12.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "OfflineGames_v2.13.3-riftysipas.ipa"
       }
     },
     {
@@ -12045,32 +12155,6 @@
     },
     {
       "name": "Opener",
-      "bundleIdentifier": "com.tijo.opener.Opener",
-      "developerName": "tijo, inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: zxPluginsInject\n\n---\nOpener is an app that allows you to open links from the web in apps instead! Copy a link and launch Opener to see the apps that it can be opened in, or use Opener's action extension right from other apps! Opener currently supports over 280 apps with more being added all the time.\n\nIn addition to opening links in apps, Opener also supports:\n- Opening links in any browser of your choice.\n- Creating QR codes and shortened links using the long press menu.\n- Previewing links from a variety of popular",
-      "version": "1.14",
-      "versionDate": "2026-01-02T17:29:32-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 775129,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/dd/be/84ddbe6e-b228-5c1a-2a04-c399cdbf8e57/AppIcon-0-0-1x_U007epad-0-5-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/com.tijo.opener.Opener-1.14-patched.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "com.tijo.opener.Opener-1.14-patched.ipa"
-      }
-    },
-    {
-      "name": "Opener",
       "bundleIdentifier": "pineapplelabs.Opener",
       "developerName": "Big Pineapple LLC",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Satella Jailed, zxPluginsInject\n\n(pineapplelabs)\n\n---\nOPENER. An ultra-efficient Safari Extension that opens sites in app. Choose between over 200+ apps to open from Safari.\n\nPRIVATE\nOpener does not collect or store any of your data - nothing leaves your device.\n\nBUY ONCE\nOpen any one app for free and unlock unlimited apps with a one-time purchase. No subscriptions, no ads, no nonsense.\n\nFAST\nOpener performs a quick redirect from Safari to the selected apps.\n\nSIMPLE\nIt's as easy as downloading Opener and enabling it in Safari settings. No maintenan",
@@ -12093,6 +12177,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Opener_1.14_1762134589.ipa"
+      }
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "developerName": "tijo, inc.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: zxPluginsInject\n\n---\nOpener is an app that allows you to open links from the web in apps instead! Copy a link and launch Opener to see the apps that it can be opened in, or use Opener's action extension right from other apps! Opener currently supports over 280 apps with more being added all the time.\n\nIn addition to opening links in apps, Opener also supports:\n- Opening links in any browser of your choice.\n- Creating QR codes and shortened links using the long press menu.\n- Previewing links from a variety of popular",
+      "version": "1.14",
+      "versionDate": "2026-01-02T17:29:32-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 775129,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/dd/be/84ddbe6e-b228-5c1a-2a04-c399cdbf8e57/AppIcon-0-0-1x_U007epad-0-5-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/com.tijo.opener.Opener-1.14-patched.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.tijo.opener.Opener-1.14-patched.ipa"
       }
     },
     {
@@ -12674,11 +12784,11 @@
       "developerName": "Harbour City Software Pty Ltd",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nPetty: Petrol Prices Australia | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nStop overpaying for fuel. No ads. No funny business. Just the UK's most accurate petrol and diesel prices. Save on every tank with real-time government data.\n\nPetty uses official government data to show you real-time prices and savings opportunities at UK service stations. Find the cheapest petrol or diesel near you in seconds, updated in real-time as stations change their prices.\n\nGet notified when prices drop at your favourite stations. Compare prices instantly and see exactly how much you'll",
       "version": "8.0",
-      "versionDate": "2026-02-07T12:27:48-00:00",
+      "versionDate": "2026-02-08T04:28:26-00:00",
       "versionDescription": "Build 2532 from @riftysIPAlibrary",
       "size": 15348493,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/e1/93/fbe193a1-b95f-fe5a-3f71-17d021a88bdb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Petty.Petrol.Prices.Australia-v8.0-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Petty.Petrol.Prices.Australia-v8.0-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -15789,13 +15899,13 @@
       "name": "SnapEdit",
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SnapEdit, blatantsPatch\n\nSnapEdit: Photo Editor AI | Pro Unlocked\n\n---\nSnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objec",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSnapEdit - Remove Objects AI | AI is NOT unlocked | Tweak made by David | Minimum OS version 15.0\n\n---\nSnapEdit is one of the best photo editing apps using AI with a mission to make your editing easy, smooth and fun.\n\nTransform your photos like never before with SnapEdit, the ultimate photo editing app designed to effortlessly remove unwanted objects, enhance image quality, and create stunning visual masterpieces. Download SnapEdit now and unlock a world of possibilities for your photos!\n\nKEY FEATURES:\n\nONE-TOUCH OBJECT REMOVAL: Say goodbye to photobombers, unwanted elements, or distracting objec",
       "version": "6.3.16",
-      "versionDate": "2026-02-07T23:30:15-00:00",
-      "versionDescription": "Build 1671 from @blatants",
-      "size": 130171100,
+      "versionDate": "2026-02-08T03:30:43-00:00",
+      "versionDescription": "Build 1671 from @binnichtaktivsipas",
+      "size": 125042598,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/16/d7/a016d77e-fdc3-4dcd-13ee-abdebff09c53/AppIcon-Lunar-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/SnapEdit_Photo_Editor_AI_v6_3_16_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/SnapEdit.Premium.6.3.16.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -15806,10 +15916,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "SnapEdit_Photo_Editor_AI_v6_3_16_Pro_Unlocked_blatant_Patched.ipa"
+        "originalFile": "SnapEdit Premium 6.3.16.ipa"
       }
     },
     {
@@ -16542,31 +16652,6 @@
     },
     {
       "name": "Steps",
-      "bundleIdentifier": "com.adambinsz.Steps",
-      "developerName": "Pumpkin Computer Co., LLC",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nᵕ̈  Steps: Step Counter, Pedometer  ᵕ̈ | Min.iOS: [17.0+] | Notes: Subscription unlocked.\n\n---\nSee your daily, weekly, and monthly walking totals automatically, and set goals to stay active.\n\nSteps keeps track of your steps, distance, flights of stairs, and calories — all in the background, without you needing to open the app or worry about battery life.\n\nNow with goals: Set daily targets for steps, calories burned, miles walked, and flights of stairs climbed. Track your progress toward each one and stay motivated every day.\n\nCheck your progress over time with clear daily, weekly, and mon",
-      "version": "6.1",
-      "versionDate": "2026-01-11T23:43:25-00:00",
-      "versionDescription": "Build 8066 from @binnichtaktivsipas",
-      "size": 8839710,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/5a/5e/ec5a5ea2-2271-0106-fb78-64c766d650eb/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-3/Steps_6.1_tg%40Sa1y0miii.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Steps_6.1_tg@Sa1y0miii.ipa"
-      }
-    },
-    {
-      "name": "Steps",
       "bundleIdentifier": "com.yoc.Steps",
       "developerName": "Year of Code, LLC",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, iOSGodsiAPCracker\n\nSubscription Unlocked - Press upgrade now > cancel\nMade by RiftysIPAs\n\n---\nTrack how far you walk and how many steps you take. Always on, works on all iPhones.\n\nSteps is a pedometer and activity tracker. It shows you just how much you're moving in a simple, elegant way. Set a goal. As you walk, the colors change to show your progress like a sunrise. No noise, no extra gadget to wear and nothing to distract you.\n\nEveryone should walk 10,000 steps every day for their health, but many of us don't go that far. With Steps, you can easily track how far you go every day, set",
@@ -16588,6 +16673,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Steps_v1.7.58-RiftysIPAs.ipa"
+      }
+    },
+    {
+      "name": "Steps",
+      "bundleIdentifier": "com.adambinsz.Steps",
+      "developerName": "Pumpkin Computer Co., LLC",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nᵕ̈  Steps: Step Counter, Pedometer  ᵕ̈ | Min.iOS: [17.0+] | Notes: Subscription unlocked.\n\n---\nSee your daily, weekly, and monthly walking totals automatically, and set goals to stay active.\n\nSteps keeps track of your steps, distance, flights of stairs, and calories — all in the background, without you needing to open the app or worry about battery life.\n\nNow with goals: Set daily targets for steps, calories burned, miles walked, and flights of stairs climbed. Track your progress toward each one and stay motivated every day.\n\nCheck your progress over time with clear daily, weekly, and mon",
+      "version": "6.1",
+      "versionDate": "2026-01-11T23:43:25-00:00",
+      "versionDescription": "Build 8066 from @binnichtaktivsipas",
+      "size": 8839710,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/5a/5e/ec5a5ea2-2271-0106-fb78-64c766d650eb/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-3/Steps_6.1_tg%40Sa1y0miii.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Steps_6.1_tg@Sa1y0miii.ipa"
       }
     },
     {
@@ -17341,32 +17451,6 @@
     },
     {
       "name": "Surge",
-      "bundleIdentifier": "com.lavendrapp.lavendr",
-      "developerName": "Cosmic Latte s.r.o",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, surge\n\n---\nSURGE is a gay dating app for gay, bisexual, trans, and queer people to connect. Whether you're looking for a date, relationship, or friendship in the gay community, SURGE gay dating app caters to all your needs! Experience the “SURGE” of meetings with local gay, bisexual, trans, and queer individuals ready for gay romance.\n\n Match & Chat for Free\n• Browse – check out gay men nearby by Swiping Right to “like” a guy and Swiping Left to “pass”.\n• Match – swipe right to get matched only with cuties",
-      "version": "11.19.0",
-      "versionDate": "2026-01-15T19:12:02-00:00",
-      "versionDescription": "Build 111900002 from @binnichtaktivsipas",
-      "size": 172385279,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/32/94/ce32949a-fa9d-2749-873a-cfd0eb1de1ac/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-11/OnenightDate.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "OnenightDate.ipa"
-      }
-    },
-    {
-      "name": "Surge",
       "bundleIdentifier": "com.nssurge.inc.surge-ios",
       "developerName": "Surge Networks Inc.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: AllFLEXing, macked.app\n\n---\nSurge is a web development and proxy utility. It is designed for developers and therefore requires professional knowledge to use.\n\nThese four capabilities form the core workflow of Surge:\n· Takeover: You can take over the network connection sent by the device. Surge supports both proxy service and virtual NIC takeover.\n· Processing: You can modify the network requests and responses that have been taken over. This includes URL redirection, local file mapping, custom modification using JavaScript,",
@@ -17389,6 +17473,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Surge_5.8.3.ipa"
+      }
+    },
+    {
+      "name": "Surge",
+      "bundleIdentifier": "com.lavendrapp.lavendr",
+      "developerName": "Cosmic Latte s.r.o",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, surge\n\n---\nSURGE is a gay dating app for gay, bisexual, trans, and queer people to connect. Whether you're looking for a date, relationship, or friendship in the gay community, SURGE gay dating app caters to all your needs! Experience the “SURGE” of meetings with local gay, bisexual, trans, and queer individuals ready for gay romance.\n\n Match & Chat for Free\n• Browse – check out gay men nearby by Swiping Right to “like” a guy and Swiping Left to “pass”.\n• Match – swipe right to get matched only with cuties",
+      "version": "11.19.0",
+      "versionDate": "2026-01-15T19:12:02-00:00",
+      "versionDescription": "Build 111900002 from @binnichtaktivsipas",
+      "size": 172385279,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/32/94/ce32949a-fa9d-2749-873a-cfd0eb1de1ac/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-11/OnenightDate.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "OnenightDate.ipa"
       }
     },
     {
@@ -20553,6 +20663,31 @@
     },
     {
       "name": "‎WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "WhatsApp Inc.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ContactSync, NoWatusiAlert3, OnlineNotify, Stalky, WAUnlimitedSend\n\n---\nWhatsApp from Meta is a free messaging and calling app used by over 2 billion people across 180+ countries. It's super simple, reliable and private, making it perfect for staying in touch with your friends and family worldwide. WhatsApp works across mobile, tablet, and desktop even on slow connections, with no subscription fees.\n\nPrivate messaging and calls across the world\n\nYour privacy is our priority. With end-to-end encryption, you can be sure that your personal messages and calls stay betwe",
+      "version": "24.15.79",
+      "versionDate": "2026-02-06T13:41:28-00:00",
+      "versionDescription": "Build 626917689 from @binnichtaktivsipas",
+      "size": 109927500,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/0b/5c/ca0b5cbc-dd4c-5f43-69c6-cf4cb81cc80c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-25/lf4232kaqdca.ipa",
+      "minOSVersion": "12.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "lf4232kaqdca.ipa"
+      }
+    },
+    {
+      "name": "‎WhatsApp",
       "bundleIdentifier": "com.fouadraheb.watusi",
       "developerName": "WhatsApp Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nWatusi 3 v1.3.1 | Cracked by Anonymous\n\n---\nWhatsApp from Meta is a free messaging and calling app used by over 2 billion people across 180+ countries. It's super simple, reliable and private, making it perfect for staying in touch with your friends and family worldwide. WhatsApp works across mobile, tablet, and desktop even on slow connections, with no subscription fees.\n\nPrivate messaging and calls across the world\n\nYour privacy is our priority. With end-to-end encryption, you can be sure that your personal messages and calls stay betwe",
@@ -20575,31 +20710,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "WhatsApp_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa"
-      }
-    },
-    {
-      "name": "‎WhatsApp",
-      "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "developerName": "WhatsApp Inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ContactSync, NoWatusiAlert3, OnlineNotify, Stalky, WAUnlimitedSend\n\n---\nWhatsApp from Meta is a free messaging and calling app used by over 2 billion people across 180+ countries. It's super simple, reliable and private, making it perfect for staying in touch with your friends and family worldwide. WhatsApp works across mobile, tablet, and desktop even on slow connections, with no subscription fees.\n\nPrivate messaging and calls across the world\n\nYour privacy is our priority. With end-to-end encryption, you can be sure that your personal messages and calls stay betwe",
-      "version": "24.15.79",
-      "versionDate": "2026-02-06T13:41:28-00:00",
-      "versionDescription": "Build 626917689 from @binnichtaktivsipas",
-      "size": 109927500,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/0b/5c/ca0b5cbc-dd4c-5f43-69c6-cf4cb81cc80c/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-25/lf4232kaqdca.ipa",
-      "minOSVersion": "12.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "lf4232kaqdca.ipa"
       }
     },
     {
