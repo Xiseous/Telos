@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.sfun.snapedit",
-    "com.eifrig.blitzerdepro",
-    "co.visualsupply.cam",
-    "com.puzzle1studio.ap.brickoutshoottheball",
-    "com.shi.Globetrotter"
+    "br.com.marcosatanaka.musicbox",
+    "com.thegenau.NoteCircle",
+    "zachsim.one.Petty",
+    "com.locket.Locket",
+    "com.alltrails.AllTrails"
   ],
   "apps": [
     {
@@ -1361,6 +1361,54 @@
       "category": "utilities"
     },
     {
+      "name": "AllTrails",
+      "bundleIdentifier": "com.alltrails.AllTrails",
+      "developerName": "AllTrails, Inc.",
+      "subtitle": "Pro Features Unlocked",
+      "version": "26.2.11",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: AllTrailsPatch, CachefixPatch, CydiaSubstrate, NewFix1, NewFix2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/AllTrails.Pro.26.2.11.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nAllTrails | Tweak made by Никита | Minimum OS version 17.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/f0/76/01f0762b-543e-1d26-f0b9-049dddc71f86/AppIcon_Solid-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 118928114,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "aps-environment",
+          "com.apple.developer.networking.carrier-constrained.appcategory"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "AllTrails needs access to your photo library so you can upload photos",
+          "NSCameraUsageDescription": "This allows you to take profile photos, as well as identifying plants along the trail",
+          "NSLocationWhenInUseUsageDescription": "AllTrails uses your location to find trails near you.",
+          "NSLocationAlwaysUsageDescription": "AllTrails uses your location to find trails near you.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "AllTrails uses your location to find trails near you.",
+          "NSContactsUsageDescription": "AllTrails uploads your contacts to our servers to help you find friends in Community and select Live Share safety contacts.",
+          "NSCalendarsUsageDescription": "AllTrails ads may offer to create reminders",
+          "NSHealthShareUsageDescription": "AllTrails will write summaries of your recordings to the Health app.",
+          "NSHealthUpdateUsageDescription": "AllTrails will write summaries of your recordings to the Health app.",
+          "NSBluetoothPeripheralUsageDescription": "AllTrails needs access to Bluetooth to communicate with the AllTrails watch app",
+          "NSPhotoLibraryAddUsageDescription": "AllTrails needs access to your photo library so you can save photos"
+        }
+      },
+      "versions": [
+        {
+          "version": "26.2.11",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: AllTrailsPatch, CachefixPatch, CydiaSubstrate, NewFix1, NewFix2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/AllTrails.Pro.26.2.11.ipa",
+          "size": 118928114
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
       "name": "Aloha",
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
       "developerName": "Aloha Mobile",
@@ -1719,6 +1767,54 @@
     },
     {
       "name": "Apollo",
+      "bundleIdentifier": "com.food.Apollo",
+      "developerName": "Christian Selig",
+      "subtitle": "Tweaked with ApolloImprovedCustomApi, CydiaSubstrate",
+      "version": "1.15.11",
+      "versionDate": "2025-12-31",
+      "versionDescription": "Tweaks: ApolloImprovedCustomApi, CydiaSubstrate, RedditSideloadFix, substrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Apollo_1.15.11_1721981181.ipa",
+      "localizedDescription": "Apollo for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 88294649,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.group-session",
+          "com.apple.developer.weatherkit",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Used to save media or to select images to upload for sharing.",
+          "NSCameraUsageDescription": "Used to take photos to upload for sharing.",
+          "NSLocationWhenInUseUsageDescription": "Checked once to calculate sunset/sunrise times for the location.",
+          "NSMotionUsageDescription": "Detect rotations in Media Viewer and offer corresponding options.",
+          "NSFaceIDUsageDescription": "Unlock Apollo when re-opening in order to prevent unauthorized access.",
+          "NSPhotoLibraryAddUsageDescription": "Save media to photo library."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.15.11",
+          "date": "2025-12-31",
+          "localizedDescription": "Tweaks: ApolloImprovedCustomApi, CydiaSubstrate, RedditSideloadFix, substrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Apollo_1.15.11_1721981181.ipa",
+          "size": 88294649
+        }
+      ],
+      "category": "news"
+    },
+    {
+      "name": "Apollo",
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
       "subtitle": "Tweaked with ApolloImprovedCustomApi, FLEX",
@@ -1775,54 +1871,6 @@
           "localizedDescription": "Tweaks: ApolloImprovedCustomApi, CydiaSubstrate, RedditSideloadFix\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-4/ApolloICAPI-1.0.11-zxcvbn.ipa",
           "size": 87152034
-        }
-      ],
-      "category": "news"
-    },
-    {
-      "name": "Apollo",
-      "bundleIdentifier": "com.food.Apollo",
-      "developerName": "Christian Selig",
-      "subtitle": "Tweaked with ApolloImprovedCustomApi, CydiaSubstrate",
-      "version": "1.15.11",
-      "versionDate": "2025-12-31",
-      "versionDescription": "Tweaks: ApolloImprovedCustomApi, CydiaSubstrate, RedditSideloadFix, substrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Apollo_1.15.11_1721981181.ipa",
-      "localizedDescription": "Apollo for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 88294649,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b0/51/91/b05191fe-4de5-618e-2321-bb37fda664a7/mzl.hydioibs.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/81/72/9a/81729aa6-312b-592a-ba94-5dbd15729229/mzl.migccnfh.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/6d/3b/c86d3b98-22c4-7c40-01a8-e6702d038deb/mzl.ljkxslvt.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/c3/ad/95c3ad3d-07ea-9569-4f85-ed6b1125e56e/mzl.uihfwjbv.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/34/46/78/344678ba-13ac-c539-627f-0715f6202959/mzl.vmzurxxj.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.group-session",
-          "com.apple.developer.weatherkit",
-          "aps-environment",
-          "com.apple.developer.associated-domains",
-          "com.apple.security.application-groups"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Used to save media or to select images to upload for sharing.",
-          "NSCameraUsageDescription": "Used to take photos to upload for sharing.",
-          "NSLocationWhenInUseUsageDescription": "Checked once to calculate sunset/sunrise times for the location.",
-          "NSMotionUsageDescription": "Detect rotations in Media Viewer and offer corresponding options.",
-          "NSFaceIDUsageDescription": "Unlock Apollo when re-opening in order to prevent unauthorized access.",
-          "NSPhotoLibraryAddUsageDescription": "Save media to photo library."
-        }
-      },
-      "versions": [
-        {
-          "version": "1.15.11",
-          "date": "2025-12-31",
-          "localizedDescription": "Tweaks: ApolloImprovedCustomApi, CydiaSubstrate, RedditSideloadFix, substrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Apollo_1.15.11_1721981181.ipa",
-          "size": 88294649
         }
       ],
       "category": "news"
@@ -3607,6 +3655,73 @@
     },
     {
       "name": "BlackHole",
+      "bundleIdentifier": "com.progmore.blackhole-splitter",
+      "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
+      "subtitle": "Tweaked with Ad, loaderfix",
+      "version": "15",
+      "versionDate": "2026-02-05",
+      "versionDescription": "Tweaks: Ad, loaderfix, substrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/BlackHole_15_1766722385.ipa",
+      "localizedDescription": "BlackHole for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/9f/0d/c69f0d95-2014-abdc-7534-b3cb7a61ad50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 12375527,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/b2/1c/2fb21cdf-07d6-eb34-be45-d7d0e12c2bb8/cec4bc5c-97c6-4e47-8dd9-9e27b2a9d75c_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-04-16_at_09.38.23.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/73/cf/8573cf27-c6ff-962e-7ccc-e12cc61ed6fa/e78c6138-3a29-4a92-95a8-6a9495b5ac20_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-04-16_at_09.43.38.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.authentication-services.autofill-credential-provider",
+          "com.apple.developer.ClassKit-environment",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.homekit",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.icloud-container-development-container-identifiers",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "inter-app-audio",
+          "com.apple.developer.networking.multipath",
+          "com.apple.developer.networking.networkextension",
+          "com.apple.developer.nfc.readersession.formats",
+          "aps-environment",
+          "com.apple.developer.siri",
+          "com.apple.external-accessory.wireless-configuration",
+          "com.apple.developer.coremedia.hls.low-latency",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.healthkit.recalibrate-estimates",
+          "com.apple.developer.weatherkit",
+          "com.apple.developer.kernel.increased-debugging-memory-limit",
+          "com.apple.developer.game-center",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.user-fonts",
+          "com.apple.developer.applesignin"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "We need access to your photo library to upload photos to our app.",
+          "NSUserTrackingUsageDescription": "We use your data to provide personalized advertisements that are relevant to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "15",
+          "date": "2025-09-30",
+          "localizedDescription": "Tweaks: Ad, loaderfix, substrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/BlackHole_15_1766722385.ipa",
+          "size": 12375527
+        }
+      ],
+      "category": "utilities"
+    },
+    {
+      "name": "BlackHole",
       "bundleIdentifier": "com.shadow.blackhole.ios.15.11.2",
       "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
       "subtitle": "BlackHole for iOS",
@@ -3676,73 +3791,6 @@
           "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01/BlackHole-v1.15.10-ios.ipa",
           "size": 17380366
-        }
-      ],
-      "category": "utilities"
-    },
-    {
-      "name": "BlackHole",
-      "bundleIdentifier": "com.progmore.blackhole-splitter",
-      "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
-      "subtitle": "Tweaked with Ad, loaderfix",
-      "version": "15",
-      "versionDate": "2026-02-05",
-      "versionDescription": "Tweaks: Ad, loaderfix, substrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/BlackHole_15_1766722385.ipa",
-      "localizedDescription": "BlackHole for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/9f/0d/c69f0d95-2014-abdc-7534-b3cb7a61ad50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 12375527,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/b2/1c/2fb21cdf-07d6-eb34-be45-d7d0e12c2bb8/cec4bc5c-97c6-4e47-8dd9-9e27b2a9d75c_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-04-16_at_09.38.23.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/73/cf/8573cf27-c6ff-962e-7ccc-e12cc61ed6fa/e78c6138-3a29-4a92-95a8-6a9495b5ac20_Simulator_Screenshot_-_iPhone_8_Plus_-_2024-04-16_at_09.43.38.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.authentication-services.autofill-credential-provider",
-          "com.apple.developer.ClassKit-environment",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.healthkit.access",
-          "com.apple.developer.homekit",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.icloud-container-development-container-identifiers",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "inter-app-audio",
-          "com.apple.developer.networking.multipath",
-          "com.apple.developer.networking.networkextension",
-          "com.apple.developer.nfc.readersession.formats",
-          "aps-environment",
-          "com.apple.developer.siri",
-          "com.apple.external-accessory.wireless-configuration",
-          "com.apple.developer.coremedia.hls.low-latency",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.healthkit.recalibrate-estimates",
-          "com.apple.developer.weatherkit",
-          "com.apple.developer.kernel.increased-debugging-memory-limit",
-          "com.apple.developer.game-center",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.developer.healthkit.background-delivery",
-          "com.apple.developer.user-fonts",
-          "com.apple.developer.applesignin"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "We need access to your photo library to upload photos to our app.",
-          "NSUserTrackingUsageDescription": "We use your data to provide personalized advertisements that are relevant to you."
-        }
-      },
-      "versions": [
-        {
-          "version": "15",
-          "date": "2025-09-30",
-          "localizedDescription": "Tweaks: Ad, loaderfix, substrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/BlackHole_15_1766722385.ipa",
-          "size": 12375527
         }
       ],
       "category": "utilities"
@@ -5320,6 +5368,57 @@
     },
     {
       "name": "Canary",
+      "bundleIdentifier": "Mailroom.Canary-iOS",
+      "developerName": "Cartasec Pte. Ltd.",
+      "subtitle": "Canary-10-24",
+      "version": "4.44",
+      "versionDate": "2026-01-31",
+      "versionDescription": "Tweaks: CanaryUnlocked\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-6/CanaryPro-4.44-zxcvbn.ipa",
+      "localizedDescription": "Canary-10-24\n\n- updated canary to v4.44\n— a nice email client with pgp support.\n- info:\n@zxcvbntweaked | requires iOS >=13.0 | request cracks",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/c7/2a/8ac72af2-e172-59c5-e1cf-cb5a0de56637/iOS_App_Icons-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 54912304,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/fe/7f/06fe7f3f-91fa-585f-10c4-06b1ac584f31/iPhone_1242x2208-01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/28/8e/9c288e5e-9818-e35a-9cba-6ebc74f60384/4e41ea39-8906-4850-99da-20db56b08700_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/99/1c/07991c90-06ae-c549-ae2c-0b18cbab20e5/iPhone_1242x2208-03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/67/ed/e767edfc-65a5-64b8-12cc-1f2d33d02e07/077af864-57c6-4305-82a0-dd587105fcd4_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/54/52/ff545206-22e3-57de-733f-d0e0127d7b32/5b2f7f1c-e0e1-4d70-a1e9-f4d74a0fc68a_5.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.usernotifications.communication",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.siri",
+          "com.apple.developer.mail-client",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "For attaching images to emails or setting them as account icons",
+          "NSCameraUsageDescription": "For adding image attachments to support tickets",
+          "NSContactsUsageDescription": "Access to your contacts will make sending your emails easier",
+          "NSCalendarsUsageDescription": "To enable you to add and update events from your emails",
+          "NSFaceIDUsageDescription": "For locking the app when it enters background",
+          "NSPhotoLibraryAddUsageDescription": "For taking images and sending them via email"
+        }
+      },
+      "versions": [
+        {
+          "version": "4.44",
+          "date": "2026-01-31",
+          "localizedDescription": "Tweaks: CanaryUnlocked\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-6/CanaryPro-4.44-zxcvbn.ipa",
+          "size": 54912304
+        }
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "Canary",
       "bundleIdentifier": "Mailroom.Canary-iOS.5AF666",
       "developerName": "Canary Connect",
       "subtitle": "Tweaked with CanaryUnlocked, CydiaSubstrate",
@@ -5378,57 +5477,6 @@
         }
       ],
       "category": "lifestyle"
-    },
-    {
-      "name": "Canary",
-      "bundleIdentifier": "Mailroom.Canary-iOS",
-      "developerName": "Cartasec Pte. Ltd.",
-      "subtitle": "Canary-10-24",
-      "version": "4.44",
-      "versionDate": "2026-01-31",
-      "versionDescription": "Tweaks: CanaryUnlocked\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-6/CanaryPro-4.44-zxcvbn.ipa",
-      "localizedDescription": "Canary-10-24\n\n- updated canary to v4.44\n— a nice email client with pgp support.\n- info:\n@zxcvbntweaked | requires iOS >=13.0 | request cracks",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/c7/2a/8ac72af2-e172-59c5-e1cf-cb5a0de56637/iOS_App_Icons-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 54912304,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/fe/7f/06fe7f3f-91fa-585f-10c4-06b1ac584f31/iPhone_1242x2208-01.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/28/8e/9c288e5e-9818-e35a-9cba-6ebc74f60384/4e41ea39-8906-4850-99da-20db56b08700_2.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/99/1c/07991c90-06ae-c549-ae2c-0b18cbab20e5/iPhone_1242x2208-03.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/67/ed/e767edfc-65a5-64b8-12cc-1f2d33d02e07/077af864-57c6-4305-82a0-dd587105fcd4_4.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/54/52/ff545206-22e3-57de-733f-d0e0127d7b32/5b2f7f1c-e0e1-4d70-a1e9-f4d74a0fc68a_5.jpg/392x696bb.jpg"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.usernotifications.communication",
-          "aps-environment",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.siri",
-          "com.apple.developer.mail-client",
-          "com.apple.security.application-groups"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "For attaching images to emails or setting them as account icons",
-          "NSCameraUsageDescription": "For adding image attachments to support tickets",
-          "NSContactsUsageDescription": "Access to your contacts will make sending your emails easier",
-          "NSCalendarsUsageDescription": "To enable you to add and update events from your emails",
-          "NSFaceIDUsageDescription": "For locking the app when it enters background",
-          "NSPhotoLibraryAddUsageDescription": "For taking images and sending them via email"
-        }
-      },
-      "versions": [
-        {
-          "version": "4.44",
-          "date": "2026-01-31",
-          "localizedDescription": "Tweaks: CanaryUnlocked\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-6/CanaryPro-4.44-zxcvbn.ipa",
-          "size": 54912304
-        }
-      ],
-      "category": "productivity"
     },
     {
       "name": "CapCut",
@@ -10508,6 +10556,87 @@
     },
     {
       "name": "ESign",
+      "bundleIdentifier": "KZ8MJR464R.k.xyz.yyyue.esign",
+      "developerName": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
+      "subtitle": "ESign for iOS",
+      "version": "5.0.0",
+      "versionDate": "2025-12-31",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/ESign_5.0.0_1725982229.ipa",
+      "localizedDescription": "ESign for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/be/54/dfbe5444-5035-8ec3-c243-97ce0554bb60/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 15024026,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/0c/1e/800c1e59-befb-d461-6dae-194672a4d011/9ad98e96-4bd9-481f-9186-018fe2f2f599_ipone6-_U538b_U7f29.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/be/c7/70/bec7708d-7c43-841d-cd4f-6d61e451a5a0/238e69df-f661-46e6-915b-294c4fdbb9b3_ipone6-_U6587_U4ef6_U4e92_U4f20.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/0c/10/b10c1091-a3e6-d472-dbf2-1d8b0a77891c/ffc07754-4e7f-4f13-aa23-f3da5e81a9d6_ipone6-pdf.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/2c/a0/5e2ca07a-d276-ce00-a886-11dac05052e7/9c61da34-c958-4fad-aa53-f61c205a1ab2_ipone6-_U500d_U901f.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/24/e5/8724e530-1b14-8fe4-ee2d-a2d817742eb1/669bd453-2656-4ea7-8d70-af2170499678_ipone6-_U6697_U9ed1.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.journal.allow",
+          "com.apple.developer.push-to-talk",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.security.application-groups",
+          "com.apple.developer.authentication-services.autofill-credential-provider",
+          "com.apple.developer.ClassKit-environment",
+          "com.apple.developer.sustained-execution",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.developer.homekit",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.managed-app-distribution.install-ui",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "inter-app-audio",
+          "com.apple.developer.networking.multipath",
+          "com.apple.developer.networking.networkextension",
+          "com.apple.developer.nfc.readersession.formats",
+          "aps-environment",
+          "com.apple.developer.sensitivecontentanalysis.client",
+          "com.apple.developer.siri",
+          "com.apple.developer.group-session",
+          "com.apple.developer.coremedia.hls.interstitial-preview",
+          "com.apple.developer.coremedia.hls.low-latency",
+          "com.apple.developer.shared-with-you",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.shared-with-you.collaboration",
+          "com.apple.developer.networking.slicing.appcategory",
+          "com.apple.developer.networking.slicing.trafficcategory",
+          "com.apple.developer.healthkit.recalibrate-estimates",
+          "com.apple.developer.media-device-discovery-extension",
+          "com.apple.developer.weatherkit",
+          "com.apple.developer.game-center",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.healthkit.background-delivery",
+          "com.apple.developer.user-fonts",
+          "com.apple.developer.applesignin"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "授权后才能访问您的手机相册，您才能上传对应的图片",
+          "NSCameraUsageDescription": "授权后才能使用您的相机进行扫一扫",
+          "NSLocationWhenInUseUsageDescription": "开启定位服务，我们将根据您的位置,为您提供相关信息。在未经许可前不会开启定位服务，请放心使用。",
+          "NSAppleMusicUsageDescription": "点允许，才能使用。",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you",
+          "NSPhotoLibraryAddUsageDescription": "授权后才能将图片保存到本地相册"
+        }
+      },
+      "versions": [
+        {
+          "version": "5.0.0",
+          "date": "2025-12-31",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/ESign_5.0.0_1725982229.ipa",
+          "size": 15024026
+        }
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "ESign",
       "bundleIdentifier": "nologs.xyz.yyyue.esign",
       "developerName": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
       "subtitle": "ESign for iOS",
@@ -10608,87 +10737,6 @@
           "localizedDescription": "Source: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-7/esign_5.0.0_unsigned.ipa",
           "size": 7168267
-        }
-      ],
-      "category": "productivity"
-    },
-    {
-      "name": "ESign",
-      "bundleIdentifier": "KZ8MJR464R.k.xyz.yyyue.esign",
-      "developerName": "Beijing Xiaoxiong Bowang Technology Co., Ltd.",
-      "subtitle": "ESign for iOS",
-      "version": "5.0.0",
-      "versionDate": "2025-12-31",
-      "versionDescription": "Source: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/ESign_5.0.0_1725982229.ipa",
-      "localizedDescription": "ESign for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/be/54/dfbe5444-5035-8ec3-c243-97ce0554bb60/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 15024026,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/0c/1e/800c1e59-befb-d461-6dae-194672a4d011/9ad98e96-4bd9-481f-9186-018fe2f2f599_ipone6-_U538b_U7f29.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/be/c7/70/bec7708d-7c43-841d-cd4f-6d61e451a5a0/238e69df-f661-46e6-915b-294c4fdbb9b3_ipone6-_U6587_U4ef6_U4e92_U4f20.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/0c/10/b10c1091-a3e6-d472-dbf2-1d8b0a77891c/ffc07754-4e7f-4f13-aa23-f3da5e81a9d6_ipone6-pdf.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/2c/a0/5e2ca07a-d276-ce00-a886-11dac05052e7/9c61da34-c958-4fad-aa53-f61c205a1ab2_ipone6-_U500d_U901f.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/24/e5/8724e530-1b14-8fe4-ee2d-a2d817742eb1/669bd453-2656-4ea7-8d70-af2170499678_ipone6-_U6697_U9ed1.jpg/392x696bb.jpg"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.journal.allow",
-          "com.apple.developer.push-to-talk",
-          "com.apple.developer.networking.wifi-info",
-          "com.apple.security.application-groups",
-          "com.apple.developer.authentication-services.autofill-credential-provider",
-          "com.apple.developer.ClassKit-environment",
-          "com.apple.developer.sustained-execution",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.healthkit.access",
-          "com.apple.developer.homekit",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.managed-app-distribution.install-ui",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "inter-app-audio",
-          "com.apple.developer.networking.multipath",
-          "com.apple.developer.networking.networkextension",
-          "com.apple.developer.nfc.readersession.formats",
-          "aps-environment",
-          "com.apple.developer.sensitivecontentanalysis.client",
-          "com.apple.developer.siri",
-          "com.apple.developer.group-session",
-          "com.apple.developer.coremedia.hls.interstitial-preview",
-          "com.apple.developer.coremedia.hls.low-latency",
-          "com.apple.developer.shared-with-you",
-          "com.apple.developer.devicecheck.appattest-environment",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.shared-with-you.collaboration",
-          "com.apple.developer.networking.slicing.appcategory",
-          "com.apple.developer.networking.slicing.trafficcategory",
-          "com.apple.developer.healthkit.recalibrate-estimates",
-          "com.apple.developer.media-device-discovery-extension",
-          "com.apple.developer.weatherkit",
-          "com.apple.developer.game-center",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "com.apple.developer.healthkit.background-delivery",
-          "com.apple.developer.user-fonts",
-          "com.apple.developer.applesignin"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "授权后才能访问您的手机相册，您才能上传对应的图片",
-          "NSCameraUsageDescription": "授权后才能使用您的相机进行扫一扫",
-          "NSLocationWhenInUseUsageDescription": "开启定位服务，我们将根据您的位置,为您提供相关信息。在未经许可前不会开启定位服务，请放心使用。",
-          "NSAppleMusicUsageDescription": "点允许，才能使用。",
-          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you",
-          "NSPhotoLibraryAddUsageDescription": "授权后才能将图片保存到本地相册"
-        }
-      },
-      "versions": [
-        {
-          "version": "5.0.0",
-          "date": "2025-12-31",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/ESign_5.0.0_1725982229.ipa",
-          "size": 15024026
         }
       ],
       "category": "productivity"
@@ -14552,6 +14600,39 @@
       "category": "education"
     },
     {
+      "name": "GREC",
+      "bundleIdentifier": "com.igliverec.app",
+      "developerName": "Martynas Ramonas",
+      "subtitle": "Pro Features Unlocked",
+      "version": "4.7.1",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/GREC.Pro.4.7.1.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nGREC - Live Video Recorder | Minimum OS version 15.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/86/16/91/86169110-3c87-99c5-464e-f127950e06f4/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 26209810,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow access to photos to store downloaded recordings to your library",
+          "NSCameraUsageDescription": "Need camera access for read credit card.",
+          "NSUserTrackingUsageDescription": "We use this data to provide you with a personalized experience."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.7.1",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/GREC.Pro.4.7.1.ipa",
+          "size": 26209810
+        }
+      ],
+      "category": "utilities"
+    },
+    {
       "name": "Grok",
       "bundleIdentifier": "ai.x.GrokApp",
       "developerName": "xAI",
@@ -17586,6 +17667,49 @@
       "category": "education"
     },
     {
+      "name": "KeyLifts",
+      "bundleIdentifier": "org.borrowedcache.ultimate531",
+      "developerName": "Strongomatic, LLC",
+      "subtitle": "Pro Features Unlocked",
+      "version": "5.18.0",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: KeyLiftsPro\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/KeyLifts.Pro.5.18.0.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nKeyLifts - 531 Workout Log | Minimum OS version 15.6",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/8d/6c/608d6c0b-e1a8-fa54-b311-e3e4cfdbc93c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 30076557,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/23/8f/60/238f607d-18ca-bd9d-e2fa-2b4a6e769509/f32cfcde-cc26-42c4-856d-86f12d237366_5.5_cycles.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/70/af/a8/70afa8df-5b36-9335-b847-7103780c205e/b03cb925-9243-4d99-ac5f-070f16c807f5_5.5_plate_calculator.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/01/c0/4701c0a9-a332-c9d3-79d8-96b4a0458448/d772e48e-12fc-482b-aa8c-31f4b767b2b8_5.5_programs.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/d8/ce/4ad8cef2-c467-037b-71b6-da784f9d8afc/b41e16c9-540f-4933-8f45-d152d5d53b12_5.5_progress.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/09/98/66/0998668b-73f7-8bae-4a3f-b297ea6daa8c/57e725bc-7c7c-4a4a-af40-400656063d1c_5.5_progressions.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Attach photos for support requests",
+          "NSCameraUsageDescription": "Attach photos and videos to support request",
+          "NSMicrophoneUsageDescription": "Attach videos for support requests",
+          "NSLocationWhenInUseUsageDescription": "App wants access to location when in use.",
+          "NSHealthShareUsageDescription": "Read and understand health data.",
+          "NSHealthUpdateUsageDescription": "Share workout data with other apps.",
+          "NSPhotoLibraryAddUsageDescription": "Save image to your device"
+        }
+      },
+      "versions": [
+        {
+          "version": "5.18.0",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: KeyLiftsPro\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/KeyLifts.Pro.5.18.0.ipa",
+          "size": 30076557
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
       "name": "KineMaster",
       "bundleIdentifier": "com.kinemaster.kios",
       "developerName": "KineMaster Corporation",
@@ -18641,49 +18765,6 @@
     },
     {
       "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobile",
-      "developerName": "Adobe Inc.",
-      "subtitle": "Satella",
-      "version": "10.3.0",
-      "versionDate": "2026-01-15",
-      "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, YourTweakName\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-9/Lightroom_10.3.0_Satella_Melon.ipa",
-      "localizedDescription": "Satella\n\nAdobe Lightroom for iPad 10.3.0 - com.adobe.lrmobile\n- A professional photo and video editor offering powerful tools like AI-powered enhancements, over 200 premium presets, and seamless cloud syncing across devices.\n- Satella added to buy premium\n- By @melonn01 (",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/06/a0/4c06a08d-2a25-4e70-bcc2-fa629dcb9056/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 174468016,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/fc/ef/dafcefd8-5f88-dd72-aa5f-becb035c3abd/bdf85b35-761a-4e66-8033-f3ee173dc55a_01_LrCC_Apple_iPad_2732x2048_EN-US.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/6c/81/0e6c8183-599d-89d1-2f42-da7e02872e46/af69f593-27f6-47c1-8db7-b01e05e14b76_AIRemove_LrCC_Apple_iPad_2732x2048_EN-US.jpg/552x414bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/04/5d/93045d2a-9cff-8f8c-fd23-c68758f2cbff/c5172fd8-efae-4d15-a5d6-7710e80c26e9_Blur_LrCC_Apple_iPad_2732x2048_EN-US.jpg/552x414bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/3d/68/033d687e-aa2b-5477-56d8-9f4f72e67e69/4e115994-48a0-42e1-80bc-5e77997e1845_04_LrCC_Apple_iPad_2732x2048_EN-US.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/21/0e/93210eda-17df-0775-1ea6-30d4dcd80d68/3d8b2da6-e2e3-4dc5-b8af-3418b2749a22_05_LrCC_Apple_iPad_2732x2048_EN-US.png/552x414bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Lightroom needs access to the photos on your device so you can browse and edit them.",
-          "NSCameraUsageDescription": "This allows you to take photos directly into Lightroom for immediate editing and sharing.",
-          "NSLocationWhenInUseUsageDescription": "This allows photos to be geotagged.",
-          "NSLocationAlwaysUsageDescription": "This allows to upload photos in the background.",
-          "NSContactsUsageDescription": "This allows you to assign photos to contacts.",
-          "NSLocalNetworkUsageDescription": "Lightroom uses the local network to download pictures faster if you have another device with the same catalog in this network",
-          "NSPhotoLibraryAddUsageDescription": "This allows to save photos."
-        }
-      },
-      "versions": [
-        {
-          "version": "10.3.0",
-          "date": "2026-01-15",
-          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, YourTweakName\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-9/Lightroom_10.3.0_Satella_Melon.ipa",
-          "size": 174468016
-        }
-      ],
-      "category": "photo-&-video"
-    },
-    {
-      "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "Adobe Inc.",
       "subtitle": "Subscription Unlocked | Patched",
@@ -18745,6 +18826,49 @@
           "localizedDescription": "Tweaks: FilePickerFix, Lightroom, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/Lightroom_AI_Photo_Editor_v11_0_1_Subscription_Unlocked_blatant.ipa",
           "size": 196607458
+        }
+      ],
+      "category": "photo-&-video"
+    },
+    {
+      "name": "Lightroom",
+      "bundleIdentifier": "com.adobe.lrmobile",
+      "developerName": "Adobe Inc.",
+      "subtitle": "Satella",
+      "version": "10.3.0",
+      "versionDate": "2026-01-15",
+      "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, YourTweakName\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-9/Lightroom_10.3.0_Satella_Melon.ipa",
+      "localizedDescription": "Satella\n\nAdobe Lightroom for iPad 10.3.0 - com.adobe.lrmobile\n- A professional photo and video editor offering powerful tools like AI-powered enhancements, over 200 premium presets, and seamless cloud syncing across devices.\n- Satella added to buy premium\n- By @melonn01 (",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/06/a0/4c06a08d-2a25-4e70-bcc2-fa629dcb9056/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 174468016,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/fc/ef/dafcefd8-5f88-dd72-aa5f-becb035c3abd/bdf85b35-761a-4e66-8033-f3ee173dc55a_01_LrCC_Apple_iPad_2732x2048_EN-US.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/6c/81/0e6c8183-599d-89d1-2f42-da7e02872e46/af69f593-27f6-47c1-8db7-b01e05e14b76_AIRemove_LrCC_Apple_iPad_2732x2048_EN-US.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/04/5d/93045d2a-9cff-8f8c-fd23-c68758f2cbff/c5172fd8-efae-4d15-a5d6-7710e80c26e9_Blur_LrCC_Apple_iPad_2732x2048_EN-US.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/3d/68/033d687e-aa2b-5477-56d8-9f4f72e67e69/4e115994-48a0-42e1-80bc-5e77997e1845_04_LrCC_Apple_iPad_2732x2048_EN-US.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/21/0e/93210eda-17df-0775-1ea6-30d4dcd80d68/3d8b2da6-e2e3-4dc5-b8af-3418b2749a22_05_LrCC_Apple_iPad_2732x2048_EN-US.png/552x414bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Lightroom needs access to the photos on your device so you can browse and edit them.",
+          "NSCameraUsageDescription": "This allows you to take photos directly into Lightroom for immediate editing and sharing.",
+          "NSLocationWhenInUseUsageDescription": "This allows photos to be geotagged.",
+          "NSLocationAlwaysUsageDescription": "This allows to upload photos in the background.",
+          "NSContactsUsageDescription": "This allows you to assign photos to contacts.",
+          "NSLocalNetworkUsageDescription": "Lightroom uses the local network to download pictures faster if you have another device with the same catalog in this network",
+          "NSPhotoLibraryAddUsageDescription": "This allows to save photos."
+        }
+      },
+      "versions": [
+        {
+          "version": "10.3.0",
+          "date": "2026-01-15",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, YourTweakName\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-9/Lightroom_10.3.0_Satella_Melon.ipa",
+          "size": 174468016
         }
       ],
       "category": "photo-&-video"
@@ -19198,15 +19322,15 @@
       "name": "Locket",
       "bundleIdentifier": "com.locket.Locket",
       "developerName": "Locket Labs, Inc.",
-      "subtitle": "** Locket_Gold",
-      "version": "1.101.0",
-      "versionDate": "2026-01-06",
-      "versionDescription": "Tweaks: AutoRevenueCat, CydiaSubstrate\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-6/Locket_v1.101.0_Locket_Gold_blatant.ipa",
-      "localizedDescription": "** Locket_Gold\n\nLocket Widget\ncom.locket.Locket\nCategory: Social Networking\nLocketGold\nTo make the widgets/app work with certificates > Read.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/b5/ce/f1b5ce36-c4e3-ae84-c421-1a69d35b5687/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "subtitle": "Patched | Tweaked",
+      "version": "2.32.1",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Locket.Widget.v2.32.1.Locket.Gold.blatant.Patched.ipa",
+      "localizedDescription": "Patched | Tweaked\n\nLocket Widget | Locket Gold",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/02/5d/43025dfb-13ef-2709-9535-20214923d6d6/app_icon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 119763630,
+      "size": 337888483,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -19233,6 +19357,20 @@
       },
       "versions": [
         {
+          "version": "2.32.1",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Locket.Widget.v2.32.1.Locket.Gold.blatant.Patched.ipa",
+          "size": 337888483
+        },
+        {
+          "version": "2.32.0",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Locket.Widget.v2.32.0.Locket.Gold.blatant.Patched.ipa",
+          "size": 337874337
+        },
+        {
           "version": "1.101.0",
           "date": "2026-01-06",
           "localizedDescription": "Tweaks: AutoRevenueCat, CydiaSubstrate\n\nSource: @blatants",
@@ -19245,13 +19383,6 @@
           "localizedDescription": "Tweaks: AutoRevenueCat, CydiaSubstrate\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/Locket_v1.100.0_Locket_Gold_blatant.ipa",
           "size": 110257383
-        },
-        {
-          "version": "1.99.0",
-          "date": "2026-01-07",
-          "localizedDescription": "Tweaks: AutoRevenueCat, CydiaSubstrate\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/Locket_v1.99.0_Locket_Gold_blatant.ipa",
-          "size": 106597817
         }
       ],
       "category": "social-networking"
@@ -20067,15 +20198,15 @@
       "name": "Mercury",
       "bundleIdentifier": "com.tripleglazedstudios.Weather",
       "developerName": "Triple Glazed Studios",
-      "subtitle": "Premium Unlocked | Patched",
+      "subtitle": "Pro Unlocked",
       "version": "3.3",
-      "versionDate": "2026-02-07",
-      "versionDescription": "Tweaks: MercuryWeather, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Mercury.Weather.v3.3.Premium.Unlocked.blatant.Patched.ipa",
-      "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nMercury Weather\nPremium Unlocked\nWidgets work when installed with a certificate with Appgroups enabled.",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: Mercury1, Mercury2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Mercury.Weather.Pro.3.3.ipa",
+      "localizedDescription": "Pro Unlocked\n\nMercury Weather | Pro unlocked | Minimum OS version 16.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/37/1a/bf371ae0-6c3b-496a-90c4-26c38944ec2e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 58436975,
+      "size": 55739644,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/8c/0f/018c0f45-a584-4486-810a-9663390bab69/a82e0142-1870-4263-803d-2171428787e1_Screen_1.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/aa/61/19aa61af-c94c-9c9f-5efb-e927cfa6cf68/60a27770-4683-4b4d-a3cb-f43bc602daf4_Screen_2.png/552x414bb.png",
@@ -20092,6 +20223,13 @@
       "versions": [
         {
           "version": "3.3",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: Mercury1, Mercury2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Mercury.Weather.Pro.3.3.ipa",
+          "size": 55739644
+        },
+        {
+          "version": "3.3b",
           "date": "2026-02-07",
           "localizedDescription": "Tweaks: MercuryWeather, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Mercury.Weather.v3.3.Premium.Unlocked.blatant.Patched.ipa",
@@ -21398,9 +21536,9 @@
       "developerName": "Loop Apps LTDA",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
       "version": "1.6.4",
-      "versionDate": "2026-02-07",
+      "versionDate": "2026-02-08",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/MusicBox.Save.Music.for.Later-v1.6.4-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/MusicBox.Save.Music.for.Later-v1.6.4-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nMusicBox: Save Music for Later | Subscription Unlocked | Patched ✓ | Additional Information ℹ️",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/0e/a7/450ea739-9510-d010-99d7-b2e86fda3e17/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
@@ -21426,6 +21564,20 @@
       "versions": [
         {
           "version": "1.6.4",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/MusicBox.Save.Music.for.Later-v1.6.4-riftysipas.ipa",
+          "size": 20686949
+        },
+        {
+          "version": "1.6.4b",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/MusicBox.Save.Music.for.Later-v1.6.4-riftysipas.ipa",
+          "size": 20686949
+        },
+        {
+          "version": "1.6.4c",
           "date": "2026-02-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/MusicBox.Save.Music.for.Later-v1.6.4-riftysipas.ipa",
@@ -22281,6 +22433,60 @@
       "category": "productivity"
     },
     {
+      "name": "NoteCircle",
+      "bundleIdentifier": "com.thegenau.NoteCircle",
+      "developerName": "Genau Factory",
+      "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
+      "version": "4.52",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/NoteCircle.To.Do.Checklist-v4.52-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nNoteCircle: To Do, Checklist | Plus Unlocked | Patched ✓ | Additional Information ℹ️",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ca/be/75cabe72-1de0-8128-c536-0103195dfc86/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 15547557,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/88/b2/d188b28b-9a96-d28c-c7dd-6da00caedede/29264c3a-fedc-41ea-b7c1-768c18e08e52_NC-ipad-1.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/30/f1/8a30f1ec-c156-4cc8-2e90-90658283211f/39476541-e32d-4c58-8b33-6a12320f360f_NC-ipad-2.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/75/bf/e975bfd7-4be6-2eb9-9643-c6ad2ba607d7/c0944657-0fd2-4c44-8121-823cb3432072_NC-ipad-3.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/31/17/b03117ab-5cf2-2c56-cd76-3d3cc6bc450b/513d7cb5-4bcb-4799-813d-96dc229fa6c3_NC-ipad-4.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/9c/ef/989cef11-57f2-9ac9-fa06-7193769ae98d/e2627b7e-acab-4f2e-938b-8503fef1870c_NC-ipad-5.png/576x768bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "NoteCircle needs your permission to access camera",
+          "NSMicrophoneUsageDescription": "NoteCircle needs your permission to access audio",
+          "NSCalendarsUsageDescription": "NoteCircle needs your permission to create events",
+          "NSRemindersUsageDescription": "NoteCircle needs your permission to sync Reminders"
+        }
+      },
+      "versions": [
+        {
+          "version": "4.52",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/NoteCircle.To.Do.Checklist-v4.52-riftysipas.ipa",
+          "size": 15547557
+        },
+        {
+          "version": "4.52b",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/NoteCircle.To.Do.Checklist-v4.52-riftysipas.ipa",
+          "size": 15547557
+        },
+        {
+          "version": "4.52c",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/NoteCircle.To.Do.Checklist-v4.52-riftysipas.ipa",
+          "size": 15547557
+        }
+      ],
+      "category": "productivity"
+    },
+    {
       "name": "Noted",
       "bundleIdentifier": "com.digitalworkroom.noted",
       "developerName": "Digital Workroom Ltd",
@@ -22774,43 +22980,6 @@
     },
     {
       "name": "Offline Games",
-      "bundleIdentifier": "com.media720.offlinegames",
-      "developerName": "720 Media LLC",
-      "subtitle": "*Tweak:** Ads Removed | *Patched ✓**",
-      "version": "1.52",
-      "versionDate": "2026-02-07",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Offline.Games.No.WiFi.Fun.100%2B-v1.52-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Ads Removed | *Patched ✓**\n\nOffline Games No WiFi Fun 100+ | Ads Removed | Patched ✓ | Additional Information ℹ️",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/78/5e/b9785ee0-7352-89c3-054d-3f2ce1da37e7/OfflineGames-AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 202538353,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/87/b9/9987b9a3-02fa-b735-4b26-8abc4bd6e657/379e8963-40be-443a-962d-350f6c4f6f44_new_12.9_3.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/46/ab/3446aba3-fc21-cad5-2ff1-f3fb8c25f895/235ac8a4-ac7d-46aa-a8ed-b73cbb643e55_13_ipad.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/cf/5a/4ecf5a7d-1871-8439-3826-202c0c2d5aec/690dc6c2-5335-4e08-8b5a-c33e67ded76e_13_2_ipad.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/2a/62/512a626b-68d0-fd1b-ec5b-f401536da5f9/45c0c756-5ef6-4947-aba1-fb7514481b88_12.9_4_colorbook.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/69/98/8369987d-2d41-e154-cb22-a14d88200351/74ebccd9-5f18-46f7-901c-bad473bd426e_12.9_4_solit.png/576x768bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSUserTrackingUsageDescription": "Your data will be used to provide you a better and personalised ad experience"
-        }
-      },
-      "versions": [
-        {
-          "version": "1.52",
-          "date": "2026-02-07",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Offline.Games.No.WiFi.Fun.100%2B-v1.52-riftysipas.ipa",
-          "size": 202538353
-        }
-      ],
-      "category": "games"
-    },
-    {
-      "name": "Offline Games",
       "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
       "developerName": "Moreno Maio",
       "subtitle": "No Ads",
@@ -22858,6 +23027,43 @@
           "localizedDescription": "Tweaks: SatellaJailed, zxUpdateNotifier\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29/OfflineGames-V2.11.5-riftysIPAs.ipa",
           "size": 82054554
+        }
+      ],
+      "category": "games"
+    },
+    {
+      "name": "Offline Games",
+      "bundleIdentifier": "com.media720.offlinegames",
+      "developerName": "720 Media LLC",
+      "subtitle": "*Tweak:** Ads Removed | *Patched ✓**",
+      "version": "1.52",
+      "versionDate": "2026-02-07",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Offline.Games.No.WiFi.Fun.100%2B-v1.52-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Ads Removed | *Patched ✓**\n\nOffline Games No WiFi Fun 100+ | Ads Removed | Patched ✓ | Additional Information ℹ️",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/78/5e/b9785ee0-7352-89c3-054d-3f2ce1da37e7/OfflineGames-AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 202538353,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/87/b9/9987b9a3-02fa-b735-4b26-8abc4bd6e657/379e8963-40be-443a-962d-350f6c4f6f44_new_12.9_3.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/46/ab/3446aba3-fc21-cad5-2ff1-f3fb8c25f895/235ac8a4-ac7d-46aa-a8ed-b73cbb643e55_13_ipad.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/cf/5a/4ecf5a7d-1871-8439-3826-202c0c2d5aec/690dc6c2-5335-4e08-8b5a-c33e67ded76e_13_2_ipad.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/2a/62/512a626b-68d0-fd1b-ec5b-f401536da5f9/45c0c756-5ef6-4947-aba1-fb7514481b88_12.9_4_colorbook.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/69/98/8369987d-2d41-e154-cb22-a14d88200351/74ebccd9-5f18-46f7-901c-bad473bd426e_12.9_4_solit.png/576x768bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "Your data will be used to provide you a better and personalised ad experience"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.52",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Offline.Games.No.WiFi.Fun.100%2B-v1.52-riftysipas.ipa",
+          "size": 202538353
         }
       ],
       "category": "games"
@@ -23151,42 +23357,6 @@
     },
     {
       "name": "Opener",
-      "bundleIdentifier": "com.tijo.opener.Opener",
-      "developerName": "tijo, inc.",
-      "subtitle": "Tweaked with zxPluginsInject",
-      "version": "1.14",
-      "versionDate": "2026-01-02",
-      "versionDescription": "Tweaks: zxPluginsInject\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/com.tijo.opener.Opener-1.14-patched.ipa",
-      "localizedDescription": "Opener for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/dd/be/84ddbe6e-b228-5c1a-2a04-c399cdbf8e57/AppIcon-0-0-1x_U007epad-0-5-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 775129,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/98/3f/5a/983f5a71-7468-286b-dbab-29bc44ed54b4/pr_source.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e0/14/1ce01420-043e-7524-dbb7-2adb8f6ead93/pr_source.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/3b/4f/8f3b4fbd-e807-6f17-ae32-ec4efb5f53c7/pr_source.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/64/b1/2564b112-728c-a0f7-fe51-27c42bc53343/pr_source.jpg/392x696bb.jpg"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryAddUsageDescription": "Opener saves photos to your Photo Library upon your request."
-        }
-      },
-      "versions": [
-        {
-          "version": "1.14",
-          "date": "2026-01-02",
-          "localizedDescription": "Tweaks: zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/com.tijo.opener.Opener-1.14-patched.ipa",
-          "size": 775129
-        }
-      ],
-      "category": "utilities"
-    },
-    {
-      "name": "Opener",
       "bundleIdentifier": "pineapplelabs.Opener",
       "developerName": "Big Pineapple LLC",
       "subtitle": "Tweaked with CydiaSubstrate, Satella Jailed",
@@ -23221,6 +23391,42 @@
           "localizedDescription": "Tweaks: zxPluginsInject\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/pineapplelabs.Opener-1.14-eeveedecrypter-patched.ipa",
           "size": 439168
+        }
+      ],
+      "category": "utilities"
+    },
+    {
+      "name": "Opener",
+      "bundleIdentifier": "com.tijo.opener.Opener",
+      "developerName": "tijo, inc.",
+      "subtitle": "Tweaked with zxPluginsInject",
+      "version": "1.14",
+      "versionDate": "2026-01-02",
+      "versionDescription": "Tweaks: zxPluginsInject\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/com.tijo.opener.Opener-1.14-patched.ipa",
+      "localizedDescription": "Opener for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/dd/be/84ddbe6e-b228-5c1a-2a04-c399cdbf8e57/AppIcon-0-0-1x_U007epad-0-5-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 775129,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/98/3f/5a/983f5a71-7468-286b-dbab-29bc44ed54b4/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/e0/14/1ce01420-043e-7524-dbb7-2adb8f6ead93/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/3b/4f/8f3b4fbd-e807-6f17-ae32-ec4efb5f53c7/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/25/64/b1/2564b112-728c-a0f7-fe51-27c42bc53343/pr_source.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "Opener saves photos to your Photo Library upon your request."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.14",
+          "date": "2026-01-02",
+          "localizedDescription": "Tweaks: zxPluginsInject\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/com.tijo.opener.Opener-1.14-patched.ipa",
+          "size": 775129
         }
       ],
       "category": "utilities"
@@ -24258,9 +24464,9 @@
       "developerName": "Harbour City Software Pty Ltd",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
       "version": "8.0",
-      "versionDate": "2026-02-07",
+      "versionDate": "2026-02-08",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Petty.Petrol.Prices.Australia-v8.0-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Petty.Petrol.Prices.Australia-v8.0-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nPetty: Petrol Prices Australia | Premium Unlocked | Patched ✓ | Additional Information ℹ️",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/e1/93/fbe193a1-b95f-fe5a-3f71-17d021a88bdb/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
@@ -24282,6 +24488,20 @@
       "versions": [
         {
           "version": "8.0",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Petty.Petrol.Prices.Australia-v8.0-riftysipas.ipa",
+          "size": 15348493
+        },
+        {
+          "version": "8.0b",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-e41f10b38e9768ab1683/Petty.Petrol.Prices.Australia-v8.0-riftysipas.ipa",
+          "size": 15348493
+        },
+        {
+          "version": "8.0c",
           "date": "2026-02-07",
           "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/Petty.Petrol.Prices.Australia-v8.0-riftysipas.ipa",
@@ -30333,15 +30553,15 @@
       "name": "SnapEdit",
       "bundleIdentifier": "com.sfun.snapedit",
       "developerName": "SilverAI Joint Stock Company",
-      "subtitle": "Pro Unlocked | Patched",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
       "version": "6.3.16",
-      "versionDate": "2026-02-07",
-      "versionDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/SnapEdit_Photo_Editor_AI_v6_3_16_Pro_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nSnapEdit: Photo Editor AI | Pro Unlocked",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/SnapEdit.Premium.6.3.16.ipa",
+      "localizedDescription": "SnapEdit - Remove Objects AI | AI is NOT unlocked | Tweak made by David | Minimum OS version 15.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/16/d7/a016d77e-fdc3-4dcd-13ee-abdebff09c53/AppIcon-Lunar-0-0-1x_U007ephone-0-1-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 130171100,
+      "size": 125042598,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -30360,10 +30580,10 @@
       "versions": [
         {
           "version": "6.3.16",
-          "date": "2026-02-07",
-          "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/SnapEdit_Photo_Editor_AI_v6_3_16_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 130171100
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, SnapEdit\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/SnapEdit.Premium.6.3.16.ipa",
+          "size": 125042598
         },
         {
           "version": "6.3.16b",
@@ -31833,39 +32053,6 @@
     },
     {
       "name": "Steps",
-      "bundleIdentifier": "com.adambinsz.Steps",
-      "developerName": "Pumpkin Computer Co., LLC",
-      "subtitle": "Subscription Unlocked.  ``` | By:__** **__@Sa1Y0Miii__****__ __/__ __**[**__Chat__**](Https://T.Me/+Evc2_Oubbpfjodey)**__ 🗯__**",
-      "version": "6.1",
-      "versionDate": "2026-01-11",
-      "versionDescription": "Tweaks: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-3/Steps_6.1_tg%40Sa1y0miii.ipa",
-      "localizedDescription": "Subscription Unlocked.  ``` | By:__** **__@Sa1Y0Miii__****__ __/__ __**[**__Chat__**](Https://T.Me/+Evc2_Oubbpfjodey)**__ 🗯__**\n\nᵕ̈  Steps: Step Counter, Pedometer  ᵕ̈ | Min.iOS: [17.0+] | Notes: Subscription unlocked.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/5a/5e/ec5a5ea2-2271-0106-fb78-64c766d650eb/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 8839710,
-      "screenshots": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSHealthShareUsageDescription": "Steps cannot count your steps without granting access to iPhone health and motion sensors. All categories above should be turned on.",
-          "NSHealthUpdateUsageDescription": "Steps cannot count your steps without granting access to iPhone health and motion sensors. All categories above should be turned on.",
-          "NSUserTrackingUsageDescription": "This data is used to deliver more relevant ads, which allows Steps to remain a free app."
-        }
-      },
-      "versions": [
-        {
-          "version": "6.1",
-          "date": "2026-01-11",
-          "localizedDescription": "Tweaks: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-3/Steps_6.1_tg%40Sa1y0miii.ipa",
-          "size": 8839710
-        }
-      ],
-      "category": "health-&-fitness"
-    },
-    {
-      "name": "Steps",
       "bundleIdentifier": "com.yoc.Steps",
       "developerName": "Year of Code, LLC",
       "subtitle": "Subscription Unlocked - Press Upgrade Now > Cancel",
@@ -31921,6 +32108,39 @@
           "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29/Steps_v1.7.57-RiftysIPAs.ipa",
           "size": 14292584
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
+      "name": "Steps",
+      "bundleIdentifier": "com.adambinsz.Steps",
+      "developerName": "Pumpkin Computer Co., LLC",
+      "subtitle": "Subscription Unlocked.  ``` | By:__** **__@Sa1Y0Miii__****__ __/__ __**[**__Chat__**](Https://T.Me/+Evc2_Oubbpfjodey)**__ 🗯__**",
+      "version": "6.1",
+      "versionDate": "2026-01-11",
+      "versionDescription": "Tweaks: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-3/Steps_6.1_tg%40Sa1y0miii.ipa",
+      "localizedDescription": "Subscription Unlocked.  ``` | By:__** **__@Sa1Y0Miii__****__ __/__ __**[**__Chat__**](Https://T.Me/+Evc2_Oubbpfjodey)**__ 🗯__**\n\nᵕ̈  Steps: Step Counter, Pedometer  ᵕ̈ | Min.iOS: [17.0+] | Notes: Subscription unlocked.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/5a/5e/ec5a5ea2-2271-0106-fb78-64c766d650eb/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 8839710,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSHealthShareUsageDescription": "Steps cannot count your steps without granting access to iPhone health and motion sensors. All categories above should be turned on.",
+          "NSHealthUpdateUsageDescription": "Steps cannot count your steps without granting access to iPhone health and motion sensors. All categories above should be turned on.",
+          "NSUserTrackingUsageDescription": "This data is used to deliver more relevant ads, which allows Steps to remain a free app."
+        }
+      },
+      "versions": [
+        {
+          "version": "6.1",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-3/Steps_6.1_tg%40Sa1y0miii.ipa",
+          "size": 8839710
         }
       ],
       "category": "health-&-fitness"
@@ -33356,51 +33576,6 @@
     },
     {
       "name": "Surge",
-      "bundleIdentifier": "com.lavendrapp.lavendr",
-      "developerName": "Cosmic Latte s.r.o",
-      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "11.19.0",
-      "versionDate": "2026-01-15",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, surge\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-11/OnenightDate.ipa",
-      "localizedDescription": "Surge for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/32/94/ce32949a-fa9d-2749-873a-cfd0eb1de1ac/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 172385279,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/27/49/4227499e-4d5d-a331-7b3c-9b717be717fd/b4dd98dd-ac5d-45a5-b2ba-59a9b86b4960_iOS_5-5_01_-_ENG.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/c5/b4/46c5b46f-088f-2de6-ee0d-32c97b903c70/5d250e5e-fd66-444e-bb55-6f602a25ed86_iOS_5-5_02_-_ENG.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/03/e8/2903e8db-7dd8-8797-1951-7bc64bb1ecbd/2aeadce3-d4a2-4af1-9df3-84331e4c38ef_iOS_5-5_03_-_ENG.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ed/4d/ed/ed4dede6-c546-4700-81c1-d1d2fc9f427f/81399b11-1e42-4f3e-b34b-e1e43314118c_iOS_5-5_04_-_ENG.jpg/392x696bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1a/b2/10/1ab2104f-b2dd-6f07-29b9-46fe80d48758/425c09bd-679b-40d8-9be1-2994a2e717e7_iOS_5-5_05_-_ENG.jpg/392x696bb.jpg"
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Surge would like to Access your Photos.",
-          "NSCameraUsageDescription": "Surge uses your camera so you can upload profile photo.",
-          "NSMicrophoneUsageDescription": "Surge uses your microphone so you can can record videos and voice messages",
-          "NSLocationWhenInUseUsageDescription": "We will show you the guys nearby. Your perfect match could be a block away.",
-          "NSLocationAlwaysUsageDescription": "We will show you the guys nearby. Your perfect match could be a block away.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "We will show you the guys nearby. Your perfect match could be a block away.",
-          "NSSpeechRecognitionUsageDescription": "Surge uses speech recognition to verify your identity.",
-          "NSFaceIDUsageDescription": "Surge uses Face ID to protect content of the app.",
-          "NSUserTrackingUsageDescription": "Your data will be used to deliver a personalized experience and to improve our products and services."
-        }
-      },
-      "versions": [
-        {
-          "version": "11.19.0",
-          "date": "2026-01-15",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, surge\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-11/OnenightDate.ipa",
-          "size": 172385279
-        }
-      ],
-      "category": "lifestyle"
-    },
-    {
-      "name": "Surge",
       "bundleIdentifier": "com.nssurge.inc.surge-ios",
       "developerName": "Surge Networks Inc.",
       "subtitle": "Tweaked with AllFLEXing, CydiaSubstrate",
@@ -33461,6 +33636,51 @@
         }
       ],
       "category": "developer-tools"
+    },
+    {
+      "name": "Surge",
+      "bundleIdentifier": "com.lavendrapp.lavendr",
+      "developerName": "Cosmic Latte s.r.o",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "11.19.0",
+      "versionDate": "2026-01-15",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, surge\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-11/OnenightDate.ipa",
+      "localizedDescription": "Surge for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/32/94/ce32949a-fa9d-2749-873a-cfd0eb1de1ac/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 172385279,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/27/49/4227499e-4d5d-a331-7b3c-9b717be717fd/b4dd98dd-ac5d-45a5-b2ba-59a9b86b4960_iOS_5-5_01_-_ENG.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/c5/b4/46c5b46f-088f-2de6-ee0d-32c97b903c70/5d250e5e-fd66-444e-bb55-6f602a25ed86_iOS_5-5_02_-_ENG.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/03/e8/2903e8db-7dd8-8797-1951-7bc64bb1ecbd/2aeadce3-d4a2-4af1-9df3-84331e4c38ef_iOS_5-5_03_-_ENG.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ed/4d/ed/ed4dede6-c546-4700-81c1-d1d2fc9f427f/81399b11-1e42-4f3e-b34b-e1e43314118c_iOS_5-5_04_-_ENG.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1a/b2/10/1ab2104f-b2dd-6f07-29b9-46fe80d48758/425c09bd-679b-40d8-9be1-2994a2e717e7_iOS_5-5_05_-_ENG.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Surge would like to Access your Photos.",
+          "NSCameraUsageDescription": "Surge uses your camera so you can upload profile photo.",
+          "NSMicrophoneUsageDescription": "Surge uses your microphone so you can can record videos and voice messages",
+          "NSLocationWhenInUseUsageDescription": "We will show you the guys nearby. Your perfect match could be a block away.",
+          "NSLocationAlwaysUsageDescription": "We will show you the guys nearby. Your perfect match could be a block away.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "We will show you the guys nearby. Your perfect match could be a block away.",
+          "NSSpeechRecognitionUsageDescription": "Surge uses speech recognition to verify your identity.",
+          "NSFaceIDUsageDescription": "Surge uses Face ID to protect content of the app.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver a personalized experience and to improve our products and services."
+        }
+      },
+      "versions": [
+        {
+          "version": "11.19.0",
+          "date": "2026-01-15",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, surge\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-11/OnenightDate.ipa",
+          "size": 172385279
+        }
+      ],
+      "category": "lifestyle"
     },
     {
       "name": "Survival Arena",
@@ -39609,91 +39829,6 @@
     },
     {
       "name": "‎WhatsApp",
-      "bundleIdentifier": "com.fouadraheb.watusi",
-      "developerName": "WhatsApp Inc.",
-      "subtitle": "Watusi 3 V1.3.1",
-      "version": "25.37.76",
-      "versionDate": "2026-01-18",
-      "versionDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WhatsApp_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa",
-      "localizedDescription": "Watusi 3 V1.3.1\n\nWatusi 3 v1.3.1 | Cracked by Anonymous",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/d7/4b/f2d74bb9-035d-26cc-2713-6d0514b8e71f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 128832966,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fe/d1/1efed1a1-14cd-bf75-be22-1155c35ecfea/10375175-254e-479a-b58c-067228141f7d_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.avfoundation.multitasking-camera-access",
-          "com.apple.developer.upi-device-validation",
-          "com.apple.developer.siri",
-          "com.apple.developer.kernel.extended-virtual-addressing",
-          "com.apple.developer.networking.carrier-constrained.app-optimized",
-          "com.apple.developer.carplay-messaging",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-appclip-app-identifiers",
-          "com.apple.developer.pushkit.unrestricted-voip",
-          "com.apple.developer.kernel.increased-memory-limit",
-          "aps-environment",
-          "com.apple.developer.icloud-container-environment",
-          "com.apple.developer.calling-app",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.messaging-app",
-          "com.apple.developer.networking.carrier-constrained.appcategory"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
-          "NSCameraUsageDescription": "‎This lets you make video calls, take photos, and record videos.",
-          "NSMicrophoneUsageDescription": "‎This lets you make calls, send voice messages, and record videos with sound.",
-          "NSLocationWhenInUseUsageDescription": "‎This lets you send your current location or nearby places in chats.",
-          "NSLocationAlwaysUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
-          "NSLocationAlwaysAndWhenInUseUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
-          "NSContactsUsageDescription": "‎Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
-          "NSCalendarsUsageDescription": "‎This lets you create events on your calendar.",
-          "NSRemindersUsageDescription": "‎This lets you set reminders to call your friends back.",
-          "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls.",
-          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
-          "NSFaceIDUsageDescription": "‎Use Face ID to authenticate on WhatsApp.",
-          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
-          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
-          "NSLocalNetworkUsageDescription": "‎This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
-          "NSPhotoLibraryAddUsageDescription": "‎This lets you save photos and videos to your library."
-        }
-      },
-      "versions": [
-        {
-          "version": "25.37.76",
-          "date": "2026-01-18",
-          "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WhatsApp_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa",
-          "size": 128832966
-        },
-        {
-          "version": "25.37.76b",
-          "date": "2026-01-18",
-          "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WhatsApp_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa",
-          "size": 128832966
-        },
-        {
-          "version": "24.17.78",
-          "date": "2026-01-02",
-          "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiToolsSL\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02-2/Watusi3_1.2.40.ipa",
-          "size": 109075187
-        }
-      ],
-      "category": "social-networking"
-    },
-    {
-      "name": "‎WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
       "developerName": "WhatsApp Inc.",
       "subtitle": "Tweaked with ContactSync, OnlineNotify",
@@ -39780,6 +39915,91 @@
           "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WhatsApp_25.37.76_WC3_1.3.1_TS_blatants.ipa",
           "size": 130640378
+        }
+      ],
+      "category": "social-networking"
+    },
+    {
+      "name": "‎WhatsApp",
+      "bundleIdentifier": "com.fouadraheb.watusi",
+      "developerName": "WhatsApp Inc.",
+      "subtitle": "Watusi 3 V1.3.1",
+      "version": "25.37.76",
+      "versionDate": "2026-01-18",
+      "versionDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WhatsApp_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa",
+      "localizedDescription": "Watusi 3 V1.3.1\n\nWatusi 3 v1.3.1 | Cracked by Anonymous",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/d7/4b/f2d74bb9-035d-26cc-2713-6d0514b8e71f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 128832966,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/b8/e8/66b8e8e3-f8e8-4c8d-098f-59ba61d270a8/1f8cb34e-74b3-422f-a601-e5f35e7665f7_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/c9/47/bac947f8-5381-1945-4962-08386ce8c3c9/25634664-e3c6-4732-8e2a-f9ca1267441b_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/fe/d1/1efed1a1-14cd-bf75-be22-1155c35ecfea/10375175-254e-479a-b58c-067228141f7d_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/ff/8a/56ff8aea-580c-693d-3f79-b749752df801/73ab6013-e5ea-430b-b0d6-3e4199a792ca_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/a2/ad/22a2adb2-5c7f-52c5-0b6a-7b3a8d170b04/731cbb36-eed0-4a5c-8b3a-a7c50561e37a_5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.avfoundation.multitasking-camera-access",
+          "com.apple.developer.upi-device-validation",
+          "com.apple.developer.siri",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.networking.carrier-constrained.app-optimized",
+          "com.apple.developer.carplay-messaging",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.security.application-groups",
+          "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.pushkit.unrestricted-voip",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.calling-app",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.messaging-app",
+          "com.apple.developer.networking.carrier-constrained.appcategory"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
+          "NSCameraUsageDescription": "‎This lets you make video calls, take photos, and record videos.",
+          "NSMicrophoneUsageDescription": "‎This lets you make calls, send voice messages, and record videos with sound.",
+          "NSLocationWhenInUseUsageDescription": "‎This lets you send your current location or nearby places in chats.",
+          "NSLocationAlwaysUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSContactsUsageDescription": "‎Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSCalendarsUsageDescription": "‎This lets you create events on your calendar.",
+          "NSRemindersUsageDescription": "‎This lets you set reminders to call your friends back.",
+          "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+          "NSFaceIDUsageDescription": "‎Use Face ID to authenticate on WhatsApp.",
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSLocalNetworkUsageDescription": "‎This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+          "NSPhotoLibraryAddUsageDescription": "‎This lets you save photos and videos to your library."
+        }
+      },
+      "versions": [
+        {
+          "version": "25.37.76",
+          "date": "2026-01-18",
+          "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WhatsApp_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa",
+          "size": 128832966
+        },
+        {
+          "version": "25.37.76b",
+          "date": "2026-01-18",
+          "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiCrack\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-15/WhatsApp_Duplicate_25.37.76_WC3_1.3.1_SL_blatants.ipa",
+          "size": 128832966
+        },
+        {
+          "version": "24.17.78",
+          "date": "2026-01-02",
+          "localizedDescription": "Tweaks: ContactSync, OnlineNotify, Stalky, Watusi, WatusiToolsSL\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02-2/Watusi3_1.2.40.ipa",
+          "size": 109075187
         }
       ],
       "category": "social-networking"
@@ -40084,20 +40304,29 @@
   ],
   "news": [
     {
-      "title": "⚙️ Telos Update 2.7",
-      "identifier": "telos-update-2026-02-07",
-      "caption": "52 Apps Updated:\n• 14 Photo & Video\n• 6 Health & Fitness\n• 5 Games\n• 5 Education\n• 4 Entertainment\n• 3 Navigation\n• 3 Weather\n• 3 Productivity\n• 2 Music\n• 2 Finance\n• 2 Utilities\n• 1 Travel\n• 1 Lifestyle\n• 1 Graphics & Design",
-      "date": "2026-02-07",
+      "title": "⚙️ Telos Update 2.8",
+      "identifier": "telos-update-2026-02-08",
+      "caption": "14 Apps Updated:\n• 3 Productivity\n• 2 Health & Fitness\n• 2 Social Networking\n• 2 Navigation\n• 2 Music\n• 1 Utilities\n• 1 Weather\n• 1 Photo & Video",
+      "date": "2026-02-08",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.sfun.snapedit"
+      "appID": "com.thegenau.NoteCircle"
+    },
+    {
+      "title": "⚙️ Telos Update 2.7",
+      "identifier": "telos-update-2026-02-07",
+      "caption": "51 Apps Updated:\n• 13 Photo & Video\n• 6 Health & Fitness\n• 5 Education\n• 5 Games\n• 4 Entertainment\n• 3 Navigation\n• 3 Weather\n• 3 Productivity\n• 2 Utilities\n• 2 Finance\n• 2 Music\n• 1 Travel\n• 1 Lifestyle\n• 1 Graphics & Design",
+      "date": "2026-02-07",
+      "tintColor": "#1a4f4a",
+      "notify": true,
+      "appID": "com.duolingo.DuolingoMobile"
     },
     {
       "title": "⚙️ Telos Update 2.6",
       "identifier": "telos-update-2026-02-06",
       "caption": "105 Apps Updated:\n• 21 Photo & Video\n• 12 Music\n• 12 Health & Fitness\n• 10 Productivity\n• 8 Social Networking\n• 7 Entertainment\n• 7 Utilities\n• 5 Education\n• 5 Games\n• 5 Developer Tools\n• 3 Business\n• 3 Graphics & Design\n• 2 Lifestyle\n• 2 Finance\n• 1 Shopping\n• 1 News\n• 1 Navigation",
       "date": "2026-02-06",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.burbn.instagram"
     },
@@ -40106,16 +40335,16 @@
       "identifier": "telos-update-2026-02-05",
       "caption": "244 Apps Updated:\n• 52 Health & Fitness\n• 50 Photo & Video\n• 35 Education\n• 19 Productivity\n• 16 Utilities\n• 11 Graphics & Design\n• 9 Travel\n• 7 Entertainment\n• 6 Music\n• 6 Weather\n• 5 Developer Tools\n• 4 Navigation\n• 4 Finance\n• 4 Lifestyle\n• 4 Reference\n• 3 Business\n• 2 Medical\n• 2 Social Networking\n• 2 Sports\n• 1 Shopping\n• 1 Games\n• 1 News",
       "date": "2026-02-05",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.wavera.ios.famefy"
     },
     {
       "title": "⚙️ Telos Update 2.4",
       "identifier": "telos-update-2026-02-04",
-      "caption": "45 Apps Updated:\n• 13 Photo & Video\n• 8 Health & Fitness\n• 4 Education\n• 4 Utilities\n• 3 Lifestyle\n• 3 Graphics & Design\n• 2 Finance\n• 2 Entertainment\n• 2 Weather\n• 1 Productivity\n• 1 Reference\n• 1 Music\n• 1 Travel",
+      "caption": "45 Apps Updated:\n• 13 Photo & Video\n• 8 Health & Fitness\n• 4 Education\n• 4 Utilities\n• 3 Lifestyle\n• 3 Graphics & Design\n• 2 Weather\n• 2 Finance\n• 2 Entertainment\n• 1 Music\n• 1 Travel\n• 1 Productivity\n• 1 Reference",
       "date": "2026-02-04",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "pinterest"
     },
@@ -40124,16 +40353,16 @@
       "identifier": "telos-update-2026-02-03",
       "caption": "27 Apps Updated:\n• 9 Photo & Video\n• 4 Lifestyle\n• 4 Utilities\n• 3 Entertainment\n• 2 Health & Fitness\n• 1 Education\n• 1 Productivity\n• 1 Reference\n• 1 Graphics & Design\n• 1 Social Networking",
       "date": "2026-02-03",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.focos"
+      "appID": "pinterest"
     },
     {
       "title": "⚙️ Telos Update 2.2",
       "identifier": "telos-update-2026-02-02",
       "caption": "33 Apps Updated:\n• 8 Health & Fitness\n• 5 Photo & Video\n• 5 Education\n• 3 Games\n• 3 Entertainment\n• 2 Medical\n• 2 Music\n• 2 Productivity\n• 1 Travel\n• 1 News\n• 1 Finance",
       "date": "2026-02-02",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.coffeestain.goatsimulator3"
     },
@@ -40142,36 +40371,27 @@
       "identifier": "telos-update-2026-02-01",
       "caption": "29 Apps Updated:\n• 9 Photo & Video\n• 5 Utilities\n• 4 Games\n• 4 Productivity\n• 2 Travel\n• 1 Education\n• 1 Reference\n• 1 Social Networking\n• 1 Entertainment\n• 1 Music",
       "date": "2026-02-01",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.olzhas.carparking.multyplayer2.ios"
     },
     {
       "title": "⚙️ Telos Update 1.31",
       "identifier": "telos-update-2026-01-31",
-      "caption": "26 Apps Updated:\n• 8 Health & Fitness\n• 3 Travel\n• 3 Productivity\n• 2 Games\n• 2 Utilities\n• 2 Graphics & Design\n• 2 Developer Tools\n• 2 Entertainment\n• 1 Music\n• 1 Photo & Video",
+      "caption": "26 Apps Updated:\n• 8 Health & Fitness\n• 3 Productivity\n• 3 Travel\n• 2 Games\n• 2 Utilities\n• 2 Graphics & Design\n• 2 Developer Tools\n• 2 Entertainment\n• 1 Music\n• 1 Photo & Video",
       "date": "2026-01-31",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.heliogames.a1"
+      "appID": "Mailroom.Canary-iOS"
     },
     {
       "title": "⚙️ Telos Update 1.30",
       "identifier": "telos-update-2026-01-30",
       "caption": "39 Apps Updated:\n• 14 Photo & Video\n• 6 Health & Fitness\n• 3 Productivity\n• 3 Sports\n• 2 Social Networking\n• 2 Games\n• 2 Education\n• 2 Utilities\n• 1 Graphics & Design\n• 1 Business\n• 1 Music\n• 1 Developer Tools\n• 1 News",
       "date": "2026-01-30",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "jp.ne.ibis.ibisPaintX"
-    },
-    {
-      "title": "⚙️ Telos Update 1.29",
-      "identifier": "telos-update-2026-01-29",
-      "caption": "34 Apps Updated:\n• 14 Photo & Video\n• 7 Health & Fitness\n• 3 Social Networking\n• 3 Productivity\n• 2 Education\n• 2 Lifestyle\n• 2 Travel\n• 1 Games",
-      "date": "2026-01-29",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.facebook.Facebook"
+      "appID": "com.burbn.instagram"
     }
   ]
 }
