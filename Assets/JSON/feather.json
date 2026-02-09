@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.google.ios.youtube",
-    "com.commsource.BeautyPlus",
-    "com.revivasoftworks.Snore-Lab",
-    "com.joytunes.Sing",
-    "com.offlinemusic"
+    "jp.naver.linecamera",
+    "com.internet-rocks.codescanner",
+    "com.intsig.CamScannerLite",
+    "co.airapps.finderbot",
+    "co.airapps.dictionary"
   ],
   "apps": [
     {
@@ -1377,13 +1377,6 @@
       "versions": [
         {
           "version": "2.4.0",
-          "date": "2026-02-08",
-          "localizedDescription": "Version: 2.4.0\n\nTweaks: AlevioOS, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/AlevioOS_Local_Ai_v2_4_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 28661619
-        },
-        {
-          "version": "2.4.0b",
           "date": "2026-02-08",
           "localizedDescription": "Version: 2.4.0\n\nTweaks: AlevioOS, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/AlevioOS_Local_Ai_v2_4_0_Subscription_Unlocked_blatant_Patched.ipa",
@@ -3490,13 +3483,6 @@
       "versions": [
         {
           "version": "7.31.0",
-          "date": "2026-02-08",
-          "localizedDescription": "Version: 7.31.0\n\nTweaks: CydiaSubstrate, rophim\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/BeautyPlus.Premium.7.31.0.ipa",
-          "size": 363016846
-        },
-        {
-          "version": "7.31.0b",
           "date": "2026-02-08",
           "localizedDescription": "Version: 7.31.0\n\nTweaks: CydiaSubstrate, rophim\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/BeautyPlus.Premium.7.31.0.ipa",
@@ -9129,15 +9115,15 @@
       "name": "DictionaryAir",
       "bundleIdentifier": "co.airapps.dictionary",
       "developerName": "Air Apps Systems",
-      "subtitle": "Tweaked with CydiaSubstrate, DictionaryAir",
-      "version": "1.16.2",
-      "versionDate": "2026-02-05",
-      "versionDescription": "Version: 1.16.2\n\nTweaks: CydiaSubstrate, DictionaryAir, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/None_v1.16.2_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DictionaryAir, sideloadKeychainfix\n\nDictionary Air - English Vocab | co.airapps.dictionary | Category: Reference | Ignore purchase page, | Restart app is subscription isn't unlocked.\n\n---\nInstantly look up definitions, synonyms, meanings, and usage examples for any English word.\n\nWhether you're a student, professional, or language enthusiast, enhance your command of English vocabulary and make mastering the language easier and more effective with Dictionary Air, your all-encompassing English dictionary.\n\nKey Features\n\n▶ Word Definitions for Instant Clarity\nQuickly search for and understand the meanings of words with detailed definitions, making your language learning journey smoo",
+      "subtitle": "Tweaked with DictionaryAir, blatantsPatch",
+      "version": "2026.1.4",
+      "versionDate": "2026-02-09",
+      "versionDescription": "Version: 2026.1.4\n\nTweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Dictionary_Air_English_Vocab_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nDictionary Air - English Vocab | Subscription Unlocked | Ignore purchase page, | Restart app if subscription isn't unlocked.\n\n---\nInstantly look up definitions, synonyms, meanings, and usage examples for any English word.\n\nWhether you're a student, professional, or language enthusiast, enhance your command of English vocabulary and make mastering the language easier and more effective with Dictionary Air, your all-encompassing English dictionary.\n\nKey Features\n\n▶ Word Definitions for Instant Clarity\nQuickly search for and understand the meanings of words with detailed definitions, making your language learning journey smoo",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c3/83/ebc38360-02e1-8130-b694-38b3e6cec031/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 79574229,
+      "size": 73644120,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/bf/92/dfbf9236-1c89-e6e9-c089-6880379d9bfc/2bbd1ecc-a5fc-46ff-ab15-8f24459d3787_1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/67/ff/d667ff99-5a13-57b8-0871-4fc269f43c2e/81785348-ae2c-4721-ac25-ce03e81fa877_2.jpg/576x768bb.jpg",
@@ -9151,6 +9137,8 @@
           "com.apple.security.application-groups"
         ],
         "privacy": {
+          "NSCameraUsageDescription": "Dictionary Air needs permission to access the camera to scan and import text into your messages",
+          "NSMicrophoneUsageDescription": "Dictionary Air needs access to the microphone to allow you to transcribe your message",
           "NSLocationWhenInUseUsageDescription": "The app needs permission to access your Location in order to provide location related content.",
           "NSSiriUsageDescription": "Use Siri, to open the app in your selected screen",
           "NSUserTrackingUsageDescription": "We use tracking id to improve the app experience and deliver personalized content/ads to you."
@@ -9158,32 +9146,32 @@
       },
       "versions": [
         {
-          "version": "1.16.2",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 1.16.2\n\nTweaks: CydiaSubstrate, DictionaryAir, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/None_v1.16.2_blatant.ipa",
-          "size": 79574229
+          "version": "2026.1.4",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2026.1.4\n\nTweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Dictionary_Air_English_Vocab_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 73644120
         },
         {
-          "version": "2026.1.3",
-          "date": "2026-02-04",
-          "localizedDescription": "Version: 2026.1.3\n\nTweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-16/Dictionary_Air_English_Vocab_v2026_1_3_Subscription_Unlocked_blatant.ipa",
-          "size": 73644162
+          "version": "2026.1.4b",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2026.1.4\n\nTweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Dictionary_Air_English_Vocab_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 73644120
         },
         {
-          "version": "2026.1.3b",
-          "date": "2026-02-03",
-          "localizedDescription": "Version: 2026.1.3\n\nTweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-15/Dictionary_Air_English_Vocab_v2026_1_3_Subscription_Unlocked_blatant.ipa",
-          "size": 73644162
+          "version": "2026.1.4c",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2026.1.4\n\nTweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Dictionary_Air_English_Vocab_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 73644120
         },
         {
-          "version": "2026.1.2",
-          "date": "2026-01-27",
-          "localizedDescription": "Version: 2026.1.2\n\nTweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/Dictionary_Air_English_Vocab_v2026_1_2_Subscription_Unlocked_blatant.ipa",
-          "size": 73644022
+          "version": "2026.1.4d",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2026.1.4\n\nTweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Dictionary_Air_English_Vocab_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 73644120
         }
       ],
       "category": "reference"
@@ -12192,15 +12180,15 @@
       "name": "Find Air",
       "bundleIdentifier": "co.airapps.finderbot",
       "developerName": "Air Apps Systems",
-      "subtitle": "Tweaked with CydiaSubstrate, FindAir",
-      "version": "3.10.0",
-      "versionDate": "2026-02-05",
-      "versionDescription": "Version: 3.10.0\n\nTweaks: CydiaSubstrate, FindAir, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/Find_Air_My_Device_Tracker_v3_10_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, FindAir, sideloadKeychainfix\n\nFind Air - My Device Tracker | co.airapps.finderbot | Category: Utilities | Subscription Unlocked | No Additional Notes\n\n---\nEasily find Bluetooth devices with Find Air! Never lose track of your valuable devices and gadgets again! Whether you need to find AirPods, earbuds, Bluetooth headphones, or Apple devices, this device finder helps you track them instantly, with an easy-to-use Bluetooth scanner to locate and find your lost Bluetooth device with precision.\n\nKey Features of Find Air:\n\n- Find my devices, including headphones, earbuds, earphones, smartwatches, fitness trackers, as well as phones, tablets, and speaker",
+      "subtitle": "Tweaked with FindAir, blatantsPatch",
+      "version": "2026.1.4",
+      "versionDate": "2026-02-09",
+      "versionDescription": "Version: 2026.1.4\n\nTweaks: FindAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Find_Air_My_Device_Tracker_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FindAir, blatantsPatch, sideloadKeychainfix\n\nFind Air - My Device Tracker | Subscription Unlocked\n\n---\nEasily find Bluetooth devices with Find Air! Never lose track of your valuable devices and gadgets again! Whether you need to find AirPods, earbuds, Bluetooth headphones, or Apple devices, this device finder helps you track them instantly, with an easy-to-use Bluetooth scanner to locate and find your lost Bluetooth device with precision.\n\nKey Features of Find Air:\n\n- Find my devices, including headphones, earbuds, earphones, smartwatches, fitness trackers, as well as phones, tablets, and speaker",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/00/24/70/002470a3-a653-a741-a8eb-244a33a6942e/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 56463495,
+      "size": 78359164,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/04/c8/7c04c880-58b0-534c-52c1-4076c1ac87db/1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/15/bb/9215bb28-856f-43b1-bfca-e319291ae4ac/2.jpg/392x696bb.jpg",
@@ -12214,6 +12202,8 @@
           "com.apple.security.application-groups"
         ],
         "privacy": {
+          "NSCameraUsageDescription": "In order to continue, the app needs permission to access your Camera.",
+          "NSMicrophoneUsageDescription": "Required to process voice commands.",
           "NSLocationWhenInUseUsageDescription": "The app needs permission to access your Location in order to provide location related content.",
           "NSBluetoothAlwaysUsageDescription": "Bluetooth permission is required in order to look up for other Bluetooth Devices around you.",
           "NSBluetoothPeripheralUsageDescription": "Bluetooth permission is required in order to look up for other Bluetooth Devices around you.",
@@ -12222,32 +12212,32 @@
       },
       "versions": [
         {
-          "version": "3.10.0",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 3.10.0\n\nTweaks: CydiaSubstrate, FindAir, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/Find_Air_My_Device_Tracker_v3_10_0_Subscription_Unlocked_blatant.ipa",
-          "size": 56463495
+          "version": "2026.1.4",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2026.1.4\n\nTweaks: FindAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Find_Air_My_Device_Tracker_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 78359164
         },
         {
-          "version": "3.11.0",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 3.11.0\n\nTweaks: CydiaSubstrate, FindAir, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/Find_Air_My_Device_Tracker_v3_11_0_Subscription_Unlocked_blatant.ipa",
-          "size": 69758254
+          "version": "2026.1.4b",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2026.1.4\n\nTweaks: FindAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Find_Air_My_Device_Tracker_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 78359164
         },
         {
-          "version": "3.15.0",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 3.15.0\n\nTweaks: CydiaSubstrate, FindAir, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/Find_Air_My_Device_Tracker_v3_15_0_Subscription_Unlocked_blatant.ipa",
-          "size": 68508129
+          "version": "2026.1.4c",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2026.1.4\n\nTweaks: FindAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Find_Air_My_Device_Tracker_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 78359164
         },
         {
-          "version": "3.6.0",
-          "date": "2026-01-05",
-          "localizedDescription": "Version: 3.6.0\n\nTweaks: CydiaSubstrate, FindAir, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-5/Find_Air_My_Device_Tracker_v3_6_0_Subscription_Unlocked_blatant.ipa",
-          "size": 43209268
+          "version": "2026.1.4d",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2026.1.4\n\nTweaks: FindAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Find_Air_My_Device_Tracker_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 78359164
         }
       ],
       "category": "utilities"
@@ -19339,14 +19329,14 @@
       "bundleIdentifier": "jp.naver.linecamera",
       "developerName": "SNOW Corporation",
       "subtitle": "Tweaked with LINECamera, blatantsPatch",
-      "version": "17.4.2",
-      "versionDate": "2026-01-05",
-      "versionDescription": "Version: 17.4.2\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-2/LINE_Camera_Photo_editor_v17_4_2_Subscription_Unlocked_blatant_patched.ipa",
+      "version": "18.1.0",
+      "versionDate": "2026-02-09",
+      "versionDescription": "Version: 18.1.0\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/LINE_Camera_Photo_editor_v18_1_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: LINECamera, blatantsPatch\n\nLINE Camera - Photo editor\nSubscription Unlocked\nIgnore purchase popup's and restart the app if subscription isn't active.\n\n---\nA photo editing camera app used by over 200 million people worldwide! 『LINE Camera』\n\n- Over 30,000 stickers and frames\nFrom decorations to face covers, the possibilities are endless.\nA wide variety of items is updated weekly.\n\n- Cute, sleek filters\nHighly customizable filters let you make your photos look just how you like them.\n\n- Make your own original stickers!\nUse your own illustrations, text, or photos to make your own stickers.\n\n- Use the Beauty feature to bring out the natural beauty in y",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/8f/27/298f2732-c05a-f753-0dfb-c53b3f46edad/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/77/c5/e477c510-d2ea-a98c-ff85-b95f3e805a0c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 134689590,
+      "size": 168141930,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/42/98/e8429875-f8ff-c56b-513c-e13b25ae6968/01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/2f/37/642f3771-c5f8-5794-e81b-97c781ae4774/02.png/392x696bb.png",
@@ -19368,6 +19358,20 @@
       },
       "versions": [
         {
+          "version": "18.1.0",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 18.1.0\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/LINE_Camera_Photo_editor_v18_1_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 168141930
+        },
+        {
+          "version": "18.1.0b",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 18.1.0\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/LINE_Camera_Photo_editor_v18_1_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 168141930
+        },
+        {
           "version": "17.4.2",
           "date": "2026-01-05",
           "localizedDescription": "Version: 17.4.2\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
@@ -19380,20 +19384,6 @@
           "localizedDescription": "Version: 17.4.3\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-4/LINE_Camera_Photo_editor_v17_4_3_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 134685984
-        },
-        {
-          "version": "17.4.6",
-          "date": "2026-01-02",
-          "localizedDescription": "Version: 17.4.6\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/LINE_Camera_Photo_editor_v17_4_6_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 135808090
-        },
-        {
-          "version": "17.4.1",
-          "date": "2026-01-01",
-          "localizedDescription": "Version: 17.4.1\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-01-5/LINE_Camera_Photo_editor_v17_4_1_Subscription_Unlocked_blatant_patched.ipa",
-          "size": 134682234
         }
       ],
       "category": "photo-&-video"
@@ -23613,13 +23603,6 @@
           "size": 95773350
         },
         {
-          "version": "3.8.1b",
-          "date": "2026-02-08",
-          "localizedDescription": "Version: 3.8.1\n\nTweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Offline.Music.Player.v3.8.1.Pro.Unlocked.blatant.Patched.ipa",
-          "size": 95773350
-        },
-        {
           "version": "3.3.6",
           "date": "2026-01-08",
           "localizedDescription": "Version: 3.3.6\n\nTweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
@@ -23632,6 +23615,13 @@
           "localizedDescription": "Version: 3.3.7\n\nTweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-12/MusicPlayer_v3.3.7_blatant.ipa",
           "size": 88219874
+        },
+        {
+          "version": "3.3.5",
+          "date": "2026-01-08",
+          "localizedDescription": "Version: 3.3.5\n\nTweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-10/MusicPlayer_v3.3.5_blatant.ipa",
+          "size": 88219329
         }
       ],
       "category": "music"
@@ -27605,6 +27595,53 @@
     },
     {
       "beta": false,
+      "name": "QrCode",
+      "bundleIdentifier": "com.internet-rocks.codescanner",
+      "developerName": "Air Apps Systems",
+      "subtitle": "Tweaked with QRAir, blatantsPatch",
+      "version": "2026.1.4",
+      "versionDate": "2026-02-09",
+      "versionDescription": "Version: 2026.1.4\n\nTweaks: QRAir, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/QR_Code_Reader.Barcode_Scanner_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: QRAir, blatantsPatch\n\nQR Code Reader，Barcode Scanner | Subscription Unlocked\n\n---\nScan QR codes and barcodes instantly with QR Air, a smart QR code and barcode scanner built for everyday life. Create all types of codes, compare prices, and manage your inventory with one reliable app.\n\nYour all-in-one QR code reader, QR code generator, and product scanner. Whether you need to scan a barcode in-store, check a menu, create a custom code, or organize your stock with inventory management, QR Air makes it quick and simple.\n\n▶ How to scan a code?\nOpen the app, point your camera, and",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/4d/36/5a4d3606-0333-05ae-1cc7-11d3b69baf8f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 102510065,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "QrScan uses your Library to scan saved codes. Your information is not shared or saved remotely.",
+          "NSCameraUsageDescription": "QrScan uses your Camera to scan codes. Your information is not shared or saved remotely.",
+          "NSMicrophoneUsageDescription": "QRCode needs access to the microphone to allow you to transcribe your message",
+          "NSLocationWhenInUseUsageDescription": "QrScan uses your Location to create QR Codes. Your information is not shared or saved remotely.",
+          "NSLocationAlwaysUsageDescription": "QrScan uses your Location for creating location based codes",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Allow location access to enable personalized services and improve your app experience.",
+          "NSContactsUsageDescription": "QrScan uses your Contact List to create QR Codes. Your information is not shared or saved remotely.",
+          "NSCalendarsUsageDescription": "QrScan uses your Calender to create QR Codes. Your information is not shared or saved remotely.",
+          "NSUserTrackingUsageDescription": "We use tracking id to improve the app experience and deliver personalized content/ads to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "2026.1.4",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2026.1.4\n\nTweaks: QRAir, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/QR_Code_Reader.Barcode_Scanner_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 102510065
+        },
+        {
+          "version": "2026.1.4b",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2026.1.4\n\nTweaks: QRAir, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/QR_Code_Reader.Barcode_Scanner_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 102510065
+        }
+      ],
+      "category": "utilities"
+    },
+    {
+      "beta": false,
       "name": "QuranAI",
       "bundleIdentifier": "com.iphoneislam.quranai",
       "developerName": "i4islam",
@@ -29310,14 +29347,14 @@
       "bundleIdentifier": "co.airapps.scannerapp",
       "developerName": "Air Apps Systems",
       "subtitle": "Tweaked with ScannerAir, blatantsPatch",
-      "version": "2026.1.3",
-      "versionDate": "2026-02-04",
-      "versionDescription": "Version: 2026.1.3\n\nTweaks: ScannerAir, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-16/Scanner_Air_Scan_Documents_v2026_1_3_Subscription_Unlocked_blatant.ipa",
+      "version": "2026.1.4",
+      "versionDate": "2026-02-09",
+      "versionDescription": "Version: 2026.1.4\n\nTweaks: ScannerAir, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Scanner_Air_Scan_Documents_v2026_1_4_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ScannerAir, blatantsPatch\n\nScanner Air - Scan Documents | Subscription Unlocked\n\n---\nTransform your smartphone into a document scanner and a mobile office. Easily scan, sign, edit, and convert documents from anywhere—whether you're at home, in the office, or on the move. Enjoy the convenience of digitizing and sharing files with just a few taps. Say goodbye to bulky scanners and embrace simplicity.\n\nKey Features:\nFast Document Scanner\nUse the document scanner to scan anything—contracts, receipts, notes, or IDs. Works as an ID scanner, receipt scanner, and even a business card sc",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/a9/91/81a991f3-b9c8-e0e0-18ce-e83119040e3f/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 94056790,
+      "size": 94056679,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/ca/91/ddca9191-bdcf-184a-1018-0bd300974406/f1a4fcf8-da2a-4d26-8ba0-7310ec802910_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/e2/ac/c3e2acec-85d8-4ae0-63ea-f6d205612713/a4089623-ff52-4504-821e-21acfed254ac_2.jpg/392x696bb.jpg",
@@ -29339,6 +29376,20 @@
       },
       "versions": [
         {
+          "version": "2026.1.4",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2026.1.4\n\nTweaks: ScannerAir, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Scanner_Air_Scan_Documents_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 94056679
+        },
+        {
+          "version": "2026.1.4b",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2026.1.4\n\nTweaks: ScannerAir, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Scanner_Air_Scan_Documents_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 94056679
+        },
+        {
           "version": "2026.1.3",
           "date": "2026-02-04",
           "localizedDescription": "Version: 2026.1.3\n\nTweaks: ScannerAir, blatantsPatch\n\nSource: @blatants",
@@ -29351,20 +29402,6 @@
           "localizedDescription": "Version: 2026.1.3\n\nTweaks: ScannerAir, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-15/Scanner_Air_Scan_Documents_v2026_1_3_Subscription_Unlocked_blatant.ipa",
           "size": 94056790
-        },
-        {
-          "version": "2026.1.2",
-          "date": "2026-01-27",
-          "localizedDescription": "Version: 2026.1.2\n\nTweaks: ScannerAir, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/Scanner_Air_Scan_Documents_v2026_1_2_Subscription_Unlocked_blatant.ipa",
-          "size": 94056797
-        },
-        {
-          "version": "2026.1.2b",
-          "date": "2026-01-27",
-          "localizedDescription": "Version: 2026.1.2\n\nTweaks: ScannerAir, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/Scanner_Air_Scan_Documents_v2026_1_2_Subscription_Unlocked_blatant.ipa",
-          "size": 94056797
         }
       ],
       "category": "utilities"
@@ -30366,13 +30403,6 @@
       "versions": [
         {
           "version": "2.7.0",
-          "date": "2026-02-08",
-          "localizedDescription": "Version: 2.7.0\n\nTweaks: SimplySingPatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Simply.Sing.Premium.2.7.0.ipa",
-          "size": 92861869
-        },
-        {
-          "version": "2.7.0b",
           "date": "2026-02-08",
           "localizedDescription": "Version: 2.7.0\n\nTweaks: SimplySingPatch\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Simply.Sing.Premium.2.7.0.ipa",
@@ -31487,18 +31517,18 @@
           "size": 154893599
         },
         {
-          "version": "6.1.4c",
-          "date": "2026-02-08",
-          "localizedDescription": "Version: 6.1.4\n\nTweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/SnoreLab_Record_Your_Snoring_v6_1_4_Subscription_Unlocked_blatant.ipa",
-          "size": 154893599
+          "version": "5.5.7",
+          "date": "2026-02-05",
+          "localizedDescription": "Version: 5.5.7\n\nTweaks: CydiaSubstrate, SnoreLab, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/SnoreLab_Record_Your_Snoring_v5_5_7_Subscription_Unlocked_blatant.ipa",
+          "size": 112881563
         },
         {
-          "version": "6.1.4d",
-          "date": "2026-02-08",
-          "localizedDescription": "Version: 6.1.4\n\nTweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/SnoreLab.Record.Your.Snoring-v6.1.4-riftysipas.ipa",
-          "size": 151169726
+          "version": "5.7.9",
+          "date": "2026-02-05",
+          "localizedDescription": "Version: 5.7.9\n\nTweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-19/SnoreLab_Record_Your_Snoring_v5_7_9_Subscription_Unlocked_blatant.ipa",
+          "size": 137343458
         }
       ],
       "category": "medical"
@@ -36571,15 +36601,15 @@
       "name": "Tripsy",
       "bundleIdentifier": "app.tripsy.ios",
       "developerName": "Tripsy LLC",
-      "subtitle": "Tweaked with Tripsy, sideloadFixerLol",
-      "version": "3.4.3",
-      "versionDate": "2026-02-05",
-      "versionDescription": "Version: 3.4.3\n\nTweaks: Tripsy, sideloadFixerLol\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/Travel_Planner_Guide_Tripsy_v3_4_3_Lifetime_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Tripsy, sideloadFixerLol\n\nTravel Planner Guide: Tripsy | app.tripsy.ios | Category: Travel | Lifetime Unlocked | No Additional Notes\n\n---\nTripsy - Trip Planner & Itinerary Organizer is the complete travel planner for creating detailed trip itineraries and organizing every aspect of your journey. Perfect for solo travelers, couples travel, and group travel planning, Tripsy is your all-in-one itinerary maker that keeps flights, accommodations, activities, and reservations organized in one place.\n\nPlan smarter with our intuitive trip itinerary builder that automatically imports travel details from emails, works offline, and sends not",
+      "subtitle": "Tweaked with Tripsy, blatantsPatch",
+      "version": "3.7.6",
+      "versionDate": "2026-02-09",
+      "versionDescription": "Version: 3.7.6\n\nTweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Tripsy_Travel_Planner_v3_7_6_Lifetime_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Tripsy, blatantsPatch\n\nTripsy - Travel Planner | Lifetime Unlocked\n\n---\nTripsy - Trip Planner & Itinerary Organizer is the complete travel planner for creating detailed trip itineraries and organizing every aspect of your journey. Perfect for solo travelers, couples travel, and group travel planning, Tripsy is your all-in-one itinerary maker that keeps flights, accommodations, activities, and reservations organized in one place.\n\nPlan smarter with our intuitive trip itinerary builder that automatically imports travel details from emails, works offline, and sends not",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/a0/0e/0fa00e4f-63f1-7fdb-e4a5-6f35f49159eb/App_Icon_Original-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 174307678,
+      "size": 113306915,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/b6/03/bbb60361-435a-2dd5-4d68-df0468832962/1c2f8b3c-6c0c-4efb-ad74-92f30addd11a_1_opaque.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/02/53/8b025308-9e97-347a-fddf-bd7dae18a60b/2ad203a9-0557-49e9-927a-43f232bde457_2_opaque.png/552x414bb.png",
@@ -36605,6 +36635,20 @@
       },
       "versions": [
         {
+          "version": "3.7.6",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 3.7.6\n\nTweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Tripsy_Travel_Planner_v3_7_6_Lifetime_Unlocked_blatant_Patched.ipa",
+          "size": 113306915
+        },
+        {
+          "version": "3.7.6b",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 3.7.6\n\nTweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Tripsy_Travel_Planner_v3_7_6_Lifetime_Unlocked_blatant_Patched.ipa",
+          "size": 113306915
+        },
+        {
           "version": "3.4.3",
           "date": "2026-02-05",
           "localizedDescription": "Version: 3.4.3\n\nTweaks: Tripsy, sideloadFixerLol\n\nSource: @blatants",
@@ -36617,20 +36661,6 @@
           "localizedDescription": "Version: 3.4.4\n\nTweaks: Tripsy, sideloadFixerLol\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/Travel_Planner_Guide_Tripsy_v3_4_4_Lifetime_Unlocked_blatant.ipa",
           "size": 174310422
-        },
-        {
-          "version": "3.4.6",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 3.4.6\n\nTweaks: Tripsy, b1atantPluginsInject, sideloadFixerLol\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-20/Travel_Planner_Guide_Tripsy_v3_4_6_Lifetime_Unlocked_blatant_patched.ipa",
-          "size": 173866578
-        },
-        {
-          "version": "3.4.1",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 3.4.1\n\nTweaks: Tripsy, sideloadFixerLol\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-20/Travel_Planner_Guide_Tripsy_v3_4_1_Lifetime_Unlocked_blatant.ipa",
-          "size": 174322693
         }
       ],
       "category": "travel"
@@ -40169,15 +40199,15 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "Tweaked with CydiaSubstrate, DontEatMyContent",
-      "version": "21.05.3",
-      "versionDate": "2026-02-08",
-      "versionDescription": "Version: 21.05.3\n\nTweaks: CydiaSubstrate, DontEatMyContent, YTLite, YTUHD, YTVideoOverlay\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/21.05.3_YouTubePlus_5.2b4.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, YTLite, YTUHD, YTVideoOverlay\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "subtitle": "Tweaked with Alderis, CydiaSubstrate",
+      "version": "21.06.2",
+      "versionDate": "2026-02-09",
+      "versionDescription": "Version: 21.06.2\n\nTweaks: Alderis, CydiaSubstrate, DontEatMyContent, MadeByMohkg, YTABConfig\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/YouTube21.06.2YTPlus5.2B4Patched.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Alderis, CydiaSubstrate, DontEatMyContent, MadeByMohkg, YTABConfig\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/2e/78/db2e7829-31f6-f9d8-9db8-6f6bd1d11126/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 125463308,
+      "size": 135683013,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -40212,14 +40242,21 @@
       },
       "versions": [
         {
-          "version": "21.05.3",
-          "date": "2026-02-08",
-          "localizedDescription": "Version: 21.05.3\n\nTweaks: CydiaSubstrate, DontEatMyContent, YTLite, YTUHD, YTVideoOverlay\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/21.05.3_YouTubePlus_5.2b4.ipa",
-          "size": 125463308
+          "version": "21.06.2",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 21.06.2\n\nTweaks: Alderis, CydiaSubstrate, DontEatMyContent, MadeByMohkg, YTABConfig\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/YouTube21.06.2YTPlus5.2B4Patched.ipa",
+          "size": 135683013
         },
         {
-          "version": "21.05.3b",
+          "version": "21.06.2b",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 21.06.2\n\nTweaks: Alderis, CydiaSubstrate, DontEatMyContent, MadeByMohkg, YTABConfig\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/YouTube21.06.2YTPlus5.2B4Patched.ipa",
+          "size": 135683013
+        },
+        {
+          "version": "21.05.3",
           "date": "2026-02-08",
           "localizedDescription": "Version: 21.05.3\n\nTweaks: CydiaSubstrate, DontEatMyContent, YTLite, YTUHD, YTVideoOverlay\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/21.05.3_YouTubePlus_5.2b4.ipa",
@@ -40231,13 +40268,6 @@
           "localizedDescription": "Version: 19.09.4\n\nTweaks: Alderis, CydiaSubstrate, DontEatMyContent, FLEX, MrBeastify-ObjC\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-25/uYouPlus_19.09.4-3.0.3.ipa",
           "size": 138563547
-        },
-        {
-          "version": "19.47.7",
-          "date": "2026-02-06",
-          "localizedDescription": "Version: 19.47.7\n\nTweaks: CydiaSubstrate, YTLite\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-23/YouTube.ipa",
-          "size": 119218991
         }
       ],
       "category": "photo-&-video"
@@ -41259,15 +41289,15 @@
       "name": "扫描全能王",
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "developerName": "INTSIG Information Co., Ltd",
-      "subtitle": "Tweaked with CamScanner, b1atantPluginsInject",
-      "version": "6.90.0",
-      "versionDate": "2026-02-05",
-      "versionDescription": "Version: 6.90.0\n\nTweaks: CamScanner, b1atantPluginsInject\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-20/CamScanner_PDF_Scanner_App_v6_90_0_VIP_Unlocked_blatant_patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CamScanner, b1atantPluginsInject\n\nCamScanner - PDF Scanner App | com.intsig.CamScannerLite | VIP Unlocked | Does NOT work on iOS 18.\n\n---\nThe most intelligent scanner app\nTrusted by 300M+ users\n\nCamScanner is an all-in-one scanner app. It turns your mobile device into a powerful portable scanner that recognizes text automatically (OCR) and improves your productivity to save your time. Download this scanner app for free to instantly scan, save, and share any document in PDF, JPG, Word, or TXT formats.\nWould you like to keep your entire office in your pocket and increase your productivity at work? Use the CamScanner scanner app to h",
+      "subtitle": "Tweaked with CamScanner, blatantsPatch",
+      "version": "7.12.0",
+      "versionDate": "2026-02-09",
+      "versionDescription": "Version: 7.12.0\n\nTweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/CamScanner_PDF_Scanner_App_v7_12_0_VIP_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CamScanner, blatantsPatch\n\nCamScanner - PDF Scanner App | VIP Unlocked | >Does NOT work on iOS 18 and 26.\n\n---\nThe most intelligent scanner app\nTrusted by 300M+ users\n\nCamScanner is an all-in-one scanner app. It turns your mobile device into a powerful portable scanner that recognizes text automatically (OCR) and improves your productivity to save your time. Download this scanner app for free to instantly scan, save, and share any document in PDF, JPG, Word, or TXT formats.\nWould you like to keep your entire office in your pocket and increase your productivity at work? Use the CamScanner scanner app to h",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/7a/b9/ca7ab945-ccac-2dee-c332-dfb35109552e/AppIconLite-0-0-1x_U007ephone-0-6-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 171626148,
+      "size": 190756677,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/00/6f/bd006f02-38ea-4084-6ed7-3920ef6d8e8a/f07b301d-3704-443a-8599-464c41bd25cb_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-1-1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e1/eb/4e/e1eb4e62-ad78-3f1f-9c1c-9e2b71d3928c/47f87bf1-8749-4190-87d3-f0d4080adbc4_iPhone_8P__U5e94_U7528_U622a_U5c4f_U8bbe_U8ba1-2.jpg/392x696bb.jpg",
@@ -41293,14 +41323,28 @@
           "NSLocationAlwaysUsageDescription": "To enable location-based services, please allow CamScanner to use your current location.",
           "NSSiriUsageDescription": "Let CamScanner be accessible for Siri",
           "NSFaceIDUsageDescription": "We need to have the access to the Face ID to activate the feature.",
-          "NSBluetoothAlwaysUsageDescription": "To identify, connect, and transfer data with your Bluetooth device, please allow CamScanner access to Bluetooth.",
-          "NSBluetoothPeripheralUsageDescription": "To identify, connect, and transfer data with your Bluetooth device, please allow CamScanner access to Bluetooth.",
+          "NSBluetoothAlwaysUsageDescription": "To identify, connect, and transfer data with your Bluetooth device, please allow CamScanner access to Bluetooth。This is also required to maintain connection and transfer data when the app is in the background.",
+          "NSBluetoothPeripheralUsageDescription": "To identify, connect, and transfer data with your Bluetooth device, please allow CamScanner access to Bluetooth。This is also required to maintain connection and transfer data when the app is in the background.",
           "NSLocalNetworkUsageDescription": "App wants Local Network Access (Device Discovery).",
           "NSUserTrackingUsageDescription": "Get IDFA permissions to protect your account security and receive personalized advertising recommendations",
           "NSPhotoLibraryAddUsageDescription": "To save your scans to Photos, please allow CamScanner to access photos."
         }
       },
       "versions": [
+        {
+          "version": "7.12.0",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 7.12.0\n\nTweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/CamScanner_PDF_Scanner_App_v7_12_0_VIP_Unlocked_blatant_Patched.ipa",
+          "size": 190756677
+        },
+        {
+          "version": "7.12.0b",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 7.12.0\n\nTweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/CamScanner_PDF_Scanner_App_v7_12_0_VIP_Unlocked_blatant_Patched.ipa",
+          "size": 190756677
+        },
         {
           "version": "6.90.0",
           "date": "2026-02-05",
@@ -41314,20 +41358,6 @@
           "localizedDescription": "Version: 6.91.1\n\nTweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-20/CamScanner_PDF_Scanner_App_v6_91_1_VIP_Unlocked_blatant_patched.ipa",
           "size": 176231919
-        },
-        {
-          "version": "7.11.0",
-          "date": "2026-01-26",
-          "localizedDescription": "Version: 7.11.0\n\nTweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-26-1/CamScanner_PDF_Scanner_App_v7_11_0_VIP_Unlocked_blatant_Patched.ipa",
-          "size": 190771322
-        },
-        {
-          "version": "7.11.0b",
-          "date": "2026-01-26",
-          "localizedDescription": "Version: 7.11.0\n\nTweaks: CamScanner, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-26-1/CamScanner_PDF_Scanner_App_v7_11_0_VIP_Unlocked_blatant_Patched.ipa",
-          "size": 190771322
         }
       ],
       "category": "productivity"
