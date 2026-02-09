@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.spotify.client",
-    "com.risesci.nyx",
-    "me.imgbase.videoday",
-    "RVS-Riverside.fm",
-    "com.rubygames.assassin"
+    "com.google.ios.youtube",
+    "com.commsource.BeautyPlus",
+    "com.revivasoftworks.Snore-Lab",
+    "com.joytunes.Sing",
+    "com.offlinemusic"
   ],
   "apps": [
     {
@@ -1320,6 +1320,50 @@
         }
       ],
       "category": "lifestyle"
+    },
+    {
+      "name": "AlevioOS",
+      "bundleIdentifier": "com.alevioos.app",
+      "developerName": "SILVIA ISABELLA DANYLUK",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "2.4.0",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: AlevioOS, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/AlevioOS_Local_Ai_v2_4_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAlevioOS - Local Ai | 🆕 New App: 2.4.0 | Subscription Unlocked | Restart the app to activate the subscription.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/e5/01/dce5015a-6851-8c55-59ad-1f4a2d2a3d50/AppIcon-0-0-1x_U007epad-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 28661619,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "AlevioOS accesses your photo library to select images for local AI analysis only. Selected images are processed entirely on your device and are never transmitted to external servers.",
+          "NSCameraUsageDescription": "AlevioOS uses your camera to capture images and video for local AI analysis only. All processing happens on your device and no images are transmitted to external servers.",
+          "NSMicrophoneUsageDescription": "AlevioOS uses your microphone for voice assistant functionality. All voice recognition happens on your device and no audio is transmitted to external servers.",
+          "NSLocationWhenInUseUsageDescription": "AlevioOS does not use location services. This permission is required by some third-party libraries but is not used by the app.",
+          "NSSiriUsageDescription": "AlevioOS verwendet Siri, um direkt mit der KI zu chatten, ohne die App zu öffnen.",
+          "NSSpeechRecognitionUsageDescription": "AlevioOS benötigt Zugriff auf die Spracherkennung, um Sprache in Text umzuwandeln. Alles bleibt auf deinem Gerät.",
+          "NSPhotoLibraryAddUsageDescription": "AlevioOS speichert Bilder nur lokal auf deinem Gerät, niemals extern."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.4.0",
+          "date": "2026-01-19",
+          "localizedDescription": "Tweaks: AlevioOS, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/AlevioOS_Local_Ai_v2_4_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 28661619
+        },
+        {
+          "version": "2.4.0b",
+          "date": "2026-01-19",
+          "localizedDescription": "Tweaks: AlevioOS, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/AlevioOS_Local_Ai_v2_4_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 28661619
+        }
+      ],
+      "category": "productivity"
     },
     {
       "name": "AllRoundTools",
@@ -3327,6 +3371,65 @@
         }
       ],
       "category": "music"
+    },
+    {
+      "name": "BeautyPlus",
+      "bundleIdentifier": "com.commsource.BeautyPlus",
+      "developerName": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+      "subtitle": "Tweaked with CydiaSubstrate, rophim",
+      "version": "7.31.0",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: CydiaSubstrate, rophim\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/BeautyPlus.Premium.7.31.0.ipa",
+      "localizedDescription": "BeautyPlus - AI Photo Editor | Tweak made by ⏤͟͞Lãng Khách🇻🇳 | Minimum OS version 13.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0f/1e/f0/0f1ef036-6a66-cbfb-d287-98bec9b0cf7e/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 363016846,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/7f/af/8e7faffb-b25d-b181-a831-cf612ac1d937/02ce367b-222b-451a-85fd-37a7ef46cf19_EN__U81ea_U62cd_2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f5/ec/45/f5ec4567-efb0-6e5c-fb5a-a610f6007404/efedfaee-efaa-4541-8010-ff9b2852bac7_EN__U6d88_U9664_U7b14_2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/73/9a/8f/739a8fb1-8cf9-d3b1-a800-33c246f5d582/8072b204-f0fa-4de5-8056-8ad6c2b512f2_EN__U58c1_U7eb8.jpeg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3b/e6/2c/3be62caa-41c8-ac05-0141-028104368328/b11acf0e-ba3d-41c6-a978-177275f5c7c2_EN__U7f8e_U5986_2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/bf/c3/41bfc33b-8745-4d85-1553-670a68bfaafb/68c39b45-b0de-409a-8a92-5bb135afbd4f_EN__U53d1_U578b_2208.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "inter-app-audio",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "photoLibraryDesciption",
+          "NSCameraUsageDescription": "cameraDesciption",
+          "NSMicrophoneUsageDescription": "microphoneDesciption",
+          "NSLocationWhenInUseUsageDescription": "WhenInUseUsageDescription",
+          "NSLocationAlwaysUsageDescription": "WhenInUseUsageDescription",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "WhenInUseUsageDescription",
+          "NSUserTrackingUsageDescription": "trackingDescription",
+          "NSPhotoLibraryAddUsageDescription": "photoLibraryAddDesciption"
+        }
+      },
+      "versions": [
+        {
+          "version": "7.31.0",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: CydiaSubstrate, rophim\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/BeautyPlus.Premium.7.31.0.ipa",
+          "size": 363016846
+        },
+        {
+          "version": "7.31.0b",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: CydiaSubstrate, rophim\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/BeautyPlus.Premium.7.31.0.ipa",
+          "size": 363016846
+        }
+      ],
+      "category": "photo-&-video"
     },
     {
       "name": "Beelinguapp",
@@ -15908,13 +16011,6 @@
           "size": 111702576
         },
         {
-          "version": "2.038b",
-          "date": "2026-02-08",
-          "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, hunterassassin\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Hunter.Assassin-v2.038-riftysipas.ipa",
-          "size": 111702576
-        },
-        {
           "version": "2.037",
           "date": "2026-02-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, hunterassassin\n\nSource: @riftysIPAlibrary",
@@ -18696,13 +18792,6 @@
           "size": 145992240
         },
         {
-          "version": "23.5.1b",
-          "date": "2026-02-08",
-          "localizedDescription": "Tweaks: LifesumCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Lifesum_AI_Calorie_Counter_v23_5_1_Subscription_Unlocked_blatant.ipa",
-          "size": 145992240
-        },
-        {
           "version": "23.5.0",
           "date": "2026-01-26",
           "localizedDescription": "Tweaks: LifesumCrack, blatantsPatch\n\nSource: @blatants",
@@ -18715,6 +18804,13 @@
           "localizedDescription": "Tweaks: LifesumCrack, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/Lifesum_AI_Calorie_Counter_v23_5_0_Subscription_Unlocked_blatant.ipa",
           "size": 146895924
+        },
+        {
+          "version": "23.4.0",
+          "date": "2026-01-19",
+          "localizedDescription": "Tweaks: LifesumCrack, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-18/Lifesum_AI_Calorie_Counter_v23_4_0_Subscription_Unlocked_blatant.ipa",
+          "size": 146015118
         }
       ],
       "category": "health-&-fitness"
@@ -23078,15 +23174,15 @@
       "name": "Offline Music",
       "bundleIdentifier": "com.offlinemusic",
       "developerName": "Md Zakir Hossain",
-      "subtitle": "** Pro_Unlocked",
-      "version": "3.4.5",
-      "versionDate": "2026-01-07",
-      "versionDescription": "Tweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/MusicPlayer_v3.4.5_Pro_Unlocked_blatant.ipa",
-      "localizedDescription": "** Pro_Unlocked\n\nOffline Music Player | com.offlinemusic | Category: Music | ProUnlocked | No Additional Notes",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/ee/8e/22ee8ee8-823a-e38a-e3fa-5c8ad7104771/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "subtitle": "Pro Unlocked | Patched",
+      "version": "3.8.1",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Offline.Music.Player.v3.8.1.Pro.Unlocked.blatant.Patched.ipa",
+      "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nOffline Music Player | Pro Unlocked",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/52/9c/cc529c72-414d-b38e-a253-b088640e246c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 88547041,
+      "size": 95773350,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/74/3d/e0743d5f-5903-ff53-ac44-b4b859a53051/14112d4b-9e03-402e-b9d0-0f90e8c8cabb_iPhone_screenshot.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/f7/4f/37f74f82-c6bf-7eb7-7b76-1c48717e0d22/637cd3d6-5191-4d9f-be32-400fdd95d0d0_iPhone_screenshot1.png/392x696bb.png",
@@ -23097,6 +23193,8 @@
       "appPermissions": {
         "entitlements": [
           "com.apple.developer.siri",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.networking.networkextension",
           "aps-environment",
           "com.apple.security.application-groups",
           "com.apple.developer.playable-content"
@@ -23104,6 +23202,7 @@
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Some ad content may require access to the photo library.",
           "NSCameraUsageDescription": "This will let you take photos and scans in Documents, as well as connect to computer via a QR-code.",
+          "NSCalendarsUsageDescription": "This will let your track anatylics",
           "NSMotionUsageDescription": "Some ad content may require access to accelerometer for interactive ad experience.",
           "NSAppleMusicUsageDescription": "to import tracks from music",
           "NSLocalNetworkUsageDescription": "Exchange Tracks with nearby devices running the Offline Music Player app.",
@@ -23111,6 +23210,20 @@
         }
       },
       "versions": [
+        {
+          "version": "3.8.1",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Offline.Music.Player.v3.8.1.Pro.Unlocked.blatant.Patched.ipa",
+          "size": 95773350
+        },
+        {
+          "version": "3.8.1b",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Offline.Music.Player.v3.8.1.Pro.Unlocked.blatant.Patched.ipa",
+          "size": 95773350
+        },
         {
           "version": "3.4.5",
           "date": "2026-01-07",
@@ -23124,20 +23237,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/MusicPlayer_v3.4.4_Pro_Unlocked_blatant.ipa",
           "size": 88551634
-        },
-        {
-          "version": "3.4.3",
-          "date": "2026-01-06",
-          "localizedDescription": "Tweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/MusicPlayer_v3.4.3_Pro_Unlocked_blatant.ipa",
-          "size": 88547161
-        },
-        {
-          "version": "3.4.2",
-          "date": "2026-01-02",
-          "localizedDescription": "Tweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/MusicPlayer_v3.4.2_Pro_Unlocked_blatant.ipa",
-          "size": 88546449
         }
       ],
       "category": "music"
@@ -27980,18 +28079,18 @@
           "size": 137191304
         },
         {
-          "version": "0.1.567c",
-          "date": "2026-02-08",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/RISE_Sleep_Tracker_v1_567_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 137191304
-        },
-        {
           "version": "0.1.566",
           "date": "2026-02-06",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-26/RISE_Sleep_Tracker_v1_566_0_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 137308026
+        },
+        {
+          "version": "0.1.565",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/RISE_Sleep_Tracker_v1_565_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 141307596
         }
       ],
       "category": "health-&-fitness"
@@ -28090,13 +28189,6 @@
       "versions": [
         {
           "version": "4.8.0",
-          "date": "2026-02-08",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Riverside.Podcast.Video.Studio-v4.8.0-riftysipas.ipa",
-          "size": 203680792
-        },
-        {
-          "version": "4.8.0b",
           "date": "2026-02-08",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Riverside.Podcast.Video.Studio-v4.8.0-riftysipas.ipa",
@@ -29719,6 +29811,55 @@
       "category": "utilities"
     },
     {
+      "name": "SimplySing",
+      "bundleIdentifier": "com.joytunes.Sing",
+      "developerName": "Simply Ltd",
+      "subtitle": "Tweaked with SimplySingPatch",
+      "version": "2.7.0",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: SimplySingPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Simply.Sing.Premium.2.7.0.ipa",
+      "localizedDescription": "Simply Sing: My Singing App | Tweak made by Никита | Minimum OS version 16.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/79/2e/95792e96-54af-ed68-3138-da8d150cb689/AppIcon-new-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 92861869,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/a8/6d/caa86d47-4f66-38fd-6de1-45c8e344271d/80124bc5-c119-4a00-980e-1131fb7afd56_5.5_-_7.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b2/cb/e3/b2cbe3c2-d630-8c72-c076-c4c81b365fc9/a9b51ee4-6e46-4cdb-82e1-c37a243b9d4e_5.5_-_8.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/4a/b9/3d4ab9f1-98a9-8f15-60ea-90c42f1c2cde/e5c26c98-5b09-42eb-8dbd-a697fdb8a757_5.5_-_9.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/54/03/5b540343-70fa-4a59-53d3-eb85797f8dc5/e8a421fb-d0fc-4afc-8767-fb5d5e273a4e_5.5_-_10.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/2b/d6/4c2bd6d9-764d-97ee-b3f7-c71ecf609e7b/caec5150-8dad-40eb-b447-49efea4eec52_5.5_-_11.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Send photos to help resolve app issues",
+          "NSMicrophoneUsageDescription": "Simply Sing needs to listen to your voice in order to adapt songs to your vocal range",
+          "NSAppleMusicUsageDescription": "Personalize Simply Sing to your musical taste",
+          "NSSpeechRecognitionUsageDescription": "Simply Sing needs to recognize your speech in order to determine your vocal range",
+          "NSUserTrackingUsageDescription": "Help Simply Sing reach more music lovers by reducing unnecessary ads",
+          "NSPhotoLibraryAddUsageDescription": "Simply Sing would like to save your performance into your camera roll"
+        }
+      },
+      "versions": [
+        {
+          "version": "2.7.0",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: SimplySingPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Simply.Sing.Premium.2.7.0.ipa",
+          "size": 92861869
+        },
+        {
+          "version": "2.7.0b",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: SimplySingPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Simply.Sing.Premium.2.7.0.ipa",
+          "size": 92861869
+        }
+      ],
+      "category": "music"
+    },
+    {
       "name": "Sketchar",
       "bundleIdentifier": "tech.sketchar.ios",
       "developerName": "SketchAR",
@@ -30760,18 +30901,25 @@
       "name": "SnoreLab",
       "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
       "developerName": "Reviva Softworks Ltd",
-      "subtitle": "Subscription Unlocked | Patched",
-      "version": "6.1.3",
-      "versionDate": "2026-02-02",
-      "versionDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-10/SnoreLab_Record_Your_Snoring_v6_1_3_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSnoreLab : Record Your Snoring | Subscription Unlocked | Click restore or restart the app if not unlocked.",
+      "subtitle": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**",
+      "version": "6.1.4",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/SnoreLab.Record.Your.Snoring-v6.1.4-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Satella Injected For Unlocking Subscription | *Patched ✓**\n\nSnoreLab : Record Your Snoring | Satella injected for unlocking subscription | Patched ✓ | Additional Information ℹ️",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/8b/04/978b04be-9376-ebbb-4b4b-4b53c1e1de6f/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 154871586,
+      "size": 151169726,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.siri",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSMicrophoneUsageDescription": "App wants access to your microphone.",
           "NSHealthShareUsageDescription": "App wants Health Share Usage permissions (e.g. Sharing Activity App Data).",
@@ -30782,32 +30930,32 @@
       },
       "versions": [
         {
-          "version": "6.1.3",
-          "date": "2026-02-01",
-          "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-10/SnoreLab_Record_Your_Snoring_v6_1_3_Subscription_Unlocked_blatant.ipa",
-          "size": 154871586
+          "version": "6.1.4",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/SnoreLab.Record.Your.Snoring-v6.1.4-riftysipas.ipa",
+          "size": 151169726
         },
         {
-          "version": "6.1.3b",
-          "date": "2026-02-01",
+          "version": "6.1.4b",
+          "date": "2026-02-08",
           "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-9/SnoreLab_Record_Your_Snoring_v6_1_3_Subscription_Unlocked_blatant.ipa",
-          "size": 154871586
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/SnoreLab_Record_Your_Snoring_v6_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 154893599
         },
         {
-          "version": "6.1.1",
-          "date": "2026-01-27",
+          "version": "6.1.4c",
+          "date": "2026-02-08",
           "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/SnoreLab_Record_Your_Snoring_v6_1_1_Subscription_Unlocked_blatant.ipa",
-          "size": 154678988
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/SnoreLab_Record_Your_Snoring_v6_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 154893599
         },
         {
-          "version": "6.1.1b",
-          "date": "2026-01-27",
-          "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/SnoreLab_Record_Your_Snoring_v6_1_1_Subscription_Unlocked_blatant.ipa",
-          "size": 154678988
+          "version": "6.1.4d",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/SnoreLab.Record.Your.Snoring-v6.1.4-riftysipas.ipa",
+          "size": 151169726
         }
       ],
       "category": "medical"
@@ -31829,13 +31977,6 @@
           "size": 97002880
         },
         {
-          "version": "9.1.18b",
-          "date": "2026-01-30",
-          "localizedDescription": "Tweaks: CydiaSubstrate, EeveeSpotify\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/EeveeSpotify-9.1.18-Swift-6.5.1.ipa",
-          "size": 97002880
-        },
-        {
           "version": "9.1.16",
           "date": "2026-02-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, EeveeSpotify\n\nSource: @binnichtaktivsipas",
@@ -31848,6 +31989,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, EeveeSpotify\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-24/EeveeSpotify-9.1.16-Swift-6.5.1.ipa",
           "size": 94724657
+        },
+        {
+          "version": "9.1.12",
+          "date": "2026-01-16",
+          "localizedDescription": "Tweaks: CydiaSubstrate, EeveeSpotify, zxPluginsInject\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-11/EeveeSpotify-patched.ipa",
+          "size": 96189010
         }
       ],
       "category": "music"
@@ -36913,20 +37061,6 @@
         {
           "version": "3.7.0b",
           "date": "2026-02-08",
-          "localizedDescription": "Tweaks: AutoItunes, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/VDIT.-.Video.Maker.Editor-v3.7.0-riftysipas.ipa",
-          "size": 220652260
-        },
-        {
-          "version": "3.7.0c",
-          "date": "2026-02-08",
-          "localizedDescription": "Tweaks: VDIT, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/VDIT_Video_Maker_._Editor_v3_7_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 226378593
-        },
-        {
-          "version": "3.7.0d",
-          "date": "2026-02-08",
           "localizedDescription": "Tweaks: VDIT, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/VDIT_Video_Maker_._Editor_v3_7_0_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 226378593
@@ -39295,15 +39429,15 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "subtitle": "Tweaked with CydiaSubstrate, MadeByMohkg",
+      "subtitle": "Tweaked with CydiaSubstrate, DontEatMyContent",
       "version": "21.05.3",
-      "versionDate": "2026-02-04",
-      "versionDescription": "Tweaks: CydiaSubstrate, MadeByMohkg, TubeLRD, sideloadFixerLol, substrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-18/YouTube21.05.3LRD1.13CrackedMoePatched.ipa",
+      "versionDate": "2026-02-08",
+      "versionDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, YTLite, YTUHD, YTVideoOverlay\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/21.05.3_YouTubePlus_5.2b4.ipa",
       "localizedDescription": "YouTube for iOS",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/2e/78/db2e7829-31f6-f9d8-9db8-6f6bd1d11126/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 130330865,
+      "size": 125463308,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -39313,11 +39447,12 @@
       ],
       "appPermissions": {
         "entitlements": [
-          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.usernotifications.time-sensitive",
           "com.apple.developer.group-session",
           "com.apple.developer.networking.wifi-info",
           "aps-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.coremedia.allow-alternate-video-decoder-selection",
           "com.apple.developer.associated-domains",
           "com.apple.developer.device-information.user-assigned-device-name",
           "com.apple.developer.siri",
@@ -39338,31 +39473,31 @@
       "versions": [
         {
           "version": "21.05.3",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, YTLite, YTUHD, YTVideoOverlay\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/21.05.3_YouTubePlus_5.2b4.ipa",
+          "size": 125463308
+        },
+        {
+          "version": "21.05.3b",
+          "date": "2026-02-08",
+          "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, YTLite, YTUHD, YTVideoOverlay\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/21.05.3_YouTubePlus_5.2b4.ipa",
+          "size": 125463308
+        },
+        {
+          "version": "21.05.3c",
           "date": "2026-02-04",
           "localizedDescription": "Tweaks: CydiaSubstrate, MadeByMohkg, TubeLRD, sideloadFixerLol, substrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-18/YouTube21.05.3LRD1.13CrackedMoePatched.ipa",
           "size": 130330865
         },
         {
-          "version": "21.05.3b",
+          "version": "21.05.3d",
           "date": "2026-02-04",
           "localizedDescription": "Tweaks: CydiaSubstrate, MadeByMohkg, TubeLRD, sideloadFixerLol, substrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-17/YouTube21.05.3LRD1.13CrackedMoePatched.ipa",
           "size": 130330865
-        },
-        {
-          "version": "21.04.2",
-          "date": "2026-01-26",
-          "localizedDescription": "Tweaks: CydiaSubstrate, MadeByMohkg, TubeLRD, sideloadFixerLol, substrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-4/YouTube21.04.2LRD1.12CrackedMoe.ipa",
-          "size": 130000608
-        },
-        {
-          "version": "21.04.2b",
-          "date": "2026-01-26",
-          "localizedDescription": "Tweaks: CydiaSubstrate, MadeByMohkg, TubeLRD, sideloadFixerLol, substrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-4/YouTube21.04.2LRD1.12CrackedMoe.ipa",
-          "size": 130000608
         }
       ],
       "category": "photo-&-video"
@@ -40466,7 +40601,7 @@
     {
       "title": "⚙️ Telos Update 2.8",
       "identifier": "telos-update-2026-02-08",
-      "caption": "52 Apps Updated:\n• 14 Health & Fitness\n• 11 Photo & Video\n• 5 Games\n• 4 Productivity\n• 4 Music\n• 3 Weather\n• 2 Utilities\n• 2 Social Networking\n• 2 Navigation\n• 2 News\n• 1 Education\n• 1 Graphics & Design\n• 1 Travel",
+      "caption": "59 Apps Updated:\n• 12 Health & Fitness\n• 12 Photo & Video\n• 7 Music\n• 6 Productivity\n• 4 Games\n• 4 Medical\n• 3 Weather\n• 2 Utilities\n• 2 Social Networking\n• 2 Navigation\n• 2 News\n• 1 Education\n• 1 Graphics & Design\n• 1 Travel",
       "date": "2026-02-08",
       "tintColor": "#02433b",
       "notify": true,
