@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.lightricks.Enlight-Editor",
-    "RVS-Riverside.fm",
-    "com.pixite.pigment",
-    "com.yazio.ios.YAZIO",
-    "com.SixThree.POV"
+    "io.fadel.Spiik",
+    "com.kairos.duet",
+    "com.algoriddim.djay-iphone-free",
+    "com.lightricks.Enlight-Video",
+    "com.dubox.drive"
   ],
   "apps": [
     {
@@ -2823,6 +2823,70 @@
     },
     {
       "beta": false,
+      "name": "Badoo",
+      "bundleIdentifier": "com.badoo.BadooSPP",
+      "developerName": "Badoo Software Ltd",
+      "subtitle": "Badoo for iOS",
+      "version": "5.448.0",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 5.448.0\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Badoo.Premium.5.448.0.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nBadoo Premium | Paid app 2.99€ | Decrypted by userhidden | Premium is NOT unlocked | Minimum OS version 17.0\n\n---\nBadoo is the world’s largest dating network, with millions of users and counting. Countless people use it every day around the world to chat, date, meet and flirt. Now, for a limited time only, we are offering you the chance to enjoy Badoo Premium at a discounted price! You’ll be able to see who likes you, boost your profile, and a number of other exclusive features.\n\nAs well as these Badoo Premium features, you’ll also be able to:\n\n- Chat, flirt and meet new people\n- See who uses Badoo nearby\n-",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/d3/7e/c9d37ec8-70f6-4b8a-8141-c76c43907879/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 68485643,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ba/95/f3ba950e-95d3-34c4-c25e-03063c20429a/0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/6a/07/286a07a2-e48e-6d7e-acfe-5bdd38f03ccd/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/31/f1/ed31f107-f427-5be4-8ea1-03b699625cca/2_APP_IPHONE_55_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/2b/a3/3f2ba399-4e5a-3b02-d679-04f427594435/3_APP_IPHONE_55_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/ae/fc/57aefc6e-74eb-4827-cbd2-3605ea6146db/4_APP_IPHONE_55_4.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.applesignin",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.declared-age-range",
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow access to your photo library",
+          "NSCameraUsageDescription": "Allow access to your camera so you can take pictures or record videos",
+          "NSMicrophoneUsageDescription": "Allow access to your microphone to record audio.",
+          "NSLocationWhenInUseUsageDescription": "We’ll only use your location to find people you’ve bumped into.",
+          "NSLocationAlwaysUsageDescription": "We’ll only use your location to find people you’ve bumped into.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "We’ll only use your location to find people you’ve bumped into.",
+          "NSContactsUsageDescription": "To find your friends Badoo needs access to your contacts.",
+          "NSCalendarsUsageDescription": "Allow access so we can provide you Google ads",
+          "NSFaceIDUsageDescription": "This will allow you to log in quickly and securely.",
+          "NSBluetoothPeripheralUsageDescription": "Allow Badoo to access your Bluetooth so you can find people nearby when you are offline",
+          "NSLocalNetworkUsageDescription": "This lets us improve the quality of video calls and other features on the app.",
+          "NSUserTrackingUsageDescription": "This shows you personalised ads and improves our marketing.",
+          "NSPhotoLibraryAddUsageDescription": "Allow access to your photo library"
+        }
+      },
+      "versions": [
+        {
+          "version": "5.448.0",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 5.448.0\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Badoo.Premium.5.448.0.ipa",
+          "size": 68485643
+        },
+        {
+          "version": "5.448.0b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 5.448.0\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Badoo.Premium.5.448.0.ipa",
+          "size": 68485643
+        }
+      ],
+      "category": "social-networking"
+    },
+    {
+      "beta": false,
       "name": "Balatro",
       "bundleIdentifier": "com.playstack.balatropremium",
       "developerName": "Playstack Ltd",
@@ -3283,6 +3347,55 @@
         }
       ],
       "category": "music"
+    },
+    {
+      "beta": false,
+      "name": "Beelinguapp",
+      "bundleIdentifier": "com.beelinguapp.beelinguapp",
+      "developerName": "Beelinguapp UG (haftungsbeschrankt)",
+      "subtitle": "Tweaked with BeelinguappPatch, CydiaSubstrate",
+      "version": "3.9.5",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 3.9.5\n\nTweaks: BeelinguappPatch, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Beelinguapp.Premium.3.9.5.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: BeelinguappPatch, CydiaSubstrate\n\nBeelinguapp: Language Learning | Tweak made by Никита | Minimum OS version 16.6\n\n---\nBeelinguapp is the ultimate language learning app that helps you master Spanish, English, and many other languages with bilingual audiobooks. Using our parallel-text method, you can read stories in two languages side by side, improving comprehension, pronunciation, and vocabulary at any experience level!\n\nKey Features:\n\n• Bilingual Stories for All Levels: From beginners to experts, find stories tailored to your skill level and interests.\n• Audiobooks Narrated by Native Speakers: Listen to authen",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/07/1f/50071fe2-d4f5-ef92-14a4-d5ab11bb4ab0/AppIcon-1-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 61302894,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/1d/96/a21d9620-a19c-75a8-9d48-644b168c0832/f34ea0bc-3879-45a1-9179-3dd51f35cb8c_1242x2208_-_English_-_A1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/17/78/e1/1778e104-dd3d-e400-346b-4945a7720920/1f2d6439-9455-452c-be3f-d4226f32442a_1242x2208_-_English_-_A2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/05/07/8305077a-7fb0-5c1f-7253-db11b9f7eaff/0a5ceff5-0c2a-4237-9ca8-b0381e70476f_1242x2208_-_English_-_A3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/50/e9/6250e968-f5ca-69f2-b02a-e05c29d2c8f0/5a6b2a1a-23f1-43a0-8bb1-8e5178d2f5fd_1242x2208_-_English_-_A4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/de/6b/14/de6b14ff-b578-9a0f-e607-91877650b877/73f80829-5c84-4af5-bf26-a7d6993a67b8_1242x2208_-_English_-_A6.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app requires access to the photo library",
+          "NSCameraUsageDescription": "Camera is used for capturing photos.",
+          "NSMicrophoneUsageDescription": "Allow to practice words pronuntiation",
+          "NSSpeechRecognitionUsageDescription": "Allow to practice words pronunciation",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized info to you"
+        }
+      },
+      "versions": [
+        {
+          "version": "3.9.5",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 3.9.5\n\nTweaks: BeelinguappPatch, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Beelinguapp.Premium.3.9.5.ipa",
+          "size": 61302894
+        },
+        {
+          "version": "3.9.5b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 3.9.5\n\nTweaks: BeelinguappPatch, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Beelinguapp.Premium.3.9.5.ipa",
+          "size": 61302894
+        }
+      ],
+      "category": "education"
     },
     {
       "beta": false,
@@ -6815,23 +6928,23 @@
         {
           "version": "2.38b",
           "date": "2026-02-09",
-          "localizedDescription": "Version: 2.38\n\nTweaks: AutoRcSideload, FilePickerFix, StopReviewPopup, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Coconote.-.AI.Note.Taker.v2.38.Pro.Unlocked.blatant.Patched.ipa",
-          "size": 48908815
-        },
-        {
-          "version": "2.38c",
-          "date": "2026-02-09",
           "localizedDescription": "Version: 2.38\n\nTweaks: CydiaSubstrate, FilePickerFix, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Coconote.-.AI.Note.Taker-v2.38-riftysipas.ipa",
           "size": 45095737
         },
         {
-          "version": "2.38d",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 2.38\n\nTweaks: CydiaSubstrate, FilePickerFix, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Coconote.-.AI.Note.Taker-v2.38-riftysipas.ipa",
-          "size": 45095737
+          "version": "1.61",
+          "date": "2026-01-08",
+          "localizedDescription": "Version: 1.61\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-12/Coconote_v1.61_blatant.ipa",
+          "size": 15813728
+        },
+        {
+          "version": "1.62",
+          "date": "2026-01-08",
+          "localizedDescription": "Version: 1.62\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-11/Coconote_v1.62_blatant.ipa",
+          "size": 15900409
         }
       ],
       "category": "education"
@@ -7987,13 +8100,6 @@
           "size": 115740966
         },
         {
-          "version": "2.15b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 2.15\n\nTweaks: Dazzcam, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Dazz.Cam.-.Vintage.Camera.v2.15.Dazz.Pro.blatant.Patched.ipa",
-          "size": 115740966
-        },
-        {
           "version": "2.9.2",
           "date": "2026-01-02",
           "localizedDescription": "Version: 2.9.2\n\nSource: @binnichtaktivsipas",
@@ -8716,15 +8822,15 @@
       "name": "djay",
       "bundleIdentifier": "com.algoriddim.djay-iphone-free",
       "developerName": "Algoriddim GmbH",
-      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "subtitle": "Tweaked with CydiaSubstrate, RevenueCatFix26",
       "version": "5.6.2",
-      "versionDate": "2026-02-09",
-      "versionDescription": "Version: 5.6.2\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/djay.-.DJ.App.AI.Mixer-v5.6.2-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\ndjay - DJ App & AI Mixer | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nNow with Spotify and Apple Music integration\n\nWelcome to djay! The #1 DJ app and winner of multiple Apple Design Awards lets you start mixing your favorite music instantly. Connect your Spotify or Apple Music account to access millions of songs and create your own DJ mixes in no time – right inside djay.\n\ndjay transforms your iOS device into a full-featured DJ system. Seamlessly integrated with your music library, djay allows you to mix your favorite songs and playlists. You can perform live, re",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 5.6.2\n\nTweaks: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/djay.Pro.5.6.2.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\ndjay - DJ App & AI Mixer | Minimum OS version 15.0\n\n---\nNow with Spotify and Apple Music integration\n\nWelcome to djay! The #1 DJ app and winner of multiple Apple Design Awards lets you start mixing your favorite music instantly. Connect your Spotify or Apple Music account to access millions of songs and create your own DJ mixes in no time – right inside djay.\n\ndjay transforms your iOS device into a full-featured DJ system. Seamlessly integrated with your music library, djay allows you to mix your favorite songs and playlists. You can perform live, re",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/be/b5/edbeb57b-132d-fb88-0329-8117e3e8a4ab/AppIcon-0-0-1x_U007epad-0-11-0-P3-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 498977180,
+      "size": 499004788,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -8746,6 +8852,20 @@
       "versions": [
         {
           "version": "5.6.2",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 5.6.2\n\nTweaks: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/djay.Pro.5.6.2.ipa",
+          "size": 499004788
+        },
+        {
+          "version": "5.6.2b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 5.6.2\n\nTweaks: CydiaSubstrate, RevenueCatFix26, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/djay.Pro.5.6.2.ipa",
+          "size": 499004788
+        },
+        {
+          "version": "5.6.2c",
           "date": "2026-02-09",
           "localizedDescription": "Version: 5.6.2\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/djay.-.DJ.App.AI.Mixer-v5.6.2-riftysipas.ipa",
@@ -8757,20 +8877,6 @@
           "localizedDescription": "Version: 5.1.6\n\nTweaks: AutoRc, Sideloadbypass1, Sideloadbypass2, substrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-25/djay_5.1.6_CrackedBySp67.ipa",
           "size": 191340013
-        },
-        {
-          "version": "5.3",
-          "date": "2026-01-15",
-          "localizedDescription": "Version: 5.3\n\nTweaks: Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, chocorc, popupmelon\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-10/djay_5.3_Crack_Melon.ipa",
-          "size": 184276005
-        },
-        {
-          "version": "5.3.1",
-          "date": "2026-01-15",
-          "localizedDescription": "Version: 5.3.1\n\nTweaks: Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, chocorc, popupmelon\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-10/djay_5.3.1_Crack_Melon.ipa",
-          "size": 184281348
         }
       ],
       "category": "music"
@@ -9266,15 +9372,15 @@
       "name": "duet",
       "bundleIdentifier": "com.kairos.duet",
       "developerName": "Duet, Inc.",
-      "subtitle": "Tweaked with CydiaSubstrate, DuetDisplay",
-      "version": "2.26.0",
-      "versionDate": "2026-01-08",
-      "versionDescription": "Version: 2.26.0\n\nTweaks: CydiaSubstrate, DuetDisplay\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-12/duet_v2.26_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DuetDisplay\n\nDuet Display | com.kairos.duet | Category: Productivity | No Additional Notes\n\n---\n#1 best-selling iPad app in US, Japan, UK, Germany, and 17 other countries!\n\nDuet turns your iPad or iPhone into the most advanced extra display for your Mac & PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.\n\n— DO MORE —\nBe twice as productive by multitasking with two screens. And for those that travel, have a portable way to stay productive.\n\n— INCREDIBLY SIMPLE —\nTo get started, plug your iPad into your desktop using",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/4f/ea/414feadb-49fc-78c9-8398-9fbee8b0ca21/DuetDisplayAppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+      "subtitle": "Tweaked with DuetDisplay, blatantsPatch",
+      "version": "3.1.0",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 3.1.0\n\nTweaks: DuetDisplay, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Duet.Display.v3.1.0.Subscription.Unlocked.blatant.Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: DuetDisplay, blatantsPatch\n\nDuet Display | Subscription Unlocked\n\n---\n#1 best-selling iPad app in US, Japan, UK, Germany, and 17 other countries!\n\nDuet turns your iPad or iPhone into the most advanced extra display for your Mac & PC. Developed by a team of ex-Apple engineers, Duet offers unparalleled performance and display quality - all with zero lag.\n\n— DO MORE —\nBe twice as productive by multitasking with two screens. And for those that travel, have a portable way to stay productive.\n\n— INCREDIBLY SIMPLE —\nTo get started, plug your iPad into your desktop using",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/c2/41/64c2418c-8535-d174-b4b5-c35a571bbe36/DuetDisplayAppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 40090031,
+      "size": 44128525,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/c9/da/acc9da7c-5562-dd17-3f6e-cb4dd6e7227c/pr_source.jpg/406x228bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/37/36/3b373606-6cce-f7ce-0c76-866c4fc28218/pr_source.jpg/406x228bb.jpg",
@@ -9296,6 +9402,20 @@
         }
       },
       "versions": [
+        {
+          "version": "3.1.0",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 3.1.0\n\nTweaks: DuetDisplay, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Duet.Display.v3.1.0.Subscription.Unlocked.blatant.Patched.ipa",
+          "size": 44128525
+        },
+        {
+          "version": "3.1.0b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 3.1.0\n\nTweaks: DuetDisplay, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Duet.Display.v3.1.0.Subscription.Unlocked.blatant.Patched.ipa",
+          "size": 44128525
+        },
         {
           "version": "2.26.0",
           "date": "2026-01-08",
@@ -9653,13 +9773,6 @@
           "size": 438962035
         },
         {
-          "version": "8.20.01b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 8.20.01\n\nTweaks: DJMixer, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Edjing_Mix_DJ_Music_Mixer_v8_20_01_Subscription_Unlocked_blatant.ipa",
-          "size": 438962035
-        },
-        {
           "version": "8.20.00",
           "date": "2026-02-09",
           "localizedDescription": "Version: 8.20.00\n\nTweaks: DJMixer, blatantsPatch\n\nSource: @blatants",
@@ -9671,6 +9784,13 @@
           "date": "2026-01-22",
           "localizedDescription": "Version: 8.19.01\n\nTweaks: DJMixer, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-22/Edjing_Mix_DJ_Music_Mixer_v8_19_01_Subscription_Unlocked_blatant.ipa",
+          "size": 438786782
+        },
+        {
+          "version": "8.19.01b",
+          "date": "2026-01-21",
+          "localizedDescription": "Version: 8.19.01\n\nTweaks: DJMixer, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-20/Edjing_Mix_DJ_Music_Mixer_v8_19_01_Subscription_Unlocked_blatant.ipa",
           "size": 438786782
         }
       ],
@@ -13729,13 +13849,6 @@
           "size": 57544981
         },
         {
-          "version": "8.8b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 8.8\n\nTweaks: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Scanner.App.Genius.Scan-v8.8-riftysipas.ipa",
-          "size": 57544981
-        },
-        {
           "version": "7.22",
           "date": "2025-12-29",
           "localizedDescription": "Version: 7.22\n\nTweaks: CydiaSubstrate, chocorc, fixipa1, fixipa2\n\nSource: @riftysIPAlibrary",
@@ -14798,13 +14911,6 @@
           "localizedDescription": "Version: 2026.2\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Happy.Scale.v2026.2.Subscription.Unlocked.blatant.Patched.ipa",
           "size": 40207414
-        },
-        {
-          "version": "2026.2b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 2026.2\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Happy.Scale.v2026.2.Subscription.Unlocked.blatant.Patched.ipa",
-          "size": 40207414
         }
       ],
       "category": "health-&-fitness"
@@ -15769,6 +15875,47 @@
     },
     {
       "beta": false,
+      "name": "iA Writer",
+      "bundleIdentifier": "pro.writer",
+      "developerName": "Information Architects AG",
+      "subtitle": "iA Writer for iOS",
+      "version": "7.3.4",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 7.3.4\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/iA.Writer.7.3.4.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\niA Writer | paid app $19.99 | decrypted by userhidden | Minimum OS version 15.0\n\n---\n“Leaving life’s mess for an ideal realm of words.” —The New Yorker\n\n“My favorite iOS app for writing in Markdown, without question, is iA Writer. iA Writer is just beautiful. To me, it’s the gold standard for Markdown syntax styling... an elegant champagne flute. That’s iA Writer for me.” —John Gruber\n\n“iA Writer creates a clean, simple and distraction-free writing environment for when you really need to focus on your words.” —The New York Times\n\n“iA Writer is an example of how powerful simplici",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/74/a8/2474a8f5-9e04-7d14-4c32-8c6ea2a6f609/Icon-0-0-1x_U007epad-0-0-0-11-0-0-P3-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 29411668,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "To add a photo to Library.",
+          "NSCameraUsageDescription": "To add a photo to Library.",
+          "NSPhotoLibraryAddUsageDescription": "To save images to Photo Library."
+        }
+      },
+      "versions": [
+        {
+          "version": "7.3.4",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 7.3.4\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/iA.Writer.7.3.4.ipa",
+          "size": 29411668
+        },
+        {
+          "version": "7.3.4b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 7.3.4\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/iA.Writer.7.3.4.ipa",
+          "size": 29411668
+        }
+      ],
+      "category": "productivity"
+    },
+    {
+      "beta": false,
       "name": "ibisPaint X",
       "bundleIdentifier": "jp.ne.ibis.ibisPaintX",
       "developerName": "ibis inc.",
@@ -16453,15 +16600,15 @@
       "name": "InShot",
       "bundleIdentifier": "com.camerasideas.InstaShot",
       "developerName": "SHANTANU PTE. LTD.",
-      "subtitle": "Tweaked with InShot, blatantsPatch",
+      "subtitle": "Tweaked with InShotPatch",
       "version": "1.94.0",
-      "versionDate": "2026-02-09",
-      "versionDescription": "Version: 1.94.0\n\nTweaks: InShot, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/InShot_Video_Editor_v1_94_0_Premium_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: InShot, blatantsPatch\n\nInShot - Video Editor | Premium Unlocked\n\n---\nInShot: Empowering Creators with Advanced Video and Photo Editing. Unlock effortless editing with easy-to-use features and powerful AI tools, elevating your video and photo editing experience to new heights.\n\n[AI Tool]\n- AI Effects. Experience the magic of AI with instant presets that elevate your images and videos in just one tap.\n- Auto Captions. AI-powered speech-to-text tool helps you say goodbye to manual text typing and makes video editing effortless.\n- Auto Remove Background. Remove backg",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 1.94.0\n\nTweaks: InShotPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/InShot.Pro.1.94.0.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: InShotPatch\n\nInShot - Video Editor\nPro unlocked\nIt crashes when you directly install it with Altstore, Sidestore or Sideloadly. Use LiveContainer to install it instead\nMinimum OS version 15.0\n\n---\nInShot: Empowering Creators with Advanced Video and Photo Editing. Unlock effortless editing with easy-to-use features and powerful AI tools, elevating your video and photo editing experience to new heights.\n\n[AI Tool]\n- AI Effects. Experience the magic of AI with instant presets that elevate your images and videos in just one tap.\n- Auto Captions. AI-powered speech-to-text tool helps you say goodbye to manual text typing and makes video editing effortless.\n- Auto Remove Background. Remove backg",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/8f/5a/948f5a49-0dc9-94c3-bc32-33db4358a3e8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 130032813,
+      "size": 125246678,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/6e/c2/136ec2d1-9f95-294a-30b4-e99d837faae2/a6c1eed2-18ab-47b2-a1b7-52439148b2e6_01-1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/65/96/ed6596a7-4191-3380-18fd-b05f19595c82/9ea3f0f4-2068-46b4-b288-9553d1974583_02.jpg/392x696bb.jpg",
@@ -16489,6 +16636,20 @@
       "versions": [
         {
           "version": "1.94.0",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 1.94.0\n\nTweaks: InShotPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/InShot.Pro.1.94.0.ipa",
+          "size": 125246678
+        },
+        {
+          "version": "1.94.0b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 1.94.0\n\nTweaks: InShotPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/InShot.Pro.1.94.0.ipa",
+          "size": 125246678
+        },
+        {
+          "version": "1.94.0c",
           "date": "2026-02-09",
           "localizedDescription": "Version: 1.94.0\n\nTweaks: InShot, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/InShot_Video_Editor_v1_94_0_Premium_Unlocked_blatant_Patched.ipa",
@@ -16500,20 +16661,6 @@
           "localizedDescription": "Version: 1.93.0\n\nTweaks: InShot, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-17/InShot_Video_Editor_v1_93_0_Premium_Unlocked_blatant_Patched.ipa",
           "size": 127682522
-        },
-        {
-          "version": "1.93.0b",
-          "date": "2026-01-19",
-          "localizedDescription": "Version: 1.93.0\n\nTweaks: InShot, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-17/InShot_Video_Editor_v1_93_0_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 127682522
-        },
-        {
-          "version": "1.92.3",
-          "date": "2026-01-10",
-          "localizedDescription": "Version: 1.92.3\n\nTweaks: InShot, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-09/InShot_Video_Editor_v1_92_3_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 125614103
         }
       ],
       "category": "photo-&-video"
@@ -16578,13 +16725,6 @@
           "size": 253976092
         },
         {
-          "version": "416.0.0b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 416.0.0\n\nTweaks: CydiaSubstrate, IGFormat, IGHDMedia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Instagram_v416_0_0_IGFormat_v1_94_%2B_IGHDMedia_v1_1_blatant_Patched.ipa",
-          "size": 253976092
-        },
-        {
           "version": "358.0.0",
           "date": "2026-02-07",
           "localizedDescription": "Version: 358.0.0\n\nTweaks: FouadCrack, Regram, WatusiToolsSL\n\nSource: @binnichtaktivsipas",
@@ -16597,6 +16737,13 @@
           "localizedDescription": "Version: 322.0.1\n\nTweaks: AF, CydiaSubstrate, DP, RIPass, Rocket\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-25/InstaRocket_322.0.1%40DPixel.ipa",
           "size": 144688202
+        },
+        {
+          "version": "341.0.1",
+          "date": "2026-02-06",
+          "localizedDescription": "Version: 341.0.1\n\nTweaks: CydiaSubstrate, Nyx\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-24/Instagram341.0.1NYX1.3.4Beta.ipa",
+          "size": 156909365
         }
       ],
       "category": "photo-&-video"
@@ -19960,13 +20107,6 @@
           "localizedDescription": "Version: 2.35\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Mesmerize.-.Visual.Meditation-v2.35-riftysipas.ipa",
           "size": 251129843
-        },
-        {
-          "version": "2.35b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 2.35\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Mesmerize.-.Visual.Meditation-v2.35-riftysipas.ipa",
-          "size": 251129843
         }
       ],
       "category": "health-&-fitness"
@@ -22776,13 +22916,6 @@
           "localizedDescription": "Version: 3.20.6\n\nTweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/OffScreen.Screen.Time.Control-v3.20.6-riftysipas.ipa",
           "size": 61980999
-        },
-        {
-          "version": "3.20.6b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 3.20.6\n\nTweaks: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/OffScreen.Screen.Time.Control-v3.20.6-riftysipas.ipa",
-          "size": 61980999
         }
       ],
       "category": "health-&-fitness"
@@ -24344,13 +24477,6 @@
           "size": 383585341
         },
         {
-          "version": "2.120b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 2.120\n\nTweaks: Photoleap, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Photoleap_AI_Photo_Generator_v2_120_Subscription_Unlocked_blatant.ipa",
-          "size": 383585341
-        },
-        {
           "version": "2.109",
           "date": "2026-02-05",
           "localizedDescription": "Version: 2.109\n\nTweaks: CydiaSubstrate, Photoleap, sideloadKeychainfix\n\nSource: @blatants",
@@ -24363,6 +24489,13 @@
           "localizedDescription": "Version: 2.113\n\nTweaks: CydiaSubstrate, Photoleap, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/Photoleap_AI_Photo_Generator_v2_113_Subscription_Unlocked_blatant.ipa",
           "size": 384001977
+        },
+        {
+          "version": "2.107",
+          "date": "2026-02-04",
+          "localizedDescription": "Version: 2.107\n\nTweaks: CydiaSubstrate, Photoleap, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-17/Photoleap_AI_Photo_Generator_v2_107_Subscription_Unlocked_blatant.ipa",
+          "size": 392551014
         }
       ],
       "category": "photo-&-video"
@@ -24658,15 +24791,15 @@
       "name": "PicsArt",
       "bundleIdentifier": "com.picsart.studio",
       "developerName": "PicsArt, Inc.",
-      "subtitle": "Tweaked with Picsart, blatantsPatch",
+      "subtitle": "Tweaked with Picsart",
       "version": "29.3.2",
-      "versionDate": "2026-02-09",
-      "versionDescription": "Version: 29.3.2\n\nTweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Picsart_AI_Photo_Editor._Video_v29_3_2_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Picsart, blatantsPatch, sideloadKeychainfix\n\nPicsart AI Photo Editor, Video | Subscription Unlocked\n\n---\nIgnite your creative potential with Picsart — the all-in-one, AI-powered design studio that’s free and easy to use. From pro-quality business designs to next-gen AI art, Picsart is the perfect companion for any creative project that lets you go from inspiration to creation in a flash. Easily switch scenes with Background Remover, finesse your photos & videos with effects, filters, and powerful photo & video editor tools, create inspiring mood boards with photo collages, and more with a full suit",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 29.3.2\n\nTweaks: Picsart\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Picsart.Pro.29.3.2.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Picsart\n\nPicsart AI Photo Video Editor | AI is NOT unlocked! | Tweak made by blatant | Minimum OS version 15.0\n\n---\nIgnite your creative potential with Picsart — the all-in-one, AI-powered design studio that’s free and easy to use. From pro-quality business designs to next-gen AI art, Picsart is the perfect companion for any creative project that lets you go from inspiration to creation in a flash. Easily switch scenes with Background Remover, finesse your photos & videos with effects, filters, and powerful photo & video editor tools, create inspiring mood boards with photo collages, and more with a full suit",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/8c/37/cf8c3798-8c5a-d06b-3f19-be42ce48cf4d/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 110065906,
+      "size": 101708448,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/3b/85/ee3b85e9-3c7a-9e8f-db35-fddf17c66518/072cbf42-fad7-40f4-b11e-015732e61666_1._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/06/90/1e069052-c5c5-8c14-0fdd-bddf3a2c1d17/c3a88056-d203-42c4-9fbd-56c9797d3eb7_2._Multiple_Use_Cases___iPhone_12.9_.png/576x768bb.png",
@@ -24699,13 +24832,20 @@
       "versions": [
         {
           "version": "29.3.2",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 29.3.2\n\nTweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Picsart_AI_Photo_Editor._Video_v29_3_2_Subscription_Unlocked_blatant.ipa",
-          "size": 110065906
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 29.3.2\n\nTweaks: Picsart\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Picsart.Pro.29.3.2.ipa",
+          "size": 101708448
         },
         {
           "version": "29.3.2b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 29.3.2\n\nTweaks: Picsart\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Picsart.Pro.29.3.2.ipa",
+          "size": 101708448
+        },
+        {
+          "version": "29.3.2c",
           "date": "2026-02-09",
           "localizedDescription": "Version: 29.3.2\n\nTweaks: Picsart, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Picsart_AI_Photo_Editor._Video_v29_3_2_Subscription_Unlocked_blatant.ipa",
@@ -24717,13 +24857,6 @@
           "localizedDescription": "Version: 27.0.2\n\nTweaks: CydiaSubstrate, Picsart, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/Picsart_AI_Photo_Video_Editor_v27_0_2_Subscription_Unlocked_blatant.ipa",
           "size": 113921673
-        },
-        {
-          "version": "26.8.3",
-          "date": "2026-01-17",
-          "localizedDescription": "Version: 26.8.3\n\nTweaks: PicsArtCrack, TeamETHKeychain\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-13/Picsart26.8.3TeamETHPro.ipa",
-          "size": 101530241
         }
       ],
       "category": "photo-&-video"
@@ -24876,13 +25009,6 @@
           "size": 132233452
         },
         {
-          "version": "3.9b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 3.9\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Adult.Coloring.Book.-.Pigment-v3.9-riftysipas.ipa",
-          "size": 132233452
-        },
-        {
           "version": "3.5",
           "date": "2026-02-05",
           "localizedDescription": "Version: 3.5\n\nTweaks: AutoRevenueCat, blatantsPatch\n\nSource: @blatants",
@@ -24895,6 +25021,13 @@
           "localizedDescription": "Version: 3.0\n\nTweaks: AutoRevenueCat, CydiaSubstrate\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-9/Pigment_v3.0_Premium_Unlocked_blatant.ipa",
           "size": 114956950
+        },
+        {
+          "version": "3.1.1",
+          "date": "2026-01-07",
+          "localizedDescription": "Version: 3.1.1\n\nTweaks: AutoRevenueCat, CydiaSubstrate\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-9/Pigment_v3.1.1_Premium_Unlocked_blatant.ipa",
+          "size": 114761955
         }
       ],
       "category": "lifestyle"
@@ -25815,13 +25948,6 @@
           "localizedDescription": "Version: 6.137.0\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Podcast.App-v6.137.0-riftysipas.ipa",
           "size": 47097155
-        },
-        {
-          "version": "6.137.0b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 6.137.0\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, podcastapprifty, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Podcast.App-v6.137.0-riftysipas.ipa",
-          "size": 47097155
         }
       ],
       "category": "news"
@@ -26011,13 +26137,6 @@
       "versions": [
         {
           "version": "5.49",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 5.49\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/POV.Disposable.Camera.Events-v5.49-riftysipas.ipa",
-          "size": 48042138
-        },
-        {
-          "version": "5.49b",
           "date": "2026-02-09",
           "localizedDescription": "Version: 5.49\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/POV.Disposable.Camera.Events-v5.49-riftysipas.ipa",
@@ -27769,13 +27888,6 @@
           "localizedDescription": "Version: 4.8.1\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Riverside.Podcast.Video.Studio-v4.8.1-riftysipas.ipa",
           "size": 203682097
-        },
-        {
-          "version": "4.8.1b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 4.8.1\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Riverside.Podcast.Video.Studio-v4.8.1-riftysipas.ipa",
-          "size": 203682097
         }
       ],
       "category": "photo-&-video"
@@ -29118,13 +29230,6 @@
           "localizedDescription": "Version: 4.3.1\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Shopii.-.Grocery.List.To.Do-v4.3.1-riftysipas.ipa",
           "size": 13430473
-        },
-        {
-          "version": "4.3.1b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 4.3.1\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Shopii.-.Grocery.List.To.Do-v4.3.1-riftysipas.ipa",
-          "size": 13430473
         }
       ],
       "category": "shopping"
@@ -29289,13 +29394,6 @@
       "versions": [
         {
           "version": "3.3.4",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 3.3.4\n\nTweaks: ShutEye, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/ShutEye._Sleep_Tracker._Sound_v3_3_4_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 441384160
-        },
-        {
-          "version": "3.3.4b",
           "date": "2026-02-09",
           "localizedDescription": "Version: 3.3.4\n\nTweaks: ShutEye, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/ShutEye._Sleep_Tracker._Sound_v3_3_4_Premium_Unlocked_blatant_Patched.ipa",
@@ -31232,6 +31330,52 @@
         }
       ],
       "category": "productivity"
+    },
+    {
+      "beta": false,
+      "name": "Spiik",
+      "bundleIdentifier": "io.fadel.Spiik",
+      "developerName": "Fadel.io OU",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "1.0.123",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 1.0.123\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Voice.Recorder.AI.Notes.Spiik-v1.0.123-riftysipas.ipa",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nVoice Recorder AI Notes: Spiik | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nSpiik is an easy-to-use voice recording and auto-transcribing app. Record lectures, interviews, meetings, personal notes or ideas and get automatic transcriptions.\n\nGenerate detailed notes, summaries, quizzes, flashcards from your recordings with our built-in AI.\n\nFEATURES:\n\n• Record, save and replay audio without limits.\n\n• Transcribe and translate in over 100 languages.\n\n• Generate structured notes, summaries, quizzes, flashcards, and more with our AI-powered note taker.\n\n• Organize your recor",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/87/4f/85874f83-3d36-3292-fd12-57a268dd626c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 22955459,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/d0/d3/a0d0d346-d8a4-fbe9-ca8d-9c61f5fb3d34/d9601271-22f4-4758-9211-3d94f07d7e07_iPhone_5.5_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/04/78/eb/0478eb2e-fd49-c8f7-cf79-39efb848890b/5bd74a38-e9cb-412a-913e-b474b086dfc3_iPhone_5.5_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/0d/83/c40d83a4-4ff5-ee27-a27f-08fbb8d2af8e/cb84c9f9-1960-4c46-b6ed-eacc0e1443ff_iPhone_5.5_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/75/8a/78758aa1-9f27-4b42-973a-6b94e0ec7ffb/3c6653cb-e6d2-47dc-bec0-a07a9f63dc41_iPhone_5.5_4.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Spiik needs access to Photos in order to import Videos for transcription.",
+          "NSMicrophoneUsageDescription": "App wants access to your microphone.",
+          "NSSpeechRecognitionUsageDescription": "App wants access to Speech Recognition (Transcription Audio)."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.0.123",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 1.0.123\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Voice.Recorder.AI.Notes.Spiik-v1.0.123-riftysipas.ipa",
+          "size": 22955459
+        },
+        {
+          "version": "1.0.123b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 1.0.123\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Voice.Recorder.AI.Notes.Spiik-v1.0.123-riftysipas.ipa",
+          "size": 22955459
+        }
+      ],
+      "category": "utilities"
     },
     {
       "beta": false,
@@ -33543,13 +33687,6 @@
           "size": 83647735
         },
         {
-          "version": "12.3.3b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 12.3.3\n\nTweaks: SwiftgramEntitlementsFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Swiftgram_Telegram_mod_client_v12_3_3_TGExtra_v1_5_0_blatant_Patched.ipa",
-          "size": 83647735
-        },
-        {
           "version": "11.12.1",
           "date": "2026-02-05",
           "localizedDescription": "Version: 11.12.1\n\nTweaks: SwiftgramEntitlementsFix, blatantsPatch\n\nSource: @blatants",
@@ -33558,6 +33695,13 @@
         },
         {
           "version": "12.3",
+          "date": "2026-01-12",
+          "localizedDescription": "Version: 12.3\n\nTweaks: SwiftgramEntitlementsFix, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-4/Swiftgram_Telegram_mod_client_v12_3_TGExtra_v1_5_0_blatant_Patched.ipa",
+          "size": 80973142
+        },
+        {
+          "version": "12.3b",
           "date": "2026-01-12",
           "localizedDescription": "Version: 12.3\n\nTweaks: SwiftgramEntitlementsFix, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-4/Swiftgram_Telegram_mod_client_v12_3_TGExtra_v1_5_0_blatant_Patched.ipa",
@@ -34131,6 +34275,69 @@
     },
     {
       "beta": false,
+      "name": "TeraBox",
+      "bundleIdentifier": "com.dubox.drive",
+      "developerName": "FLEXTECH INC.",
+      "subtitle": "Tweaked with CydiaSubstrate, teraboxpatch",
+      "version": "4.12.0",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 4.12.0\n\nTweaks: CydiaSubstrate, teraboxpatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/TeraBox.Premium.4.12.0.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, teraboxpatch\n\nTeraBox: Cloud Storage Space | It does NOT unlock more storage | Tweak made by Ayz Ayz | Minimum OS version 15.0\n\n---\nTeraBox: Your Personal All-in-One AI Assistant with 1024GB of FREE Cloud Storage!\n\nTeraBox is more than just cloud storage — it’s your smart AI assistant. Store, search, create, and share — all in one app. Register now to get 1024GB of free cloud storage and automatically back up all your files. At the same time, with a full suite of AI tools, TeraBox helps you explore endless possibilities powered by advanced artificial intelligence.\n\nKEY FEATURES\nAutomatic Data Backup\nAutomatically back up you",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/e1/fd/14e1fd5c-3acb-7770-4459-b7bbfae8befd/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 198698299,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/f9/fa/49f9fae7-1e86-4cbe-50c5-8771e6bff96e/iOS_01.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/24/7e/00247ebc-6805-5822-9be8-13e8ab78133b/iOS_02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/c8/17/cfc817c4-7fe0-f512-0f93-70ae91086fc4/iOS_03.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/84/c5/6584c524-62ba-abb4-6a65-ec053b904301/iOS_04.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/7c/51/0d7c513d-8e35-1aec-9607-1e9979f52c4e/iOS_05.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.applesignin",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "You are recommended to 『enable acccess to all photos』, the ultra-large space of TeraBox can save beautiful moments in your life",
+          "NSCameraUsageDescription": "If it is not allowed, you will not be able to use functions such as avatar and user feedback to take pictures in TeraBox.",
+          "NSMicrophoneUsageDescription": "Please allow TeraBox to accees your Microphone",
+          "NSLocationWhenInUseUsageDescription": "Please allow TeraBox to get your location",
+          "NSLocationAlwaysUsageDescription": "Please allow TeraBox to get your location",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Please allow TeraBox to get your location",
+          "NSContactsUsageDescription": "If not allowed, you will not be able to get the contact email of the address book to share in TeraBox.",
+          "NSAppleMusicUsageDescription": "Please allow TeraBox to access your music library.",
+          "NSFaceIDUsageDescription": "Authentic with Face ID to continue",
+          "NSUserTrackingUsageDescription": "Please allow TeraBox to provide personalized activities and services to reduce unnecessary ad pushes.",
+          "NSPhotoLibraryAddUsageDescription": "If it is not allowed, functions such as uploading photos and saving photos cannot be used normally in TeraBox."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.12.0",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 4.12.0\n\nTweaks: CydiaSubstrate, teraboxpatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/TeraBox.Premium.4.12.0.ipa",
+          "size": 198698299
+        },
+        {
+          "version": "4.12.0b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 4.12.0\n\nTweaks: CydiaSubstrate, teraboxpatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/TeraBox.Premium.4.12.0.ipa",
+          "size": 198698299
+        }
+      ],
+      "category": "productivity"
+    },
+    {
+      "beta": false,
       "name": "Terrarium: Garden Idle",
       "bundleIdentifier": "sk.phx.terrarium",
       "developerName": "Green Panda Games",
@@ -34548,15 +34755,15 @@
       "name": "Tiimo",
       "bundleIdentifier": "com.tiimo.app",
       "developerName": "tiimo",
-      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "subtitle": "Tweaked with RevenueCatFix26",
       "version": "3.41.0",
-      "versionDate": "2026-02-09",
-      "versionDescription": "Version: 3.41.0\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Tiimo.AI.Plan.Focus.To-do-v3.41.0-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nTiimo: AI Plan, Focus & To-do | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\niPhone App of the Year 2025\n Apple Design Awards Finalist 2024\n Best Assistive Technology 2022 (Neurodiversity Awards)\n 3+ Million downloads worldwide\n\nMeet Tiimo: Your AI planning partner that simplifies executive function, focus and productivity.\n\nWhether you are building routines, navigating time agnosia, or just trying to make it through a busy week, Tiimo helps reduce mental load and makes it easier to follow through. Planning becomes something that supports you, not something that drains y",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 3.41.0\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Tiimo.Pro.3.41.0.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nTiimo: AI Planner & To-do | Minimum OS version 18.0\n\n---\niPhone App of the Year 2025\n Apple Design Awards Finalist 2024\n Best Assistive Technology 2022 (Neurodiversity Awards)\n 3+ Million downloads worldwide\n\nMeet Tiimo: Your AI planning partner that simplifies executive function, focus and productivity.\n\nWhether you are building routines, navigating time agnosia, or just trying to make it through a busy week, Tiimo helps reduce mental load and makes it easier to follow through. Planning becomes something that supports you, not something that drains y",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/b6/50/acb65056-a19f-e33c-9d49-2910f572d430/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 91645311,
+      "size": 91912642,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -34585,6 +34792,20 @@
       "versions": [
         {
           "version": "3.41.0",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 3.41.0\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Tiimo.Pro.3.41.0.ipa",
+          "size": 91912642
+        },
+        {
+          "version": "3.41.0b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 3.41.0\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Tiimo.Pro.3.41.0.ipa",
+          "size": 91912642
+        },
+        {
+          "version": "3.41.0c",
           "date": "2026-02-09",
           "localizedDescription": "Version: 3.41.0\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Tiimo.AI.Plan.Focus.To-do-v3.41.0-riftysipas.ipa",
@@ -35147,6 +35368,53 @@
         }
       ],
       "category": "health-&-fitness"
+    },
+    {
+      "beta": false,
+      "name": "ToonSquid",
+      "bundleIdentifier": "com.keiwando.toonsquid",
+      "developerName": "Keiwan Donyagard",
+      "subtitle": "ToonSquid for iOS",
+      "version": "2.0.19",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 2.0.19\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/ToonSquid.2.0.19.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nToonSquid | Paid app $9.99 | Decrypted by userhidden | Minimum OS version 15.0\n\n---\nToonSquid is the powerful 2D art and animation studio for your iPad. Its flexible layer system allows you to combine the charm of hand-drawn traditional animation with keyframes that automatically animate layer properties over time. With a library full of beautiful, blazing-fast and fully customizable pixel and vector brushes, animatable effects, a smudge tool, animated text and vector shapes, bones with inverse kinematics, video and audio layers, camera movements, symbols and many more features",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/df/10/b7df1066-62d3-4ddd-d34a-0a9b9eac971f/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 30124005,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6d/dd/f4/6dddf4d1-f9b1-3953-b0e9-43bf4cc47d26/01_onion_skin.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/9a/44/b89a44b8-7de0-1417-fafa-8f9d4247cd59/02_lip_sync.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/07/eb/9b07ebf3-9436-0d92-98e7-5fc9b7bcac54/03_brush_library.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/b8/5d/4ab85dbd-3227-00c1-d7c1-b60809fa5b8d/04_demo_intro_with_timeline.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/58/0a/5c580a2c-7533-ae7a-a5ae-7a02a900bfc7/05_motion_path.png/552x414bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "ToonSquid requires your permission in order to import images from your photo library.",
+          "NSMicrophoneUsageDescription": "ToonSquid requires your permission to use the microphone to record audio.",
+          "NSPhotoLibraryAddUsageDescription": "ToonSquid requires your permission in order to save videos and images to your photo library."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.0.19",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 2.0.19\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/ToonSquid.2.0.19.ipa",
+          "size": 30124005
+        },
+        {
+          "version": "2.0.19b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 2.0.19\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/ToonSquid.2.0.19.ipa",
+          "size": 30124005
+        }
+      ],
+      "category": "graphics-&-design"
     },
     {
       "beta": false,
@@ -36576,15 +36844,15 @@
       "name": "VEED Captions",
       "bundleIdentifier": "io.veed.appstore",
       "developerName": "VEED Ltd",
-      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "subtitle": "Tweaked with VEED",
       "version": "8.4.1",
-      "versionDate": "2026-02-09",
-      "versionDescription": "Version: 8.4.1\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/VEED.-.AI.Captions.and.Shorts-v8.4.1-riftysipas.ipa",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nVEED - AI Captions and Shorts | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nCreating short-form videos has never been easier. VEED is an app designed to help you make amazing video content for Instagram, TikTok, Twitter/X, Youtube Shorts and Linkedin. Millions of people are already using the app.\n\nTo use VEED, simply download the app and record or upload a video. VEED is the video editor that works for everyone: Whether you’re a creator, small business owner, or a marketeer, or a first-time social user - there will be something for you! For all your shorts, reels and ot",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 8.4.1\n\nTweaks: VEED\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/VEED.Captions.Pro.8.4.1.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: VEED\n\nVEED - Captions for videos | Minimum OS version 16.0\n\n---\nCreating short-form videos has never been easier. VEED is an app designed to help you make amazing video content for Instagram, TikTok, Twitter/X, Youtube Shorts and Linkedin. Millions of people are already using the app.\n\nTo use VEED, simply download the app and record or upload a video. VEED is the video editor that works for everyone: Whether you’re a creator, small business owner, or a marketeer, or a first-time social user - there will be something for you! For all your shorts, reels and ot",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/5d/d4/e05dd4d4-42f1-a6f6-3b46-88e64891922a/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 130885468,
+      "size": 131822148,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -36605,31 +36873,31 @@
       "versions": [
         {
           "version": "8.4.1",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 8.4.1\n\nTweaks: VEED\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/VEED.Captions.Pro.8.4.1.ipa",
+          "size": 131822148
+        },
+        {
+          "version": "8.4.1b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 8.4.1\n\nTweaks: VEED\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/VEED.Captions.Pro.8.4.1.ipa",
+          "size": 131822148
+        },
+        {
+          "version": "8.4.1c",
           "date": "2026-02-09",
           "localizedDescription": "Version: 8.4.1\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/VEED.-.AI.Captions.and.Shorts-v8.4.1-riftysipas.ipa",
           "size": 130885468
         },
         {
-          "version": "8.4.1b",
+          "version": "8.4.1d",
           "date": "2026-02-09",
           "localizedDescription": "Version: 8.4.1\n\nTweaks: AutoRcSideload, FilePickerFix, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/VEED_Shorts_AI_videos_v8_4_1_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 141133392
-        },
-        {
-          "version": "8.3.0",
-          "date": "2026-01-23",
-          "localizedDescription": "Version: 8.3.0\n\nTweaks: AutoRcSideload, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-23/VEED_Shorts_AI_videos_v8_3_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 140929518
-        },
-        {
-          "version": "8.3.1",
-          "date": "2026-01-23",
-          "localizedDescription": "Version: 8.3.1\n\nTweaks: AutoRcSideload, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-23/VEED_Shorts_AI_videos_v8_3_1_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 140929733
         }
       ],
       "category": "photo-&-video"
@@ -36846,15 +37114,15 @@
       "name": "Videoleap",
       "bundleIdentifier": "com.lightricks.Enlight-Video",
       "developerName": "Lightricks Ltd.",
-      "subtitle": "Tweaked with CachefixPatch, CydiaSubstrate",
+      "subtitle": "Tweaked with CydiaSubstrate, FixCrash",
       "version": "2.81",
-      "versionDate": "2026-02-09",
-      "versionDescription": "Version: 2.81\n\nTweaks: CachefixPatch, CydiaSubstrate, Videoleap, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Videoleap_AI_Video_Editor_v2_81_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, Videoleap, blatantsPatch, sideloadKeychainfix\n\nVideoleap: AI Video Editor | Subscription Unlocked\n\n---\nExperience seamless video creation with Videoleap by Lightricks!\n\nWith an intuitive editor, premade templates, and the latest AI tools, Videoleap is your go-to video editor catering to every need, for anyone.\n\nGet access to hundreds of professional tools including video effects, filters, transitions, music and audio effects, green screen and more. Start from scratch or choose from our vast selection of ready-to-use templates for Reels, TikToks, YouTube Shorts, or wherever you like!\n\nDownload Vid",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 2.81\n\nTweaks: CydiaSubstrate, FixCrash, SideloadSpoofer-08, SkipLeap, Videoleapunlimitedaccess\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Videoleap.Pro.2.81.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, FixCrash, SideloadSpoofer-08, SkipLeap, Videoleapunlimitedaccess\n\nVideoleap: AI Video Editor | Minimum OS version 17.0\n\n---\nExperience seamless video creation with Videoleap by Lightricks!\n\nWith an intuitive editor, premade templates, and the latest AI tools, Videoleap is your go-to video editor catering to every need, for anyone.\n\nGet access to hundreds of professional tools including video effects, filters, transitions, music and audio effects, green screen and more. Start from scratch or choose from our vast selection of ready-to-use templates for Reels, TikToks, YouTube Shorts, or wherever you like!\n\nDownload Vid",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/c5/0d/09c50d2b-74c6-2e97-ac97-5bc385cd62c1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 390856489,
+      "size": 382605154,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/25/70/b0/2570b07e-9e20-4108-4efd-46d8d68ea4ad/0x0ss.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/8e/16/2e8e1644-fcb1-acff-a414-0fec10e3356d/83e94be5-737e-48ed-baab-f7230be0dce7_VL-230613-CPP-MegaAI-5.5-02__U00281_U0029.jpg/392x696bb.jpg",
@@ -36883,6 +37151,20 @@
       "versions": [
         {
           "version": "2.81",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 2.81\n\nTweaks: CydiaSubstrate, FixCrash, SideloadSpoofer-08, SkipLeap, Videoleapunlimitedaccess\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Videoleap.Pro.2.81.ipa",
+          "size": 382605154
+        },
+        {
+          "version": "2.81b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 2.81\n\nTweaks: CydiaSubstrate, FixCrash, SideloadSpoofer-08, SkipLeap, Videoleapunlimitedaccess\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Videoleap.Pro.2.81.ipa",
+          "size": 382605154
+        },
+        {
+          "version": "2.81c",
           "date": "2026-02-09",
           "localizedDescription": "Version: 2.81\n\nTweaks: CachefixPatch, CydiaSubstrate, Videoleap, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Videoleap_AI_Video_Editor_v2_81_Subscription_Unlocked_blatant_Patched.ipa",
@@ -36894,20 +37176,6 @@
           "localizedDescription": "Version: 2.68\n\nTweaks: CachefixPatch, CydiaSubstrate, Videoleap, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/Videoleap_AI_Video_Editor_v2_68_Subscription_Unlocked_blatant.ipa",
           "size": 423256923
-        },
-        {
-          "version": "2.68.2",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 2.68.2\n\nTweaks: CachefixPatch, CydiaSubstrate, Videoleap, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/Videoleap_AI_Video_Editor_v2_68_2_Subscription_Unlocked_blatant.ipa",
-          "size": 414246646
-        },
-        {
-          "version": "2.69",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 2.69\n\nTweaks: CachefixPatch, CydiaSubstrate, Videoleap, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/Videoleap_AI_Video_Editor_v2_69_Subscription_Unlocked_blatant.ipa",
-          "size": 414201723
         }
       ],
       "category": "photo-&-video"
@@ -37839,13 +38107,6 @@
           "size": 169009150
         },
         {
-          "version": "8.1.3b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 8.1.3\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Widgetsmith.v8.1.3.Subscription.Unlocked.blatant.Patched.ipa",
-          "size": 169009150
-        },
-        {
           "version": "7.0.3",
           "date": "2026-01-08",
           "localizedDescription": "Version: 7.0.3\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol\n\nSource: @blatants",
@@ -37858,6 +38119,13 @@
           "localizedDescription": "Version: 7.0.4\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-9/WidgetSmith_v7.0.4_Subscription_Unlocked_blatant.ipa",
           "size": 98409663
+        },
+        {
+          "version": "7.0.4b",
+          "date": "2026-01-07",
+          "localizedDescription": "Version: 7.0.4\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-8/WidgetSmith_v7.0.4_Subscription_Unlocked_blatant.ipa",
+          "size": 138358057
         }
       ],
       "category": "productivity"
@@ -38800,17 +39068,17 @@
           "size": 129864376
         },
         {
-          "version": "12.71.0c",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 12.71.0\n\nTweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/AI_Calorie_Tracker_by_Yazio_v12_71_0_Subscription_Unlocked_blatant.ipa",
-          "size": 129864376
-        },
-        {
           "version": "12.70.1",
           "date": "2026-02-04",
           "localizedDescription": "Version: 12.70.1\n\nTweaks: Yazio, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-18/AI_Calorie_Tracker_by_Yazio_v12_70_1_Subscription_Unlocked_blatant.ipa",
+          "size": 124014075
+        },
+        {
+          "version": "12.70.1b",
+          "date": "2026-02-04",
+          "localizedDescription": "Version: 12.70.1\n\nTweaks: Yazio, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-17/AI_Calorie_Tracker_by_Yazio_v12_70_1_Subscription_Unlocked_blatant.ipa",
           "size": 124014075
         }
       ],
@@ -39277,13 +39545,6 @@
           "localizedDescription": "Version: 1.44.1\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Zinnia.Planner.Journal-v1.44.1-riftysipas.ipa",
           "size": 91781761
-        },
-        {
-          "version": "1.44.1b",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 1.44.1\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Zinnia.Planner.Journal-v1.44.1-riftysipas.ipa",
-          "size": 91781761
         }
       ],
       "category": "lifestyle"
@@ -39364,13 +39625,6 @@
       "versions": [
         {
           "version": "9.5.2",
-          "date": "2026-02-09",
-          "localizedDescription": "Version: 9.5.2\n\nTweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Andalusi_Design_Photo_._Video_v9_5_2_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 164008298
-        },
-        {
-          "version": "9.5.2b",
           "date": "2026-02-09",
           "localizedDescription": "Version: 9.5.2\n\nTweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Andalusi_Design_Photo_._Video_v9_5_2_Pro_Unlocked_blatant_Patched.ipa",
