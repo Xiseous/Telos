@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-02-10",
+  "versionDate": "2026-02-11",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -3314,26 +3314,24 @@
       "bundleIdentifier": "com.codeway.cleanerplus",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Cleanup, blatantsPatch\n\nCleanup: Phone Storage Cleaner | Subscription Unlocked\n\n---\nClean up your iPhone and optimize storage in seconds.\n\nRemove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.\n\nOPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP\nRunning low on space? Cleanup gives you powerful tools to take control:\n- Delete duplicate photos and videos\n- Remove similar screenshots and lookalike videos\n- Compress large files without losing quality\n- Clean up spam and",
-      "version": "6.9.1",
-      "versionDate": "2026-01-28T10:46:55-00:00",
-      "versionDescription": "Build 798 from @blatants",
-      "size": 147151039,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/09/f3/d009f302-4ca6-2160-994a-65fadeaf033f/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-2/Cleanup_Phone_Storage_Cleaner_v6_9_1_Subscription_Unlocked_blatant.ipa",
+      "version": "6.10.0",
+      "versionDate": "2026-02-10T20:58:50-00:00",
+      "versionDescription": "Build 810 from @blatants",
+      "size": 86641654,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/24/8b/0d248b0b-ed8c-7c50-6650-db9c0e9725b6/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Cleanup_Phone_Storage_Cleaner_v6_10_0_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Cleanup_Phone_Storage_Cleaner_v6_9_1_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Cleanup_Phone_Storage_Cleaner_v6_10_0_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -4873,6 +4871,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Dune_v5.5.50-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "Duolingo",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nDuolingo - Language Lessons\nDuolingo MAX Unlocked\nSign-in with google/apple.\nCredit to j4gm4g for providing the original script.\n\n---\nLearn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n\nAnd now, you can learn",
+      "version": "7.109.0",
+      "versionDate": "2026-02-10T21:01:34-00:00",
+      "versionDescription": "Build 7.109.0.5 from @blatants",
+      "size": 215501910,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/3b/0a/5b3b0a2b-7f47-0b66-8494-a154cdef8e62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Duolingo_Language_Lessons_v7_109_0_Duolingo_MAX_Unlocked_blatant.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@blatants",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Duolingo_Language_Lessons_v7_109_0_Duolingo_MAX_Unlocked_blatant.ipa"
       }
     },
     {
@@ -7584,13 +7608,13 @@
       "name": "Happy Scale",
       "bundleIdentifier": "com.frontpocketsoftware.happyscale",
       "developerName": "Front Pocket Software LLC",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nHappy Scale | Subscription Unlocked\n\n---\nDieting is hard enough. But when you work hard, hop on the scale, and see a number that’s higher than yesterday? Well, that’s just not fair!\n\nIt’s time to tame the scale!\n\nHappy Scale helps you make sense of the frustrating ups and downs of weigh-ins by using mathematical analysis to make sense of your scale weights.\n\nYou’ll:\n• understand your true trend,\n• take the sting out of plateaus, and\n• be able to predict what you’ll weigh for an upcoming event\n\n• SEE YOUR TRUE PROGRESS: Happy Scale uses",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nHappy Scale | Minimum OS version 16.0\n\n---\nDieting is hard enough. But when you work hard, hop on the scale, and see a number that’s higher than yesterday? Well, that’s just not fair!\n\nIt’s time to tame the scale!\n\nHappy Scale helps you make sense of the frustrating ups and downs of weigh-ins by using mathematical analysis to make sense of your scale weights.\n\nYou’ll:\n• understand your true trend,\n• take the sting out of plateaus, and\n• be able to predict what you’ll weigh for an upcoming event\n\n• SEE YOUR TRUE PROGRESS: Happy Scale uses",
       "version": "2026.2",
-      "versionDate": "2026-02-10T10:02:52-00:00",
-      "versionDescription": "Build 3609 from @blatants",
-      "size": 40207414,
+      "versionDate": "2026-02-10T20:38:03-00:00",
+      "versionDescription": "Build 3609 from @binnichtaktivsipas",
+      "size": 36637883,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/60/14/c860149e-6087-a015-0b0d-8465950e8882/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Happy.Scale.v2026.2.Subscription.Unlocked.blatant.Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Happy.Scale.Premium.2026.2.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -7601,10 +7625,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Happy Scale v2026.2 Subscription Unlocked blatant Patched.ipa"
+        "originalFile": "Happy Scale Premium 2026.2.ipa"
       }
     },
     {
@@ -9556,18 +9580,17 @@
       "bundleIdentifier": "jp.naver.linecamera",
       "developerName": "SNOW Corporation",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: LINECamera, blatantsPatch\n\nLINE Camera - Photo editor\nSubscription Unlocked\nIgnore purchase popup's and restart the app if subscription isn't active.\n\n---\nA photo editing camera app used by over 200 million people worldwide! 『LINE Camera』\n\n- Over 30,000 stickers and frames\nFrom decorations to face covers, the possibilities are endless.\nA wide variety of items is updated weekly.\n\n- Cute, sleek filters\nHighly customizable filters let you make your photos look just how you like them.\n\n- Make your own original stickers!\nUse your own illustrations, text, or photos to make your own stickers.\n\n- Use the Beauty feature to bring out the natural beauty in y",
-      "version": "18.1.0",
-      "versionDate": "2026-02-09T03:52:57-00:00",
-      "versionDescription": "Build 18.1.0.1 from @blatants",
-      "size": 168141930,
+      "version": "18.1.1",
+      "versionDate": "2026-02-10T20:57:40-00:00",
+      "versionDescription": "Build 18.1.1.1 from @blatants",
+      "size": 160700936,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/77/c5/e477c510-d2ea-a98c-ff85-b95f3e805a0c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/LINE_Camera_Photo_editor_v18_1_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/LINE_Camera_Photo_editor_v18_1_1_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -9575,7 +9598,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "LINE_Camera_Photo_editor_v18_1_0_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "LINE_Camera_Photo_editor_v18_1_1_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -10178,14 +10201,14 @@
       "name": "MediaConvert",
       "bundleIdentifier": "com.verycoolapp.mediaconvert",
       "developerName": "俊杰 阮",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, MediaConverter, sideloadFixerLol\n\nMedia Converter - video to mp3 | com.verycoolapp.mediaconvert | Category: Utilities | Subscription Unlocked | No Additional Notes\n\n---\nMedia Converter – Video Converter, Convert all your videos, audios, images, GIFs, and PDFs.\nConvert video & audio & picture encoding, compress video, extract audio and create custom ringtones with music.\nAll-in-one solution combining file format converter, audio extractor, media editor, ringtone maker and Video Player.\n◆ Video Converter & Video transcoder\n- Convert videos between all popular formats: MP4, MOV, 3GP, 3G2, ASF, MKV, VOB, MPEG, WMV, FLV, AVI, OGV, WEBM, MPG..\n- Video Encoders: H.264",
-      "version": "3.32",
-      "versionDate": "2026-02-05T11:09:54-00:00",
-      "versionDescription": "Build 3.32.1 from @blatants",
-      "size": 68539763,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MediaConverter, blatantsPatch\n\nMedia Converter - video to mp3 | Subscription Unlocked\n\n---\nMedia Converter – Video Converter, Convert all your videos, audios, images, GIFs, and PDFs.\nConvert video & audio & picture encoding, compress video, extract audio and create custom ringtones with music.\nAll-in-one solution combining file format converter, audio extractor, media editor, ringtone maker and Video Player.\n◆ Video Converter & Video transcoder\n- Convert videos between all popular formats: MP4, MOV, 3GP, 3G2, ASF, MKV, VOB, MPEG, WMV, FLV, AVI, OGV, WEBM, MPG..\n- Video Encoders: H.264",
+      "version": "4.13",
+      "versionDate": "2026-02-10T20:52:54-00:00",
+      "versionDescription": "Build 4.13.1 from @blatants",
+      "size": 59860232,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/0c/2f/2b0c2fa0-8671-7bbe-5359-26187bcaf3d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/Media_Converter_video_to_mp3_v3_32_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "12.1",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Media_Converter_video_to_mp3_v4_13_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -10197,7 +10220,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Media_Converter_video_to_mp3_v3_32_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Media_Converter_video_to_mp3_v4_13_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -10334,14 +10357,14 @@
       "name": "Mimo",
       "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "Mimo GmbH",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Mimo, sideloadKeychainfix\n\nMimo: Learn Coding/Programming | com.getmimo.mimo | Category: Education | Max Subscription Unlocked | No Additional Notes\n\n---\nLearn Python, JavaScript, HTML, CSS, or SQL, and master modern AI-assisted development to become a developer in the age of AI. Mimo is a coding app that takes you from zero to building projects with AI. Gain the knowledge and tools to create production-ready software and pursue a job as a developer. Start building strong portfolio projects today, future-proof your skills, and take the next step beyond just coding syntax—download Mimo and launch your developer career now!\n\nWho It's For\n\nMimo stan",
-      "version": "9.9.0",
-      "versionDate": "2026-02-05T04:41:31-00:00",
-      "versionDescription": "Build 42515 from @blatants",
-      "size": 63159345,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Mimo, blatantsPatch, sideloadKeychainfix\n\nMimo: Learn Coding/Programming | Max Subscription Unlocked\n\n---\nLearn Python, JavaScript, HTML, CSS, or SQL, and master modern AI-assisted development to become a developer in the age of AI. Mimo is a coding app that takes you from zero to building projects with AI. Gain the knowledge and tools to create production-ready software and pursue a job as a developer. Start building strong portfolio projects today, future-proof your skills, and take the next step beyond just coding syntax—download Mimo and launch your developer career now!\n\nWho It's For\n\nMimo stan",
+      "version": "12.0.0",
+      "versionDate": "2026-02-10T20:56:39-00:00",
+      "versionDescription": "Build 45823 from @blatants",
+      "size": 75884072,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/c8/11/7fc8116a-0202-8873-ee00-be090127878c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-19/Mimo_Learn_Coding_Programming_v9_9_0_Max_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "16.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Mimo_Learn_Coding_Programming_v12_0_0_Max_Subscription_Unlocked.ipa",
+      "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -10353,7 +10376,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Mimo_Learn_Coding_Programming_v9_9_0_Max_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Mimo_Learn_Coding_Programming_v12_0_0_Max_Subscription_Unlocked.ipa"
       }
     },
     {
@@ -14708,13 +14731,13 @@
       "name": "SCRL",
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol\n\nSCRL: Photo Collage Maker | com.dopedevelopment.Panels | Category: Photo & Video | Subscription Unlocked | No Additional Notes\n\n---\nUnleash your creativity with SCRL, the #1 app in the US for creating original photo collages and seamless Instagram carousels. Whether you're an influencer, artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.\n\n• Exceptional Collage Maker with Hundreds of Hand-Picked Templates\nStart your design journey with our vast selection of collage templates. From minimalist to extravagant, our templates cater to every occasion and style.\n\nOur design exper",
-      "version": "9.7.12",
-      "versionDate": "2026-02-05T19:35:19-00:00",
-      "versionDescription": "Build 5 from @blatants",
-      "size": 58282032,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nSCRL: Photo Collage Maker | Subscription Unlocked\n\n---\nUnleash your creativity with SCRL, the #1 app in the US for creating original photo collages and seamless Instagram carousels. Whether you're an influencer, artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.\n\n• Exceptional Collage Maker with Hundreds of Hand-Picked Templates\nStart your design journey with our vast selection of collage templates. From minimalist to extravagant, our templates cater to every occasion and style.\n\nOur design exper",
+      "version": "9.27.3",
+      "versionDate": "2026-02-10T20:50:45-00:00",
+      "versionDescription": "Build 3 from @blatants",
+      "size": 51246036,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/22/d1/d422d119-df7d-64b6-a8d7-23c763482270/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/SCRL_Photo_Collage_Maker_v9_7_12_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/SCRL_Photo_Collage_Maker_v9_27_3_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -14726,7 +14749,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "SCRL_Photo_Collage_Maker_v9_7_12_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "SCRL_Photo_Collage_Maker_v9_27_3_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -16445,13 +16468,13 @@
       "name": "Stndrd",
       "bundleIdentifier": "uni.cbum",
       "developerName": "Set The Standard LLC",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRevenueCat, blatantsPatch, sideloadKeychainfix\n\nSTNDRD: Bodybuilding Workouts | Subscription Unlocked\n\n---\nUnleash Your Strength with STNDRD — Your Ultimate Bodybuilding & Fitness Community\n\nElevate your fitness journey with STNDRD, the premier app designed to help you unlock your full potential. Whether you're aiming to build muscle, tone your body, or enhance overall fitness, STNDRD provides the tools, guidance, and motivation you need to achieve greatness.\n\nLed by the Best in the Industry\nTrain under the expert guidance of 6x Mr. Olympia Champion, Chris Bumstead (CBUM). His exclusive bodybuilding-",
-      "version": "4.0.61",
-      "versionDate": "2026-02-06T12:52:26-00:00",
-      "versionDescription": "Build 1 from @blatants",
-      "size": 58764085,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nSTNDRD: Bodybuilding Workouts | Subscription Unlocked\n\n---\nUnleash Your Strength with STNDRD — Your Ultimate Bodybuilding & Fitness Community\n\nElevate your fitness journey with STNDRD, the premier app designed to help you unlock your full potential. Whether you're aiming to build muscle, tone your body, or enhance overall fitness, STNDRD provides the tools, guidance, and motivation you need to achieve greatness.\n\nLed by the Best in the Industry\nTrain under the expert guidance of 6x Mr. Olympia Champion, Chris Bumstead (CBUM). His exclusive bodybuilding-",
+      "version": "4.1.28",
+      "versionDate": "2026-02-10T20:51:35-00:00",
+      "versionDescription": "Build 2 from @blatants",
+      "size": 106482828,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/13/20/d313207f-dd18-2a2f-743b-a5fa4cecffb8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-25/STNDRD_Bodybuilding_Workouts_v4_0_61_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/STNDRD_Bodybuilding_Workouts_v4_1_28_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "15.6",
       "supportedPlatforms": [
         "iOS"
@@ -16463,7 +16486,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "STNDRD_Bodybuilding_Workouts_v4_0_61_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "STNDRD_Bodybuilding_Workouts_v4_1_28_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -18287,14 +18310,14 @@
       "name": "Truecaller",
       "bundleIdentifier": "com.truesoftware.TrueCallerOther",
       "developerName": "True Software Scandinavia AB",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Truecaller\n\n---\nWith Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\n\n#1 CALLER ID & SPAM BLOCKING APP WORLDWIDE\n\n• An all new Caller ID experience on iPhone with iOS 18.2 and above\n• Automatically identify spam, fraud, and ro",
-      "version": "13.28.6",
-      "versionDate": "2026-02-06T06:39:17-00:00",
-      "versionDescription": "Build 13.28.6 from @binnichtaktivsipas",
-      "size": 113541160,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Truecaller, blatantsPatch\n\nTruecaller: Premium Caller ID | Reuploaded: 26.5 | Gold Unlocked | App requires a paid cert to function properly\n\n---\nWith Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\n\n#1 CALLER ID & SPAM BLOCKING APP WORLDWIDE\n\n• An all new Caller ID experience on iPhone with iOS 18.2 and above\n• Automatically identify spam, fraud, and ro",
+      "version": "26.5.5",
+      "versionDate": "2026-02-10T20:58:08-00:00",
+      "versionDescription": "Build 26.5.5 from @blatants",
+      "size": 81731994,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/e5/7c/c5e57c01-37ec-0d1d-46fe-d25ba377ea67/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-24/Truecaller_13.28.6_1737169736.ipa",
-      "minOSVersion": "10.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Truecaller_Premium_Caller_ID_v26_5_Gold_Unlocked_blatant_Patched.ipa",
+      "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -18302,10 +18325,10 @@
         1
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Truecaller_13.28.6_1737169736.ipa"
+        "originalFile": "Truecaller_Premium_Caller_ID_v26_5_Gold_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -20406,32 +20429,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Kapi_Cam_Vintage_Camera_v3_24_0_Premium_or_Subscription_Unlocked.ipa"
-      }
-    },
-    {
-      "name": "多邻国",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "developerName": "Duolingo",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: FixbyTG@iosrxwy, substrate\n\nI got it\n\n---\nLearn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n\nAnd now, you can learn",
-      "version": "7.9.0",
-      "versionDate": "2026-02-07T01:43:42-00:00",
-      "versionDescription": "Build 7.9.0.3 from @binnichtaktivsipas",
-      "size": 122266199,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/3b/0a/5b3b0a2b-7f47-0b66-8494-a154cdef8e62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-26/Duolingo7.9.0Crack.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Duolingo7.9.0Crack.ipa"
       }
     },
     {
