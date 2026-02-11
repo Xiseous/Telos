@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.crossforward.WidgetSmith",
-    "health.sleep.sounds.tracker.alarm.calm",
-    "com.rockwellventures.mesmerize",
-    "com.burbn.instagram",
-    "app.swiftgram.ios"
+    "com.duolingo.DuolingoMobile",
+    "com.codeway.cleanerplus",
+    "com.truesoftware.TrueCallerOther",
+    "jp.naver.linecamera",
+    "com.getmimo.mimo"
   ],
   "apps": [
     {
@@ -6468,17 +6468,22 @@
       "bundleIdentifier": "com.codeway.cleanerplus",
       "developerName": "DEEP FLOW SOFTWARE SERVICES",
       "subtitle": "Tweaked with Cleanup, blatantsPatch",
-      "version": "6.9.1",
-      "versionDate": "2026-01-28",
-      "versionDescription": "Version: 6.9.1\n\nTweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-2/Cleanup_Phone_Storage_Cleaner_v6_9_1_Subscription_Unlocked_blatant.ipa",
+      "version": "6.10.0",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 6.10.0\n\nTweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Cleanup_Phone_Storage_Cleaner_v6_10_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Cleanup, blatantsPatch\n\nCleanup: Phone Storage Cleaner | Subscription Unlocked\n\n---\nClean up your iPhone and optimize storage in seconds.\n\nRemove duplicate photos, videos, and junk emails. Cleanup helps you clear your camera roll, merge duplicate contacts, compress videos, and organize storage — all in one app.\n\nOPTIMIZE STORAGE – FREE UP SPACE WITH ONE TAP\nRunning low on space? Cleanup gives you powerful tools to take control:\n- Delete duplicate photos and videos\n- Remove similar screenshots and lookalike videos\n- Compress large files without losing quality\n- Clean up spam and",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/09/f3/d009f302-4ca6-2160-994a-65fadeaf033f/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/24/8b/0d248b0b-ed8c-7c50-6650-db9c0e9725b6/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 147151039,
+      "size": 86641654,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.siri",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "We need an access to your photo gallery for photo scanning",
           "NSCameraUsageDescription": "Cleanup needs access to your camera so you can start taking photos and videos to save them in your Secret Space",
@@ -6492,6 +6497,20 @@
       },
       "versions": [
         {
+          "version": "6.10.0",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 6.10.0\n\nTweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Cleanup_Phone_Storage_Cleaner_v6_10_0_Subscription_Unlocked_blatant.ipa",
+          "size": 86641654
+        },
+        {
+          "version": "6.10.0b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 6.10.0\n\nTweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Cleanup_Phone_Storage_Cleaner_v6_10_0_Subscription_Unlocked_blatant.ipa",
+          "size": 86641654
+        },
+        {
           "version": "6.9.1",
           "date": "2026-01-28",
           "localizedDescription": "Version: 6.9.1\n\nTweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
@@ -6504,20 +6523,6 @@
           "localizedDescription": "Version: 6.9.1\n\nTweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-2/Cleanup_Phone_Storage_Cleaner_v6_9_1_Subscription_Unlocked_blatant.ipa",
           "size": 147151039
-        },
-        {
-          "version": "6.9.0",
-          "date": "2026-01-07",
-          "localizedDescription": "Version: 6.9.0\n\nTweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-9/Cleanup_Phone_Storage_Cleaner_v6_9_0_Subscription_Unlocked_blatant.ipa",
-          "size": 147320356
-        },
-        {
-          "version": "6.9.0b",
-          "date": "2026-01-05",
-          "localizedDescription": "Version: 6.9.0\n\nTweaks: Cleanup, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-4/Cleanup_Phone_Storage_Cleaner_v6_9_0_Subscription_Unlocked_blatant.ipa",
-          "size": 147320356
         }
       ],
       "category": "utilities"
@@ -9522,6 +9527,81 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "beta": false,
+      "name": "Duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "Duolingo",
+      "subtitle": "Tweaked with CachefixPatch, CydiaSubstrate",
+      "version": "7.109.0",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 7.109.0\n\nTweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Duolingo_Language_Lessons_v7_109_0_Duolingo_MAX_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nDuolingo - Language Lessons\nDuolingo MAX Unlocked\nSign-in with google/apple.\nCredit to j4gm4g for providing the original script.\n\n---\nLearn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n\nAnd now, you can learn",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/3b/0a/5b3b0a2b-7f47-0b66-8494-a154cdef8e62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 215501910,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/16/35/0d16355e-7b7a-4903-aa0a-ecfefdaa7e08/b715d679-c25d-41c1-8b55-6c00114fa81e_en_iphone5.5_screen_1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/14/cd/f814cd12-cb2b-baeb-2870-404d9186defb/93f4d1c8-4144-44de-8b57-a5a091c838f4_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/52/ff/9d52ff84-2a12-3b34-5a49-fe24e9c1109f/cd048832-2375-4fd9-88e8-3711d102065e_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/73/4a/cd734a01-48a1-f468-93c9-bbd5de3dbaec/c9c1f806-63ba-4809-bdfd-1b9e144aa854_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/8e/d9/698ed916-b0ab-6eac-85e2-06d82f330593/946decfe-85b3-472c-a577-376e39acf40a_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_6.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.usernotifications.communication",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Find an existing photo to use for your Duolingo profile.",
+          "NSCameraUsageDescription": "Take a photo to use for your Duolingo profile.",
+          "NSMicrophoneUsageDescription": "Speaking is essential to language learning.",
+          "NSLocationWhenInUseUsageDescription": "Duolingo uses your current location to find nearby events.",
+          "NSContactsUsageDescription": "Your contacts will be securely uploaded to Duolingo to help you find friends.",
+          "NSMotionUsageDescription": "Refill your energy by getting your steps in.",
+          "NSSpeechRecognitionUsageDescription": "Speaking is essential to language learning.",
+          "NSBluetoothAlwaysUsageDescription": "Bluetooth allows you to connect MIDI devices.",
+          "NSUserTrackingUsageDescription": "This will be used to show ads relevant to you.",
+          "NSPhotoLibraryAddUsageDescription": "Duolingo saves visual app content to your Photos library when you choose to download it."
+        }
+      },
+      "versions": [
+        {
+          "version": "7.109.0",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 7.109.0\n\nTweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Duolingo_Language_Lessons_v7_109_0_Duolingo_MAX_Unlocked_blatant.ipa",
+          "size": 215501910
+        },
+        {
+          "version": "7.109.0b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 7.109.0\n\nTweaks: CachefixPatch, CydiaSubstrate, Duolingo, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Duolingo_Language_Lessons_v7_109_0_Duolingo_MAX_Unlocked_blatant.ipa",
+          "size": 215501910
+        },
+        {
+          "version": "7.9.0",
+          "date": "2026-02-07",
+          "localizedDescription": "Version: 7.9.0\n\nTweaks: FixbyTG@iosrxwy, substrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-26/Duolingo7.9.0Crack.ipa",
+          "size": 122266199
+        },
+        {
+          "version": "7.24.1",
+          "date": "2026-02-06",
+          "localizedDescription": "Version: 7.24.1\n\nTweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-25/Duolingo-v7.24.1-AppTesters_bypass.ipa",
+          "size": 112200021
+        }
+      ],
+      "category": "education"
     },
     {
       "beta": false,
@@ -14884,15 +14964,15 @@
       "name": "Happy Scale",
       "bundleIdentifier": "com.frontpocketsoftware.happyscale",
       "developerName": "Front Pocket Software LLC",
-      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "subtitle": "Tweaked with RevenueCatFix26",
       "version": "2026.2",
       "versionDate": "2026-02-10",
-      "versionDescription": "Version: 2026.2\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Happy.Scale.v2026.2.Subscription.Unlocked.blatant.Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nHappy Scale | Subscription Unlocked\n\n---\nDieting is hard enough. But when you work hard, hop on the scale, and see a number that’s higher than yesterday? Well, that’s just not fair!\n\nIt’s time to tame the scale!\n\nHappy Scale helps you make sense of the frustrating ups and downs of weigh-ins by using mathematical analysis to make sense of your scale weights.\n\nYou’ll:\n• understand your true trend,\n• take the sting out of plateaus, and\n• be able to predict what you’ll weigh for an upcoming event\n\n• SEE YOUR TRUE PROGRESS: Happy Scale uses",
+      "versionDescription": "Version: 2026.2\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Happy.Scale.Premium.2026.2.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nHappy Scale | Minimum OS version 16.0\n\n---\nDieting is hard enough. But when you work hard, hop on the scale, and see a number that’s higher than yesterday? Well, that’s just not fair!\n\nIt’s time to tame the scale!\n\nHappy Scale helps you make sense of the frustrating ups and downs of weigh-ins by using mathematical analysis to make sense of your scale weights.\n\nYou’ll:\n• understand your true trend,\n• take the sting out of plateaus, and\n• be able to predict what you’ll weigh for an upcoming event\n\n• SEE YOUR TRUE PROGRESS: Happy Scale uses",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/60/14/c860149e-6087-a015-0b0d-8465950e8882/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 40207414,
+      "size": 36637883,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -14908,12 +14988,26 @@
         {
           "version": "2026.2",
           "date": "2026-02-10",
+          "localizedDescription": "Version: 2026.2\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Happy.Scale.Premium.2026.2.ipa",
+          "size": 36637883
+        },
+        {
+          "version": "2026.2b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 2026.2\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Happy.Scale.Premium.2026.2.ipa",
+          "size": 36637883
+        },
+        {
+          "version": "2026.2c",
+          "date": "2026-02-10",
           "localizedDescription": "Version: 2026.2\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Happy.Scale.v2026.2.Subscription.Unlocked.blatant.Patched.ipa",
           "size": 40207414
         },
         {
-          "version": "2026.2b",
+          "version": "2026.2d",
           "date": "2026-02-09",
           "localizedDescription": "Version: 2026.2\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Happy.Scale.v2026.2.Subscription.Unlocked.blatant.Patched.ipa",
@@ -18705,14 +18799,14 @@
       "bundleIdentifier": "jp.naver.linecamera",
       "developerName": "SNOW Corporation",
       "subtitle": "Tweaked with LINECamera, blatantsPatch",
-      "version": "18.1.0",
-      "versionDate": "2026-02-09",
-      "versionDescription": "Version: 18.1.0\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/LINE_Camera_Photo_editor_v18_1_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "version": "18.1.1",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 18.1.1\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/LINE_Camera_Photo_editor_v18_1_1_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: LINECamera, blatantsPatch\n\nLINE Camera - Photo editor\nSubscription Unlocked\nIgnore purchase popup's and restart the app if subscription isn't active.\n\n---\nA photo editing camera app used by over 200 million people worldwide! 『LINE Camera』\n\n- Over 30,000 stickers and frames\nFrom decorations to face covers, the possibilities are endless.\nA wide variety of items is updated weekly.\n\n- Cute, sleek filters\nHighly customizable filters let you make your photos look just how you like them.\n\n- Make your own original stickers!\nUse your own illustrations, text, or photos to make your own stickers.\n\n- Use the Beauty feature to bring out the natural beauty in y",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/77/c5/e477c510-d2ea-a98c-ff85-b95f3e805a0c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 168141930,
+      "size": 160700936,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/42/98/e8429875-f8ff-c56b-513c-e13b25ae6968/01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/2f/37/642f3771-c5f8-5794-e81b-97c781ae4774/02.png/392x696bb.png",
@@ -18734,6 +18828,20 @@
       },
       "versions": [
         {
+          "version": "18.1.1",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 18.1.1\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/LINE_Camera_Photo_editor_v18_1_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 160700936
+        },
+        {
+          "version": "18.1.1b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 18.1.1\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/LINE_Camera_Photo_editor_v18_1_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 160700936
+        },
+        {
           "version": "18.1.0",
           "date": "2026-02-09",
           "localizedDescription": "Version: 18.1.0\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
@@ -18746,20 +18854,6 @@
           "localizedDescription": "Version: 17.4.2\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-2/LINE_Camera_Photo_editor_v17_4_2_Subscription_Unlocked_blatant_patched.ipa",
           "size": 134689590
-        },
-        {
-          "version": "17.4.3",
-          "date": "2026-01-04",
-          "localizedDescription": "Version: 17.4.3\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-4/LINE_Camera_Photo_editor_v17_4_3_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 134685984
-        },
-        {
-          "version": "17.4.6",
-          "date": "2026-01-02",
-          "localizedDescription": "Version: 17.4.6\n\nTweaks: LINECamera, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/LINE_Camera_Photo_editor_v17_4_6_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 135808090
         }
       ],
       "category": "photo-&-video"
@@ -19901,15 +19995,15 @@
       "name": "MediaConvert",
       "bundleIdentifier": "com.verycoolapp.mediaconvert",
       "developerName": "俊杰 阮",
-      "subtitle": "Tweaked with CydiaSubstrate, MediaConverter",
-      "version": "3.32",
-      "versionDate": "2026-02-05",
-      "versionDescription": "Version: 3.32\n\nTweaks: CydiaSubstrate, MediaConverter, sideloadFixerLol\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/Media_Converter_video_to_mp3_v3_32_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, MediaConverter, sideloadFixerLol\n\nMedia Converter - video to mp3 | com.verycoolapp.mediaconvert | Category: Utilities | Subscription Unlocked | No Additional Notes\n\n---\nMedia Converter – Video Converter, Convert all your videos, audios, images, GIFs, and PDFs.\nConvert video & audio & picture encoding, compress video, extract audio and create custom ringtones with music.\nAll-in-one solution combining file format converter, audio extractor, media editor, ringtone maker and Video Player.\n◆ Video Converter & Video transcoder\n- Convert videos between all popular formats: MP4, MOV, 3GP, 3G2, ASF, MKV, VOB, MPEG, WMV, FLV, AVI, OGV, WEBM, MPG..\n- Video Encoders: H.264",
+      "subtitle": "Tweaked with MediaConverter, blatantsPatch",
+      "version": "4.13",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 4.13\n\nTweaks: MediaConverter, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Media_Converter_video_to_mp3_v4_13_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MediaConverter, blatantsPatch\n\nMedia Converter - video to mp3 | Subscription Unlocked\n\n---\nMedia Converter – Video Converter, Convert all your videos, audios, images, GIFs, and PDFs.\nConvert video & audio & picture encoding, compress video, extract audio and create custom ringtones with music.\nAll-in-one solution combining file format converter, audio extractor, media editor, ringtone maker and Video Player.\n◆ Video Converter & Video transcoder\n- Convert videos between all popular formats: MP4, MOV, 3GP, 3G2, ASF, MKV, VOB, MPEG, WMV, FLV, AVI, OGV, WEBM, MPG..\n- Video Encoders: H.264",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/0c/2f/2b0c2fa0-8671-7bbe-5359-26187bcaf3d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 68539763,
+      "size": 59860232,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/06/cb/db06cb54-29df-4777-7374-b66a79bd9231/6d13e498-2e26-4d2d-a787-219c4a3c4920_5.5_Device_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/df/29/2fdf296f-5ef7-3eeb-32d8-e753ef092adb/f0cb5866-38de-4a7c-9643-36bd4e8bad49_5.5_Device_2.jpg/392x696bb.jpg",
@@ -19936,6 +20030,20 @@
       },
       "versions": [
         {
+          "version": "4.13",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 4.13\n\nTweaks: MediaConverter, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Media_Converter_video_to_mp3_v4_13_Subscription_Unlocked_blatant.ipa",
+          "size": 59860232
+        },
+        {
+          "version": "4.13b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 4.13\n\nTweaks: MediaConverter, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Media_Converter_video_to_mp3_v4_13_Subscription_Unlocked_blatant.ipa",
+          "size": 59860232
+        },
+        {
           "version": "3.32",
           "date": "2026-02-05",
           "localizedDescription": "Version: 3.32\n\nTweaks: CydiaSubstrate, MediaConverter, sideloadFixerLol\n\nSource: @blatants",
@@ -19948,20 +20056,6 @@
           "localizedDescription": "Version: 3.17\n\nTweaks: CydiaSubstrate, MediaConverter, sideloadFixerLol\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-10/MediaConvert_v3.17_blatant.ipa",
           "size": 62216764
-        },
-        {
-          "version": "3.18",
-          "date": "2026-01-07",
-          "localizedDescription": "Version: 3.18\n\nTweaks: CydiaSubstrate, MediaConverter, sideloadFixerLol\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-8/MediaConvert_v3.18_Subscription_Unlocked_blatant.ipa",
-          "size": 63606471
-        },
-        {
-          "version": "3.19",
-          "date": "2026-01-06",
-          "localizedDescription": "Version: 3.19\n\nTweaks: CydiaSubstrate, MediaConverter, sideloadFixerLol\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/MediaConvert_v3.19_Subscription_Unlocked_blatant.ipa",
-          "size": 63526046
         }
       ],
       "category": "utilities"
@@ -20225,15 +20319,15 @@
       "name": "Mimo",
       "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "Mimo GmbH",
-      "subtitle": "Tweaked with CydiaSubstrate, Mimo",
-      "version": "9.9.0",
-      "versionDate": "2026-02-05",
-      "versionDescription": "Version: 9.9.0\n\nTweaks: CydiaSubstrate, Mimo, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-19/Mimo_Learn_Coding_Programming_v9_9_0_Max_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Mimo, sideloadKeychainfix\n\nMimo: Learn Coding/Programming | com.getmimo.mimo | Category: Education | Max Subscription Unlocked | No Additional Notes\n\n---\nLearn Python, JavaScript, HTML, CSS, or SQL, and master modern AI-assisted development to become a developer in the age of AI. Mimo is a coding app that takes you from zero to building projects with AI. Gain the knowledge and tools to create production-ready software and pursue a job as a developer. Start building strong portfolio projects today, future-proof your skills, and take the next step beyond just coding syntax—download Mimo and launch your developer career now!\n\nWho It's For\n\nMimo stan",
+      "subtitle": "Tweaked with Mimo, blatantsPatch",
+      "version": "12.0.0",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 12.0.0\n\nTweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Mimo_Learn_Coding_Programming_v12_0_0_Max_Subscription_Unlocked.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Mimo, blatantsPatch, sideloadKeychainfix\n\nMimo: Learn Coding/Programming | Max Subscription Unlocked\n\n---\nLearn Python, JavaScript, HTML, CSS, or SQL, and master modern AI-assisted development to become a developer in the age of AI. Mimo is a coding app that takes you from zero to building projects with AI. Gain the knowledge and tools to create production-ready software and pursue a job as a developer. Start building strong portfolio projects today, future-proof your skills, and take the next step beyond just coding syntax—download Mimo and launch your developer career now!\n\nWho It's For\n\nMimo stan",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/c8/11/7fc8116a-0202-8873-ee00-be090127878c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 63159345,
+      "size": 75884072,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -20244,12 +20338,27 @@
         ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Picking images for user avatar",
-          "NSCameraUsageDescription": "Allowing camera access to take photos for your user avatar",
-          "NSMicrophoneUsageDescription": "We need access to your microphone to enhance your app experience.",
-          "NSUserTrackingUsageDescription": "We don't use this data for any other purpose except understanding how our users discover Mimo and improving your Mimo experience."
+          "NSCameraUsageDescription": "We need camera access when you take photos for your user avatar or add images to a Mimo prompt.",
+          "NSMicrophoneUsageDescription": "We need microphone access to capture your voice temporarily for speech recognition.",
+          "NSSpeechRecognitionUsageDescription": "We need access to speech recognition to convert your voice input into text when prompting Mimo.",
+          "NSUserTrackingUsageDescription": "We do not use this data for any other purpose except understanding how our users discover Mimo and improving your Mimo experience."
         }
       },
       "versions": [
+        {
+          "version": "12.0.0",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 12.0.0\n\nTweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Mimo_Learn_Coding_Programming_v12_0_0_Max_Subscription_Unlocked.ipa",
+          "size": 75884072
+        },
+        {
+          "version": "12.0.0b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 12.0.0\n\nTweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Mimo_Learn_Coding_Programming_v12_0_0_Max_Subscription_Unlocked.ipa",
+          "size": 75884072
+        },
         {
           "version": "9.9.0",
           "date": "2026-02-05",
@@ -20263,20 +20372,6 @@
           "localizedDescription": "Version: 11.2.0\n\nTweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Mimo_Learn_Coding_Programming_v11_2_0_Max_Subscription_Unlocked.ipa",
           "size": 78129256
-        },
-        {
-          "version": "11.2.0b",
-          "date": "2026-02-02",
-          "localizedDescription": "Version: 11.2.0\n\nTweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-10/Mimo_Learn_Coding_Programming_v11_2_0_Max_Subscription_Unlocked.ipa",
-          "size": 78129256
-        },
-        {
-          "version": "11.1.0",
-          "date": "2026-01-26",
-          "localizedDescription": "Version: 11.1.0\n\nTweaks: Mimo, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-26-1/Mimo_Learn_Coding_Programming_v11_1_0_Max_Subscription_Unlocked.ipa",
-          "size": 78035253
         }
       ],
       "category": "education"
@@ -28818,15 +28913,15 @@
       "name": "SCRL",
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "developerName": "Appostrophe AB",
-      "subtitle": "Tweaked with AutoRevenueCat, CydiaSubstrate",
-      "version": "9.7.12",
-      "versionDate": "2026-02-05",
-      "versionDescription": "Version: 9.7.12\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/SCRL_Photo_Collage_Maker_v9_7_12_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol\n\nSCRL: Photo Collage Maker | com.dopedevelopment.Panels | Category: Photo & Video | Subscription Unlocked | No Additional Notes\n\n---\nUnleash your creativity with SCRL, the #1 app in the US for creating original photo collages and seamless Instagram carousels. Whether you're an influencer, artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.\n\n• Exceptional Collage Maker with Hundreds of Hand-Picked Templates\nStart your design journey with our vast selection of collage templates. From minimalist to extravagant, our templates cater to every occasion and style.\n\nOur design exper",
+      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "version": "9.27.3",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 9.27.3\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/SCRL_Photo_Collage_Maker_v9_27_3_Subscription_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nSCRL: Photo Collage Maker | Subscription Unlocked\n\n---\nUnleash your creativity with SCRL, the #1 app in the US for creating original photo collages and seamless Instagram carousels. Whether you're an influencer, artist, or just love sharing your moments, SCRL offers everything you need to make your posts stand out.\n\n• Exceptional Collage Maker with Hundreds of Hand-Picked Templates\nStart your design journey with our vast selection of collage templates. From minimalist to extravagant, our templates cater to every occasion and style.\n\nOur design exper",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/22/d1/d422d119-df7d-64b6-a8d7-23c763482270/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 58282032,
+      "size": 51246036,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bf/9f/cc/bf9fcc21-d31e-a730-109d-f0b037b8b55a/b50f3413-5af5-4401-afc8-59d1f050d406_IOS_5.5_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/dc/49/2adc49b4-9f3f-6591-8c4c-fe699045fd13/23d473c0-b9bb-4925-b93f-4d4a86fdee0f_IOS_5.5_2.jpg/392x696bb.jpg",
@@ -28850,6 +28945,20 @@
       },
       "versions": [
         {
+          "version": "9.27.3",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 9.27.3\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/SCRL_Photo_Collage_Maker_v9_27_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 51246036
+        },
+        {
+          "version": "9.27.3b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 9.27.3\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/SCRL_Photo_Collage_Maker_v9_27_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 51246036
+        },
+        {
           "version": "9.7.12",
           "date": "2026-02-05",
           "localizedDescription": "Version: 9.7.12\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol\n\nSource: @blatants",
@@ -28862,20 +28971,6 @@
           "localizedDescription": "Version: 9.8.3\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/SCRL_Photo_Collage_Maker_v9_8_3_Subscription_Unlocked_blatant.ipa",
           "size": 60323737
-        },
-        {
-          "version": "9.8.9",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 9.8.9\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/SCRL_Photo_Collage_Maker_v9_8_9_Subscription_Unlocked_blatant.ipa",
-          "size": 60818894
-        },
-        {
-          "version": "9.8.15",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 9.8.15\n\nTweaks: AutoRevenueCat, b1atantPluginsInject\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-20/SCRL_Photo_Collage_Maker_v9_8_15_Subscription_Unlocked_blatant_patched.ipa",
-          "size": 60336784
         }
       ],
       "category": "photo-&-video"
@@ -32331,15 +32426,15 @@
       "name": "Stndrd",
       "bundleIdentifier": "uni.cbum",
       "developerName": "Set The Standard LLC",
-      "subtitle": "Tweaked with AutoRevenueCat, blatantsPatch",
-      "version": "4.0.61",
-      "versionDate": "2026-02-06",
-      "versionDescription": "Version: 4.0.61\n\nTweaks: AutoRevenueCat, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-25/STNDRD_Bodybuilding_Workouts_v4_0_61_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRevenueCat, blatantsPatch, sideloadKeychainfix\n\nSTNDRD: Bodybuilding Workouts | Subscription Unlocked\n\n---\nUnleash Your Strength with STNDRD — Your Ultimate Bodybuilding & Fitness Community\n\nElevate your fitness journey with STNDRD, the premier app designed to help you unlock your full potential. Whether you're aiming to build muscle, tone your body, or enhance overall fitness, STNDRD provides the tools, guidance, and motivation you need to achieve greatness.\n\nLed by the Best in the Industry\nTrain under the expert guidance of 6x Mr. Olympia Champion, Chris Bumstead (CBUM). His exclusive bodybuilding-",
+      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "version": "4.1.28",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 4.1.28\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/STNDRD_Bodybuilding_Workouts_v4_1_28_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nSTNDRD: Bodybuilding Workouts | Subscription Unlocked\n\n---\nUnleash Your Strength with STNDRD — Your Ultimate Bodybuilding & Fitness Community\n\nElevate your fitness journey with STNDRD, the premier app designed to help you unlock your full potential. Whether you're aiming to build muscle, tone your body, or enhance overall fitness, STNDRD provides the tools, guidance, and motivation you need to achieve greatness.\n\nLed by the Best in the Industry\nTrain under the expert guidance of 6x Mr. Olympia Champion, Chris Bumstead (CBUM). His exclusive bodybuilding-",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/13/20/d313207f-dd18-2a2f-743b-a5fa4cecffb8/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 58764085,
+      "size": 106482828,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/a3/58/66a3585e-1aad-90a9-e3e9-6c74e051802c/first5.5.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/fe/10/a1fe106d-4f15-5008-495d-d079d2467edd/dd85a9f9-5d0d-405c-a765-80ec2c5e11c9_Appstore2.png/392x696bb.png",
@@ -32369,6 +32464,20 @@
       },
       "versions": [
         {
+          "version": "4.1.28",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 4.1.28\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/STNDRD_Bodybuilding_Workouts_v4_1_28_Subscription_Unlocked_blatant.ipa",
+          "size": 106482828
+        },
+        {
+          "version": "4.1.28b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 4.1.28\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/STNDRD_Bodybuilding_Workouts_v4_1_28_Subscription_Unlocked_blatant.ipa",
+          "size": 106482828
+        },
+        {
           "version": "4.0.61",
           "date": "2026-02-06",
           "localizedDescription": "Version: 4.0.61\n\nTweaks: AutoRevenueCat, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
@@ -32381,20 +32490,6 @@
           "localizedDescription": "Version: 4.0.42\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/STNDRD_Bodybuilding_Workouts_v4_0_42_Subscription_Unlocked_blatant.ipa",
           "size": 78998353
-        },
-        {
-          "version": "4.0.50",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 4.0.50\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/STNDRD_Bodybuilding_Workouts_v4_0_50_Subscription_Unlocked_blatant.ipa",
-          "size": 52706694
-        },
-        {
-          "version": "4.0.58",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 4.0.58\n\nTweaks: AutoRevenueCat, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-19/STNDRD_Bodybuilding_Workouts_v4_0_58_Subscription_Unlocked_blatant.ipa",
-          "size": 58712261
         }
       ],
       "category": "health-&-fitness"
@@ -35895,22 +35990,22 @@
       "name": "Truecaller",
       "bundleIdentifier": "com.truesoftware.TrueCallerOther",
       "developerName": "True Software Scandinavia AB",
-      "subtitle": "Tweaked with CydiaSubstrate, Truecaller",
-      "version": "13.28.6",
-      "versionDate": "2026-02-06",
-      "versionDescription": "Version: 13.28.6\n\nTweaks: CydiaSubstrate, Truecaller\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-24/Truecaller_13.28.6_1737169736.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Truecaller\n\n---\nWith Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\n\n#1 CALLER ID & SPAM BLOCKING APP WORLDWIDE\n\n• An all new Caller ID experience on iPhone with iOS 18.2 and above\n• Automatically identify spam, fraud, and ro",
+      "subtitle": "Tweaked with Truecaller, blatantsPatch",
+      "version": "26.5.5",
+      "versionDate": "2026-02-10",
+      "versionDescription": "Version: 26.5.5\n\nTweaks: Truecaller, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Truecaller_Premium_Caller_ID_v26_5_Gold_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Truecaller, blatantsPatch\n\nTruecaller: Premium Caller ID | Reuploaded: 26.5 | Gold Unlocked | App requires a paid cert to function properly\n\n---\nWith Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\n\n#1 CALLER ID & SPAM BLOCKING APP WORLDWIDE\n\n• An all new Caller ID experience on iPhone with iOS 18.2 and above\n• Automatically identify spam, fraud, and ro",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/e5/7c/c5e57c01-37ec-0d1d-46fe-d25ba377ea67/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 113541160,
+      "size": 81731994,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
           "aps-environment",
-          "com.apple.developer.associated-domains",
           "com.apple.developer.icloud-container-environment",
           "com.apple.developer.usernotifications.time-sensitive",
+          "com.apple.developer.associated-domains",
           "com.apple.security.application-groups"
         ],
         "privacy": {
@@ -35922,6 +36017,20 @@
         }
       },
       "versions": [
+        {
+          "version": "26.5.5",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 26.5.5\n\nTweaks: Truecaller, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Truecaller_Premium_Caller_ID_v26_5_Gold_Unlocked_blatant_Patched.ipa",
+          "size": 81731994
+        },
+        {
+          "version": "26.5.5b",
+          "date": "2026-02-10",
+          "localizedDescription": "Version: 26.5.5\n\nTweaks: Truecaller, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Truecaller_Premium_Caller_ID_v26_5_Gold_Unlocked_blatant_Patched.ipa",
+          "size": 81731994
+        },
         {
           "version": "13.28.6",
           "date": "2026-02-06",
@@ -35935,20 +36044,6 @@
           "localizedDescription": "Version: 14.19.6\n\nTweaks: CydiaSubstrate, Truecaller, b1atantPluginsInject\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-20/Truecaller_Caller_ID_Lookup_v14_19_Gold_Unlocked_blatant_patched.ipa",
           "size": 74647070
-        },
-        {
-          "version": "14.22.5",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 14.22.5\n\nTweaks: Truecaller, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-20/Truecaller_Caller_ID_Lookup_v14_22_Gold_Unlocked_blatant_patched.ipa",
-          "size": 72810218
-        },
-        {
-          "version": "26.4.5",
-          "date": "2026-02-04",
-          "localizedDescription": "Version: 26.4.5\n\nTweaks: Truecaller, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-16/Truecaller_Premium_Caller_ID_v26_4_Gold_Unlocked_blatant_Patched.ipa",
-          "size": 81665260
         }
       ],
       "category": "utilities"
@@ -38142,13 +38237,6 @@
           "size": 84647765
         },
         {
-          "version": "8.1.4b",
-          "date": "2026-02-10",
-          "localizedDescription": "Version: 8.1.4\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Widgetsmith.v8.1.4.Subscription.Unlocked.blatant.Patched.ipa",
-          "size": 84647765
-        },
-        {
           "version": "8.1.3",
           "date": "2026-02-10",
           "localizedDescription": "Version: 8.1.3\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
@@ -38161,6 +38249,13 @@
           "localizedDescription": "Version: 8.1.3\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Widgetsmith.v8.1.3.Subscription.Unlocked.blatant.Patched.ipa",
           "size": 169009150
+        },
+        {
+          "version": "7.0.3",
+          "date": "2026-01-08",
+          "localizedDescription": "Version: 7.0.3\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-10/WidgetSmith_v7.0.3_blatant.ipa",
+          "size": 98124904
         }
       ],
       "category": "productivity"
@@ -40303,79 +40398,6 @@
         }
       ],
       "category": "photo-&-video"
-    },
-    {
-      "beta": false,
-      "name": "多邻国",
-      "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "developerName": "Duolingo",
-      "subtitle": "Tweaked with FixbyTG@iosrxwy, substrate",
-      "version": "7.9.0",
-      "versionDate": "2026-02-07",
-      "versionDescription": "Version: 7.9.0\n\nTweaks: FixbyTG@iosrxwy, substrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-26/Duolingo7.9.0Crack.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: FixbyTG@iosrxwy, substrate\n\nI got it\n\n---\nLearn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.\n\nDesigned by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Japanese, Korean, Chinese, Italian, German, English, and more.\n\nAnd now, you can learn",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/3b/0a/5b3b0a2b-7f47-0b66-8494-a154cdef8e62/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "tintColor": "#00BFA6",
-      "size": 122266199,
-      "screenshots": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/16/35/0d16355e-7b7a-4903-aa0a-ecfefdaa7e08/b715d679-c25d-41c1-8b55-6c00114fa81e_en_iphone5.5_screen_1.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/14/cd/f814cd12-cb2b-baeb-2870-404d9186defb/93f4d1c8-4144-44de-8b57-a5a091c838f4_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_3.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/52/ff/9d52ff84-2a12-3b34-5a49-fe24e9c1109f/cd048832-2375-4fd9-88e8-3711d102065e_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_4.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/73/4a/cd734a01-48a1-f468-93c9-bbd5de3dbaec/c9c1f806-63ba-4809-bdfd-1b9e144aa854_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_5.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/8e/d9/698ed916-b0ab-6eac-85e2-06d82f330593/946decfe-85b3-472c-a577-376e39acf40a_iPhone_5.5_030124_-_ASO_Testing_-_Round_2_-_Concept_1_-_EN_-_6.png/392x696bb.png"
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.applesignin",
-          "aps-environment",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.associated-domains",
-          "com.apple.security.application-groups"
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Find an existing photo to use for your Duolingo profile.",
-          "NSCameraUsageDescription": "Take a photo to use for your Duolingo profile.",
-          "NSMicrophoneUsageDescription": "Speaking is essential to language learning.",
-          "NSLocationWhenInUseUsageDescription": "Duolingo uses your current location to find nearby events.",
-          "NSContactsUsageDescription": "Your contacts will be securely uploaded to Duolingo to help you find friends.",
-          "NSSpeechRecognitionUsageDescription": "Speaking is essential to language learning.",
-          "NSUserTrackingUsageDescription": "This will be used to show ads relevant to you.",
-          "NSPhotoLibraryAddUsageDescription": "In order to save screenshots of exercises like this one."
-        }
-      },
-      "versions": [
-        {
-          "version": "7.9.0",
-          "date": "2026-02-07",
-          "localizedDescription": "Version: 7.9.0\n\nTweaks: FixbyTG@iosrxwy, substrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-26/Duolingo7.9.0Crack.ipa",
-          "size": 122266199
-        },
-        {
-          "version": "7.24.1",
-          "date": "2026-02-06",
-          "localizedDescription": "Version: 7.24.1\n\nTweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-25/Duolingo-v7.24.1-AppTesters_bypass.ipa",
-          "size": 112200021
-        },
-        {
-          "version": "7.26.1",
-          "date": "2026-02-06",
-          "localizedDescription": "Version: 7.26.1\n\nTweaks: CachefixPatch, GeniePatch, NewFix1, NewFix2, pro\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-24/Duolingo_7.26.1_1736373461.ipa",
-          "size": 122082121
-        },
-        {
-          "version": "7.90.1",
-          "date": "2026-02-06",
-          "localizedDescription": "Version: 7.90.1\n\nTweaks: ExtensionFix, oisdAdblock, substrate, swifCore_Dispatchs\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-23/Duolingo_7.90.1_1757838824.ipa",
-          "size": 464661052
-        }
-      ],
-      "category": "education"
     },
     {
       "beta": false,
