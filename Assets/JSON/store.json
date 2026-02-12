@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.burbn.instagram",
     "com.zhiliaoapp.musically",
-    "com.crossforward.WidgetSmith",
-    "com.funnmedia.calory",
-    "com.google.ios.youtubemusic"
+    "com.burbn.instagram",
+    "boomer.Smart-Video",
+    "com.noctuasoftware.stellarium-mobile-plus",
+    "com.myfitnesspal.mfp"
   ],
   "apps": [
     {
@@ -5420,15 +5420,15 @@
       "name": "Captions",
       "bundleIdentifier": "boomer.Smart-Video",
       "developerName": "Captions, LLC (US)",
-      "subtitle": "Subscription Unlocked | Patched",
+      "subtitle": "Pro Features Unlocked",
       "version": "13.4.1",
-      "versionDate": "2026-02-11",
-      "versionDescription": "Tweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Captions_AI_Edits_Your_Video_v13_4_1_Scale_Subscription_Unlocked.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nCaptions: AI Edits Your Video\nScale Subscription Unlocked\nRestart the app if subscription isn't active.\nOnly subscription is unlocked!! Credits cannot be unlocked.",
+      "versionDate": "2026-02-12",
+      "versionDescription": "Tweaks: Captions\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Captions.Pro.13.4.1.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nCaptions: For Talking Videos | AI is NOT unlocked! | Tweak made by blatant | Minimum OS version 16.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/81/47/3a81470e-3b7b-bada-ba66-9d0caa01b3fb/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 410540960,
+      "size": 406038209,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/e6/30/62e63038-6153-9ddc-fd18-7cea14bd5101/2.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/35/71/0235719f-b4da-85c5-012f-73ee8cc18b8e/3.png/392x696bb.png",
@@ -5459,6 +5459,20 @@
       "versions": [
         {
           "version": "13.4.1",
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: Captions\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Captions.Pro.13.4.1.ipa",
+          "size": 406038209
+        },
+        {
+          "version": "13.4.1b",
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: Captions\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Captions.Pro.13.4.1.ipa",
+          "size": 406038209
+        },
+        {
+          "version": "13.4.1c",
           "date": "2026-02-11",
           "localizedDescription": "Tweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Captions_AI_Edits_Your_Video_v13_4_1_Scale_Subscription_Unlocked.ipa",
@@ -5470,20 +5484,6 @@
           "localizedDescription": "Tweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-14/Captions_AI_Short_Form_Video_v13_3_1_Scale_Subscription_Unlocked.ipa",
           "size": 410409381
-        },
-        {
-          "version": "13.3.0",
-          "date": "2026-01-30",
-          "localizedDescription": "Tweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/Captions_AI_Short_Form_Video_v13_3_0_Scale_Subscription_Unlocked.ipa",
-          "size": 410407688
-        },
-        {
-          "version": "13.3.0b",
-          "date": "2026-01-30",
-          "localizedDescription": "Tweaks: CachefixPatch, Captions, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/Captions_AI_Short_Form_Video_v13_3_0_Scale_Subscription_Unlocked.ipa",
-          "size": 410407688
         }
       ],
       "category": "photo-&-video"
@@ -7712,15 +7712,15 @@
       "name": "Darkroom",
       "bundleIdentifier": "co.bergen.Darkroom",
       "developerName": "Bergen Co.",
-      "subtitle": "Subscription Unlocked",
-      "version": "6.8.11",
-      "versionDate": "2026-01-15",
-      "versionDescription": "Tweaks: Revenuecat, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, popupmelon\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-10/Darkroom_6.8.11_Crack_Melon.ipa",
-      "localizedDescription": "Subscription Unlocked\n\nDarkroom: Photo & Video Editor 6.8.11 – co.bergen.darkroom\n- An award-winning photo and video editor for Apple devices, featuring AI-powered tools, RAW and 4K support, and seamless iCloud integration.\n- Subscription unlocked, no jailbreak\n- ⚠️ Custom entitlements may be needed to use properly\n- By @melonn01 (",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/db/85/44db8578-6fe3-afd5-be9e-aed5e77cd806/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "subtitle": "Pro Features Unlocked",
+      "version": "7.0.24",
+      "versionDate": "2026-02-12",
+      "versionDescription": "Tweaks: CydiaSubstrate, NewFix1, NewFix2, RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Darkroom.Pro.7.0.24.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nDarkroom: Photo & Video Editor\nSign with custom entitlements file if the app is crashing for you\nMinimum OS version 18.4",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/f4/e3/9cf4e3ce-2b27-0ac4-393e-ec5f7f0ac961/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 156779097,
+      "size": 192261493,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7b/bc/e47bbcef-41ba-7fa0-4c6f-72efbd1be995/860502cb-b72a-474e-b89c-bcec75b94d34_55-1-masks.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/7d/4c/9f7d4c2f-bade-194a-eb3e-7ce1c60a0496/5ea2eb45-1299-46ee-875a-0746c380cb3f_55-2-sell.jpg/392x696bb.jpg",
@@ -7745,6 +7745,20 @@
       },
       "versions": [
         {
+          "version": "7.0.24",
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: CydiaSubstrate, NewFix1, NewFix2, RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Darkroom.Pro.7.0.24.ipa",
+          "size": 192261493
+        },
+        {
+          "version": "7.0.24b",
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: CydiaSubstrate, NewFix1, NewFix2, RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Darkroom.Pro.7.0.24.ipa",
+          "size": 192261493
+        },
+        {
           "version": "6.8.11",
           "date": "2026-01-15",
           "localizedDescription": "Tweaks: Revenuecat, Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, StopReviews, popupmelon\n\nSource: @binnichtaktivsipas",
@@ -7757,20 +7771,6 @@
           "localizedDescription": "Tweaks: Sideloadbypass1_1.0_@thisismanpreets_apptesters.org, Sideloadbypass2_1.0_@thisismanpreets_apptesters.org, chocorc, substrate\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-11/Darkroom_Crack_Melon.ipa",
           "size": 147619925
-        },
-        {
-          "version": "6.8.9",
-          "date": "2026-01-07",
-          "localizedDescription": "Tweaks: AutoRevenueCat, CydiaSubstrate\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-8/Darkroom_v6.8.9_Subscription_Unlocked_blatant.ipa",
-          "size": 135972276
-        },
-        {
-          "version": "6.8.8",
-          "date": "2026-01-07",
-          "localizedDescription": "Tweaks: AutoRevenueCat, CydiaSubstrate\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-8/Darkroom_v6.8.8_Subscription_Unlocked_blatant.ipa",
-          "size": 135973520
         }
       ],
       "category": "photo-&-video"
@@ -19627,15 +19627,15 @@
       "name": "MediaConvert",
       "bundleIdentifier": "com.verycoolapp.mediaconvert",
       "developerName": "俊杰 阮",
-      "subtitle": "Subscription Unlocked | Patched",
+      "subtitle": "Tweaked with CydiaSubstrate, MediaConverterPatch",
       "version": "4.13",
-      "versionDate": "2026-02-11",
-      "versionDescription": "Tweaks: MediaConverter, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Media_Converter_video_to_mp3_v4_13_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMedia Converter - video to mp3 | Subscription Unlocked",
+      "versionDate": "2026-02-12",
+      "versionDescription": "Tweaks: CydiaSubstrate, MediaConverterPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Media.Converter.Professional.4.13.ipa",
+      "localizedDescription": "Media Converter - video to mp3 | Professional version unlocked | Tweak made by Никита | Minimum OS version 13.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/0c/2f/2b0c2fa0-8671-7bbe-5359-26187bcaf3d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 59860232,
+      "size": 59331823,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/06/cb/db06cb54-29df-4777-7374-b66a79bd9231/6d13e498-2e26-4d2d-a787-219c4a3c4920_5.5_Device_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/df/29/2fdf296f-5ef7-3eeb-32d8-e753ef092adb/f0cb5866-38de-4a7c-9643-36bd4e8bad49_5.5_Device_2.jpg/392x696bb.jpg",
@@ -19663,31 +19663,31 @@
       "versions": [
         {
           "version": "4.13",
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: CydiaSubstrate, MediaConverterPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Media.Converter.Professional.4.13.ipa",
+          "size": 59331823
+        },
+        {
+          "version": "4.13b",
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: CydiaSubstrate, MediaConverterPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Media.Converter.Professional.4.13.ipa",
+          "size": 59331823
+        },
+        {
+          "version": "4.13c",
           "date": "2026-02-11",
           "localizedDescription": "Tweaks: MediaConverter, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Media_Converter_video_to_mp3_v4_13_Subscription_Unlocked_blatant.ipa",
           "size": 59860232
         },
         {
-          "version": "4.13b",
+          "version": "4.13d",
           "date": "2026-02-10",
           "localizedDescription": "Tweaks: MediaConverter, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Media_Converter_video_to_mp3_v4_13_Subscription_Unlocked_blatant.ipa",
           "size": 59860232
-        },
-        {
-          "version": "4.12",
-          "date": "2025-09-28",
-          "localizedDescription": "Tweaks: MediaConverter, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31-1/Media_Converter_video_to_mp3_v4_12_Subscription_Unlocked_blatant.ipa",
-          "size": 62021276
-        },
-        {
-          "version": "4.11",
-          "date": "2026-01-02",
-          "localizedDescription": "Tweaks: MediaConverter, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/Media_Converter_video_to_mp3_v4_11_Subscription_Unlocked_blatant.ipa",
-          "size": 61563030
         }
       ],
       "category": "utilities"
@@ -21257,15 +21257,15 @@
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "MyFitnessPal, Inc.",
-      "subtitle": "Subscription Unlocked | Patched",
-      "version": "26.5.0",
-      "versionDate": "2026-02-04",
-      "versionDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-18/MyFitnessPal_Calorie_Counter_v26_5_0_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nMyFitnessPal: Calorie Counter | Subscription Unlocked",
+      "subtitle": "Tweaked with CydiaSubstrate, MyFitnessPal",
+      "version": "26.6.0",
+      "versionDate": "2026-02-12",
+      "versionDescription": "Tweaks: CydiaSubstrate, MyFitnessPal, SideloadSpoofer-08, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/MyFitnessPal.Premium.26.6.0.ipa",
+      "localizedDescription": "MyFitnessPal: Calorie Counter | Tweak made by Blatant | Minimum OS version 17.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/6e/9c/3b6e9c26-d7ac-b3bf-579c-949323d6b217/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 141908254,
+      "size": 136523377,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -21289,6 +21289,20 @@
       },
       "versions": [
         {
+          "version": "26.6.0",
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: CydiaSubstrate, MyFitnessPal, SideloadSpoofer-08, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/MyFitnessPal.Premium.26.6.0.ipa",
+          "size": 136523377
+        },
+        {
+          "version": "26.6.0b",
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: CydiaSubstrate, MyFitnessPal, SideloadSpoofer-08, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/MyFitnessPal.Premium.26.6.0.ipa",
+          "size": 136523377
+        },
+        {
           "version": "26.5.0",
           "date": "2026-02-04",
           "localizedDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
@@ -21301,20 +21315,6 @@
           "localizedDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-16/MyFitnessPal_Calorie_Counter_v26_5_0_Subscription_Unlocked_blatant.ipa",
           "size": 141908254
-        },
-        {
-          "version": "26.4.1",
-          "date": "2026-01-29",
-          "localizedDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/MyFitnessPal_Calorie_Counter_v26_4_1_Subscription_Unlocked_blatant.ipa",
-          "size": 128102319
-        },
-        {
-          "version": "26.4.1b",
-          "date": "2026-01-29",
-          "localizedDescription": "Tweaks: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/MyFitnessPal_Calorie_Counter_v26_4_1_Subscription_Unlocked_blatant.ipa",
-          "size": 128102319
         }
       ],
       "category": "health-&-fitness"
@@ -31479,6 +31479,53 @@
       "category": "games"
     },
     {
+      "name": "Stellarium",
+      "bundleIdentifier": "com.noctuasoftware.stellarium-mobile-plus",
+      "developerName": "Noctua Software Ltd",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "1.15.3",
+      "versionDate": "2026-02-12",
+      "versionDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Stellarium.Plus.1.15.3.ipa",
+      "localizedDescription": "Stellarium Mobile | Tap on buy then cancel | Minimum OS version 17",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/a6/0d/2ea60db9-d8c0-8163-546e-a5a4537dffdd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 317880576,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/6c/58/476c5811-3754-256a-729f-e675b3c1e1ab/33050b6e-3531-4901-8fbb-8311eaa8aa1d_screenshot_phone1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d0/de/c8/d0dec8de-6a76-01a4-555d-4f72e9ba5fb3/87627a6b-773c-436a-aa82-3bd2320ae9a5_screenshot_phone2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/de/04/ddde04c0-03d6-c9b9-0298-b72854ae18cb/64c815a0-f628-444f-ae52-18146748bac8_screenshot_phone3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/98/ef/b998ef91-0895-13e5-c401-616fb9f3eb1b/291ca712-e038-4254-b003-9709d0e318f0_screenshot_phone4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/61/48/b76148fa-a20a-b357-4925-6719b7e43beb/ca752d1c-f80e-444b-8708-466562fdd5bc_screenshot_phone5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Stellarium Mobile needs access to the camera for AR functionality.",
+          "NSLocationWhenInUseUsageDescription": "Stellarium Mobile needs your location to show you the sky correctly.",
+          "NSLocationAlwaysUsageDescription": "Stellarium Mobile needs your location to show you the sky correctly.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Stellarium Mobile needs your location to show you the sky correctly."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.15.3",
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Stellarium.Plus.1.15.3.ipa",
+          "size": 317880576
+        },
+        {
+          "version": "1.15.3b",
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Stellarium.Plus.1.15.3.ipa",
+          "size": 317880576
+        }
+      ],
+      "category": "education"
+    },
+    {
       "name": "Stemz",
       "bundleIdentifier": "com.mwm.stems",
       "developerName": "MWM",
@@ -33553,24 +33600,43 @@
       "name": "Tarteel",
       "bundleIdentifier": "com.iqraapp.Iqra",
       "developerName": "Tarteel Inc.",
-      "subtitle": "Tweaked with Sideloadbypass1, Sideloadbypass2",
-      "version": "5.60.1",
-      "versionDate": "2025-12-31",
-      "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, TarteelPatch, substrate\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/Tarteel_5.60.1_1745084687.ipa",
-      "localizedDescription": "Tarteel for iOS",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/8d/62/2e8d62b2-638c-828c-d6bd-30772048dda3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
+      "version": "5.74.0",
+      "versionDate": "2026-02-12",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, TarteelPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Tarteel.Premium.5.74.0.ipa",
+      "localizedDescription": "Tarteel ترتيل - Memorize Quran | Tweak made by ⏤͟͟✧𝓕𝓮𝓶𝓽𝓸🌪 | Minimum OS version 15.1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/d9/5b/95d95bf8-1002-09a0-51aa-61be1213e992/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 125807273,
+      "size": 129442779,
       "screenshots": [],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.applesignin"
+        ],
         "privacy": {
+          "NSPhotoLibraryUsageDescription": "Access to the photo library is required to save and share images on Instagram.",
           "NSMicrophoneUsageDescription": "The microphone is required in order to search using speech",
           "NSPhotoLibraryAddUsageDescription": "Access to write images to the photo library is required to save to it images of progress and achievements."
         }
       },
       "versions": [
+        {
+          "version": "5.74.0",
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, TarteelPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Tarteel.Premium.5.74.0.ipa",
+          "size": 129442779
+        },
+        {
+          "version": "5.74.0b",
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, TarteelPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Tarteel.Premium.5.74.0.ipa",
+          "size": 129442779
+        },
         {
           "version": "5.60.1",
           "date": "2025-12-31",
@@ -34439,24 +34505,24 @@
         },
         {
           "version": "43.8.0b",
-          "date": "2026-02-11",
+          "date": "2026-02-12",
           "localizedDescription": "Tweaks: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-11/TikTok_Videos._Shop_._LIVE_v43_8_0_VibeTok_v1_71_blatant_Patched.ipa",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/TikTok_Videos._Shop_._LIVE_v43_8_0_VibeTok_v1_71_blatant_Patched.ipa",
           "size": 410763092
         },
         {
           "version": "43.8.0c",
-          "date": "2026-02-11",
-          "localizedDescription": "Tweaks: ACTikTok2.1, CydiaSubstrate, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/TikTok_Videos._Shop_._LIVE_v43_8_0_ACTikTok_v2_1_blatant_Patched.ipa",
-          "size": 411002865
+          "date": "2026-02-12",
+          "localizedDescription": "Tweaks: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/TikTok_Videos._Shop_._LIVE_v43_8_0_VibeTok_v1_71_blatant_Patched.ipa",
+          "size": 410763092
         },
         {
           "version": "43.8.0d",
           "date": "2026-02-11",
           "localizedDescription": "Tweaks: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/TikTok_Videos._Shop_._LIVE_v43_8_0_VibeTok_v1_70_blatant_Patched.ipa",
-          "size": 410737454
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-11/TikTok_Videos._Shop_._LIVE_v43_8_0_VibeTok_v1_71_blatant_Patched.ipa",
+          "size": 410763092
         }
       ],
       "category": "entertainment"
@@ -39955,11 +40021,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 2.12",
+      "identifier": "telos-update-2026-02-12",
+      "caption": "20 Apps Updated:\n• 6 Photo & Video\n• 4 Other\n• 2 Utilities\n• 2 Books\n• 2 Entertainment\n• 2 Education\n• 2 Health & Fitness",
+      "date": "2026-02-12",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.zarz.spotiflacAndroid"
+    },
+    {
       "title": "⚙️ Telos Update 2.11",
       "identifier": "telos-update-2026-02-11",
       "caption": "24 Apps Updated:\n• 4 Health & Fitness\n• 4 Utilities\n• 4 Entertainment\n• 4 Photo & Video\n• 2 Other\n• 2 Social Networking\n• 2 Education\n• 1 Music\n• 1 Productivity",
       "date": "2026-02-11",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "uni.cbum"
     },
@@ -39968,7 +40043,7 @@
       "identifier": "telos-update-2026-02-10",
       "caption": "49 Apps Updated:\n• 13 Photo & Video\n• 9 Productivity\n• 6 Health & Fitness\n• 5 Education\n• 4 Utilities\n• 3 Music\n• 3 Social Networking\n• 2 Graphics & Design\n• 1 Shopping\n• 1 News\n• 1 Lifestyle\n• 1 Business",
       "date": "2026-02-10",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.camerasideas.InstaShot"
     },
@@ -39977,7 +40052,7 @@
       "identifier": "telos-update-2026-02-09",
       "caption": "54 Apps Updated:\n• 15 Photo & Video\n• 8 Health & Fitness\n• 6 Productivity\n• 4 Utilities\n• 4 Music\n• 3 Travel\n• 3 Education\n• 2 Reference\n• 2 Lifestyle\n• 1 Medical\n• 1 Navigation\n• 1 Sports\n• 1 Shopping\n• 1 News\n• 1 Business\n• 1 Social Networking",
       "date": "2026-02-09",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "co.airapps.finderbot"
     },
@@ -39986,7 +40061,7 @@
       "identifier": "telos-update-2026-02-08",
       "caption": "10 Apps Updated:\n• 5 Health & Fitness\n• 2 Photo & Video\n• 1 Music\n• 1 Productivity\n• 1 Medical",
       "date": "2026-02-08",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.ideation.Stress"
     },
@@ -39995,7 +40070,7 @@
       "identifier": "telos-update-2026-02-07",
       "caption": "17 Apps Updated:\n• 7 Photo & Video\n• 2 Utilities\n• 2 Entertainment\n• 2 Health & Fitness\n• 1 Education\n• 1 Finance\n• 1 Music\n• 1 Games",
       "date": "2026-02-07",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.sfun.snapedit"
     },
@@ -40004,7 +40079,7 @@
       "identifier": "telos-update-2026-02-06",
       "caption": "103 Apps Updated:\n• 20 Photo & Video\n• 12 Health & Fitness\n• 11 Music\n• 10 Productivity\n• 8 Social Networking\n• 7 Entertainment\n• 7 Utilities\n• 5 Education\n• 5 Games\n• 5 Developer Tools\n• 3 Business\n• 3 Graphics & Design\n• 2 Lifestyle\n• 2 Finance\n• 1 Shopping\n• 1 News\n• 1 Navigation",
       "date": "2026-02-06",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.burbn.instagram"
     },
@@ -40013,7 +40088,7 @@
       "identifier": "telos-update-2026-02-05",
       "caption": "243 Apps Updated:\n• 52 Health & Fitness\n• 50 Photo & Video\n• 35 Education\n• 18 Productivity\n• 16 Utilities\n• 11 Graphics & Design\n• 9 Travel\n• 7 Entertainment\n• 6 Music\n• 6 Weather\n• 5 Developer Tools\n• 4 Navigation\n• 4 Finance\n• 4 Lifestyle\n• 4 Reference\n• 3 Business\n• 2 Medical\n• 2 Social Networking\n• 2 Sports\n• 1 Shopping\n• 1 Games\n• 1 News",
       "date": "2026-02-05",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.wavera.ios.famefy"
     },
@@ -40022,7 +40097,7 @@
       "identifier": "telos-update-2026-02-04",
       "caption": "45 Apps Updated:\n• 13 Photo & Video\n• 8 Health & Fitness\n• 4 Education\n• 4 Utilities\n• 3 Lifestyle\n• 3 Graphics & Design\n• 2 Finance\n• 2 Entertainment\n• 2 Weather\n• 1 Productivity\n• 1 Reference\n• 1 Music\n• 1 Travel",
       "date": "2026-02-04",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "pinterest"
     },
@@ -40031,18 +40106,9 @@
       "identifier": "telos-update-2026-02-03",
       "caption": "27 Apps Updated:\n• 9 Photo & Video\n• 4 Lifestyle\n• 4 Utilities\n• 3 Entertainment\n• 2 Health & Fitness\n• 1 Education\n• 1 Productivity\n• 1 Reference\n• 1 Graphics & Design\n• 1 Social Networking",
       "date": "2026-02-03",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.focos"
-    },
-    {
-      "title": "⚙️ Telos Update 2.2",
-      "identifier": "telos-update-2026-02-02",
-      "caption": "33 Apps Updated:\n• 8 Health & Fitness\n• 5 Photo & Video\n• 5 Education\n• 3 Games\n• 3 Entertainment\n• 2 Medical\n• 2 Music\n• 2 Productivity\n• 1 Travel\n• 1 News\n• 1 Finance",
-      "date": "2026-02-02",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.coffeestain.goatsimulator3"
+      "appID": "com.focos"
     }
   ]
 }
