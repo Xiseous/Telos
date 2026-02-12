@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.burbn.instagram",
+    "com.zhiliaoapp.musically",
     "com.crossforward.WidgetSmith",
     "com.funnmedia.calory",
-    "com.google.ios.youtubemusic",
-    "com.burbn.barcelona",
-    "com.ookla.speedtest"
+    "com.google.ios.youtubemusic"
   ],
   "apps": [
     {
@@ -16795,15 +16795,15 @@
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
-      "subtitle": "Tweaked with CydiaSubstrate, IGFormat",
-      "version": "416.0.0",
-      "versionDate": "2026-02-10",
-      "versionDescription": "Version: 416.0.0\n\nTweaks: CydiaSubstrate, IGFormat, IGHDMedia, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Instagram_v416_0_0_IGFormat_v1_94_%2B_IGHDMedia_v1_1_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, IGFormat, IGHDMedia, blatantsPatch\n\nInstagram\nIGFormat v1.94 + IGHDMedia v1.1\nTweak by DENS0R Showcase\nChangelog:\nIGFormat V1.94\n- Hide Group Chat Creation : Disable group chat on multi-select\n- No Screenshot Detect : Take screenshots without detection\n- Auto Re-Enable Anonymous Read : Automatically turns anonymous reading back on when you exit the app\n- Automatic Updates Check : Shows an update panel when a new IGFormat version is available\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
+      "subtitle": "Tweaked with Regram, RegramCrack",
+      "version": "414.0.0",
+      "versionDate": "2026-02-11",
+      "versionDescription": "Version: 414.0.0\n\nTweaks: Regram, RegramCrack, RegramExtension, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-11/TG%40igbeta_ipa._414.0.0_RC.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Regram, RegramCrack, RegramExtension, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/75/3f/b1753f00-8d4b-edc4-e98e-ef644ba264f6/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 253976092,
+      "size": 299590658,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/0c/29/470c29e9-fe22-7978-4795-14fb70f264f0/1_iOS_5.5.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f7/22/29f722b6-f846-a8af-e4bf-cd497673889a/2_iOS_5.5.jpg/392x696bb.jpg",
@@ -16843,6 +16843,13 @@
       },
       "versions": [
         {
+          "version": "414.0.0",
+          "date": "2026-02-11",
+          "localizedDescription": "Version: 414.0.0\n\nTweaks: Regram, RegramCrack, RegramExtension, _ipa_by_iosdecrypted_[sideloadKeychainFix]\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-11/TG%40igbeta_ipa._414.0.0_RC.ipa",
+          "size": 299590658
+        },
+        {
           "version": "416.0.0",
           "date": "2026-02-10",
           "localizedDescription": "Version: 416.0.0\n\nTweaks: CydiaSubstrate, IGFormat, IGHDMedia, blatantsPatch\n\nSource: @blatants",
@@ -16862,13 +16869,6 @@
           "localizedDescription": "Version: 358.0.0\n\nTweaks: FouadCrack, Regram, WatusiToolsSL\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-26/Instagram_v358.0.0_Regram_B15_Cracked_blatant.ipa",
           "size": 161217068
-        },
-        {
-          "version": "322.0.1",
-          "date": "2026-02-06",
-          "localizedDescription": "Version: 322.0.1\n\nTweaks: AF, CydiaSubstrate, DP, RIPass, Rocket\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-25/InstaRocket_322.0.1%40DPixel.ipa",
-          "size": 144688202
         }
       ],
       "category": "photo-&-video"
@@ -35121,15 +35121,15 @@
       "name": "TikTok",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Ltd.",
-      "subtitle": "Tweaked with ACTikTok2.1, CydiaSubstrate",
+      "subtitle": "Tweaked with CydiaSubstrate, VibeTok",
       "version": "43.8.0",
       "versionDate": "2026-02-11",
-      "versionDescription": "Version: 43.8.0\n\nTweaks: ACTikTok2.1, CydiaSubstrate, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/TikTok_Videos._Shop_._LIVE_v43_8_0_ACTikTok_v2_1_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ACTikTok2.1, CydiaSubstrate, blatantsPatch, sideloadKeychainfixBlatants\n\nTikTok - Videos, Shop & LIVE | ACTikTok v2.1 | Tweak by aJBbo Showcase\n\n---\nTikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you’re a sports fanatic, a pet enthusiast, or just looking for a laugh, there’s something for everyone on TikTok. All you have to do is watch, engage with what you like, skip what you don’t, and you’ll find an endless stream of short videos that feel personalized just for you. From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to mak",
+      "versionDescription": "Version: 43.8.0\n\nTweaks: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-11/TikTok_Videos._Shop_._LIVE_v43_8_0_VibeTok_v1_71_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nTikTok - Videos, Shop & LIVE\nReuploaded: 43.8.0\nVibeTok v1.71\nTweak by DENS0R Showcase\nChangelog:\nVibeTok V1.71\n- Fast Logout : Log out instantly without confirmation popups.\n- Lock chats : Authenticate to view chats\n- Story Gradient : Enable gradient story borders\n+ Improvements\n\n---\nTikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you’re a sports fanatic, a pet enthusiast, or just looking for a laugh, there’s something for everyone on TikTok. All you have to do is watch, engage with what you like, skip what you don’t, and you’ll find an endless stream of short videos that feel personalized just for you. From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to mak",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/69/31/84693103-3a7f-63f2-1b00-7e6f07fa1a85/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 411002865,
+      "size": 410763092,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a1/6a/6ca16a58-1937-7122-e65b-2d901f84fdbb/oEEEv6yBAvIC3s9IGZ1A83wu5TAjAsxiAjLig.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/ce/2f/27ce2fc4-a338-95ab-3bbe-1b9062cf537d/e6733d76-8afb-4efa-b9a1-9937cdd227f7_STEM_iOS_2208.png/392x696bb.png",
@@ -35171,30 +35171,30 @@
         {
           "version": "43.8.0",
           "date": "2026-02-11",
+          "localizedDescription": "Version: 43.8.0\n\nTweaks: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-11/TikTok_Videos._Shop_._LIVE_v43_8_0_VibeTok_v1_71_blatant_Patched.ipa",
+          "size": 410763092
+        },
+        {
+          "version": "43.8.0b",
+          "date": "2026-02-11",
           "localizedDescription": "Version: 43.8.0\n\nTweaks: ACTikTok2.1, CydiaSubstrate, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/TikTok_Videos._Shop_._LIVE_v43_8_0_ACTikTok_v2_1_blatant_Patched.ipa",
           "size": 411002865
         },
         {
-          "version": "43.8.0b",
+          "version": "43.8.0c",
           "date": "2026-02-11",
           "localizedDescription": "Version: 43.8.0\n\nTweaks: BHTikTok, CydiaSubstrate, FLEX, FLEXing, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/TikTok_Videos._Shop_._LIVE_v43_8_0_BHTikTok%2B%2B_v1_9_3_blatant_Patched.ipa",
           "size": 412078415
         },
         {
-          "version": "43.8.0c",
+          "version": "43.8.0d",
           "date": "2026-02-11",
           "localizedDescription": "Version: 43.8.0\n\nTweaks: CydiaSubstrate, VibeTok, blatantsPatch, sideloadKeychainfixBlatants\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/TikTok_Videos._Shop_._LIVE_v43_8_0_VibeTok_v1_70_blatant_Patched.ipa",
           "size": 410737454
-        },
-        {
-          "version": "36.6.0",
-          "date": "2026-02-02",
-          "localizedDescription": "Version: 36.6.0\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-9/TikTok-v36.6.0-STOCK.ipa",
-          "size": 276643493
         }
       ],
       "category": "entertainment"
