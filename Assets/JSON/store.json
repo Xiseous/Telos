@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.truesoftware.TrueCallerOther",
+    "ovz.Car-Scanner",
     "com.verycoolapp.mediaconvert",
     "com.zhiliaoapp.musically",
-    "com.burbn.instagram",
-    "boomer.Smart-Video",
-    "com.noctuasoftware.stellarium-mobile-plus"
+    "com.burbn.instagram"
   ],
   "apps": [
     {
@@ -5548,6 +5548,61 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "Car Scanner",
+      "bundleIdentifier": "ovz.Car-Scanner",
+      "developerName": "Stanislav Svistunov",
+      "subtitle": "Tweaked with SatellaJailed",
+      "version": "1.121.0",
+      "versionDate": "2026-02-13",
+      "versionDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Car.Scanner.ELM.OBD2.Pro.1.121.0.ipa",
+      "localizedDescription": "Does this still work? I doesn’t change anything when I click on buy pro and cancel.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/7c/66/447c66b6-41c7-7f8c-a8b3-1d24e6f383ea/AppIcon-1-0-0-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 62025222,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/15/0a/76/150a7638-0a44-90f5-54ea-3c5a7dfb2c8b/mzl.ueseydxs.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a0/4d/b7/a04db726-431f-85e3-7f1f-0c6a94492feb/mzl.dmfuesnn.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/68/bd/56/68bd56c0-85ff-91f0-fc1f-d2464456573e/mzl.xvyohazf.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5e/6a/3e/5e6a3e6d-6cbd-ae8b-d9f5-ab1eb24981e8/mzl.hwipufme.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/76/28/89/76288937-40be-9542-80f1-b58ccc041ea8/mzl.fnuvfnjn.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.networking.HotspotConfiguration",
+          "com.apple.developer.carplay-driving-task"
+        ],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Location access is required to calculate GPS speed, and to determine the connection to a Wi-Fi network (when using a Wi-Fi adapter)",
+          "NSLocationAlwaysUsageDescription": "Location access is required to calculate GPS speed, and to determine the connection to a Wi-Fi network (when using a Wi-Fi adapter)",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Location access is required to calculate GPS speed, and to determine the connection to a Wi-Fi network (when using a Wi-Fi adapter)",
+          "NSCalendarsUsageDescription": "This app actually doesn't use your calendar, but some API requires this function, so you can easily answer \"no\" here :)",
+          "NSBluetoothAlwaysUsageDescription": "Bluetooth access is required to connect to the adapter and to maintain the connection while the program is in the background. Without this permission, the connection to the Bluetooth adapter is not possible.",
+          "NSBluetoothPeripheralUsageDescription": "Bluetooth access is required to connect to the adapter and to maintain the connection while the program is in the background. Without this permission, the connection to the Bluetooth adapter is not possible.",
+          "NSLocalNetworkUsageDescription": "Access to the local network is required to connect to the OBDII adapter via Wi-Fi. Without this permission, the connection to the Wi-Fi adapter is impossible.",
+          "NSUserTrackingUsageDescription": "Please allow access to the advertising ID to display personalized ads (otherwise, non-personalyzed ads will be displayed)"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.121.0",
+          "date": "2025-07-24",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Car.Scanner.ELM.OBD2.Pro.1.121.0.ipa",
+          "size": 62025222
+        },
+        {
+          "version": "1.121.0b",
+          "date": "2025-07-24",
+          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Car.Scanner.ELM.OBD2.Pro.1.121.0.ipa",
+          "size": 62025222
+        }
+      ],
+      "category": "utilities"
     },
     {
       "name": "Carcade",
@@ -40007,11 +40062,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 2.13",
+      "identifier": "telos-update-2026-02-13",
+      "caption": "4 Apps Updated:\n• 4 Utilities",
+      "date": "2026-02-13",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "ovz.Car-Scanner"
+    },
+    {
       "title": "⚙️ Telos Update 2.12",
       "identifier": "telos-update-2026-02-12",
       "caption": "11 Apps Updated:\n• 3 Photo & Video\n• 2 Other\n• 2 Utilities\n• 1 Books\n• 1 Entertainment\n• 1 Education\n• 1 Health & Fitness",
       "date": "2026-02-12",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.zarz.spotiflacAndroid"
     },
@@ -40020,7 +40084,7 @@
       "identifier": "telos-update-2026-02-11",
       "caption": "24 Apps Updated:\n• 4 Health & Fitness\n• 4 Utilities\n• 4 Entertainment\n• 4 Photo & Video\n• 2 Other\n• 2 Social Networking\n• 2 Education\n• 1 Music\n• 1 Productivity",
       "date": "2026-02-11",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "uni.cbum"
     },
@@ -40029,7 +40093,7 @@
       "identifier": "telos-update-2026-02-10",
       "caption": "49 Apps Updated:\n• 13 Photo & Video\n• 9 Productivity\n• 6 Health & Fitness\n• 5 Education\n• 4 Utilities\n• 3 Music\n• 3 Social Networking\n• 2 Graphics & Design\n• 1 Shopping\n• 1 News\n• 1 Lifestyle\n• 1 Business",
       "date": "2026-02-10",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.camerasideas.InstaShot"
     },
@@ -40038,7 +40102,7 @@
       "identifier": "telos-update-2026-02-09",
       "caption": "54 Apps Updated:\n• 15 Photo & Video\n• 8 Health & Fitness\n• 6 Productivity\n• 4 Utilities\n• 4 Music\n• 3 Travel\n• 3 Education\n• 2 Reference\n• 2 Lifestyle\n• 1 Medical\n• 1 Navigation\n• 1 Sports\n• 1 Shopping\n• 1 News\n• 1 Business\n• 1 Social Networking",
       "date": "2026-02-09",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "co.airapps.finderbot"
     },
@@ -40047,7 +40111,7 @@
       "identifier": "telos-update-2026-02-08",
       "caption": "10 Apps Updated:\n• 5 Health & Fitness\n• 2 Photo & Video\n• 1 Music\n• 1 Productivity\n• 1 Medical",
       "date": "2026-02-08",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.ideation.Stress"
     },
@@ -40056,7 +40120,7 @@
       "identifier": "telos-update-2026-02-07",
       "caption": "17 Apps Updated:\n• 7 Photo & Video\n• 2 Utilities\n• 2 Entertainment\n• 2 Health & Fitness\n• 1 Education\n• 1 Finance\n• 1 Music\n• 1 Games",
       "date": "2026-02-07",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.sfun.snapedit"
     },
@@ -40065,7 +40129,7 @@
       "identifier": "telos-update-2026-02-06",
       "caption": "103 Apps Updated:\n• 20 Photo & Video\n• 12 Health & Fitness\n• 11 Music\n• 10 Productivity\n• 8 Social Networking\n• 7 Entertainment\n• 7 Utilities\n• 5 Education\n• 5 Games\n• 5 Developer Tools\n• 3 Business\n• 3 Graphics & Design\n• 2 Lifestyle\n• 2 Finance\n• 1 Shopping\n• 1 News\n• 1 Navigation",
       "date": "2026-02-06",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.burbn.instagram"
     },
@@ -40074,7 +40138,7 @@
       "identifier": "telos-update-2026-02-05",
       "caption": "243 Apps Updated:\n• 52 Health & Fitness\n• 50 Photo & Video\n• 35 Education\n• 18 Productivity\n• 16 Utilities\n• 11 Graphics & Design\n• 9 Travel\n• 7 Entertainment\n• 6 Music\n• 6 Weather\n• 5 Developer Tools\n• 4 Navigation\n• 4 Finance\n• 4 Lifestyle\n• 4 Reference\n• 3 Business\n• 2 Medical\n• 2 Social Networking\n• 2 Sports\n• 1 Shopping\n• 1 Games\n• 1 News",
       "date": "2026-02-05",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.wavera.ios.famefy"
     },
@@ -40083,18 +40147,9 @@
       "identifier": "telos-update-2026-02-04",
       "caption": "45 Apps Updated:\n• 13 Photo & Video\n• 8 Health & Fitness\n• 4 Education\n• 4 Utilities\n• 3 Lifestyle\n• 3 Graphics & Design\n• 2 Finance\n• 2 Entertainment\n• 2 Weather\n• 1 Productivity\n• 1 Reference\n• 1 Music\n• 1 Travel",
       "date": "2026-02-04",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "pinterest"
-    },
-    {
-      "title": "⚙️ Telos Update 2.3",
-      "identifier": "telos-update-2026-02-03",
-      "caption": "27 Apps Updated:\n• 9 Photo & Video\n• 4 Lifestyle\n• 4 Utilities\n• 3 Entertainment\n• 2 Health & Fitness\n• 1 Education\n• 1 Productivity\n• 1 Reference\n• 1 Graphics & Design\n• 1 Social Networking",
-      "date": "2026-02-03",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.focos"
+      "appID": "pinterest"
     }
   ]
 }
