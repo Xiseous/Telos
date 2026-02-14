@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.risesci.nyx",
+    "com.sillens.iShape",
     "com.readdle.CalendarsLite",
     "com.vitalii.mind",
-    "com.consumedbycode.slopes",
-    "com.campmobile.snow",
-    "com.myfitnesspal.mfp"
+    "com.consumedbycode.slopes"
   ],
   "apps": [
     {
@@ -18890,14 +18890,14 @@
       "bundleIdentifier": "com.sillens.iShape",
       "developerName": "Lifesum AB",
       "subtitle": "Tweaked with LifesumCrack, blatantsPatch",
-      "version": "23.5.1",
-      "versionDate": "2026-02-09",
-      "versionDescription": "Version: 23.5.1\n\nTweaks: LifesumCrack, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Lifesum_AI_Calorie_Counter_v23_5_1_Subscription_Unlocked_blatant.ipa",
+      "version": "23.6.0",
+      "versionDate": "2026-02-14",
+      "versionDescription": "Version: 23.6.0\n\nTweaks: LifesumCrack, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Lifesum_AI_Calorie_Counter_v23_6_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: LifesumCrack, blatantsPatch\n\nLifesum: AI Calorie Counter | Subscription Unlocked\n\n---\nA revolutionary way to track your meals, enhanced by AI.\nWelcome to a new era of nutrition tracking, tailored to your style. With the new Lifesum experience, you can choose to log your meals by snapping a photo, using your voice, typing a text, or scanning a barcode.\nWe made food tracking easy so you can make more healthy choices for your body and mind.\n\nJOIN 65 MILLION USERS ON THE PATH TO BETTER HEALTH.\nHealth isn’t about perfection—it’s about progress. Lifesum encourages small, manageable cha",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/6e/00/f46e00cb-1b2a-1f79-ef65-d88d7ed3b764/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 145992240,
+      "size": 109320776,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/9d/e3/ab9de311-59bc-c2d5-4f49-14e024329217/cf53b6c5-4689-407a-9c87-d1792197f440_IPAD_1iPAD.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/60/5e/12605eb2-989c-e6d1-1349-ae3e34b42496/567c1afe-cb2f-4e75-803b-5d84d7b117bb_IPAD_2iPAD.png/576x768bb.png",
@@ -18933,6 +18933,20 @@
       },
       "versions": [
         {
+          "version": "23.6.0",
+          "date": "2026-02-14",
+          "localizedDescription": "Version: 23.6.0\n\nTweaks: LifesumCrack, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Lifesum_AI_Calorie_Counter_v23_6_0_Subscription_Unlocked_blatant.ipa",
+          "size": 109320776
+        },
+        {
+          "version": "23.6.0b",
+          "date": "2026-02-14",
+          "localizedDescription": "Version: 23.6.0\n\nTweaks: LifesumCrack, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Lifesum_AI_Calorie_Counter_v23_6_0_Subscription_Unlocked_blatant.ipa",
+          "size": 109320776
+        },
+        {
           "version": "23.5.1",
           "date": "2026-02-09",
           "localizedDescription": "Version: 23.5.1\n\nTweaks: LifesumCrack, blatantsPatch\n\nSource: @blatants",
@@ -18945,20 +18959,6 @@
           "localizedDescription": "Version: 23.5.1\n\nTweaks: LifesumCrack, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Lifesum_AI_Calorie_Counter_v23_5_1_Subscription_Unlocked_blatant.ipa",
           "size": 145992240
-        },
-        {
-          "version": "23.5.0",
-          "date": "2026-01-27",
-          "localizedDescription": "Version: 23.5.0\n\nTweaks: LifesumCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/Lifesum_AI_Calorie_Counter_v23_5_0_Subscription_Unlocked_blatant.ipa",
-          "size": 146895924
-        },
-        {
-          "version": "23.5.0b",
-          "date": "2026-01-27",
-          "localizedDescription": "Version: 23.5.0\n\nTweaks: LifesumCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/Lifesum_AI_Calorie_Counter_v23_5_0_Subscription_Unlocked_blatant.ipa",
-          "size": 146895924
         }
       ],
       "category": "health-&-fitness"
@@ -28291,14 +28291,14 @@
       "bundleIdentifier": "com.risesci.nyx",
       "developerName": "Rise Science Inc",
       "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
-      "version": "0.1.567",
-      "versionDate": "2026-02-08",
-      "versionDescription": "Version: 0.1.567\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/RISE_Sleep_Tracker_v1_567_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "version": "0.1.568",
+      "versionDate": "2026-02-14",
+      "versionDescription": "Version: 0.1.568\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/RISE_Sleep_Tracker_v1_568_0_Subscription_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nRISE: Sleep Tracker\nSubscription Unlocked\n>Certificate with healthkit entitlement is required.\n\n---\nJoin over 10 million users! Become a better sleeper and morning person thanks to 100 years of sleep science with RISE, the only sleep tracker that also measures your sleep debt and energy levels.\n\nRecommended by the Sleep Foundation and trusted by teams in the NFL, MLB, and NBA, and top Fortune 500 companies, RISE makes it easy to improve your sleep and energy.\n\nBut RISE is more than a sleep and energy tracker. Users can access widgets, calendar integration, sleeping sounds, meditation guides, s",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/d8/a6/38d8a644-520d-7d00-9732-fa20824a984f/App-Icon-Glass-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 137191304,
+      "size": 130266526,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/fe/b7/f5feb7b6-0c2d-3758-7ecd-21e4553cd2c7/a457da92-9a8d-48e8-8150-8f355011e70e_5.5_SS1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/32/1f/ee321f6f-dd06-60b8-533c-19d00ca084f9/6c0d466d-dd53-4e7e-a3e7-fe3bdb1f5f29_5.5_SS2.png/392x696bb.png",
@@ -28332,6 +28332,20 @@
       },
       "versions": [
         {
+          "version": "0.1.568",
+          "date": "2026-02-14",
+          "localizedDescription": "Version: 0.1.568\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/RISE_Sleep_Tracker_v1_568_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 130266526
+        },
+        {
+          "version": "0.1.568b",
+          "date": "2026-02-14",
+          "localizedDescription": "Version: 0.1.568\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/RISE_Sleep_Tracker_v1_568_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 130266526
+        },
+        {
           "version": "0.1.567",
           "date": "2026-02-08",
           "localizedDescription": "Version: 0.1.567\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
@@ -28344,20 +28358,6 @@
           "localizedDescription": "Version: 0.1.567\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/RISE_Sleep_Tracker_v1_567_0_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 137191304
-        },
-        {
-          "version": "0.1.566",
-          "date": "2026-02-06",
-          "localizedDescription": "Version: 0.1.566\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-26/RISE_Sleep_Tracker_v1_566_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 137308026
-        },
-        {
-          "version": "0.1.496",
-          "date": "2026-02-05",
-          "localizedDescription": "Version: 0.1.496\n\nTweaks: AutoRevenueCat, CydiaSubstrate, b1atantPluginsInject, sideloadFixerLol\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/RISE_Sleep_Tracker_v1_496_0_Subscription_Unlocked_blatant_patched.ipa",
-          "size": 96132981
         }
       ],
       "category": "health-&-fitness"
