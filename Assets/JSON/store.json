@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.kalavision.alfred",
+    "com.mobilefootie.fotmobpro",
     "com.offlinemusic",
     "co.visualsupply.cam",
-    "com.andyworks.weather",
-    "com.alohabrowser.alohabrowser",
-    "com.outerspaceapps.itranslate"
+    "com.andyworks.weather"
   ],
   "apps": [
     {
@@ -97,13 +97,6 @@
           "localizedDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Camera_v1_43_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 144511693
-        },
-        {
-          "version": "1.43b",
-          "date": "2025-12-29",
-          "localizedDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Camera_v1_43_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 144511693
         }
       ],
       "category": "photo-&-video"
@@ -137,13 +130,6 @@
       "versions": [
         {
           "version": "3.21",
-          "date": "2025-10-31",
-          "localizedDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Calculator_v3_21_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 83169438
-        },
-        {
-          "version": "3.21b",
           "date": "2025-10-31",
           "localizedDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Calculator_v3_21_Subscription_Unlocked_blatant_Patched.ipa",
@@ -187,13 +173,6 @@
           "localizedDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Timer_v3_19_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 138998867
-        },
-        {
-          "version": "3.19b",
-          "date": "2025-10-31",
-          "localizedDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Timer_v3_19_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 138998867
         }
       ],
       "category": "utilities"
@@ -228,13 +207,6 @@
       "versions": [
         {
           "version": "3.44",
-          "date": "2025-11-10",
-          "localizedDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Weather_v3_44_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 184264837
-        },
-        {
-          "version": "3.44b",
           "date": "2025-11-10",
           "localizedDescription": "Tweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Weather_v3_44_Subscription_Unlocked_blatant_Patched.ipa",
@@ -1559,6 +1531,65 @@
       "category": "productivity"
     },
     {
+      "name": "AlfredCamera",
+      "bundleIdentifier": "com.kalavision.alfred",
+      "developerName": "Alfred Systems Inc.",
+      "subtitle": "Pro Features Unlocked",
+      "version": "2026.3.2",
+      "versionDate": "2026-02-15",
+      "versionDescription": "Tweaks: RevenueCatFix26, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Alfred.Home.Security.Camera.Premium.2026.3.2.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nAlfred Home Security Camera\nTap on restore or restart app if pro is not unlocked\nMinimum OS version 12.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/0e/c7/240ec7f9-186d-a43e-3468-22b054083134/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 126677902,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/bf/80/d4bf8092-07f8-e582-1dcc-8f1291c205b6/iphone_5.5__1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/2b/c2/782bc2c0-f58d-82d6-a1a9-a60a5ebd43f8/iphone_5.5__2__U00281_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/d1/e2/6bd1e277-9d68-ea62-2c17-59d478e32a4d/iphone_5.5__3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/de/72/5ede7219-7463-b29a-cb2d-38091bf40bcd/iphone_5.5__4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/a8/58/88a858f8-0253-2bea-5b42-cce323970f51/iphone_5.5__5__U00282_U0029.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "For storing snapshots",
+          "NSCameraUsageDescription": "For live streaming and video recording",
+          "NSMicrophoneUsageDescription": "For live streaming and video recording",
+          "NSLocationWhenInUseUsageDescription": "To find nearby Wi-Fi networks during setup, allow AlfredCamera to access this device's location",
+          "NSLocationAlwaysUsageDescription": "To find nearby Wi-Fi networks during setup, allow AlfredCamera to access this device's location",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "To find nearby Wi-Fi networks during setup, allow AlfredCamera to access this device's location",
+          "NSCalendarsUsageDescription": "Some ad content may access calendar",
+          "NSLocalNetworkUsageDescription": "Network permission is required for properly functioning streaming",
+          "NSUserTrackingUsageDescription": "Please rest assured that we DO NOT share your data to anyone",
+          "NSPhotoLibraryAddUsageDescription": "For storing snapshots"
+        }
+      },
+      "versions": [
+        {
+          "version": "2026.3.2",
+          "date": "2026-02-13",
+          "localizedDescription": "Tweaks: RevenueCatFix26, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Alfred.Home.Security.Camera.Premium.2026.3.2.ipa",
+          "size": 126677902
+        },
+        {
+          "version": "2026.3.2b",
+          "date": "2026-02-13",
+          "localizedDescription": "Tweaks: RevenueCatFix26, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Alfred.Home.Security.Camera.Premium.2026.3.2.ipa",
+          "size": 126677902
+        }
+      ],
+      "category": "lifestyle"
+    },
+    {
       "name": "AllRoundTools",
       "bundleIdentifier": "com.paperclipglobal.AllRoundTools",
       "developerName": "WuHan Paperclip Technology Co., Ltd.",
@@ -1690,13 +1721,6 @@
           "size": 86930512
         },
         {
-          "version": "8.1.0b",
-          "date": "2026-02-14",
-          "localizedDescription": "Tweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Aloha_Browser_Private_VPN_v8_1_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 86930512
-        },
-        {
           "version": "8.0.1",
           "date": "2026-01-30",
           "localizedDescription": "Tweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
@@ -1709,6 +1733,13 @@
           "localizedDescription": "Tweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/Aloha_Browser_Private_VPN_v8_0_1_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 135796599
+        },
+        {
+          "version": "8.0.0",
+          "date": "2026-01-14",
+          "localizedDescription": "Tweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-11/Aloha_Browser_Private_VPN_v8_0_0_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 139038003
         }
       ],
       "category": "utilities"
@@ -8373,13 +8404,6 @@
           "size": 109521924
         },
         {
-          "version": "2.15.1b",
-          "date": "2026-02-14",
-          "localizedDescription": "Tweaks: Dazzcam, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Dazz.Cam.-.Vintage.Camera.v2.15.1.Dazz.Pro.blatant.Patched.ipa",
-          "size": 109521924
-        },
-        {
           "version": "2.15",
           "date": "2026-02-09",
           "localizedDescription": "Tweaks: Dazzcam, blatantsPatch\n\nSource: @blatants",
@@ -13620,7 +13644,7 @@
       "developerName": "FotMob AS",
       "subtitle": "Tweaked with RevenueCatFix26",
       "version": "1226.0",
-      "versionDate": "2026-02-14",
+      "versionDate": "2026-02-15",
       "versionDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
       "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/FotMob%2B.1226.0.ipa",
       "localizedDescription": "FotMob - Soccer Live Scores | Minimum OS version 17.6",
@@ -13652,13 +13676,20 @@
       "versions": [
         {
           "version": "1226.0",
-          "date": "2026-02-14",
+          "date": "2026-02-15",
           "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/FotMob%2B.1226.0.ipa",
           "size": 54306664
         },
         {
           "version": "1226.0b",
+          "date": "2026-02-15",
+          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/FotMob%2B.1226.0.ipa",
+          "size": 54306664
+        },
+        {
+          "version": "1226.0c",
           "date": "2026-02-14",
           "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/FotMob%2B.1226.0.ipa",
@@ -17476,13 +17507,6 @@
           "size": 86655564
         },
         {
-          "version": "17.4.70b",
-          "date": "2026-02-14",
-          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, blatantsPatch, iTranslateTranslator\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/iTranslate_Translator_v17_4_70_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 86655564
-        },
-        {
           "version": "17.4.69",
           "date": "2026-01-26",
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, blatantsPatch, iTranslateTranslator\n\nSource: @blatants",
@@ -17495,6 +17519,13 @@
           "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, blatantsPatch, iTranslateTranslator\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-26-1/iTranslate_Translator_v17_4_69_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 90753070
+        },
+        {
+          "version": "17.4.68",
+          "date": "2026-01-19",
+          "localizedDescription": "Tweaks: CachefixPatch, CydiaSubstrate, blatantsPatch, iTranslateTranslator\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-17/iTranslate_Translator_v17_4_68_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 90856437
         }
       ],
       "category": "productivity"
@@ -18225,13 +18256,6 @@
       "versions": [
         {
           "version": "2026.7.1",
-          "date": "2026-02-14",
-          "localizedDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/komoot.Premium.2026.7.1.ipa",
-          "size": 110606343
-        },
-        {
-          "version": "2026.7.1b",
           "date": "2026-02-14",
           "localizedDescription": "Tweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/komoot.Premium.2026.7.1.ipa",
@@ -23192,13 +23216,6 @@
           "size": 96988540
         },
         {
-          "version": "3.8.2b",
-          "date": "2026-02-14",
-          "localizedDescription": "Tweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Offline.Music.Player.v3.8.2.Pro.Unlocked.blatant.Patched.ipa",
-          "size": 96988540
-        },
-        {
           "version": "3.4.5",
           "date": "2026-01-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
@@ -23211,6 +23228,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/MusicPlayer_v3.4.4_Pro_Unlocked_blatant.ipa",
           "size": 88551634
+        },
+        {
+          "version": "3.4.3",
+          "date": "2026-01-06",
+          "localizedDescription": "Tweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/MusicPlayer_v3.4.3_Pro_Unlocked_blatant.ipa",
+          "size": 88547161
         }
       ],
       "category": "music"
@@ -26332,13 +26356,6 @@
       "versions": [
         {
           "version": "6.12.1",
-          "date": "2026-02-14",
-          "localizedDescription": "Tweaks: SatellaJailed, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Polarr_Photo_Filters_._Editor_v6_12_1_Satella_Injected_blatant_Patched.ipa",
-          "size": 195290650
-        },
-        {
-          "version": "6.12.1b",
           "date": "2026-02-14",
           "localizedDescription": "Tweaks: SatellaJailed, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Polarr_Photo_Filters_._Editor_v6_12_1_Satella_Injected_blatant_Patched.ipa",
@@ -29742,13 +29759,6 @@
       "versions": [
         {
           "version": "3.3.5",
-          "date": "2026-02-14",
-          "localizedDescription": "Tweaks: ShutEye, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/ShutEye._Sleep_Tracker._Sound_v3_3_5_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 440178411
-        },
-        {
-          "version": "3.3.5b",
           "date": "2026-02-14",
           "localizedDescription": "Tweaks: ShutEye, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/ShutEye._Sleep_Tracker._Sound_v3_3_5_Premium_Unlocked_blatant_Patched.ipa",
@@ -37799,13 +37809,6 @@
           "size": 187828219
         },
         {
-          "version": "4.5.4b",
-          "date": "2026-02-14",
-          "localizedDescription": "Tweaks: VivaCut, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/VivaCut_AI_Video_Editor_v4_5_4_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 187828219
-        },
-        {
           "version": "4.5.3",
           "date": "2026-01-21",
           "localizedDescription": "Tweaks: VivaCut, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
@@ -37818,6 +37821,13 @@
           "localizedDescription": "Tweaks: VivaCut, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-20/VivaCut_AI_Video_Editor_v4_5_3_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 223080551
+        },
+        {
+          "version": "4.5.2",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: VivaCut, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30/VivaCut_AI_Video_Editor_v4_5_2_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 224700480
         }
       ],
       "category": "photo-&-video"
@@ -38138,13 +38148,6 @@
           "size": 197403600
         },
         {
-          "version": "456.0.3b",
-          "date": "2026-02-14",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/VSCO_Photo_Editor_._Presets_v456_0_3_Subscription_Unlocked_blatant.ipa",
-          "size": 197403600
-        },
-        {
           "version": "444.0.1",
           "date": "2025-12-30",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
@@ -38157,6 +38160,13 @@
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/VSCO_Photo_Editor_v444_0_0_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 206354438
+        },
+        {
+          "version": "441.0.3",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-4/VSCO_Photo_Editor_v441_0_3_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 147269499
         }
       ],
       "category": "photo-&-video"
@@ -40142,13 +40152,6 @@
           "size": 156087188
         },
         {
-          "version": "9.5.3b",
-          "date": "2026-02-14",
-          "localizedDescription": "Tweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Andalusi_Design_Photo_._Video_v9_5_3_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 156087188
-        },
-        {
           "version": "9.5.2",
           "date": "2026-02-10",
           "localizedDescription": "Tweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
@@ -40161,6 +40164,13 @@
           "localizedDescription": "Tweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Andalusi_Design_Photo_._Video_v9_5_2_Pro_Unlocked_blatant_Patched.ipa",
           "size": 164008298
+        },
+        {
+          "version": "8.1.12",
+          "date": "2025-12-31",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/-v8.1.12-AppTesters.ipa",
+          "size": 148075866
         }
       ],
       "category": "photo-&-video"
@@ -40958,11 +40968,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 2.15",
+      "identifier": "telos-update-2026-02-15",
+      "caption": "4 Apps Updated:\n• 2 Lifestyle\n• 2 Sports",
+      "date": "2026-02-15",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.kalavision.alfred"
+    },
+    {
       "title": "⚙️ Telos Update 2.14",
       "identifier": "telos-update-2026-02-14",
-      "caption": "32 Apps Updated:\n• 12 Photo & Video\n• 6 Health & Fitness\n• 6 Utilities\n• 2 Sports\n• 2 Music\n• 2 Weather\n• 2 Productivity",
+      "caption": "17 Apps Updated:\n• 6 Photo & Video\n• 4 Health & Fitness\n• 3 Utilities\n• 1 Sports\n• 1 Music\n• 1 Weather\n• 1 Productivity",
       "date": "2026-02-14",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.risesci.nyx"
     },
@@ -40971,7 +40990,7 @@
       "identifier": "telos-update-2026-02-13",
       "caption": "75 Apps Updated:\n• 19 Photo & Video\n• 12 Health & Fitness\n• 6 Productivity\n• 5 Music\n• 4 Education\n• 3 Utilities\n• 3 Entertainment\n• 3 Navigation\n• 3 Social Networking\n• 3 News\n• 2 Reference\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Sports\n• 2 Travel\n• 2 Developer Tools\n• 1 Finance\n• 1 Games",
       "date": "2026-02-13",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "ovz.Car-Scanner"
     },
@@ -40980,7 +40999,7 @@
       "identifier": "telos-update-2026-02-12",
       "caption": "11 Apps Updated:\n• 3 Photo & Video\n• 2 Other\n• 2 Utilities\n• 1 Books\n• 1 Entertainment\n• 1 Education\n• 1 Health & Fitness",
       "date": "2026-02-12",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.zarz.spotiflacAndroid"
     },
@@ -40989,7 +41008,7 @@
       "identifier": "telos-update-2026-02-11",
       "caption": "24 Apps Updated:\n• 4 Health & Fitness\n• 4 Utilities\n• 4 Entertainment\n• 4 Photo & Video\n• 2 Other\n• 2 Social Networking\n• 2 Education\n• 1 Music\n• 1 Productivity",
       "date": "2026-02-11",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "uni.cbum"
     },
@@ -40998,7 +41017,7 @@
       "identifier": "telos-update-2026-02-10",
       "caption": "49 Apps Updated:\n• 13 Photo & Video\n• 9 Productivity\n• 6 Health & Fitness\n• 5 Education\n• 4 Utilities\n• 3 Music\n• 3 Social Networking\n• 2 Graphics & Design\n• 1 Shopping\n• 1 News\n• 1 Lifestyle\n• 1 Business",
       "date": "2026-02-10",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.camerasideas.InstaShot"
     },
@@ -41007,7 +41026,7 @@
       "identifier": "telos-update-2026-02-09",
       "caption": "54 Apps Updated:\n• 15 Photo & Video\n• 8 Health & Fitness\n• 6 Productivity\n• 4 Music\n• 4 Utilities\n• 3 Education\n• 3 Travel\n• 2 Lifestyle\n• 2 Reference\n• 1 Medical\n• 1 Navigation\n• 1 Sports\n• 1 Shopping\n• 1 News\n• 1 Business\n• 1 Social Networking",
       "date": "2026-02-09",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.rockwellventures.mesmerize"
     },
@@ -41016,7 +41035,7 @@
       "identifier": "telos-update-2026-02-08",
       "caption": "10 Apps Updated:\n• 5 Health & Fitness\n• 2 Photo & Video\n• 1 Music\n• 1 Productivity\n• 1 Medical",
       "date": "2026-02-08",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.ideation.Stress"
     },
@@ -41025,7 +41044,7 @@
       "identifier": "telos-update-2026-02-07",
       "caption": "17 Apps Updated:\n• 7 Photo & Video\n• 2 Utilities\n• 2 Entertainment\n• 2 Health & Fitness\n• 1 Education\n• 1 Finance\n• 1 Music\n• 1 Games",
       "date": "2026-02-07",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.duolingo.DuolingoMobile"
     },
@@ -41034,18 +41053,9 @@
       "identifier": "telos-update-2026-02-06",
       "caption": "103 Apps Updated:\n• 20 Photo & Video\n• 12 Health & Fitness\n• 11 Music\n• 10 Productivity\n• 8 Social Networking\n• 7 Entertainment\n• 7 Utilities\n• 5 Education\n• 5 Games\n• 5 Developer Tools\n• 3 Business\n• 3 Graphics & Design\n• 2 Lifestyle\n• 2 Finance\n• 1 Shopping\n• 1 News\n• 1 Navigation",
       "date": "2026-02-06",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.burbn.instagram"
-    },
-    {
-      "title": "⚙️ Telos Update 2.5",
-      "identifier": "telos-update-2026-02-05",
-      "caption": "243 Apps Updated:\n• 52 Health & Fitness\n• 50 Photo & Video\n• 35 Education\n• 18 Productivity\n• 16 Utilities\n• 11 Graphics & Design\n• 9 Travel\n• 7 Entertainment\n• 6 Music\n• 6 Weather\n• 5 Developer Tools\n• 4 Navigation\n• 4 Finance\n• 4 Lifestyle\n• 4 Reference\n• 3 Business\n• 2 Medical\n• 2 Social Networking\n• 2 Sports\n• 1 Shopping\n• 1 Games\n• 1 News",
-      "date": "2026-02-05",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "com.wavera.ios.famefy"
+      "appID": "com.burbn.instagram"
     }
   ]
 }
