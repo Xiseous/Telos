@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.kalavision.alfred",
+    "com.mobilefootie.fotmobpro",
     "com.offlinemusic",
     "co.visualsupply.cam",
-    "com.andyworks.weather",
-    "com.alohabrowser.alohabrowser",
-    "com.outerspaceapps.itranslate"
+    "com.andyworks.weather"
   ],
   "apps": [
     {
@@ -99,13 +99,6 @@
           "localizedDescription": "Version: 1.43\n\nTweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Camera_v1_43_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 144511693
-        },
-        {
-          "version": "1.43b",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 1.43\n\nTweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Camera_v1_43_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 144511693
         }
       ],
       "category": "photo-&-video"
@@ -140,13 +133,6 @@
       "versions": [
         {
           "version": "3.21",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 3.21\n\nTweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Calculator_v3_21_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 83169438
-        },
-        {
-          "version": "3.21b",
           "date": "2026-02-14",
           "localizedDescription": "Version: 3.21\n\nTweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Calculator_v3_21_Subscription_Unlocked_blatant_Patched.ipa",
@@ -191,13 +177,6 @@
           "localizedDescription": "Version: 3.19\n\nTweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Timer_v3_19_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 138998867
-        },
-        {
-          "version": "3.19b",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 3.19\n\nTweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Timer_v3_19_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 138998867
         }
       ],
       "category": "utilities"
@@ -233,13 +212,6 @@
       "versions": [
         {
           "version": "3.44",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 3.44\n\nTweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Weather_v3_44_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 184264837
-        },
-        {
-          "version": "3.44b",
           "date": "2026-02-14",
           "localizedDescription": "Version: 3.44\n\nTweaks: NotBoringCrack, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Not_Boring_Weather_v3_44_Subscription_Unlocked_blatant_Patched.ipa",
@@ -1591,6 +1563,66 @@
     },
     {
       "beta": false,
+      "name": "AlfredCamera",
+      "bundleIdentifier": "com.kalavision.alfred",
+      "developerName": "Alfred Systems Inc.",
+      "subtitle": "Tweaked with RevenueCatFix26, sideloadKeychainfix",
+      "version": "2026.3.2",
+      "versionDate": "2026-02-15",
+      "versionDescription": "Version: 2026.3.2\n\nTweaks: RevenueCatFix26, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Alfred.Home.Security.Camera.Premium.2026.3.2.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26, sideloadKeychainfix\n\nAlfred Home Security Camera\nTap on restore or restart app if pro is not unlocked\nMinimum OS version 12.0\n\n---\nOver 90 million families around the world have chosen AlfredCamera to secure their home. We are the world's most popular and top-rated app for home security.\n\nSECURITY CAMERA FOR THE SMARTPHONE AGE\n\nPeople love Alfred Camera! The all-in-one app provides more features than a basic, expensive security camera. You can get live stream, instant intruder alert, walkie-talkie, and unlimited cloud storage to store, share, and playback your video footage.\n\nFREE, STABLE, RELIABLE\n\nIf you want a CCTV to ke",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/0e/c7/240ec7f9-186d-a43e-3468-22b054083134/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 126677902,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/bf/80/d4bf8092-07f8-e582-1dcc-8f1291c205b6/iphone_5.5__1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/2b/c2/782bc2c0-f58d-82d6-a1a9-a60a5ebd43f8/iphone_5.5__2__U00281_U0029.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/d1/e2/6bd1e277-9d68-ea62-2c17-59d478e32a4d/iphone_5.5__3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/de/72/5ede7219-7463-b29a-cb2d-38091bf40bcd/iphone_5.5__4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/a8/58/88a858f8-0253-2bea-5b42-cce323970f51/iphone_5.5__5__U00282_U0029.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.networking.wifi-info",
+          "com.apple.developer.applesignin",
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "For storing snapshots",
+          "NSCameraUsageDescription": "For live streaming and video recording",
+          "NSMicrophoneUsageDescription": "For live streaming and video recording",
+          "NSLocationWhenInUseUsageDescription": "To find nearby Wi-Fi networks during setup, allow AlfredCamera to access this device's location",
+          "NSLocationAlwaysUsageDescription": "To find nearby Wi-Fi networks during setup, allow AlfredCamera to access this device's location",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "To find nearby Wi-Fi networks during setup, allow AlfredCamera to access this device's location",
+          "NSCalendarsUsageDescription": "Some ad content may access calendar",
+          "NSLocalNetworkUsageDescription": "Network permission is required for properly functioning streaming",
+          "NSUserTrackingUsageDescription": "Please rest assured that we DO NOT share your data to anyone",
+          "NSPhotoLibraryAddUsageDescription": "For storing snapshots"
+        }
+      },
+      "versions": [
+        {
+          "version": "2026.3.2",
+          "date": "2026-02-15",
+          "localizedDescription": "Version: 2026.3.2\n\nTweaks: RevenueCatFix26, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Alfred.Home.Security.Camera.Premium.2026.3.2.ipa",
+          "size": 126677902
+        },
+        {
+          "version": "2026.3.2b",
+          "date": "2026-02-15",
+          "localizedDescription": "Version: 2026.3.2\n\nTweaks: RevenueCatFix26, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Alfred.Home.Security.Camera.Premium.2026.3.2.ipa",
+          "size": 126677902
+        }
+      ],
+      "category": "lifestyle"
+    },
+    {
+      "beta": false,
       "name": "AllRoundTools",
       "bundleIdentifier": "com.paperclipglobal.AllRoundTools",
       "developerName": "WuHan Paperclip Technology Co., Ltd.",
@@ -1724,13 +1756,6 @@
           "size": 86930512
         },
         {
-          "version": "8.1.0b",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 8.1.0\n\nTweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Aloha_Browser_Private_VPN_v8_1_0_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 86930512
-        },
-        {
           "version": "7.6.1",
           "date": "2026-02-05",
           "localizedDescription": "Version: 7.6.1\n\nTweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
@@ -1739,6 +1764,13 @@
         },
         {
           "version": "8.0.1",
+          "date": "2026-01-30",
+          "localizedDescription": "Version: 8.0.1\n\nTweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/Aloha_Browser_Private_VPN_v8_0_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 135796599
+        },
+        {
+          "version": "8.0.1b",
           "date": "2026-01-30",
           "localizedDescription": "Version: 8.0.1\n\nTweaks: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/Aloha_Browser_Private_VPN_v8_0_1_Subscription_Unlocked_blatant_Patched.ipa",
@@ -8554,13 +8586,6 @@
           "size": 109521924
         },
         {
-          "version": "2.15.1b",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 2.15.1\n\nTweaks: Dazzcam, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Dazz.Cam.-.Vintage.Camera.v2.15.1.Dazz.Pro.blatant.Patched.ipa",
-          "size": 109521924
-        },
-        {
           "version": "2.15",
           "date": "2026-02-09",
           "localizedDescription": "Version: 2.15\n\nTweaks: Dazzcam, blatantsPatch\n\nSource: @blatants",
@@ -13938,7 +13963,7 @@
       "developerName": "FotMob AS",
       "subtitle": "Tweaked with RevenueCatFix26",
       "version": "1226.0",
-      "versionDate": "2026-02-14",
+      "versionDate": "2026-02-15",
       "versionDescription": "Version: 1226.0\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
       "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/FotMob%2B.1226.0.ipa",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nFotMob - Soccer Live Scores | Minimum OS version 17.6\n\n---\nJoin over 20 million fans who trust FotMob to keep them informed.\n\nFotMob gives you all the live scores, stats, and news you need to keep up with football from anywhere in the world. With personalized alerts and lightning fast match updates, you'll always stay informed about your favorite teams and players. Our mission is simple: We're changing the way the world follows football.\n\nKey features include:\n• Live scores with instant goal notifications\n• Personalized news and alerts for your favorite",
@@ -13970,13 +13995,20 @@
       "versions": [
         {
           "version": "1226.0",
-          "date": "2026-02-14",
+          "date": "2026-02-15",
           "localizedDescription": "Version: 1226.0\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/FotMob%2B.1226.0.ipa",
           "size": 54306664
         },
         {
           "version": "1226.0b",
+          "date": "2026-02-15",
+          "localizedDescription": "Version: 1226.0\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/FotMob%2B.1226.0.ipa",
+          "size": 54306664
+        },
+        {
+          "version": "1226.0c",
           "date": "2026-02-14",
           "localizedDescription": "Version: 1226.0\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/FotMob%2B.1226.0.ipa",
@@ -17823,13 +17855,6 @@
           "size": 86655564
         },
         {
-          "version": "17.4.70b",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 17.4.70\n\nTweaks: CachefixPatch, CydiaSubstrate, blatantsPatch, iTranslateTranslator\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/iTranslate_Translator_v17_4_70_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 86655564
-        },
-        {
           "version": "17.4.32",
           "date": "2026-02-05",
           "localizedDescription": "Version: 17.4.32\n\nTweaks: CydiaSubstrate, b1atantPluginsInject, iTranslateTranslator\n\nSource: @blatants",
@@ -17842,6 +17867,13 @@
           "localizedDescription": "Version: 17.4.36\n\nTweaks: CachefixPatch, CydiaSubstrate, b1atantPluginsInject, iTranslateTranslator\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-20/iTranslate_Translator_v17_4_36_Subscription_Unlocked_blatant_patched.ipa",
           "size": 67210904
+        },
+        {
+          "version": "17.4.38",
+          "date": "2026-02-05",
+          "localizedDescription": "Version: 17.4.38\n\nTweaks: CachefixPatch, CydiaSubstrate, b1atantPluginsInject, iTranslateTranslator\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-20/iTranslate_Translator_v17_4_38_Subscription_Unlocked_blatant_patched.ipa",
+          "size": 67182299
         }
       ],
       "category": "productivity"
@@ -18588,13 +18620,6 @@
       "versions": [
         {
           "version": "2026.7.1",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 2026.7.1\n\nTweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/komoot.Premium.2026.7.1.ipa",
-          "size": 110606343
-        },
-        {
-          "version": "2026.7.1b",
           "date": "2026-02-14",
           "localizedDescription": "Version: 2026.7.1\n\nTweaks: CydiaSubstrate, KomootPatch, SideloadSpoofer-08\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/komoot.Premium.2026.7.1.ipa",
@@ -23639,13 +23664,6 @@
           "size": 96988540
         },
         {
-          "version": "3.8.2b",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 3.8.2\n\nTweaks: OfflineMusicPlayer, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Offline.Music.Player.v3.8.2.Pro.Unlocked.blatant.Patched.ipa",
-          "size": 96988540
-        },
-        {
           "version": "3.3.6",
           "date": "2026-01-08",
           "localizedDescription": "Version: 3.3.6\n\nTweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
@@ -23658,6 +23676,13 @@
           "localizedDescription": "Version: 3.3.7\n\nTweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-12/MusicPlayer_v3.3.7_blatant.ipa",
           "size": 88219874
+        },
+        {
+          "version": "3.3.5",
+          "date": "2026-01-08",
+          "localizedDescription": "Version: 3.3.5\n\nTweaks: CydiaSubstrate, OfflineMusicPlayer, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-10/MusicPlayer_v3.3.5_blatant.ipa",
+          "size": 88219329
         }
       ],
       "category": "music"
@@ -26833,13 +26858,6 @@
       "versions": [
         {
           "version": "6.12.1",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 6.12.1\n\nTweaks: SatellaJailed, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Polarr_Photo_Filters_._Editor_v6_12_1_Satella_Injected_blatant_Patched.ipa",
-          "size": 195290650
-        },
-        {
-          "version": "6.12.1b",
           "date": "2026-02-14",
           "localizedDescription": "Version: 6.12.1\n\nTweaks: SatellaJailed, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Polarr_Photo_Filters_._Editor_v6_12_1_Satella_Injected_blatant_Patched.ipa",
@@ -30312,13 +30330,6 @@
       "versions": [
         {
           "version": "3.3.5",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 3.3.5\n\nTweaks: ShutEye, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/ShutEye._Sleep_Tracker._Sound_v3_3_5_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 440178411
-        },
-        {
-          "version": "3.3.5b",
           "date": "2026-02-14",
           "localizedDescription": "Version: 3.3.5\n\nTweaks: ShutEye, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/ShutEye._Sleep_Tracker._Sound_v3_3_5_Premium_Unlocked_blatant_Patched.ipa",
@@ -38597,13 +38608,6 @@
           "size": 187828219
         },
         {
-          "version": "4.5.4b",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 4.5.4\n\nTweaks: VivaCut, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/VivaCut_AI_Video_Editor_v4_5_4_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 187828219
-        },
-        {
           "version": "4.1.4",
           "date": "2026-02-05",
           "localizedDescription": "Version: 4.1.4\n\nTweaks: CydiaSubstrate, VivaCut, sideloadKeychainfix\n\nSource: @blatants",
@@ -38616,6 +38620,13 @@
           "localizedDescription": "Version: 4.1.6\n\nTweaks: CydiaSubstrate, VivaCut, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/VivaCut_AI_Video_Editor_v4_1_6_Subscription_Unlocked_blatant.ipa",
           "size": 192913753
+        },
+        {
+          "version": "4.2.0",
+          "date": "2026-02-05",
+          "localizedDescription": "Version: 4.2.0\n\nTweaks: CydiaSubstrate, VivaCut, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-21/VivaCut_AI_Video_Editor_v4_2_0_Subscription_Unlocked_blatant.ipa",
+          "size": 192644184
         }
       ],
       "category": "photo-&-video"
@@ -38947,13 +38958,6 @@
           "size": 197403600
         },
         {
-          "version": "456.0.3b",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 456.0.3\n\nTweaks: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/VSCO_Photo_Editor_._Presets_v456_0_3_Subscription_Unlocked_blatant.ipa",
-          "size": 197403600
-        },
-        {
           "version": "433.0.1",
           "date": "2026-02-05",
           "localizedDescription": "Version: 433.0.1\n\nTweaks: AutoRevenueCat, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
@@ -38965,6 +38969,13 @@
           "date": "2026-01-08",
           "localizedDescription": "Version: 395.0.0\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-12/VSCO_v395.0.0_blatant.ipa",
+          "size": 137500428
+        },
+        {
+          "version": "395.0.0b",
+          "date": "2026-01-08",
+          "localizedDescription": "Version: 395.0.0\n\nTweaks: AutoRevenueCat, CydiaSubstrate, sideloadFixerLol, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-12/VSCO_v395.0.1_blatant.ipa",
           "size": 137500428
         }
       ],
@@ -40990,13 +41001,6 @@
           "size": 156087188
         },
         {
-          "version": "9.5.3b",
-          "date": "2026-02-14",
-          "localizedDescription": "Version: 9.5.3\n\nTweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Andalusi_Design_Photo_._Video_v9_5_3_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 156087188
-        },
-        {
           "version": "9.5.2",
           "date": "2026-02-10",
           "localizedDescription": "Version: 9.5.2\n\nTweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
@@ -41009,6 +41013,13 @@
           "localizedDescription": "Version: 9.5.2\n\nTweaks: Andalusi, CachefixPatch, CydiaSubstrate, FilePickerFix, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Andalusi_Design_Photo_._Video_v9_5_2_Pro_Unlocked_blatant_Patched.ipa",
           "size": 164008298
+        },
+        {
+          "version": "8.1.12",
+          "date": "2025-12-31",
+          "localizedDescription": "Version: 8.1.12\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-31/-v8.1.12-AppTesters.ipa",
+          "size": 148075866
         }
       ],
       "category": "photo-&-video"
