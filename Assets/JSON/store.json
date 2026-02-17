@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "ru.routes.peakvisor",
-    "com.readdle.PDFExpert5",
-    "co.airapps.scannerapp",
-    "com.alevioos.app",
-    "com.travelboast.travelboast"
+    "com.thenovik.Presets",
+    "com.apalonapps.radarfree",
+    "com.mwm.stems",
+    "com.lightricks.Facetune2",
+    "jp.co.yamaha.beat.mveditor"
   ],
   "apps": [
     {
@@ -1595,18 +1595,18 @@
           "size": 28941316
         },
         {
-          "version": "2.4.2c",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: AlevioOS, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/AlevioOS_Local_Ai_v2_4_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 28941316
+          "version": "2.4.1",
+          "date": "2026-02-13",
+          "localizedDescription": "Tweaks: AlevioOS, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/AlevioOS_Local_Ai_v2_4_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 28661950
         },
         {
-          "version": "2.4.2d",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: AlevioOS, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/AlevioOS_Local_Ai_v2_4_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 28941316
+          "version": "2.4.1b",
+          "date": "2026-02-13",
+          "localizedDescription": "Tweaks: AlevioOS, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/AlevioOS_Local_Ai_v2_4_1_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 28661950
         }
       ],
       "category": "productivity"
@@ -3463,15 +3463,15 @@
       "name": "Bazaart",
       "bundleIdentifier": "co.bazaart.app",
       "developerName": "Bazaart Ltd.",
-      "subtitle": "Premium Unlocked | Patched",
-      "version": "26.1.1",
-      "versionDate": "2026-02-06",
-      "versionDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-24/Bazaart_AI_Photo_Editor_Design_v26_1_1_Premium_Unlocked_blatant.ipa",
-      "localizedDescription": "Premium Unlocked | Patched | Tweaked\n\nBazaart AI Photo Editor Design | Premium Unlocked",
+      "subtitle": "Pro Features Unlocked",
+      "version": "26.1.2",
+      "versionDate": "2026-02-16",
+      "versionDescription": "Tweaks: BazaartAIPhotoEditorDesignPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Bazaart.Premium.26.1.2.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nBazaart: Design, Photo & Video | Not working in LiveContainer | Tweak made by Никита | Minimum OS version 16",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/b9/fe/b3b9feae-db09-c161-85a6-83b0c52e1ce8/Bazaart_Icon_v3-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 96451620,
+      "size": 96055514,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -3493,6 +3493,20 @@
       },
       "versions": [
         {
+          "version": "26.1.2",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: BazaartAIPhotoEditorDesignPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Bazaart.Premium.26.1.2.ipa",
+          "size": 96055514
+        },
+        {
+          "version": "26.1.2b",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: BazaartAIPhotoEditorDesignPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Bazaart.Premium.26.1.2.ipa",
+          "size": 96055514
+        },
+        {
           "version": "26.1.1",
           "date": "2026-02-06",
           "localizedDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
@@ -3505,20 +3519,6 @@
           "localizedDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-4/Bazaart_AI_Photo_Editor_Design_v26_1_0_Premium_Unlocked_blatant.ipa",
           "size": 94800740
-        },
-        {
-          "version": "26.1.0b",
-          "date": "2026-01-28",
-          "localizedDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-4/Bazaart_AI_Photo_Editor_Design_v26_1_0_Premium_Unlocked_blatant.ipa",
-          "size": 94800740
-        },
-        {
-          "version": "26.0.9",
-          "date": "2026-01-26",
-          "localizedDescription": "Tweaks: Bazaart, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-26-1/Bazaart_AI_Photo_Editor_Design_v26_0_9_Premium_Unlocked_blatant.ipa",
-          "size": 94853187
         }
       ],
       "category": "photo-&-video"
@@ -3821,6 +3821,52 @@
         }
       ],
       "category": "social-networking"
+    },
+    {
+      "name": "Bend",
+      "bundleIdentifier": "com.bowery-digital.bend",
+      "developerName": "Bowery Digital",
+      "subtitle": "Pro Features Unlocked",
+      "version": "7.2.0",
+      "versionDate": "2026-02-16",
+      "versionDescription": "Tweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Bend.Pro.7.2.0.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nBend: Stretching & Flexibility | Minimum OS version 15.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/eb/b5/e3ebb5e2-5875-c2aa-d5b1-7ed5d40f2e30/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 98513963,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/04/8a/f5048ac9-604a-3e65-ba20-de9d0aaf4c22/0_APP_IPHONE_55_0.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/83/30/a5/8330a599-5c97-8432-bd20-f7e0fdb87ace/1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/0b/dd/130bdda2-f2ba-bd36-59da-419ce460f230/2_APP_IPHONE_55_2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/b9/fe/9db9fe53-95f2-76ed-0967-058bb3766254/3_APP_IPHONE_55_3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/e9/85/ade98560-ed5b-892f-7bac-f6c0bf696336/4_APP_IPHONE_55_4.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSHealthShareUsageDescription": "Bend will use your health information to track your exercise activity.",
+          "NSHealthUpdateUsageDescription": "Bend will track your exercise activity and save it to Apple Health.",
+          "NSUserTrackingUsageDescription": "Your data will be used to provide you personalized content that is most relevant to you."
+        }
+      },
+      "versions": [
+        {
+          "version": "7.2.0",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Bend.Pro.7.2.0.ipa",
+          "size": 98513963
+        },
+        {
+          "version": "7.2.0b",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Bend.Pro.7.2.0.ipa",
+          "size": 98513963
+        }
+      ],
+      "category": "health-&-fitness"
     },
     {
       "name": "Big Hunter",
@@ -6921,14 +6967,14 @@
       "bundleIdentifier": "com.apalonapps.radarfree",
       "developerName": "Mosaic S.r.l.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "5.13.65",
-      "versionDate": "2026-02-05",
+      "version": "5.13.66",
+      "versionDate": "2026-02-16",
       "versionDescription": "Tweaks: Clime, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-23/Clime_NOAA_Weather_Radar_Live_v5_13_65_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Clime_NOAA_Weather_Radar_Live_v5_13_66_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nClime: NOAA Weather Radar Live | Subscription Unlocked",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/b3/e4/bfb3e461-433d-bbb3-d650-735b34eba987/AppIcon_free-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 177346481,
+      "size": 177003014,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/17/11/221711cf-2d6e-1809-579e-1d652df43723/e440ebaa-f52b-42fe-a0d7-8e2243a6de29_iphone5.5_s1_en-US.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/7b/5d/fb7b5dc8-734a-512e-d903-cb2bd0cc7470/4d58c0b1-8295-4dee-9740-b39a6c3a480a_iphone5.5_s2_.jpg/392x696bb.jpg",
@@ -6958,32 +7004,32 @@
       },
       "versions": [
         {
-          "version": "5.13.65",
-          "date": "2026-02-05",
+          "version": "5.13.66",
+          "date": "2026-02-16",
           "localizedDescription": "Tweaks: Clime, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-23/Clime_NOAA_Weather_Radar_Live_v5_13_65_Subscription_Unlocked_blatant.ipa",
-          "size": 177346481
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Clime_NOAA_Weather_Radar_Live_v5_13_66_Subscription_Unlocked_blatant.ipa",
+          "size": 177003014
         },
         {
-          "version": "5.13.64",
-          "date": "2025-12-11",
+          "version": "5.13.66b",
+          "date": "2026-02-16",
           "localizedDescription": "Tweaks: Clime, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/Clime_NOAA_Weather_Radar_Live_v5_13_64_Subscription_Unlocked_blatant.ipa",
-          "size": 178857588
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Clime_NOAA_Weather_Radar_Live_v5_13_66_Subscription_Unlocked_blatant.ipa",
+          "size": 177003014
         },
         {
-          "version": "5.13.63",
-          "date": "2025-12-30",
+          "version": "5.13.66c",
+          "date": "2026-02-16",
           "localizedDescription": "Tweaks: Clime, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-1/Clime_NOAA_Weather_Radar_Live_v5_13_63_Subscription_Unlocked_blatant.ipa",
-          "size": 179740997
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Clime_NOAA_Weather_Radar_Live_v5_13_66_Subscription_Unlocked_blatant.ipa",
+          "size": 177003014
         },
         {
-          "version": "5.13.62",
-          "date": "2025-12-30",
+          "version": "5.13.66d",
+          "date": "2026-02-16",
           "localizedDescription": "Tweaks: Clime, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-2/Clime_NOAA_Weather_Radar_Live_v5_13_62_Subscription_Unlocked_blatant.ipa",
-          "size": 180334673
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Clime_NOAA_Weather_Radar_Live_v5_13_66_Subscription_Unlocked_blatant.ipa",
+          "size": 177003014
         }
       ],
       "category": "weather"
@@ -7788,14 +7834,14 @@
       "bundleIdentifier": "com.mwm.procolor",
       "developerName": "MWM",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.57.19",
-      "versionDate": "2026-02-13",
+      "version": "2.58.00",
+      "versionDate": "2026-02-16",
       "versionDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Color_Pop_AI_Coloring_Book_v2_57_19_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Color_Pop_AI_Coloring_Book_v2_58_00_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nColor Pop AI - Coloring Book | Subscription Unlocked | Just close the purchase pages if you see any",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/53/62/09536203-dee2-fc75-9dd2-40a79b0aeaf9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 237701152,
+      "size": 237805609,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/34/1d/f8341d74-c232-8eae-cd62-870782f0df71/EN_ipad_01.png/576x768bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/68/d0/4f68d0bd-0ed8-ff5c-c1c1-1f3e389c0433/EN_ipad_02.png/576x768bb.png",
@@ -7819,6 +7865,20 @@
       },
       "versions": [
         {
+          "version": "2.58.00",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Color_Pop_AI_Coloring_Book_v2_58_00_Subscription_Unlocked_blatant.ipa",
+          "size": 237805609
+        },
+        {
+          "version": "2.58.00b",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Color_Pop_AI_Coloring_Book_v2_58_00_Subscription_Unlocked_blatant.ipa",
+          "size": 237805609
+        },
+        {
           "version": "2.57.19",
           "date": "2026-02-10",
           "localizedDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
@@ -7831,20 +7891,6 @@
           "localizedDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Color_Pop_AI_Coloring_Book_v2_57_19_Subscription_Unlocked_blatant.ipa",
           "size": 237701152
-        },
-        {
-          "version": "2.57.18",
-          "date": "2026-01-28",
-          "localizedDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-2/Color_Pop_AI_Coloring_Book_v2_57_18_Subscription_Unlocked_blatant.ipa",
-          "size": 237494001
-        },
-        {
-          "version": "2.57.18b",
-          "date": "2026-01-28",
-          "localizedDescription": "Tweaks: ColorPop, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-2/Color_Pop_AI_Coloring_Book_v2_57_18_Subscription_Unlocked_blatant.ipa",
-          "size": 237494001
         }
       ],
       "category": "entertainment"
@@ -10087,14 +10133,14 @@
       "bundleIdentifier": "com.thenovik.Presets",
       "developerName": "MWM",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2.4.11",
-      "versionDate": "2026-01-27",
+      "version": "2.4.12",
+      "versionDate": "2026-02-16",
       "versionDescription": "Tweaks: Edith, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/Edith_Presets_for_Lightroom_v2_4_11_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nEdith: Presets for Lightroom | Subscription Unlocked | Just close the purchase pages if you see any",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/e8/ab/e2e8ab09-f658-2f4c-e668-da595cfd4002/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Edith_Aesthetic_Photo_Editor_v2_4_12_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nEdith: Aesthetic Photo Editor | Subscription Unlocked | Just close the purchase pages if you see any",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f3/8c/25/f38c25c2-b1ec-436e-2e23-4453233b0e1c/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 463808358,
+      "size": 463929836,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/c7/c0/32c7c075-58be-3575-77ad-f9cd917dbc2c/iPhone_5.5_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/b8/a5/cab8a5f7-a257-7b79-4110-adff922bfb63/iPhone_5.5_2.jpg/392x696bb.jpg",
@@ -10117,32 +10163,32 @@
       },
       "versions": [
         {
-          "version": "2.4.11",
-          "date": "2026-01-27",
+          "version": "2.4.12",
+          "date": "2026-02-16",
           "localizedDescription": "Tweaks: Edith, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/Edith_Presets_for_Lightroom_v2_4_11_Subscription_Unlocked_blatant.ipa",
-          "size": 463808358
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Edith_Aesthetic_Photo_Editor_v2_4_12_Subscription_Unlocked_blatant.ipa",
+          "size": 463929836
         },
         {
-          "version": "2.4.11b",
-          "date": "2026-01-27",
+          "version": "2.4.12b",
+          "date": "2026-02-16",
           "localizedDescription": "Tweaks: Edith, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-27/Edith_Presets_for_Lightroom_v2_4_11_Subscription_Unlocked_blatant.ipa",
-          "size": 463808358
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Edith_Aesthetic_Photo_Editor_v2_4_12_Subscription_Unlocked_blatant.ipa",
+          "size": 463929836
         },
         {
-          "version": "2.4.10",
-          "date": "2026-01-19",
+          "version": "2.4.12c",
+          "date": "2026-02-16",
           "localizedDescription": "Tweaks: Edith, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-18/Edith_Presets_for_Lightroom_v2_4_10_Subscription_Unlocked_blatant.ipa",
-          "size": 463790144
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Edith_Aesthetic_Photo_Editor_v2_4_12_Subscription_Unlocked_blatant.ipa",
+          "size": 463929836
         },
         {
-          "version": "2.4.10b",
-          "date": "2026-01-19",
+          "version": "2.4.12d",
+          "date": "2026-02-16",
           "localizedDescription": "Tweaks: Edith, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-18/Edith_Presets_for_Lightroom_v2_4_10_Subscription_Unlocked_blatant.ipa",
-          "size": 463790144
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Edith_Aesthetic_Photo_Editor_v2_4_12_Subscription_Unlocked_blatant.ipa",
+          "size": 463929836
         }
       ],
       "category": "photo-&-video"
@@ -11636,14 +11682,14 @@
       "bundleIdentifier": "com.lightricks.Facetune2",
       "developerName": "Lightricks Ltd.",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "3.118",
-      "versionDate": "2026-02-13",
+      "version": "3.119",
+      "versionDate": "2026-02-16",
       "versionDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Facetune_Video_._Photo_Editor_v3_118_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFacetune: Video & Photo Editor | Subscription Unlocked",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Facetune_Photo_._Video_Editor_v3_119_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nFacetune: Photo & Video Editor | Subscription Unlocked",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/de/49/20de49ad-3570-f090-12f3-c9bebebcd515/AppIconLiquidGlass-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 338706937,
+      "size": 339798509,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/e1/25/81e125c3-0cff-38ab-c643-3cc8ebd60281/FT-250819-ASO-Baseline-5.5-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/52/66/e1526682-7c10-2655-d24a-0f0047c6fe71/FT-250819-ASO-Baseline-5.5-02.jpg/392x696bb.jpg",
@@ -11670,6 +11716,20 @@
       },
       "versions": [
         {
+          "version": "3.119",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Facetune_Photo_._Video_Editor_v3_119_Subscription_Unlocked_blatant.ipa",
+          "size": 339798509
+        },
+        {
+          "version": "3.119b",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Facetune_Photo_._Video_Editor_v3_119_Subscription_Unlocked_blatant.ipa",
+          "size": 339798509
+        },
+        {
           "version": "3.118",
           "date": "2026-02-13",
           "localizedDescription": "Tweaks: Facetune, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
@@ -11682,20 +11742,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Facetune, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/Facetune_v3.76.2_Subscription_Unlocked_blatant.ipa",
           "size": 335228059
-        },
-        {
-          "version": "3.76.1",
-          "date": "2026-01-07",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Facetune, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/Facetune_v3.76.1_Subscription_Unlocked_blatant.ipa",
-          "size": 335352233
-        },
-        {
-          "version": "3.76",
-          "date": "2026-01-07",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Facetune, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/Facetune_v3.76_Subscription_Unlocked_blatant.ipa",
-          "size": 335397022
         }
       ],
       "category": "photo-&-video"
@@ -16779,6 +16825,51 @@
       "category": "graphics-&-design"
     },
     {
+      "name": "Impulse",
+      "bundleIdentifier": "gen.tech.impulse",
+      "developerName": "GMRD Apps Limited",
+      "subtitle": "Impulse for iOS",
+      "version": "1.42",
+      "versionDate": "2026-02-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Impulse.IAP.1.42.ipa",
+      "localizedDescription": "Impulse - Brain Training Games\nInstall this version first and buy premium\nAfter you did that install this iPA. Premium should still be activated\nMinimum OS version 16.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/be/bd/2dbebd22-e9af-1280-7e06-a2529e8746f5/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 103252566,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/13/4b/6b134b83-c420-700f-f7b0-0d00938194f4/76ea1acd-b20f-4edb-828a-250e75048393_store_screen_1_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/3c/93/493c9390-d51f-6d71-f207-a594617f63b6/0000b909-7133-4551-a911-7ae9fd47039a_store_screen_1_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/89/82/0d898268-1e36-e444-649e-9b6cebbd8124/f2d9160d-049b-465e-ad85-0cef5e7eeebf_store_screen_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/46/cc/db46cc73-3a8a-4696-6711-ab45f58a9629/29c76daa-f056-4191-928d-bdfc123fa3c4_store_screen_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/39/9b/a2399b5a-bad7-2459-a534-47b1c492bcef/15a27972-1e34-4763-a1fe-da74f072934d_store_screen_4.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSUserTrackingUsageDescription": "This helps us deliver more relevant and personalized ads to you",
+          "NSPhotoLibraryAddUsageDescription": "Impulse needs access to your camera roll to save images"
+        }
+      },
+      "versions": [
+        {
+          "version": "1.42",
+          "date": "2026-02-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Impulse.IAP.1.42.ipa",
+          "size": 103252566
+        },
+        {
+          "version": "1.42b",
+          "date": "2026-02-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Impulse.IAP.1.42.ipa",
+          "size": 103252566
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
       "name": "Incognito",
       "bundleIdentifier": "com.overdesigned.ShareBear",
       "developerName": "Overdesigned, LLC",
@@ -20890,6 +20981,56 @@
       "category": "games"
     },
     {
+      "name": "Minecraft Preview",
+      "bundleIdentifier": "com.mojang.minecraftpreview",
+      "developerName": "Mojang",
+      "subtitle": "Minecraft Preview for iOS",
+      "version": "1.26.10",
+      "versionDate": "2026-02-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Minecraft.Preview-1.26.10.ipa",
+      "localizedDescription": "Minecraft Preview for iOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/12/4d/80124df7-d0dd-3c17-6810-4f4973ce1d44/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 620070422,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/47/6f/07476fcd-1ecf-18ca-e7f7-364d6c6cd5e1/pr_source.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/a6/ed/74a6ed67-e5e9-a1ae-3233-225b651d6bf0/pr_source.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/4f/92/be4f92ef-8b4b-94e3-cd78-da32db4193b0/pr_source.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/03/ee/6403eee1-4fbf-6b89-d2ec-6fc410182689/pr_source.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/6b/4e/1f6b4ef1-3ebb-526a-b6fb-a0d1301e30df/b66be1fb-63e6-48ee-b33e-201f6e5229b1_TrailsAndTales_Apple_2208x1242_EN.png/406x228bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency.",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.26.10",
+          "date": "2026-02-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Minecraft.Preview-1.26.10.ipa",
+          "size": 620070422
+        },
+        {
+          "version": "1.26.10b",
+          "date": "2026-02-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Minecraft.Preview-1.26.10.ipa",
+          "size": 620070422
+        }
+      ],
+      "category": "games"
+    },
+    {
       "name": "Minutes",
       "bundleIdentifier": "ventures.slam.minutes",
       "developerName": "Minutes AI",
@@ -21210,6 +21351,48 @@
         }
       ],
       "category": "games"
+    },
+    {
+      "name": "Mobile V Editor",
+      "bundleIdentifier": "jp.co.yamaha.beat.mveditor",
+      "developerName": "Yamaha Corporation",
+      "subtitle": "Version Of It",
+      "version": "1.13.4",
+      "versionDate": "2026-02-16",
+      "versionDescription": "Source: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/iVocEditor_1.13.4.1.ipa",
+      "localizedDescription": "Version Of It\n\nit used to be a paid app. This is a cracked version of it",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/12/1e/45121ed6-81d3-fd99-f073-b845926674c3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 230744704,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups",
+          "aps-environment"
+        ],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Enable microphone access to record audio.",
+          "NSBluetoothAlwaysUsageDescription": "We use Bluetooth to connect to the MIDI keyboard hardware device."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.13.4",
+          "date": "2026-02-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/iVocEditor_1.13.4.1.ipa",
+          "size": 230744704
+        },
+        {
+          "version": "1.13.4b",
+          "date": "2026-02-16",
+          "localizedDescription": "Source: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/iVocEditor_1.13.4.1.ipa",
+          "size": 230744704
+        }
+      ],
+      "category": "music"
     },
     {
       "name": "MobileScanner",
@@ -21654,13 +21837,6 @@
           "size": 169606351
         },
         {
-          "version": "2.6.7b",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: Moonly, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Moonly_Moon_Phases_._Calendar_v2_6_7_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 169606351
-        },
-        {
           "version": "2.1.6",
           "date": "2026-01-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Moonly, sideloadFixerLol\n\nSource: @blatants",
@@ -21673,6 +21849,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Moonly, sideloadFixerLol\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-8/Moonly_v2.1.5_Pro_Unlocked_blatant.ipa",
           "size": 153527907
+        },
+        {
+          "version": "2.1.3",
+          "date": "2026-01-07",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Moonly, sideloadFixerLol\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-9/Moonly_v2.1.3_Pro_Unlocked_blatant.ipa",
+          "size": 152240287
         }
       ],
       "category": "lifestyle"
@@ -22126,13 +22309,6 @@
       "versions": [
         {
           "version": "7.1.0",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Nebo.Pro.7.1.0.ipa",
-          "size": 123945176
-        },
-        {
-          "version": "7.1.0b",
           "date": "2026-02-16",
           "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Nebo.Pro.7.1.0.ipa",
@@ -22805,13 +22981,6 @@
       "versions": [
         {
           "version": "1.4.35",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Noteful.Pro.1.4.35.ipa",
-          "size": 93991295
-        },
-        {
-          "version": "1.4.35b",
           "date": "2026-02-16",
           "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Noteful.Pro.1.4.35.ipa",
@@ -24363,18 +24532,18 @@
           "size": 219609113
         },
         {
-          "version": "7.25.2c",
-          "date": "2026-02-16",
+          "version": "7.25.1",
+          "date": "2025-12-15",
           "localizedDescription": "Tweaks: FilePickerFix, PDFExpert, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/PDF_Expert_Editor_and_Reader_v7_25_2_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 219609113
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29-1/PDF_Expert_Editor_and_Reader_v7_25_1_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 159200065
         },
         {
-          "version": "7.25.2d",
-          "date": "2026-02-16",
+          "version": "7.25",
+          "date": "2025-12-30",
           "localizedDescription": "Tweaks: FilePickerFix, PDFExpert, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/PDF_Expert_Editor_and_Reader_v7_25_2_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 219609113
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30-3/PDF_Expert_Editor_and_Reader_v7_25_Premium_Unlocked_blatant_Patched.ipa",
+          "size": 159199940
         }
       ],
       "category": "productivity"
@@ -24477,13 +24646,6 @@
         },
         {
           "version": "5.81b",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: PeakVisor, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Skiing_and_Hiking_PeakVisor_v5_81_Subscription_Unlocked_blatant.ipa",
-          "size": 127734002
-        },
-        {
-          "version": "5.81c",
           "date": "2026-02-15",
           "localizedDescription": "Tweaks: PeakVisor, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Skiing_and_Hiking_PeakVisor_v5_81_Subscription_Unlocked_blatant.ipa",
@@ -24495,6 +24657,13 @@
           "localizedDescription": "Tweaks: PeakVisor, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Skiing_and_Hiking_PeakVisor_v5_80_Subscription_Unlocked_blatant.ipa",
           "size": 127711840
+        },
+        {
+          "version": "5.79",
+          "date": "2026-01-29",
+          "localizedDescription": "Tweaks: PeakVisor, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/Skiing_and_Hiking_PeakVisor_v5_79_Subscription_Unlocked_blatant.ipa",
+          "size": 127322493
         }
       ],
       "category": "sports"
@@ -25637,13 +25806,6 @@
           "size": 526109040
         },
         {
-          "version": "6.2.7b",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Pillow_Sleep_Tracker_v6_2_7_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 526109040
-        },
-        {
           "version": "6.2.6",
           "date": "2026-02-06",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
@@ -25655,6 +25817,13 @@
           "date": "2026-01-22",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-23/Pillow_Sleep_Tracker_v6_2_5_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 524905899
+        },
+        {
+          "version": "6.2.5b",
+          "date": "2026-01-22",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-22/Pillow_Sleep_Tracker_v6_2_5_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 524905899
         }
       ],
@@ -27297,13 +27466,6 @@
       "versions": [
         {
           "version": "3.10.2",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: AutoRcSideload, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/PUSH_Workout_._Gym_Tracker_v3_10_2_Subscription_Unlocked_blatant.ipa",
-          "size": 44517692
-        },
-        {
-          "version": "3.10.2b",
           "date": "2026-02-16",
           "localizedDescription": "Tweaks: AutoRcSideload, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/PUSH_Workout_._Gym_Tracker_v3_10_2_Subscription_Unlocked_blatant.ipa",
@@ -29077,18 +29239,18 @@
           "size": 94347196
         },
         {
-          "version": "2026.2.1c",
-          "date": "2026-02-16",
+          "version": "2026.1.4",
+          "date": "2026-02-09",
           "localizedDescription": "Tweaks: ScannerAir, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Scanner_Air_Scan_Documents_v2026_2_1_Subscription_Unlocked_blatant.ipa",
-          "size": 94347196
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Scanner_Air_Scan_Documents_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 94056679
         },
         {
-          "version": "2026.2.1d",
-          "date": "2026-02-16",
+          "version": "2026.1.4b",
+          "date": "2026-02-09",
           "localizedDescription": "Tweaks: ScannerAir, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Scanner_Air_Scan_Documents_v2026_2_1_Subscription_Unlocked_blatant.ipa",
-          "size": 94347196
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Scanner_Air_Scan_Documents_v2026_1_4_Subscription_Unlocked_blatant.ipa",
+          "size": 94056679
         }
       ],
       "category": "utilities"
@@ -30368,13 +30530,6 @@
           "size": 325346163
         },
         {
-          "version": "6.26.6b",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: SleepCycle, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Sleep_Cycle_Tracker_._Sounds_v6_26_6_Premium_Unlocked_blatant_Patched.ipa",
-          "size": 325346163
-        },
-        {
           "version": "6.26.5",
           "date": "2026-02-13",
           "localizedDescription": "Tweaks: SleepCycle, blatantsPatch\n\nSource: @blatants",
@@ -30387,6 +30542,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, SleepCycle\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-6/GoodMorning_v6.24.51_Premium_Unlocked_blatant.ipa",
           "size": 271333107
+        },
+        {
+          "version": "6.24.50",
+          "date": "2026-01-06",
+          "localizedDescription": "Tweaks: CydiaSubstrate, SleepCycle\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/GoodMorning_v6.24.50_Premium_Unlocked_blatant.ipa",
+          "size": 270537544
         }
       ],
       "category": "health-&-fitness"
@@ -31115,13 +31277,6 @@
           "size": 130452300
         },
         {
-          "version": "6.4.1b",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/SnapEdit_Photo_Editor_AI_v6_4_1_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 130452300
-        },
-        {
           "version": "6.4.0",
           "date": "2026-02-13",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
@@ -31130,6 +31285,13 @@
         },
         {
           "version": "6.3.16",
+          "date": "2026-02-07",
+          "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/SnapEdit_Photo_Editor_AI_v6_3_16_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 130171100
+        },
+        {
+          "version": "6.3.16b",
           "date": "2026-02-07",
           "localizedDescription": "Tweaks: SnapEdit, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-07/SnapEdit_Photo_Editor_AI_v6_3_16_Pro_Unlocked_blatant_Patched.ipa",
@@ -31722,13 +31884,6 @@
           "size": 106880594
         },
         {
-          "version": "8.48.0b",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/SoundCloud.8.48.0.NoAds.ipa",
-          "size": 106880594
-        },
-        {
           "version": "8.47.0",
           "date": "2026-02-09",
           "localizedDescription": "Tweaks: SoundCloudPlus, substrate, zxPluginsInject\n\nSource: @binnichtaktivsipas",
@@ -31741,6 +31896,13 @@
           "localizedDescription": "Tweaks: ADsBlocker, CydiaSubstrate, SCMusicPlus, sideloadKeychainfix, zxPluginsInject\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-14/SoundCloud8.22.1AdfreeMoePatched.ipa",
           "size": 99686944
+        },
+        {
+          "version": "8.20.0",
+          "date": "2026-01-02",
+          "localizedDescription": "Tweaks: ADsBlocker, CydiaSubstrate, SCMusicPlus, sideloadKeychainfix, zxPluginsInject\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-02/soundcloud8.20.0AdfreeMoePatched.ipa",
+          "size": 96757634
         }
       ],
       "category": "music"
@@ -32243,15 +32405,15 @@
       "name": "Splice",
       "bundleIdentifier": "com.path36.SpliceFree",
       "developerName": "Bending Spoons Apps ApS",
-      "subtitle": "** Subscription_Unlocked",
-      "version": "4.28.26",
-      "versionDate": "2026-01-06",
-      "versionDescription": "Tweaks: CydiaSubstrate, Splice, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/Splice_v4.28.26_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "** Subscription_Unlocked\n\nSplice - Video Editor & Maker | com.path36.SpliceFree | Category: Photo & Video | SubscriptionUnlocked | Restart app if Subscriptions isn't activated.",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/ab/28/4fab28a6-a9c1-42d9-aed5-80f6a448e144/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "subtitle": "Subscription Unlocked | Patched",
+      "version": "4.28.58",
+      "versionDate": "2026-02-16",
+      "versionDescription": "Tweaks: ScanHero, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Splice_Video_Editor_._Maker_v4_28_58_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nSplice - Video Editor & Maker | Subscription Unlocked | Restart app if Subscriptions isn't activated.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/8d/24/518d2460-911d-0055-e876-e0c7fa13c900/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 160841592,
+      "size": 103167529,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/7e/c6/55/7ec65571-75e0-9235-8d78-25da5db63139/47812a97-29e7-4dde-a132-3dd884a04530_default__screenshots__iOS-5.5-in__01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/91/12/50/91125052-c348-515d-5933-b936c73a3cb0/6339ad05-07cb-4c91-a05a-e8bf6abd30ea_default__screenshots__iOS-5.5-in__02.jpg/392x696bb.jpg",
@@ -32276,6 +32438,20 @@
       },
       "versions": [
         {
+          "version": "4.28.58",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: ScanHero, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Splice_Video_Editor_._Maker_v4_28_58_Subscription_Unlocked_blatant.ipa",
+          "size": 103167529
+        },
+        {
+          "version": "4.28.58b",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: ScanHero, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Splice_Video_Editor_._Maker_v4_28_58_Subscription_Unlocked_blatant.ipa",
+          "size": 103167529
+        },
+        {
           "version": "4.28.26",
           "date": "2026-01-06",
           "localizedDescription": "Tweaks: CydiaSubstrate, Splice, sideloadKeychainfix\n\nSource: @blatants",
@@ -32288,20 +32464,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Splice, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-7/Splice_v4.28.26_Subscription_Unlocked_blatant.ipa",
           "size": 160907754
-        },
-        {
-          "version": "4.28.25",
-          "date": "2026-01-07",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Splice, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-8/Splice_v4.28.25_Subscription_Unlocked_blatant.ipa",
-          "size": 160841380
-        },
-        {
-          "version": "4.28.24",
-          "date": "2026-01-08",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Splice, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-10/Splice_v4.28.24_blatant.ipa",
-          "size": 159269541
         }
       ],
       "category": "photo-&-video"
@@ -32643,14 +32805,14 @@
       "bundleIdentifier": "com.mwm.stems",
       "developerName": "MWM",
       "subtitle": "Pro Unlocked | Patched",
-      "version": "4.03.04",
-      "versionDate": "2026-01-21",
+      "version": "4.03.05",
+      "versionDate": "2026-02-16",
       "versionDescription": "Tweaks: Stemz, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-20/Stemz_remover_vocal_audio_pro_v4_03_04_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Stemz_remover_vocal_audio_pro_v4_03_05_Pro_Unlocked_blatant_Patched.ipa",
       "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nStemz: remover vocal audio pro | Pro Unlocked | Just close the purchase pages if you see any",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/8b/de/4a8bde08-e1ac-7351-8db8-f94320331ffa/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/e7/cc/d7e7cc8a-197a-157a-3db0-675723794033/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 174100524,
+      "size": 172623559,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/60/35/45603510-f119-68a1-8b2f-85804e8f7357/eca17049-11d4-4a6d-80b8-d2a7c66f5481_en-01.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/ee/12/a4ee1294-b408-b10c-1c4d-f2bd7d310951/8183a966-cf9c-4df3-a739-9c32fcb46cb2_en-02.jpg/392x696bb.jpg",
@@ -32659,7 +32821,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/c2/56/7cc2569b-749c-b703-90f5-fd9b8b56fbf5/a770aaeb-a66b-48ad-9a62-be6add1e3061_en-05.jpg/392x696bb.jpg"
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.applesignin"
+        ],
         "privacy": {
           "NSMicrophoneUsageDescription": "Stemz needs to access your microphone to record ambient sound.",
           "NSAppleMusicUsageDescription": "This allow stemz to find tracks on iTunes Store."
@@ -32667,32 +32832,32 @@
       },
       "versions": [
         {
-          "version": "4.03.04",
-          "date": "2026-01-20",
+          "version": "4.03.05",
+          "date": "2026-02-16",
           "localizedDescription": "Tweaks: Stemz, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-20/Stemz_remover_vocal_audio_pro_v4_03_04_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 174100524
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Stemz_remover_vocal_audio_pro_v4_03_05_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 172623559
         },
         {
-          "version": "4.03.04b",
-          "date": "2026-01-20",
+          "version": "4.03.05b",
+          "date": "2026-02-16",
           "localizedDescription": "Tweaks: Stemz, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-20/Stemz_remover_vocal_audio_pro_v4_03_04_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 174100524
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Stemz_remover_vocal_audio_pro_v4_03_05_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 172623559
         },
         {
-          "version": "4.03.03",
-          "date": "2026-01-08",
+          "version": "4.03.05c",
+          "date": "2026-02-16",
           "localizedDescription": "Tweaks: Stemz, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-11/Stemz_remover_vocal_audio_pro_v4_03_03_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 174101387
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Stemz_remover_vocal_audio_pro_v4_03_05_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 172623559
         },
         {
-          "version": "4.03.03b",
-          "date": "2026-01-08",
+          "version": "4.03.05d",
+          "date": "2026-02-16",
           "localizedDescription": "Tweaks: Stemz, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-11/Stemz_remover_vocal_audio_pro_v4_03_03_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 174101387
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Stemz_remover_vocal_audio_pro_v4_03_05_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 172623559
         }
       ],
       "category": "music"
@@ -33068,13 +33233,6 @@
           "size": 107199552
         },
         {
-          "version": "4.1.29b",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/STNDRD_Bodybuilding_Workouts_v4_1_29_Subscription_Unlocked_blatant.ipa",
-          "size": 107199552
-        },
-        {
           "version": "4.1.28",
           "date": "2026-02-11",
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
@@ -33087,6 +33245,13 @@
           "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/STNDRD_Bodybuilding_Workouts_v4_1_28_Subscription_Unlocked_blatant.ipa",
           "size": 106482828
+        },
+        {
+          "version": "4.1.26",
+          "date": "2026-01-11",
+          "localizedDescription": "Tweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-4/STNDRD_Bodybuilding_Workouts_v4_1_26_Subscription_Unlocked_blatant.ipa",
+          "size": 104115382
         }
       ],
       "category": "health-&-fitness"
@@ -35346,18 +35511,19 @@
       "bundleIdentifier": "com.burbn.barcelona",
       "developerName": "Instagram, Inc.",
       "subtitle": "Tweaked with Sideloadbypass1, Sideloadbypass2",
-      "version": "416.0.0",
-      "versionDate": "2026-02-11",
+      "version": "417.0.0",
+      "versionDate": "2026-02-16",
       "versionDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, ThreadSaver\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-11/ThreadSaver.416.0.0.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/ThreadSaver.417.0.0.ipa",
       "localizedDescription": "Threads | Ad blocker and media downloader | Thanks to Chocolate Fluffy for this tweak | Minimum OS version 16.3",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/ce/44/25ce44af-de9d-9504-56f6-7c00c0759e76/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 82578251,
+      "size": 83510880,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
           "com.apple.developer.associated-appclip-app-identifiers",
+          "com.apple.developer.declared-age-range",
           "aps-environment",
           "com.apple.developer.usernotifications.time-sensitive",
           "com.apple.developer.associated-domains",
@@ -35377,6 +35543,20 @@
         }
       },
       "versions": [
+        {
+          "version": "417.0.0",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, ThreadSaver\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/ThreadSaver.417.0.0.ipa",
+          "size": 83510880
+        },
+        {
+          "version": "417.0.0b",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: Sideloadbypass1, Sideloadbypass2, ThreadSaver\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/ThreadSaver.417.0.0.ipa",
+          "size": 83510880
+        },
         {
           "version": "416.0.0",
           "date": "2026-02-11",
@@ -36506,13 +36686,6 @@
       "versions": [
         {
           "version": "2.26",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/TravelBoast.Pro.2.26.ipa",
-          "size": 354331863
-        },
-        {
-          "version": "2.26b",
           "date": "2026-02-16",
           "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/TravelBoast.Pro.2.26.ipa",
@@ -39813,14 +39986,14 @@
       "bundleIdentifier": "com.yazio.ios.YAZIO",
       "developerName": "YAZIO",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "12.71.0",
-      "versionDate": "2026-02-09",
+      "version": "12.72.0",
+      "versionDate": "2026-02-16",
       "versionDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/AI_Calorie_Tracker_by_Yazio_v12_71_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/AI_Calorie_Tracker_by_Yazio_v12_72_0_Subscription_Unlocked_blatant.ipa",
       "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nAI Calorie Tracker by Yazio | Subscription Unlocked",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/57/45/7757450e-b614-124f-b851-1fc897c53c24/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 129864376,
+      "size": 130040285,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/50/dd/43/50dd4363-e4d2-c8ea-8010-65494de5de32/a7eafd49-8d54-4ebe-a5d3-3cd7fe40f0d4_0_APP_IPHONE_55_0.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/a3/8c/cea38c7a-4f46-9026-0253-7b7efed375b9/ea43d2d8-5944-4881-b46a-1cca3413f608_1_APP_IPHONE_55_1.jpg/392x696bb.jpg",
@@ -39849,6 +40022,20 @@
       },
       "versions": [
         {
+          "version": "12.72.0",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/AI_Calorie_Tracker_by_Yazio_v12_72_0_Subscription_Unlocked_blatant.ipa",
+          "size": 130040285
+        },
+        {
+          "version": "12.72.0b",
+          "date": "2026-02-16",
+          "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/AI_Calorie_Tracker_by_Yazio_v12_72_0_Subscription_Unlocked_blatant.ipa",
+          "size": 130040285
+        },
+        {
           "version": "12.71.0",
           "date": "2026-02-09",
           "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
@@ -39861,20 +40048,6 @@
           "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/AI_Calorie_Tracker_by_Yazio_v12_71_0_Subscription_Unlocked_blatant.ipa",
           "size": 129864376
-        },
-        {
-          "version": "12.70.1",
-          "date": "2026-02-04",
-          "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-18/AI_Calorie_Tracker_by_Yazio_v12_70_1_Subscription_Unlocked_blatant.ipa",
-          "size": 124014075
-        },
-        {
-          "version": "12.70.1b",
-          "date": "2026-02-04",
-          "localizedDescription": "Tweaks: Yazio, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-17/AI_Calorie_Tracker_by_Yazio_v12_70_1_Subscription_Unlocked_blatant.ipa",
-          "size": 124014075
         }
       ],
       "category": "health-&-fitness"
@@ -40047,13 +40220,6 @@
           "size": 130692041
         },
         {
-          "version": "21.06.2b",
-          "date": "2026-02-16",
-          "localizedDescription": "Tweaks: CydiaSubstrate, MadeByMohkg, TubeLRD, sideloadFixerLol, substrate\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/YouTube21.06.2LRD1.13CrackedMoePatched.ipa",
-          "size": 130692041
-        },
-        {
           "version": "21.05.3",
           "date": "2026-02-09",
           "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, YTABConfig, YTLite, YTUHD\n\nSource: @binnichtaktivsipas",
@@ -40066,6 +40232,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, DontEatMyContent, YTLite, YTUHD, YTVideoOverlay\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/21.05.3_YouTubePlus_5.2b4.ipa",
           "size": 125463308
+        },
+        {
+          "version": "21.05.3c",
+          "date": "2026-02-04",
+          "localizedDescription": "Tweaks: CydiaSubstrate, MadeByMohkg, TubeLRD, sideloadFixerLol, substrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-18/YouTube21.05.3LRD1.13CrackedMoePatched.ipa",
+          "size": 130330865
         }
       ],
       "category": "photo-&-video"
@@ -41291,7 +41464,7 @@
     {
       "title": "⚙️ Telos Update 2.16",
       "identifier": "telos-update-2026-02-16",
-      "caption": "36 Apps Updated:\n• 12 Productivity\n• 8 Health & Fitness\n• 6 Photo & Video\n• 4 Utilities\n• 2 Music\n• 2 Lifestyle\n• 2 Sports",
+      "caption": "52 Apps Updated:\n• 13 Photo & Video\n• 10 Health & Fitness\n• 9 Music\n• 6 Productivity\n• 4 Weather\n• 2 Utilities\n• 2 Social Networking\n• 2 Entertainment\n• 2 Games\n• 1 Lifestyle\n• 1 Sports",
       "date": "2026-02-16",
       "tintColor": "#02433b",
       "notify": true,
