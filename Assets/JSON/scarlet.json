@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-02-19",
+  "versionDate": "2026-02-20",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -237,18 +237,19 @@
       "name": "1Blocker",
       "bundleIdentifier": "com.khanov.BlockerX",
       "developerName": "1Blocker LLC",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRevenueCat, b1atantPluginsInject\n\n1Blocker - Ad Blocker | com.khanov.BlockerX | Subscription Unlocked | App doesn't seem to work on iOS 18.\n\n---\n1Blocker lets you block obtrusive ads, sneaky trackers, and annoying elements on sites. With 1Blocker, you’re safe online and nothing will distract you from enjoying sites.\n\n1Blocker is very easy to use — just flip a couple of switches to start blocking ads and trackers. The app will automatically receive cloud updates to the built-in filters silently, so you don’t need to do anything. It’s as simple as setting and forgetting.\n\n1Blocker is a fully native app designed to extend Safari naturally.",
-      "version": "6.1.4",
-      "versionDate": "2026-02-05T06:18:00-00:00",
-      "versionDescription": "Build 1294 from @blatants",
-      "size": 36751022,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\n1Blocker: Ad Blocker | • Patched | • Modifier: Subscription Unlocked | • Note: | App doesn't seem to work on iOS 18 and above. | ッ Jailbreak Repo | ♡ Support\n\n---\n1Blocker lets you block obtrusive ads, sneaky trackers, and annoying elements on sites. With 1Blocker, you’re safe online and nothing will distract you from enjoying sites.\n\n1Blocker is very easy to use — just flip a couple of switches to start blocking ads and trackers. The app will automatically receive cloud updates to the built-in filters silently, so you don’t need to do anything. It’s as simple as setting and forgetting.\n\n1Blocker is a fully native app designed to extend Safari naturally.",
+      "version": "6.4.3",
+      "versionDate": "2026-02-19T18:51:53-00:00",
+      "versionDescription": "Build 1339 from @blatants",
+      "size": 58015649,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/d0/ab/04d0ab88-59b5-9c68-e381-f32a92304533/Blocker-AppStore-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-20/1Blocker_Ad_Blocker_v6_1_4_Subscription_Unlocked_blatant_patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/1Blocker_Ad_Blocker_v6_4_3_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -256,7 +257,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "1Blocker_Ad_Blocker_v6_1_4_Subscription_Unlocked_blatant_patched.ipa"
+        "originalFile": "1Blocker_Ad_Blocker_v6_4_3_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -1015,18 +1016,19 @@
       "name": "Aloha",
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
       "developerName": "Aloha Mobile",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nAloha Browser - Private VPN | Subscription Unlocked | Login to activate subscription\n\n---\nAloha Browser is the ultimate private browser, providing unparalleled privacy and security for all your browsing needs.\n\nWith hundreds of millions of users around the world, Aloha has earned a 5-star rating in many countries, thanks to its clean interface, ease of use, and awesome features.\n\nWith Aloha, you'll enjoy:\n\nPRIVACY: We don't log any of your activity and will never share it with anyone, because we have nothing to share. You can browse with complete peace of mind.\nUNLIMITED VPN: Aloha t",
-      "version": "8.1.0",
-      "versionDate": "2026-02-14T22:48:40-00:00",
-      "versionDescription": "Build 8 from @blatants",
-      "size": 86930512,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AlohaBrowser, CachefixPatch, CydiaSubstrate, blatantsPatch\n\nAloha Browser - Private VPN | • Patched | • Modifier: Subscription Unlocked | • Note: | Login to activate subscription | ッ Jailbreak Repo | ♡ Support\n\n---\nAloha Browser is the ultimate private browser, providing unparalleled privacy and security for all your browsing needs.\n\nWith hundreds of millions of users around the world, Aloha has earned a 5-star rating in many countries, thanks to its clean interface, ease of use, and awesome features.\n\nWith Aloha, you'll enjoy:\n\nPRIVACY: We don't log any of your activity and will never share it with anyone, because we have nothing to share. You can browse with complete peace of mind.\nUNLIMITED VPN: Aloha t",
+      "version": "8.1.1",
+      "versionDate": "2026-02-19T18:52:53-00:00",
+      "versionDescription": "Build 2 from @blatants",
+      "size": 144735153,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/ee/0c/4fee0ca8-42bf-d71d-7a2e-ef3f8343b3a2/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Aloha_Browser_Private_VPN_v8_1_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Aloha_Browser_Private_VPN_v8_1_1_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -1034,7 +1036,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Aloha_Browser_Private_VPN_v8_1_0_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "Aloha_Browser_Private_VPN_v8_1_1_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -1896,6 +1898,33 @@
       }
     },
     {
+      "name": "Bandish",
+      "bundleIdentifier": "com.pm2877.bandish",
+      "developerName": "Metapod LLC",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, StopReviews, Tg_Sa1y0miii26, sideloadKeychainfix1, sideloadKeychainfix2\n\n---\nBandish – Tabla, Tanpura & Manjira: Elevate Your Indian Classical Music Practice\n\nWhether you are a seasoned musician or just starting your journey, Bandish is your ultimate digital accompanist for Indian classical music. With authentic tabla, tanpura, and manjira sounds, Bandish transforms your riyaz (practice), teaching sessions, or performances into immersive experiences. Designed for both students and professionals, Bandish offers an intuitive interface, powerful tools, and professional-qual",
+      "version": "1.5.1",
+      "versionDate": "2026-02-19T18:29:39-00:00",
+      "versionDescription": "Build 25 from @binnichtaktivsipas",
+      "size": 46815928,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/52/c4/ef/52c4efa5-5853-e179-3903-aaad27675d98/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Bandish_v1.5.1_tg%40Sa1y0miii.ipa",
+      "minOSVersion": "15.6",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "‎Bandish_v1.5.1_tg@Sa1y0miii.ipa"
+      }
+    },
+    {
       "name": "BandLab",
       "bundleIdentifier": "com.bandlab.bandlab.iphone",
       "developerName": "BandLab Singapore Pte Ltd",
@@ -2724,6 +2753,33 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Bratz-v1.1.0-AppTesters.ipa"
+      }
+    },
+    {
+      "name": "Breeze",
+      "bundleIdentifier": "com.basenji.mood",
+      "developerName": "Basenji Apps",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysbreeze, zxPluginsInject\n\nBreeze: Start Self-Discovery | Subscription Unlocked | Notes: restart app if subscription isn't unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nFeel more like yourself — one small step at a time\nBreeze is your daily companion for self-discovery, self-care, and mental health support. We believe understanding how you feel is the first step toward living with more clarity, balance, and purpose.\n\nDiscover what makes you you\n\nExplore tools designed to help you reflect, grow, and reconnect with yourself.\nLearn about your:\n- Strengths and patterns\n- Personality traits and communication style\n- Emotional responses and impulse control\n- Ideal ca",
+      "version": "3.4.5",
+      "versionDate": "2026-02-19T18:54:55-00:00",
+      "versionDescription": "Build 260471642 from @riftysIPAlibrary",
+      "size": 191297889,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/21/94/a1219438-6381-24a9-ddef-03de0a5a17a0/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Breeze.Start.Self-Discovery-v3.4.5-riftysipas.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@riftysIPAlibrary",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Breeze: Start Self-Discovery-v3.4.5-riftysipas.ipa"
       }
     },
     {
@@ -6979,13 +7035,13 @@
       "name": "Flight Tracker",
       "bundleIdentifier": "com.iaftt.flightplusfree",
       "developerName": "Impala Studios",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: blatantsPatch, flighttracker+\n\nFlight Tracker + | Subscription Unlocked\n\n---\nFlight delays. Unclear gate changes. Last-minute cancellations.\n\nTravel should be exciting — not stressful. Whether you're catching a flight, picking up family from the airport, or following someone’s journey across the globe, staying informed shouldn't require checking five different apps.\n\nFlight Tracker + brings everything into one place — a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smar",
-      "version": "8.7.2",
-      "versionDate": "2026-02-09T12:53:17-00:00",
-      "versionDescription": "Build 16619 from @blatants",
-      "size": 118365817,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: blatantsPatch, flighttracker+\n\nFlight Tracker + | • Patched | • Modifier: Subscription Unlocked | ッ Jailbreak Repo | ♡ Support\n\n---\nFlight delays. Unclear gate changes. Last-minute cancellations.\n\nTravel should be exciting — not stressful. Whether you're catching a flight, picking up family from the airport, or following someone’s journey across the globe, staying informed shouldn't require checking five different apps.\n\nFlight Tracker + brings everything into one place — a real-time flight tracker, airline flight status tracker, and interactive flight radar 24/7 tool that helps you plan better, react faster, and travel smar",
+      "version": "8.7.3",
+      "versionDate": "2026-02-19T18:35:01-00:00",
+      "versionDescription": "Build 16675 from @blatants",
+      "size": 118188773,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/d3/27/3dd327c4-8e7f-3e1f-1538-a72d1ccefbad/tft_appicon_2025-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Flight_Tracker_%2B_v8_7_2_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Flight_Tracker_%2B_v8_7_3_Subscription_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -6999,7 +7055,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Flight_Tracker_+_v8_7_2_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "Flight_Tracker_+_v8_7_3_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -9457,14 +9513,14 @@
       "name": "Instagram",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, IGFormat, IGHDMedia, blatantsPatch, sideloadFixerLol\n\nInstagram IGFormat | Make Instagram Better! | Telegram channel | Minimum OS version 16.3\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Regram, RegramCrack, RegramExtension\n\n---\nLittle moments lead to big friendships. Share yours on Instagram.\n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\n- Start group chat",
       "version": "417.1.0",
-      "versionDate": "2026-02-19T13:18:24-00:00",
+      "versionDate": "2026-02-19T18:41:27-00:00",
       "versionDescription": "Build 885644877 from @binnichtaktivsipas",
-      "size": 245826866,
+      "size": 299383757,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/75/3f/b1753f00-8d4b-edc4-e98e-ef644ba264f6/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Instagram.IGFormat.417.1.0.ipa",
-      "minOSVersion": "16.3",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Instagram_417.1.0_Regram.Crack.ipa",
+      "minOSVersion": "10.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -9476,7 +9532,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Instagram IGFormat 417.1.0.ipa"
+        "originalFile": "Instagram_417.1.0_Regram Crack.ipa"
       }
     },
     {
@@ -9638,18 +9694,19 @@
       "name": "iTranslate",
       "bundleIdentifier": "com.outerspaceapps.itranslate",
       "developerName": "Mosaic S.r.l.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, blatantsPatch, iTranslateTranslator\n\niTranslate Translator | Subscription Unlocked\n\n---\niTranslate is one of the leading translation and dictionary apps designed to help you break language barriers with ease. Seamlessly translate text, websites, objects, or start voice-to-voice conversations in over 100 languages. Our unique Custom Phrasebook feature allows you to learn new languages and create personalized collections of phrases for various life situations. And if you need to use iTranslate abroad, our Offline Mode allows you to forget about paying expensive roaming charges.\n\nFEAT",
-      "version": "17.4.70",
-      "versionDate": "2026-02-14T22:48:33-00:00",
-      "versionDescription": "Build 495 from @blatants",
-      "size": 86655564,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, blatantsPatch, iTranslateTranslator\n\niTranslate Translator | • Patched | • Modifier: Subscription Unlocked | ッ Jailbreak Repo | ♡ Support\n\n---\niTranslate is one of the leading translation and dictionary apps designed to help you break language barriers with ease. Seamlessly translate text, websites, objects, or start voice-to-voice conversations in over 100 languages. Our unique Custom Phrasebook feature allows you to learn new languages and create personalized collections of phrases for various life situations. And if you need to use iTranslate abroad, our Offline Mode allows you to forget about paying expensive roaming charges.\n\nFEAT",
+      "version": "17.4.71",
+      "versionDate": "2026-02-19T18:44:40-00:00",
+      "versionDescription": "Build 499 from @blatants",
+      "size": 100679049,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/09/35/6c0935cc-cd6e-65fd-8012-850a3722bc3b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/iTranslate_Translator_v17_4_70_Subscription_Unlocked_blatant_Patched.ipa",
-      "minOSVersion": "15.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/iTranslate_Translator_v17_4_71_Subscription_Unlocked_blatant_Patched.ipa",
+      "minOSVersion": "14.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -9657,7 +9714,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "iTranslate_Translator_v17_4_70_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "iTranslate_Translator_v17_4_71_Subscription_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -10855,13 +10912,13 @@
       "name": "LookUp",
       "bundleIdentifier": "in.muditbhargava.LookUp",
       "developerName": "Squircle Apps LLP",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: LookUp, blatantsPatch, sideloadKeychainfix\n\nLookUp: English Dictionary\nLookUp+ Lifetime\n>⚠️ Will crash with certificates if they are missing cloudKit entitlement.\n\n---\nBuild your Vocabulary through Beautiful Word of the Day and Interactive Quizzes!\nLookUp is the ultimate word reference app that combines a comprehensive English Dictionary with powerful vocabulary building tools. The app is perfect for English Learners and Word Enthusiasts who want to build their English Vocabulary.\n\n1. Beautiful Word of the Day: Illustrations ensure that you have fun while also creating a visual memory of the word you’re viewing, making the learning process faster than having t",
-      "version": "12.0.8",
-      "versionDate": "2026-01-26T10:59:42-00:00",
-      "versionDescription": "Build 233 from @blatants",
-      "size": 201256795,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/8e/ea/218eea0b-c688-00fa-8378-77d3c5ba213f/LiquidLookUp-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-26-1/LookUp_English_Dictionary_v12_0_8_LookUp%2B_Lifetime_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: LookUp, blatantsPatch, sideloadKeychainfix\n\nLookUp: English Dictionary\n• Patched\n• Modifier: LookUp+ Lifetime\n• Note:\n>⚠️ Will crash with certificates if they are missing cloudKit entitlement.\nッ Jailbreak Repo | ♡ Support\n\n---\nBuild your Vocabulary through Beautiful Word of the Day and Interactive Quizzes!\nLookUp is the ultimate word reference app that combines a comprehensive English Dictionary with powerful vocabulary building tools. The app is perfect for English Learners and Word Enthusiasts who want to build their English Vocabulary.\n\n1. Beautiful Word of the Day: Illustrations ensure that you have fun while also creating a visual memory of the word you’re viewing, making the learning process faster than having t",
+      "version": "12.0.9",
+      "versionDate": "2026-02-19T18:42:01-00:00",
+      "versionDescription": "Build 239 from @blatants",
+      "size": 201267999,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/1e/e8/871ee861-a3c2-f032-e397-d481c59d9805/LiquidLookUp-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/LookUp_English_Dictionary_v12_0_9_LookUp%2B_Lifetime_blatant_Patched.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -10875,7 +10932,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "LookUp_English_Dictionary_v12_0_8_LookUp+_Lifetime_blatant_Patched.ipa"
+        "originalFile": "LookUp_English_Dictionary_v12_0_9_LookUp+_Lifetime_blatant_Patched.ipa"
       }
     },
     {
@@ -12315,6 +12372,32 @@
       }
     },
     {
+      "name": "MyVocab",
+      "bundleIdentifier": "vladchechura.VocabularyEN",
+      "developerName": "Positive Mindset sp. z o. o.",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMyVocab - Learn new words | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nLearn new words to express your thoughts clearly. Boost your writing skills and speak with confidence, whether at school, work, or home. Ace your exams and get comfortable with complex articles.\n\nStrong vocabulary skills are crucial for communicating with clarity and confidence. As you learn new words, you improve your ability to express your thoughts effectively. English language, with its rich lexicon, provides an endless array of words to discover and use. The effort you put into expanding yo",
+      "version": "1.3.9",
+      "versionDate": "2026-02-19T18:53:58-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 87166723,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/ce/74/90ce74ac-5188-3c01-6e3e-6970e22233fc/App_Icon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/MyVocab.-.Learn.new.words-v1.3.9-riftysipas.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@riftysIPAlibrary",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "MyVocab - Learn new words-v1.3.9-riftysipas.ipa"
+      }
+    },
+    {
       "name": "Möbius Sync",
       "bundleIdentifier": "com.PickupInfinity.MobiusSync",
       "developerName": "Pickup Infinity Limited",
@@ -13055,25 +13138,27 @@
       "name": "Opal",
       "bundleIdentifier": "com.withopal.opal",
       "developerName": "Opal OS",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: OpalUnlocked, Sideloadbypass1, Sideloadbypass2\n\n- new app: Opal v3.56\n— a screentime manager!\n- pro unlocked by me\n@zxcvbntweaked | requires iOS >=16.0 | request cracks\n\n---\nAchieve screen time control with the world’s most-loved screen time app! Opal is the fun, free Screen Time app to improve your focus and make the most out of every day.\n\n5 to 6 hours. That’s the average time you’ll spend looking at your phone today, often without realizing it. It's time to fight back. With a combination of screen time control, app limits, app blockers, real time data, leaderboards and rewards, you will focus better and accomplish your dreams, just like Opal’s members.\n\nAs of Nov",
-      "version": "3.56",
-      "versionDate": "2026-01-30T10:11:04-00:00",
-      "versionDescription": "Build 2403201737.0 from @binnichtaktivsipas",
-      "size": 79470141,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nOpal: Screen Time Control | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nAchieve screen time control with the world’s most-loved screen time app! Opal is the fun, free Screen Time app to improve your focus and make the most out of every day.\n\n5 to 6 hours. That’s the average time you’ll spend looking at your phone today, often without realizing it. It's time to fight back. With a combination of screen time control, app limits, app blockers, real time data, leaderboards and rewards, you will focus better and accomplish your dreams, just like Opal’s members.\n\nAs of Nov",
+      "version": "3.149",
+      "versionDate": "2026-02-19T18:54:24-00:00",
+      "versionDescription": "Build 0213142246 from @riftysIPAlibrary",
+      "size": 166311618,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/eb/b4/9debb421-c2a6-2814-f4a6-81c0ca7ffc6b/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/OpalPro-3.56-zxcvbn.ipa",
-      "minOSVersion": "16.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Opal.Screen.Time.Control-v3.149-riftysipas.ipa",
+      "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        1
+        0,
+        1,
+        2
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "OpalPro-3.56-zxcvbn.ipa"
+        "originalFile": "Opal: Screen Time Control-v3.149-riftysipas.ipa"
       }
     },
     {
@@ -16684,13 +16769,13 @@
       "bundleIdentifier": "jp.tyabaken.kaimono",
       "developerName": "kenta ito",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nShopii - Grocery List & To Do | Pro Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nThis shopping list app is packed with smart, convenient features to make every trip smoother and more organized. You can\narrange items in two columns, grouped by colorful, customizable tags, so everything stays clear at a glance. Create separate\nlists for each store, and predictive suggestions offer frequently purchased items drawn from your past lists—saving you time\nand effort. Adjust the font across four sizes for easier viewing, and switch on dark mode for comfortable shopping at night.\n\nRem",
-      "version": "4.4.1",
-      "versionDate": "2026-02-19T13:13:22-00:00",
+      "version": "4.4.2",
+      "versionDate": "2026-02-19T18:29:39-00:00",
       "versionDescription": "Build 2 from @riftysIPAlibrary",
-      "size": 14987017,
+      "size": 14877092,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/a4/f6/b4a4f6da-f88e-b1fc-5f06-4a85691f1d07/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Shopii.-.Grocery.List.To.Do-v4.4.1-riftysipas.ipa",
-      "minOSVersion": "14.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Shopii.-.Grocery.List.To.Do-v4.4.2-riftysipas.ipa",
+      "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -16703,7 +16788,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Shopii - Grocery List & To Do-v4.4.1-riftysipas.ipa"
+        "originalFile": "Shopii - Grocery List & To Do-v4.4.2-riftysipas.ipa"
       }
     },
     {
@@ -17881,12 +17966,12 @@
       "bundleIdentifier": "io.fadel.Spiik",
       "developerName": "Fadel.io OU",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nVoice Recorder AI Notes: Spiik | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nSpiik is an easy-to-use voice recording and auto-transcribing app. Record lectures, interviews, meetings, personal notes or ideas and get automatic transcriptions.\n\nGenerate detailed notes, summaries, quizzes, flashcards from your recordings with our built-in AI.\n\nFEATURES:\n\n• Record, save and replay audio without limits.\n\n• Transcribe and translate in over 100 languages.\n\n• Generate structured notes, summaries, quizzes, flashcards, and more with our AI-powered note taker.\n\n• Organize your recor",
-      "version": "1.0.123",
-      "versionDate": "2026-02-10T01:17:40-00:00",
-      "versionDescription": "Build 124 from @riftysIPAlibrary",
-      "size": 22955459,
+      "version": "1.0.127",
+      "versionDate": "2026-02-19T18:50:25-00:00",
+      "versionDescription": "Build 127 from @riftysIPAlibrary",
+      "size": 22887258,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/87/4f/85874f83-3d36-3292-fd12-57a268dd626c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Voice.Recorder.AI.Notes.Spiik-v1.0.123-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Voice.Recorder.AI.Notes.Spiik-v1.0.127-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -17900,7 +17985,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Voice Recorder AI Notes: Spiik-v1.0.123-riftysipas.ipa"
+        "originalFile": "Voice Recorder AI Notes: Spiik-v1.0.127-riftysipas.ipa"
       }
     },
     {
@@ -20342,13 +20427,13 @@
       "name": "Truecaller",
       "bundleIdentifier": "com.truesoftware.TrueCallerOther",
       "developerName": "True Software Scandinavia AB",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, blatantsPatch, truecaller-crack\n\n---\nWith Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\n\n#1 CALLER ID & SPAM BLOCKING APP WORLDWIDE\n\n• An all new Caller ID experience on iPhone with iOS 18.2 and above\n• Automatically identify spam, fraud, and ro",
-      "version": "14.43.5",
-      "versionDate": "2026-02-13T04:32:01-00:00",
-      "versionDescription": "Build 14.43.5 from @binnichtaktivsipas",
-      "size": 73242318,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Truecaller, blatantsPatch\n\nTruecaller: Premium Caller ID | • Reuploaded: 26.6 | • Patched | • Modifier: Gold Unlocked | • Note: | App requires a paid cert to function properly | ッ Jailbreak Repo | ♡ Support\n\n---\nWith Truecaller, you can easily identify and block spam calls or SMS and search for unknown numbers. Leveraging AI pattern analytics with community-based spam classifications from over 450 million users and offering a range of thoughtfully designed features, Truecaller ensures the safety and security of your communication like no other app.\n\n#1 CALLER ID & SPAM BLOCKING APP WORLDWIDE\n\n• An all new Caller ID experience on iPhone with iOS 18.2 and above\n• Automatically identify spam, fraud, and ro",
+      "version": "26.6.5",
+      "versionDate": "2026-02-19T18:52:59-00:00",
+      "versionDescription": "Build 26.6.5 from @blatants",
+      "size": 83175321,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/e5/7c/c5e57c01-37ec-0d1d-46fe-d25ba377ea67/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Truecaller_14.43.5_gold-autoblock-fix.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Truecaller_Premium_Caller_ID_v26_6_Gold_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -20357,10 +20442,10 @@
         1
       ],
       "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
+        "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Truecaller_14.43.5_gold-autoblock-fix.ipa"
+        "originalFile": "Truecaller_Premium_Caller_ID_v26_6_Gold_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -22421,27 +22506,25 @@
       "name": "رشاقة",
       "bundleIdentifier": "com.madarsoft.fitness",
       "developerName": "Madar Al Parmaga",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Rashaqa, blatantsPatch, sideloadKeychainfix\n\nخطواتي سعراتي تمرين - رشاقة | Pro Unlocked\n\n---\nRashaqa is an app for health and wellness\n\nRashaqa is an all-in-one health and fitness app that offers several advantages to its users. Among its features, the Calories Scanner stands out as a powerful tool for managing your diet and achieving your health goals. Here’s what you need to know:\nCalorie Tracking:\nRashaqa provides you with a calorie tracker program for all your meals. Whether you’re following a specific diet plan, practicing intermittent fasting, or simply aiming for weight loss, thi",
-      "version": "17.0",
-      "versionDate": "2026-02-17T11:38:24-00:00",
-      "versionDescription": "Build 30.0 from @blatants",
-      "size": 228562316,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Rashaqa, blatantsPatch, sideloadKeychainfix\n\nخطواتي سعراتي تمرين - رشاقة | • Patched | • Modifier: Pro Unlocked | • Note: | ッ Jailbreak Repo | ♡ Support\n\n---\nRashaqa is an app for health and wellness\n\nRashaqa is an all-in-one health and fitness app that offers several advantages to its users. Among its features, the Calories Scanner stands out as a powerful tool for managing your diet and achieving your health goals. Here’s what you need to know:\nCalorie Tracking:\nRashaqa provides you with a calorie tracker program for all your meals. Whether you’re following a specific diet plan, practicing intermittent fasting, or simply aiming for weight loss, thi",
+      "version": "17.1",
+      "versionDate": "2026-02-19T18:41:27-00:00",
+      "versionDescription": "Build 25.0 from @blatants",
+      "size": 228593067,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/25/2e/41252e51-c9ff-e55c-0fb5-1f2c0dd48a68/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/_._._._v17_0_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/_._._._v17_1_Pro_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "خطواتي_سعراتي_تمرين_رشاقة_v17_0_Pro_Unlocked_blatant_Patched.ipa"
+        "originalFile": "خطواتي_سعراتي_تمرين_رشاقة_v17_1_Pro_Unlocked_blatant_Patched.ipa"
       }
     },
     {
