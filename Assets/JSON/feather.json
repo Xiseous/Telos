@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.albernackee.blur",
-    "ideastudio.Weather-on-the-Way",
-    "com.bbauman.Scripty",
-    "com.northstar.gratitude",
-    "co.lovetap.Female-by-Design"
+    "com.spotify.client",
+    "com.facebook.Facebook",
+    "com.tripleglazedstudios.Weather",
+    "com.khanov.BlockerX",
+    "com.ocho.SudokuaDay"
   ],
   "apps": [
     {
@@ -349,15 +349,15 @@
       "name": "1Blocker",
       "bundleIdentifier": "com.khanov.BlockerX",
       "developerName": "1Blocker LLC",
-      "subtitle": "Tweaked with AutoRcSideload, blatantsPatch",
+      "subtitle": "Tweaked with 1BlockerSafariAdBlockPatch, sideloadKeychainfix",
       "version": "6.4.3",
-      "versionDate": "2026-02-19",
-      "versionDescription": "Version: 6.4.3\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/1Blocker_Ad_Blocker_v6_4_3_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\n1Blocker: Ad Blocker | • Patched | • Modifier: Subscription Unlocked | • Note: | App doesn't seem to work on iOS 18 and above. | ッ Jailbreak Repo | ♡ Support\n\n---\n1Blocker lets you block obtrusive ads, sneaky trackers, and annoying elements on sites. With 1Blocker, you’re safe online and nothing will distract you from enjoying sites.\n\n1Blocker is very easy to use — just flip a couple of switches to start blocking ads and trackers. The app will automatically receive cloud updates to the built-in filters silently, so you don’t need to do anything. It’s as simple as setting and forgetting.\n\n1Blocker is a fully native app designed to extend Safari naturally.",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Version: 6.4.3\n\nTweaks: 1BlockerSafariAdBlockPatch, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/1Blocker.Pro.6.4.3.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: 1BlockerSafariAdBlockPatch, sideloadKeychainfix\n\n1Blocker - Ad Blocker\nAppgroup entitlement has to be enabled and configured\nTweak made by Никита\nMinimum OS version 16.0\n\n---\n1Blocker lets you block obtrusive ads, sneaky trackers, and annoying elements on sites. With 1Blocker, you’re safe online and nothing will distract you from enjoying sites.\n\n1Blocker is very easy to use — just flip a couple of switches to start blocking ads and trackers. The app will automatically receive cloud updates to the built-in filters silently, so you don’t need to do anything. It’s as simple as setting and forgetting.\n\n1Blocker is a fully native app designed to extend Safari naturally.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/d0/ab/04d0ab88-59b5-9c68-e381-f32a92304533/Blocker-AppStore-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 58015649,
+      "size": 55074960,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -373,6 +373,20 @@
       "versions": [
         {
           "version": "6.4.3",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 6.4.3\n\nTweaks: 1BlockerSafariAdBlockPatch, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/1Blocker.Pro.6.4.3.ipa",
+          "size": 55074960
+        },
+        {
+          "version": "6.4.3b",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 6.4.3\n\nTweaks: 1BlockerSafariAdBlockPatch, sideloadKeychainfix\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/1Blocker.Pro.6.4.3.ipa",
+          "size": 55074960
+        },
+        {
+          "version": "6.4.3c",
           "date": "2026-02-19",
           "localizedDescription": "Version: 6.4.3\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/1Blocker_Ad_Blocker_v6_4_3_Subscription_Unlocked_blatant_Patched.ipa",
@@ -384,20 +398,6 @@
           "localizedDescription": "Version: 6.1.4\n\nTweaks: AutoRevenueCat, b1atantPluginsInject\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-20/1Blocker_Ad_Blocker_v6_1_4_Subscription_Unlocked_blatant_patched.ipa",
           "size": 36751022
-        },
-        {
-          "version": "6.4.2",
-          "date": "2026-02-04",
-          "localizedDescription": "Version: 6.4.2\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-17/1Blocker_Ad_Blocker_v6_4_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 57952977
-        },
-        {
-          "version": "6.4.2b",
-          "date": "2026-02-04",
-          "localizedDescription": "Version: 6.4.2\n\nTweaks: AutoRcSideload, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-17/1Blocker_Ad_Blocker_v6_4_2_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 57952977
         }
       ],
       "category": "utilities"
@@ -8044,13 +8044,6 @@
           "size": 45121586
         },
         {
-          "version": "2.40b",
-          "date": "2026-02-21",
-          "localizedDescription": "Version: 2.40\n\nTweaks: CydiaSubstrate, FilePickerFix, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Coconote.-.AI.Note.Taker-v2.40-riftysipas.ipa",
-          "size": 45121586
-        },
-        {
           "version": "2.39",
           "date": "2026-02-15",
           "localizedDescription": "Version: 2.39\n\nTweaks: AutoRcSideload, FilePickerFix, StopReviewPopup, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
@@ -8063,6 +8056,13 @@
           "localizedDescription": "Version: 2.38\n\nTweaks: CydiaSubstrate, FilePickerFix, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Coconote.-.AI.Note.Taker-v2.38-riftysipas.ipa",
           "size": 45095737
+        },
+        {
+          "version": "2.38b",
+          "date": "2026-02-09",
+          "localizedDescription": "Version: 2.38\n\nTweaks: AutoRcSideload, FilePickerFix, StopReviewPopup, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Coconote.-.AI.Note.Taker.v2.38.Pro.Unlocked.blatant.Patched.ipa",
+          "size": 48908815
         }
       ],
       "category": "education"
@@ -12479,14 +12479,14 @@
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta Platforms, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Glow",
-      "version": "548.0.0",
-      "versionDate": "2026-02-13",
-      "versionDescription": "Version: 548.0.0\n\nTweaks: CydiaSubstrate, Glow\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Facebook.Glow.548.0.0.ipa",
+      "version": "549.0.0",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Version: 549.0.0\n\nTweaks: CydiaSubstrate, Glow\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Facebook.Glow.549.0.0.ipa",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Glow\n\nFacebook\nA simple, clean, and powerful tweak for Facebook\nGlow settings are available via long press on any tab\nMinimum OS version 15.1\n\n---\nWhere real people propel your curiosity. Whether you’re thrifting gear, showing reels to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests:\n Shop Marketplace for hidden gems and take your hobbies to the next level\n Personalize your Feed to see more of what you like, less of what you don’t\n Ask Meta AI for information and get answers instantly\n Drive into reels that ref",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/28/ec/2a28ecf0-8fdc-ba58-9c16-be7a57049c33/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 167791205,
+      "size": 167710546,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7e/a5/75/7ea575a5-a4cd-a468-f1f4-0bdafcb9251f/f254967c-6ef9-4cc6-b4bf-e89cf016337c_1-iOS-5.5-Home.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/12/ec/4812ecdc-25dc-c18e-b4dd-3c3321a838e9/c795c58d-ec37-463c-9ab9-ba0b8bc00ddd_2-iOS-5.5-Reels.png/392x696bb.png",
@@ -12533,6 +12533,20 @@
       },
       "versions": [
         {
+          "version": "549.0.0",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 549.0.0\n\nTweaks: CydiaSubstrate, Glow\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Facebook.Glow.549.0.0.ipa",
+          "size": 167710546
+        },
+        {
+          "version": "549.0.0b",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 549.0.0\n\nTweaks: CydiaSubstrate, Glow\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Facebook.Glow.549.0.0.ipa",
+          "size": 167710546
+        },
+        {
           "version": "548.0.0",
           "date": "2026-02-13",
           "localizedDescription": "Version: 548.0.0\n\nTweaks: CydiaSubstrate, Glow\n\nSource: @binnichtaktivsipas",
@@ -12545,20 +12559,6 @@
           "localizedDescription": "Version: 460.0.0\n\nTweaks: CydiaSubstrate, FBSideloadfix, Wolf\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-4/FacebookWolf-460.0.0-zxcvbn.ipa",
           "size": 143480089
-        },
-        {
-          "version": "462.0.0",
-          "date": "2026-01-29",
-          "localizedDescription": "Version: 462.0.0\n\nTweaks: CydiaSubstrate, FBSideloadfix, Wolf\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-3/FacebookWolf-462.0.0-zxcvbn.ipa",
-          "size": 144502798
-        },
-        {
-          "version": "519.0.0",
-          "date": "2026-01-13",
-          "localizedDescription": "Version: 519.0.0\n\nTweaks: CydiaSubstrate, Glow\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-7/glow_1.3.1%2B519.0.ipa",
-          "size": 170243561
         }
       ],
       "category": "social-networking"
@@ -14506,13 +14506,6 @@
           "localizedDescription": "Version: 4.7.0\n\nTweaks: FLowPro\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Flow.Pro.4.7.0.ipa",
           "size": 19175379
-        },
-        {
-          "version": "4.7.0b",
-          "date": "2026-02-21",
-          "localizedDescription": "Version: 4.7.0\n\nTweaks: FLowPro\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Flow.Pro.4.7.0.ipa",
-          "size": 19175379
         }
       ],
       "category": "productivity"
@@ -16331,13 +16324,6 @@
       "versions": [
         {
           "version": "5.4.6",
-          "date": "2026-02-21",
-          "localizedDescription": "Version: 5.4.6\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Gratitude.Self-Care.Journal-v5.4.6-riftysipas.ipa",
-          "size": 43352236
-        },
-        {
-          "version": "5.4.6b",
           "date": "2026-02-21",
           "localizedDescription": "Version: 5.4.6\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Gratitude.Self-Care.Journal-v5.4.6-riftysipas.ipa",
@@ -20782,13 +20768,6 @@
           "localizedDescription": "Version: 6.6.0\n\nTweaks: CydiaSubstrate, LifePatch\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Life.-.Period.Tracker.Calendar.Premium.6.6.0.ipa",
           "size": 34603382
-        },
-        {
-          "version": "6.6.0b",
-          "date": "2026-02-21",
-          "localizedDescription": "Version: 6.6.0\n\nTweaks: CydiaSubstrate, LifePatch\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Life.-.Period.Tracker.Calendar.Premium.6.6.0.ipa",
-          "size": 34603382
         }
       ],
       "category": "health-&-fitness"
@@ -22721,14 +22700,14 @@
       "bundleIdentifier": "com.tripleglazedstudios.Weather",
       "developerName": "Triple Glazed Studios",
       "subtitle": "Tweaked with MercuryWeather, blatantsPatch",
-      "version": "3.4",
-      "versionDate": "2026-02-20",
-      "versionDescription": "Version: 3.4\n\nTweaks: MercuryWeather, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Mercury.Weather.v3.4.Premium.Unlocked.blatant.Patched.ipa",
+      "version": "3.4.1",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Version: 3.4.1\n\nTweaks: MercuryWeather, blatantsPatch\n\nSource: @blatants",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Mercury.Weather.v3.4.1.Premium.Unlocked.blatant.Patched.ipa",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MercuryWeather, blatantsPatch\n\nMercury Weather\n• Patched\n• Modifier: Premium Unlocked\n• Note:\nWidgets work when installed with a certificate with Appgroups enabled.\nッ Jailbreak Repo | ♡ Support\n\n---\n\"It's a weather app. How much is there to say?\"\n– Malin from Triple Glazed Studios' crack product marketing team\n\nTOP FEATURES\n– Beautiful weather charts\n– Detailed daily forecast\n– Trip Forecast\n– Incredibly accurate rain forecast\n– Hurricane and storm tracking\n– Tide forecasts\n– Weather notifications\n– Radar map\n– Simple yet powerful Apple Watch app\n– Easy to glance home screen and lock screen widgets\n– Weather normals\n\nPrivacy policy:\nTerms of use:",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/37/1a/bf371ae0-6c3b-496a-90c4-26c38944ec2e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 58571434,
+      "size": 58808180,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/8c/0f/018c0f45-a584-4486-810a-9663390bab69/a82e0142-1870-4263-803d-2171428787e1_Screen_1.png/552x414bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/aa/61/19aa61af-c94c-9c9f-5efb-e927cfa6cf68/60a27770-4683-4b4d-a3cb-f43bc602daf4_Screen_2.png/552x414bb.png",
@@ -22743,6 +22722,20 @@
         }
       },
       "versions": [
+        {
+          "version": "3.4.1",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 3.4.1\n\nTweaks: MercuryWeather, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Mercury.Weather.v3.4.1.Premium.Unlocked.blatant.Patched.ipa",
+          "size": 58808180
+        },
+        {
+          "version": "3.4.1b",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 3.4.1\n\nTweaks: MercuryWeather, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Mercury.Weather.v3.4.1.Premium.Unlocked.blatant.Patched.ipa",
+          "size": 58808180
+        },
         {
           "version": "3.4",
           "date": "2026-02-20",
@@ -22847,18 +22840,18 @@
     },
     {
       "beta": false,
-      "name": "Messenger",
+      "name": "Messenger ",
       "bundleIdentifier": "com.facebook.Messenger",
       "developerName": "Meta Platforms, Inc.",
       "subtitle": "Tweaked with CydiaSubstrate, Flow",
-      "version": "515.0.0",
-      "versionDate": "2026-01-10",
-      "versionDescription": "Version: 515.0.0\n\nTweaks: CydiaSubstrate, Flow\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10/Messenger_515.0.0_Flow_1.0.0.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Flow\n\nFor anyone who doesn’t know how to sideload Facebook Messenger with the Flow tweak on iOS (note: versions 523 and later are broken and cannot use Flow or download messages):\nIf you already have an Apple certificate and use Feather, you won’t be able to install on iOS 26 anymore — switch to ZSign ( its interface is much better than Feather.\nAfter importing your certificate, use the Flow IPA version 515 — this build supports downloading encrypted messages and enables message preview (without being prompted to update to view messages).\nThat’s all for now.\n\n---\nMessenger is a free messaging app that helps you connect with anyone, anywhere. Stay in touch with your friends and family, explore your interests with people like you, build your community, and share your vibe beyond words, all in one app.\n\nCHAT AND CALL ANYONE, ANYWHERE\nFind and connect with your friends and family on Facebook and Messenger, no phone number needed.\n\nGET INSTANT ANSWERS FROM YOUR AI ASSISTANT\nMeta AI is your assistant that can answer any questions, give you advice, help with ho",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/a8/5d/89a85d04-8596-d103-f308-b2b1f27eada8/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "version": "549.1.0",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Version: 549.1.0\n\nTweaks: CydiaSubstrate, Flow\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Facebook.Messenger.Flow.549.1.0.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Flow\n\nFacebook Messenger Flow | A lightweight Messenger enhancer | Minimum OS version 15.1\n\n---\nMessenger is a free messaging app that helps you connect with anyone, anywhere. Stay in touch with your friends and family, explore your interests with people like you, build your community, and share your vibe beyond words, all in one app.\n\nCHAT AND CALL ANYONE, ANYWHERE\nFind and connect with your friends and family on Facebook and Messenger, no phone number needed.\n\nGET INSTANT ANSWERS FROM YOUR AI ASSISTANT\nMeta AI is your assistant that can answer any questions, give you advice, help with ho",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/9d/6f/0e9d6f8d-5226-4906-dfb2-9e3cb87884e0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 74339263,
+      "size": 67460995,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/ee/d8/c8eed8cc-f5ed-dc05-61f0-9505136d3398/7f6fd0a2-ee06-4b01-b04a-d9fec7b1c6de_iPad_2nd_Gen-_Screen_1.jpg/552x414bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/74/69/b8/7469b8c7-e6ab-1138-f838-e69ae640dc7c/c937f0f4-9f1f-4b81-8186-ea5d90618f1f_iPad_2nd_Gen_-_Screen_3.jpg/552x414bb.jpg"
@@ -22876,14 +22869,28 @@
           "NSCalendarsUsageDescription": "This will let Messenger sync events you're hosting or attending to your calendar.",
           "NSAppleMusicUsageDescription": "This lets you play Apple Music tracks, add tracks to your music library, and more.",
           "NSSiriUsageDescription": "This lets you use Siri to do things like make calls and read messages.",
-          "NSSpeechRecognitionUsageDescription": "Messenger will use speech recognition to generate captions as people speak.",
+          "NSSpeechRecognitionUsageDescription": "Messenger will use speech recognition to detect your confirmation.",
           "NSFaceIDUsageDescription": "Messenger uses Face ID to unlock the app.",
-          "NSBluetoothAlwaysUsageDescription": " This makes some features work with bluetooth accessories.",
+          "NSBluetoothAlwaysUsageDescription": "This makes some features work with bluetooth accessories.",
           "NSBluetoothPeripheralUsageDescription": "This makes some features work with bluetooth accessories.",
           "NSPhotoLibraryAddUsageDescription": "This lets you do things like save to your camera roll and enables other features for photos and videos."
         }
       },
       "versions": [
+        {
+          "version": "549.1.0",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 549.1.0\n\nTweaks: CydiaSubstrate, Flow\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Facebook.Messenger.Flow.549.1.0.ipa",
+          "size": 67460995
+        },
+        {
+          "version": "549.1.0b",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 549.1.0\n\nTweaks: CydiaSubstrate, Flow\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Facebook.Messenger.Flow.549.1.0.ipa",
+          "size": 67460995
+        },
         {
           "version": "515.0.0",
           "date": "2026-01-10",
@@ -23889,14 +23896,14 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "subtitle": "Tweaked with CydiaSubstrate, Sideloadbypass1",
-      "version": "2.9.7",
-      "versionDate": "2026-02-19",
-      "versionDescription": "Version: 2.9.7\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/MoneyCircle.Spending.Expense-v2.9.7-riftysipas.ipa",
+      "version": "2.9.8",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Version: 2.9.8\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/MoneyCircle.Spending.Expense-v2.9.8-riftysipas.ipa",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoneyCircle: Spending,Expense | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nTrack your spending with clarity and control — meet MoneyCircle.\n\nMoneyCircle makes it easy to understand where your money goes.\nWith clean design, smart categorization, and intuitive insights,\nyou’ll gain control of your finances and uncover new opportunities to save.\n\nIf you've tried other expense tracking apps but found them cluttered or overwhelming,\nMoneyCircle offers a refreshing alternative — simple, beautiful, and focused on what matters: your spending habits.\n\nKey Features\nSmart Categor",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/1f/a7/811fa7d5-d4db-247e-d0b7-c9e626223bff/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13482859,
+      "size": 13509421,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -23907,6 +23914,20 @@
         }
       },
       "versions": [
+        {
+          "version": "2.9.8",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 2.9.8\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/MoneyCircle.Spending.Expense-v2.9.8-riftysipas.ipa",
+          "size": 13509421
+        },
+        {
+          "version": "2.9.8b",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 2.9.8\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/MoneyCircle.Spending.Expense-v2.9.8-riftysipas.ipa",
+          "size": 13509421
+        },
         {
           "version": "2.9.7",
           "date": "2026-02-19",
@@ -24284,13 +24305,6 @@
       "versions": [
         {
           "version": "1.6.6",
-          "date": "2026-02-21",
-          "localizedDescription": "Version: 1.6.6\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/MusicBox.Save.Music.for.Later-v1.6.6-riftysipas.ipa",
-          "size": 20811442
-        },
-        {
-          "version": "1.6.6b",
           "date": "2026-02-21",
           "localizedDescription": "Version: 1.6.6\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/MusicBox.Save.Music.for.Later-v1.6.6-riftysipas.ipa",
@@ -26263,20 +26277,13 @@
         },
         {
           "version": "2.4.4b",
-          "date": "2026-02-21",
-          "localizedDescription": "Version: 2.4.4\n\nTweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Weather.on.the.Way.Pro.2.4.4.ipa",
-          "size": 43934077
-        },
-        {
-          "version": "2.4.4c",
           "date": "2026-02-19",
           "localizedDescription": "Version: 2.4.4\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Weather.on.the.Way-v2.4.4-riftysipas.ipa",
           "size": 44073825
         },
         {
-          "version": "2.4.4d",
+          "version": "2.4.4c",
           "date": "2026-02-18",
           "localizedDescription": "Version: 2.4.4\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Weather.on.the.Way-v2.4.4-riftysipas.ipa",
@@ -30458,13 +30465,6 @@
       "versions": [
         {
           "version": "1.1.2602191",
-          "date": "2026-02-21",
-          "localizedDescription": "Version: 1.1.2602191\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Treadmill.Workout.PushTraining-v1.1.2602191-riftysipas.ipa",
-          "size": 217197602
-        },
-        {
-          "version": "1.1.2602191b",
           "date": "2026-02-21",
           "localizedDescription": "Version: 1.1.2602191\n\nTweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Treadmill.Workout.PushTraining-v1.1.2602191-riftysipas.ipa",
@@ -35634,15 +35634,15 @@
       "name": "SoundLab",
       "bundleIdentifier": "com.castpeer.audioroom.ios",
       "developerName": "孛 刘",
-      "subtitle": "Tweaked with SoundLab, blatantsPatch",
+      "subtitle": "Tweaked with SoundLab",
       "version": "2.10.5",
-      "versionDate": "2026-02-19",
-      "versionDescription": "Version: 2.10.5\n\nTweaks: SoundLab, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/SoundLab_Audio_Editor_v2_10_5_Subscription_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SoundLab, blatantsPatch\n\nSoundLab - Audio Editor | • Patched | • Modifier: Subscription Unlocked | • Note: | Restart the app if subscription isn't active. | ッ Jailbreak Repo | ♡ Support\n\n---\nSoundLab bring desktop grade audio editing to mobile, as a audio editor in your pocket with following features:\n• Audio Editor: includes a 16-track, over 20 audio effects, and lossless output formats, complemented by an intuitive waveform interface with smooth zoom support.\n\n• AI Vocal Separator: employs machine learning to isolate vocal and instrumental stems.  No need to upload files or wait in line, all AI processing is done locally on your device.\n\n• Audio Recorder: Minimalist yet powerful,",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Version: 2.10.5\n\nTweaks: SoundLab\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/SoundLab.Pro.2.10.5.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SoundLab\n\nAudio Editor - SoundLab | Tweak made by blatant | Minimum OS version 15.6\n\n---\nSoundLab bring desktop grade audio editing to mobile, as a audio editor in your pocket with following features:\n• Audio Editor: includes a 16-track, over 20 audio effects, and lossless output formats, complemented by an intuitive waveform interface with smooth zoom support.\n\n• AI Vocal Separator: employs machine learning to isolate vocal and instrumental stems.  No need to upload files or wait in line, all AI processing is done locally on your device.\n\n• Audio Recorder: Minimalist yet powerful,",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/77/23/c2772343-08bb-a3f5-a3aa-ad73058e756c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 133131450,
+      "size": 130003255,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/52/83/a652835b-b792-4f73-554f-ba5f862e6519/7b4b776d-48d9-4dbb-bf6d-961f373def76_guide2208_01.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/92/10/d39210a0-beb8-014a-da82-fcc64b6a1c15/69d3a51e-d7de-4cf8-92a7-a72d2aac193c_guide2208_04.png/392x696bb.png",
@@ -35662,6 +35662,20 @@
       "versions": [
         {
           "version": "2.10.5",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 2.10.5\n\nTweaks: SoundLab\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/SoundLab.Pro.2.10.5.ipa",
+          "size": 130003255
+        },
+        {
+          "version": "2.10.5b",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 2.10.5\n\nTweaks: SoundLab\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/SoundLab.Pro.2.10.5.ipa",
+          "size": 130003255
+        },
+        {
+          "version": "2.10.5c",
           "date": "2026-02-19",
           "localizedDescription": "Version: 2.10.5\n\nTweaks: SoundLab, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/SoundLab_Audio_Editor_v2_10_5_Subscription_Unlocked_blatant_Patched.ipa",
@@ -35673,20 +35687,6 @@
           "localizedDescription": "Version: 2.10.4\n\nTweaks: SoundLab, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-26-1/SoundLab_Audio_Editor_v2_10_4_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 133129316
-        },
-        {
-          "version": "2.10.4b",
-          "date": "2026-01-26",
-          "localizedDescription": "Version: 2.10.4\n\nTweaks: SoundLab, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-26/SoundLab_Audio_Editor_v2_10_4_Subscription_Unlocked_blatant_Patched.ipa",
-          "size": 133129316
-        },
-        {
-          "version": "2.8.2",
-          "date": "2026-01-08",
-          "localizedDescription": "Version: 2.8.2\n\nTweaks: CydiaSubstrate, SoundLab, sideloadFixerLol\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-12/SoundLab_v2.8.2_blatant.ipa",
-          "size": 128666571
         }
       ],
       "category": "music"
@@ -36413,14 +36413,14 @@
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify",
       "subtitle": "Tweaked with CydiaSubstrate, EeveeSpotify",
-      "version": "9.0.36",
-      "versionDate": "2026-02-18",
-      "versionDescription": "Version: 9.0.36\n\nTweaks: CydiaSubstrate, EeveeSpotify\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/EeveeSpotify-5.9.5-9.0.36.ipa",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, EeveeSpotify\n\nuse this, i just installed today it works\n\n---\nWith the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums, and original podcasts on your phone or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are, and unlock our catalog of audiobooks.\n\nWhy choose Spotify as your go-to music and podcast app? Here, you can:\n• Listen to over 100 million songs and 6 million podcast titles\n• Explore our selection of specially-craf",
+      "version": "9.1.24",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Version: 9.1.24\n\nTweaks: CydiaSubstrate, EeveeSpotify\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/EeveeSpotify-6.5.3-9.1.24.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, EeveeSpotify\n\n---\nWith the Spotify app, you can explore an extensive library of music and podcasts for free. Curate the best playlists and stream millions of free songs, albums, and original podcasts on your phone or tablet. Subscribe to Spotify Premium to download and listen offline wherever you are, and unlock our catalog of audiobooks.\n\nWhy choose Spotify as your go-to music and podcast app? Here, you can:\n• Listen to over 100 million songs and 6 million podcast titles\n• Explore our selection of specially-craf",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/ac/cc/32accc40-2742-10c3-87f0-f9679f6dddd2/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 84190229,
+      "size": 192011014,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/ce/05/f3ce0547-690a-b355-b1dd-6b6e91808279/IOS_-_5.5_-_S01_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/81/ca/7881ca10-b441-1a6c-e030-92e08dd76144/IOS_-_5.5_-_S02_-_EN_-_CA_U005bEnglish__U0028Canada_U0029_U005d.png/392x696bb.png",
@@ -36432,7 +36432,7 @@
         "entitlements": [],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
-          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSCameraUsageDescription": "This lets you use your camera to scan or upload images.",
           "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
           "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
           "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
@@ -36450,6 +36450,20 @@
       },
       "versions": [
         {
+          "version": "9.1.24",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 9.1.24\n\nTweaks: CydiaSubstrate, EeveeSpotify\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/EeveeSpotify-6.5.3-9.1.24.ipa",
+          "size": 192011014
+        },
+        {
+          "version": "9.1.24b",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 9.1.24\n\nTweaks: CydiaSubstrate, EeveeSpotify\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/EeveeSpotify-6.5.3-9.1.24.ipa",
+          "size": 192011014
+        },
+        {
           "version": "9.0.36",
           "date": "2026-02-18",
           "localizedDescription": "Version: 9.0.36\n\nTweaks: CydiaSubstrate, EeveeSpotify\n\nSource: @binnichtaktivsipas",
@@ -36458,20 +36472,6 @@
         },
         {
           "version": "9.1.22",
-          "date": "2026-02-13",
-          "localizedDescription": "Version: 9.1.22\n\nTweaks: CydiaSubstrate, EeveeSpotify, zxPluginsInject\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/EeveeSpotify-6.5.3-9.1.22-patched.ipa",
-          "size": 99336256
-        },
-        {
-          "version": "9.1.22b",
-          "date": "2026-02-13",
-          "localizedDescription": "Version: 9.1.22\n\nTweaks: CydiaSubstrate, EeveeSpotify\n\nSource: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/EeveeSpotify-6.5.3-9.1.22.ipa",
-          "size": 97205555
-        },
-        {
-          "version": "9.1.22c",
           "date": "2026-02-13",
           "localizedDescription": "Version: 9.1.22\n\nTweaks: CydiaSubstrate, EeveeSpotify, zxPluginsInject\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/EeveeSpotify-6.5.3-9.1.22-patched.ipa",
@@ -38030,6 +38030,46 @@
           "localizedDescription": "Version: 0.77\n\nSource: @binnichtaktivsipas",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-23/StumbleGuys_v0.77_BabyloniPA.ipa",
           "size": 786540175
+        }
+      ],
+      "category": "games"
+    },
+    {
+      "beta": false,
+      "name": "Sudoku",
+      "bundleIdentifier": "com.ocho.SudokuaDay",
+      "developerName": "Ocho",
+      "subtitle": "Tweaked with RevenueCatFix26, Sideloadbypass1",
+      "version": "2.2.0",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Version: 2.2.0\n\nTweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Sudoku.a.Day.Pro.2.2.0.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSudoku a Day | Minimum OS version 18.0\n\n---\nSudoku a Day is the simplest, most elegant Sudoku app on the App Store. Designed exclusively for iPhone users who crave a quick, enjoyable daily puzzle. No ads, no distractions, no clutter. Just pure, relaxing Sudoku gameplay.\n\nWhy users love Sudoku a Day:\n\n1. One puzzle a day. Get your daily Sudoku fix with reminders to keep your streak alive. Play more with Pro if you want, but no pressure if you skip.\n2. No ads. Solve puzzles smoothly without unnecessary distractions or blockers.\n3. Minimalis",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/09/a9/7b09a9e5-61cb-ca18-b50a-a8a4b7f06211/appIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 72605563,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Allow access to your photo library to update your profile photo.",
+          "NSCameraUsageDescription": "Allow access to your camera to update your profile photo."
+        }
+      },
+      "versions": [
+        {
+          "version": "2.2.0",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 2.2.0\n\nTweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Sudoku.a.Day.Pro.2.2.0.ipa",
+          "size": 72605563
+        },
+        {
+          "version": "2.2.0b",
+          "date": "2026-02-21",
+          "localizedDescription": "Version: 2.2.0\n\nTweaks: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Sudoku.a.Day.Pro.2.2.0.ipa",
+          "size": 72605563
         }
       ],
       "category": "games"
