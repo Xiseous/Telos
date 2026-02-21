@@ -576,18 +576,19 @@
       "name": "AdGuard",
       "bundleIdentifier": "com.adguard.AdguardExtension",
       "developerName": "Adguard Software Limited",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdGuard, CydiaSubstrate\n\nAdGuard  — adblock&privacy | com.adguard.AdguardExtension | Category: Utilities | Install from appstore then force-install\n\n---\nAdGuard is an ultra-efficient ad blocker for Safari. It will not only remove annoying ads but also secure your privacy with advanced tracking protection. AdGuard for iOS is an open source app, it’s totally transparent and safe to use. The app is free but offers additional paid Premium features for advanced users.\n\nKEY FEATURES:\n\n- Safari ad blocking. Removes all kinds of ads in Safari. Say goodbye to annoying banners, pop-ups and video ads. Whitelist your favorite websites or use manual blocking",
-      "version": "4.5.5",
-      "versionDate": "2026-01-08T03:07:18-00:00",
-      "versionDescription": "Build 1019 from @blatants",
-      "size": 19590924,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/ba/2b/ebba2b74-91dd-414e-5811-a4da9a389252/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-04-10/AdGuard_v4.5.5_blatant.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdGuard, blatantsPatch\n\nAdGuard: Adblock, Privacy, DNS | • Patched | • Modifier: Subscription Unlocked | ッ Jailbreak Repo | ♡ Support\n\n---\nAdGuard is an ultra-efficient ad blocker for Safari. It will not only remove annoying ads but also secure your privacy with advanced tracking protection. AdGuard for iOS is an open source app, it’s totally transparent and safe to use. The app is free but offers additional paid Premium features for advanced users.\n\nKEY FEATURES:\n\n- Safari ad blocking. Removes all kinds of ads in Safari. Say goodbye to annoying banners, pop-ups and video ads. Whitelist your favorite websites or use manual blocking",
+      "version": "4.5.16",
+      "versionDate": "2026-02-21T16:34:40-00:00",
+      "versionDescription": "Build 1043 from @blatants",
+      "size": 41097100,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/5e/f4/d75ef4f7-3345-5017-9cd8-7441df541616/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/AdGuard_Adblock._Privacy._DNS_v4_5_16_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "13.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -595,7 +596,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "AdGuard_v4.5.5_blatant.ipa"
+        "originalFile": "AdGuard_Adblock,_Privacy,_DNS_v4_5_16_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -2244,13 +2245,13 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBill Tracker Pro | Full Version Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nBill Tracker Pro is the #1 app for tracking bills, income, and spending. Create custom budgets, connect your bank, track your cash flow, and take control of your finances.\n\nNew in Bill Tracker Pro:\n\nBank Sync with Plaid – Connect your accounts to sync transactions automatically.\n\nKnow What’s Safe to Spend – See your real-time spending power after upcoming bills.\n\nNever Miss a Bill – Set reminders, view your upcoming bills at a glance, and stay organized with widgets.\n\nFind Hidden Subscriptions –",
-      "version": "4.1.44",
-      "versionDate": "2026-02-20T02:01:08-00:00",
-      "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 146592660,
+      "version": "4.1.45",
+      "versionDate": "2026-02-21T16:32:05-00:00",
+      "versionDescription": "Build 4 from @riftysIPAlibrary",
+      "size": 146575593,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/34/95/1a349503-7191-7a02-3321-9aacde9fca1f/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Bill.Tracker.Pro-v4.1.44-riftysipas.ipa",
-      "minOSVersion": "15.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Bill.Tracker.Pro-v4.1.45-riftysipas.ipa",
+      "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -2263,7 +2264,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Bill Tracker Pro-v4.1.44-riftysipas.ipa"
+        "originalFile": "Bill Tracker Pro-v4.1.45-riftysipas.ipa"
       }
     },
     {
@@ -4119,13 +4120,13 @@
       "name": "Coconote",
       "bundleIdentifier": "com.bbauman.Scripty",
       "developerName": "Quizlet Inc",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, FilePickerFix, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nCoconote - AI Note Taker | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nLet AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Turbo AI, YouLearn, Unstuck, Study Fetch, Quizard, Otter, and Wave AI.\n\nTerms of Service:",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, FilePickerFix, StopReviewPopup, blatantsPatch, sideloadKeychainfix\n\nCoconote - AI Note Taker | • Patched | • Modifier: Pro Unlocked | • Note: | Filepicker fix by ChocolateFluffy | ッ Jailbreak Repo | ♡ Support\n\n---\nLet AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Turbo AI, YouLearn, Unstuck, Study Fetch, Quizard, Otter, and Wave AI.\n\nTerms of Service:",
       "version": "2.40",
-      "versionDate": "2026-02-21T04:31:02-00:00",
-      "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 45121586,
+      "versionDate": "2026-02-21T16:35:41-00:00",
+      "versionDescription": "Build 1 from @blatants",
+      "size": 48940316,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/05/3f/9f053f7d-e92e-5672-fa81-dc5a24849156/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Coconote.-.AI.Note.Taker-v2.40-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Coconote.-.AI.Note.Taker.v2.40.Pro.Unlocked.blatant.Patched.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -4136,10 +4137,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Coconote - AI Note Taker-v2.40-riftysipas.ipa"
+        "originalFile": "Coconote - AI Note Taker v2.40 Pro Unlocked blatant Patched.ipa"
       }
     },
     {
@@ -4344,6 +4345,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "ColorPicsart_Satella_Melon.ipa"
+      }
+    },
+    {
+      "name": "Coloring Book",
+      "bundleIdentifier": "com.impalastudios.drawingcoloringbook",
+      "developerName": "Impala Studios",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ColoringBook, blatantsPatch\n\nColoring Book∘ Color Party\n• Patched\n• Modifier: Subscription Unlocked\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\nッ Jailbreak Repo | ♡ Support\n\n---\nEnjoy the Coloring Book∘ Color Party! Color, de-stress, and be creative anywhere you go. Discover a unique artwork collection with 50+ adult coloring pages and experience the perfect way to step back from everyday life. It’s proven to help you rest your mind too : )\nShare your finished art on your favorite social network and let others enjoy your artistic creation.\n\nWHY YOU’LL LOVE COLORING BOOK\n• Gorgeous images with lots of details\n• Artwork collection library with categories:\n Animals, Love,",
+      "version": "1.5.7",
+      "versionDate": "2026-02-21T16:39:25-00:00",
+      "versionDescription": "Build 3256 from @blatants",
+      "size": 165654680,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/99/31/8a99315f-c95a-f838-e642-93583ce4c632/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Coloring_Book._Color_Party_v1_5_7_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@blatants",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Coloring_Book∘_Color_Party_v1_5_7_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -6887,7 +6914,7 @@
       "developerName": "Luni",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: FitnessCoach, blatantsPatch\n\nFitness Coach - Workout Plan | • Patched | • Modifier: Subscription Unlocked | ッ Jailbreak Repo | ♡ Support\n\n---\nFollow programs adapted to your goals directly via your iPhone or iPad.\nWhether at home, at the gym, or outdoors, stay in shape with Fitness Coach!\n\n- Choose your GOAL and we make you a program according to your LEVEL.\n- Dozens of SESSIONS of various trainings.\n- A HUNDREDS of exercises to progress on all the MUSCLES of your body.\n- Choose your RHYTHM and train in a 30-minute session.\n- FOLLOW your evolution and PROGRESS over the weeks.\n\" I had a hard time getting into fitness ... now I get what",
       "version": "2.13.2",
-      "versionDate": "2026-02-20T20:39:03-00:00",
+      "versionDate": "2026-02-21T17:12:04-00:00",
       "versionDescription": "Build 3281 from @blatants",
       "size": 162544338,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/6d/b1/b26db1dc-326b-2795-98f2-953227a63789/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/512x512bb.jpg",
@@ -7610,6 +7637,33 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "FotMob+ 1226.0.ipa"
+      }
+    },
+    {
+      "name": "Found It!",
+      "bundleIdentifier": "games.urmobi.found.it",
+      "developerName": "Lion Studios Plus",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nFound It! Hidden Object Game\nUnlimited Everything (Hints, Magnets, Magic Wands, Skipits, Pointers and more),  - All Premium Levels Unlocked,  - No Ads\nNotes: Restart app if there isn't automatically unlimited of everything.\nPatched ✓\nAdditional Information ℹ️\n\n---\nAre you ready to experience the most addictive hidden objects game right now?\n\nFind all hidden objects by moving around the interactive maps and completing quests to unlock new colorful locations. Found It! is a fun and engaging hidden picture game that exercises your brain and promotes problem-solving skills.\n\nFound It is a new search and find bright hidden object game where you should solve the objects puzzles and unlock new maps for free. All you need to do is to focus on the requested item,",
+      "version": "1.64.42",
+      "versionDate": "2026-02-21T16:38:11-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 336500214,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/a9/9f/d7a99f4d-ec56-017b-5397-b308d77c5590/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Found.It.Hidden.Object.Game-v1.64.42-riftysipas.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@riftysIPAlibrary",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Found It! Hidden Object Game-v1.64.42-riftysipas.ipa"
       }
     },
     {
@@ -10610,6 +10664,33 @@
       }
     },
     {
+      "name": "Level Devil",
+      "bundleIdentifier": "com.unept.leveldevil",
+      "developerName": "Poki B.V.",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: NetworkBlocker(adblocker), SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty\n\nLevel Devil - NOT A Troll Game | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nBIG, BEAUTIFUL UPDATE\n- ~200 levels that will make you cry literal tears of joy\n- Updated graphics so intense your apple phone will esplode\n- Gameplay even more relaxing and safe for all\n- Added soft and cozy bullets and bombs alongside the adorable buzzsaws\n-\n- A real ending for all the delicate flowers that cried in their pillows about the original ending.\n- Now you can speed run by pushing the speed run button",
+      "version": "1.34.4",
+      "versionDate": "2026-02-21T16:30:16-00:00",
+      "versionDescription": "Build 2.0 from @riftysIPAlibrary",
+      "size": 29822142,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/6e/18/2a6e1888-e016-78c4-e059-024972aee726/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Level.Devil.-.NOT.A.Troll.Game-v1.34.4-riftysipas.ipa",
+      "minOSVersion": "12.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@riftysIPAlibrary",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Level Devil - NOT A Troll Game-v1.34.4-riftysipas.ipa"
+      }
+    },
+    {
       "name": "LidarCamera",
       "bundleIdentifier": "net.darkce.nvd",
       "developerName": "绪海 罗",
@@ -12865,13 +12946,13 @@
       "name": "No Fusion",
       "bundleIdentifier": "com.grey.swiftcamera",
       "developerName": "培屹 王",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NoFusion, blatantsPatch\n\nNo Fusion-Powerful Pro Cam | Pro Unlocked | Restart the app if subscription isn't activated.\n\n---\nUnlock all the possibilities of your iPhone camera.\nRemove the over-sharpen, and bring you the natural photos.\nLive Photo and Portrait Mode? We have you covered.\nNo Fusion supports shooting Live Photo and Portrait Mode in any format.\nFilm simulation, multiple recipes built-in.\nIn manual mode, try every setting you want.\nTerms of Use:",
-      "version": "2.5.50",
-      "versionDate": "2026-01-22T12:01:01-00:00",
-      "versionDescription": "Build 2 from @blatants",
-      "size": 97905444,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/22/78/732278e9-5e3a-84cd-6d0a-29d71a4779c3/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-22/No_Fusion_Powerful_Pro_Cam_v2_5_50_Pro_Unlocked_blatant_Patched.ipa",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: NoFusion, blatantsPatch\n\nNo Fusion-Powerful Pro Cam | • Patched | • Modifier: Pro Unlocked | • Note: | Restart the app if subscription isn't activated. | ッ Jailbreak Repo | ♡ Support\n\n---\nUnlock all the possibilities of your iPhone camera.\nRemove the over-sharpen, and bring you the natural photos.\nLive Photo and Portrait Mode? We have you covered.\nNo Fusion supports shooting Live Photo and Portrait Mode in any format.\nFilm simulation, multiple recipes built-in.\nIn manual mode, try every setting you want.\nTerms of Use:",
+      "version": "2.5.51",
+      "versionDate": "2026-02-21T16:40:30-00:00",
+      "versionDescription": "Build 124 from @blatants",
+      "size": 99215961,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/b9/31/cbb93147-f60a-72c0-8444-68f824e511c5/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/No_Fusion_Powerful_Pro_Cam_v2_5_51_Pro_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "15.6",
       "supportedPlatforms": [
         "iOS"
@@ -12885,7 +12966,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "No_Fusion_Powerful_Pro_Cam_v2_5_50_Pro_Unlocked_blatant_Patched.ipa"
+        "originalFile": "No_Fusion_Powerful_Pro_Cam_v2_5_51_Pro_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -13466,6 +13547,33 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Opal: Screen Time Control-v3.149-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Open: Breathwork + Meditation",
+      "bundleIdentifier": "com.o-p-e-n.open",
+      "developerName": "Open Inc.",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nOpen: Breathwork + Meditation | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\n“We believe that mindfulness is more than a form of stress relief — it can be a tool for personal growth, deeper understanding, vibrancy. More than a way to disconnect — it can be a way to feel a part of something bigger. More than simply silence — it can be immersive, beautiful, moving.”\n\n–Raed Khawaja, Open Co-founder & CEO\n\nRegulate your nervous system with Open. Bridge science and spirituality to cleanse your body and mind. Learn breathwork, meditation, and movement techniques designed by ex",
+      "version": "26.08",
+      "versionDate": "2026-02-21T16:33:00-00:00",
+      "versionDescription": "Build 7404 from @riftysIPAlibrary",
+      "size": 102001369,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/74/31/197431d5-3541-fe0e-9665-edd156edc6c4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Open.Breathwork.%2B.Meditation-v26.08-riftysipas.ipa",
+      "minOSVersion": "16.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@riftysIPAlibrary",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Open: Breathwork + Meditation-v26.08-riftysipas.ipa"
       }
     },
     {
@@ -16372,26 +16480,24 @@
       "bundleIdentifier": "app.routineflow.routineflow",
       "developerName": "Thomas Wolfgang Menzel",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nRoutineFlow: Guided Routines | Subscription Unlocked | Notes: Restart app if subscription isn't unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nDesign your ideal day. Every day\n\nNavigating daily life, especially with ADHD, can be challenging. RoutineFlow offers the solution to manage your day with ease, turning every morning into a triumph and helping to keep procrastination at bay. Dive into the magic of structured routines, one step at a time.\n\nREDUCE PROCRASTINATION\nThe daunting thought of beginning a task is often worse than the task itself. With RoutineFlow, watch as tasks turn from mountains into manageable molehills, assisting yo",
-      "version": "0.9.91",
-      "versionDate": "2026-02-19T13:03:21-00:00",
-      "versionDescription": "Build 163 from @riftysIPAlibrary",
-      "size": 36894046,
+      "version": "0.9.92",
+      "versionDate": "2026-02-21T16:30:32-00:00",
+      "versionDescription": "Build 164 from @riftysIPAlibrary",
+      "size": 36895501,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/0f/75/3a0f7500-ea37-4e60-ef33-c7a251db8b96/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/RoutineFlow.Guided.Routines-v0.9.91-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/RoutineFlow.Guided.Routines-v0.9.92-riftysipas.ipa",
       "minOSVersion": "14.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
-        1,
-        2
+        1
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "RoutineFlow: Guided Routines-v0.9.91-riftysipas.ipa"
+        "originalFile": "RoutineFlow: Guided Routines-v0.9.92-riftysipas.ipa"
       }
     },
     {
