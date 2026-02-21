@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "pinterest",
-    "com.pinguido.scenic",
-    "com.readdle.CalendarsLite",
-    "com.adobe.lrmobilephone",
-    "com.campmobile.snow"
+    "com.albernackee.blur",
+    "ideastudio.Weather-on-the-Way",
+    "com.bbauman.Scripty",
+    "com.northstar.gratitude",
+    "co.lovetap.Female-by-Design"
   ],
   "apps": [
     {
@@ -5958,18 +5958,18 @@
           "size": 285724010
         },
         {
-          "version": "5.37.21c",
-          "date": "2026-02-20",
-          "localizedDescription": "Tweaks: Calendars, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Calendars_Schedule_Planner_v5_37_21_Subscription_Unlocked_blatant.ipa",
-          "size": 285724010
-        },
-        {
           "version": "5.37.20",
           "date": "2026-02-13",
           "localizedDescription": "Tweaks: Calendars, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Calendars_Schedule_Planner_v5_37_20_Subscription_Unlocked_blatant.ipa",
           "size": 285323468
+        },
+        {
+          "version": "5.37.19",
+          "date": "2026-01-29",
+          "localizedDescription": "Tweaks: Calendars, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-28-5/Calendars_Schedule_Planner_v5_37_19_Subscription_Unlocked_blatant.ipa",
+          "size": 280056802
         }
       ],
       "category": "productivity"
@@ -7837,15 +7837,15 @@
       "name": "Coconote",
       "bundleIdentifier": "com.bbauman.Scripty",
       "developerName": "Quizlet Inc",
-      "subtitle": "Pro Unlocked | Patched",
-      "version": "2.39",
-      "versionDate": "2026-02-15",
-      "versionDescription": "Tweaks: AutoRcSideload, FilePickerFix, StopReviewPopup, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Coconote.-.AI.Note.Taker.v2.39.Pro.Unlocked.blatant.Patched.ipa",
-      "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nCoconote - AI Note Taker | Pro Unlocked | Filepicker fix by ChocolateFluffy",
+      "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
+      "version": "2.40",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Tweaks: CydiaSubstrate, FilePickerFix, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Coconote.-.AI.Note.Taker-v2.40-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nCoconote - AI Note Taker | Subscription Unlocked | Patched ✓ | Additional Information ℹ️",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/05/3f/9f053f7d-e92e-5672-fa81-dc5a24849156/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 48971534,
+      "size": 45121586,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -7863,6 +7863,20 @@
       },
       "versions": [
         {
+          "version": "2.40",
+          "date": "2026-02-21",
+          "localizedDescription": "Tweaks: CydiaSubstrate, FilePickerFix, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Coconote.-.AI.Note.Taker-v2.40-riftysipas.ipa",
+          "size": 45121586
+        },
+        {
+          "version": "2.40b",
+          "date": "2026-02-21",
+          "localizedDescription": "Tweaks: CydiaSubstrate, FilePickerFix, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Coconote.-.AI.Note.Taker-v2.40-riftysipas.ipa",
+          "size": 45121586
+        },
+        {
           "version": "2.39",
           "date": "2026-02-15",
           "localizedDescription": "Tweaks: AutoRcSideload, FilePickerFix, StopReviewPopup, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
@@ -7874,20 +7888,6 @@
           "date": "2026-02-10",
           "localizedDescription": "Tweaks: CydiaSubstrate, FilePickerFix, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-10/Coconote.-.AI.Note.Taker-v2.38-riftysipas.ipa",
-          "size": 45095737
-        },
-        {
-          "version": "2.38b",
-          "date": "2026-02-09",
-          "localizedDescription": "Tweaks: AutoRcSideload, FilePickerFix, StopReviewPopup, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Coconote.-.AI.Note.Taker.v2.38.Pro.Unlocked.blatant.Patched.ipa",
-          "size": 48908815
-        },
-        {
-          "version": "2.38c",
-          "date": "2026-02-09",
-          "localizedDescription": "Tweaks: CydiaSubstrate, FilePickerFix, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-09/Coconote.-.AI.Note.Taker-v2.38-riftysipas.ipa",
           "size": 45095737
         }
       ],
@@ -14132,6 +14132,60 @@
       "category": "health-&-fitness"
     },
     {
+      "name": "Flow",
+      "bundleIdentifier": "design.yugen.Flow",
+      "developerName": "Yugen GmbH",
+      "subtitle": "Pro Features Unlocked",
+      "version": "4.7.0",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Tweaks: FLowPro\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Flow.Pro.4.7.0.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nFlow - Focus & Pomodoro Timer | Minimum OS version 18.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/10/54/6b1054b5-9988-1d69-9323-9ab52344dfed/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 19175379,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/5b/e1/385be1d4-6028-9b80-8080-7208379da81a/b7cd7880-59d0-4a76-9b1e-e009a8d32c0f_screenshot_ios_55_1_EN.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/94/92/f8/9492f887-d8a5-159d-b99a-d559f7979620/65fa9ab4-2e35-4fb5-8bb2-938d679a085a_screenshot_ios_55_2_EN.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/39/62/c4396286-529b-5745-cbce-8d4c9b2b3445/37fcc5b7-79a6-4d63-8a76-41081b518f46_screenshot_ios_55_3_EN.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/c4/b2/c9c4b28a-6371-c9b4-16eb-0f987488cbf3/ce5145fd-8b5c-460f-adc3-4f56df7c9635_screenshot_ios_55_4_EN.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/1c/07/061c073d-5de1-3f36-0d56-70a94d0ca264/c67ef008-1eb8-4034-90eb-e7505851203d_screenshot_ios_55_5_EN.jpg/392x696bb.jpg"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.icloud-container-environment",
+          "aps-environment",
+          "com.apple.developer.devicecheck.appattest-environment",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSContactsUsageDescription": "Flow would like to access your contacts to display additional information of shared calendars.",
+          "NSCalendarsUsageDescription": "Flow would like to write to your calendar to synchronize completed sessions.",
+          "NSHealthShareUsageDescription": "Flow would like to read health data to track your concentration phases.",
+          "NSHealthUpdateUsageDescription": "Flow would like to write health data to track your concentration phases."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.7.0",
+          "date": "2026-02-20",
+          "localizedDescription": "Tweaks: FLowPro\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Flow.Pro.4.7.0.ipa",
+          "size": 19175379
+        },
+        {
+          "version": "4.7.0b",
+          "date": "2026-02-20",
+          "localizedDescription": "Tweaks: FLowPro\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Flow.Pro.4.7.0.ipa",
+          "size": 19175379
+        }
+      ],
+      "category": "productivity"
+    },
+    {
       "name": "Flow Legends",
       "bundleIdentifier": "com.vladk.pipemasters",
       "developerName": "AI Games FZ",
@@ -15877,6 +15931,50 @@
         }
       ],
       "category": "education"
+    },
+    {
+      "name": "Gratitude",
+      "bundleIdentifier": "com.northstar.gratitude",
+      "developerName": "Hapjoy Technologies Private Limited",
+      "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
+      "version": "5.4.6",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Gratitude.Self-Care.Journal-v5.4.6-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nGratitude: Self-Care Journal | Pro Unlocked | Patched ✓ | Additional Information ℹ️",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/f2/23/f2f223b2-1ed6-4571-dde2-cd8629cd1246/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 43352236,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "we need access to photos library to save images in user journal",
+          "NSCameraUsageDescription": "we need access to camera to save images in user journal",
+          "NSMicrophoneUsageDescription": "we need access to record user audio for journaling and affirmations",
+          "NSHealthShareUsageDescription": "Allow access to see the time spent on Gratitude app as Mindful Minutes in Apple Health.",
+          "NSHealthUpdateUsageDescription": "Allow access to see the time spent on Gratitude app as Mindful Minutes in Apple Health.",
+          "NSAppleMusicUsageDescription": "Gratitude needs to access your music library to pick a music for you.",
+          "NSFaceIDUsageDescription": "Gratitude needs Face ID to support biometric authentication."
+        }
+      },
+      "versions": [
+        {
+          "version": "5.4.6",
+          "date": "2026-02-21",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Gratitude.Self-Care.Journal-v5.4.6-riftysipas.ipa",
+          "size": 43352236
+        },
+        {
+          "version": "5.4.6b",
+          "date": "2026-02-21",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Gratitude.Self-Care.Journal-v5.4.6-riftysipas.ipa",
+          "size": 43352236
+        }
+      ],
+      "category": "health-&-fitness"
     },
     {
       "name": "Grit",
@@ -20238,6 +20336,60 @@
       "category": "photo-&-video"
     },
     {
+      "name": "Life",
+      "bundleIdentifier": "co.lovetap.Female-by-Design",
+      "developerName": "Life Fertility Tracker IVS",
+      "subtitle": "Tweaked with CydiaSubstrate, LifePatch",
+      "version": "6.6.0",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Tweaks: CydiaSubstrate, LifePatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Life.-.Period.Tracker.Calendar.Premium.6.6.0.ipa",
+      "localizedDescription": "Life - Period Tracker Calendar | Tweak made by Dell | Minimum OS version 13.0",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/93/0d/0e930d67-160b-8671-4355-b260f1430ec2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 34603382,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/38/2f/90382fee-73eb-2a2a-9bdb-99039f93ac8e/c84b2128-cbb0-473e-ae04-f57b1220ce0f_Frame_2075.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/3a/b8/583ab803-1f7a-caca-37ce-a09189885eb3/fc90e48a-b30d-4d59-a0d0-04e594b0038b_Frame_2076.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/79/a5/66/79a566ac-039d-5e59-81b6-de5455c636ed/7286482e-3852-4a26-b8ee-cef78befa909_Frame_2077.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/4f/ac/d54fac65-ff0f-4bce-69a0-1333a0a9a2ce/c2d02839-f968-494a-a49e-4d6917bc023d_5.5.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/31/b1/4431b1d2-37dc-9eb6-9af0-ff870e67f739/9ca232bc-f373-4dce-b4e5-18d58f13102d_Frame_2041.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.developer.healthkit",
+          "com.apple.developer.healthkit.access",
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "We need access to the photo library to allow photo selection.",
+          "NSHealthShareUsageDescription": "We will sync your data with the Apple Health app to give you better insights",
+          "NSHealthUpdateUsageDescription": "We will sync your data with the Apple Health app to give you better insights",
+          "NSFaceIDUsageDescription": "Face ID will be used to secure the app",
+          "NSUserTrackingUsageDescription": "This identifier will be used for redundancy backup and data synchronization across devices."
+        }
+      },
+      "versions": [
+        {
+          "version": "6.6.0",
+          "date": "2026-02-20",
+          "localizedDescription": "Tweaks: CydiaSubstrate, LifePatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Life.-.Period.Tracker.Calendar.Premium.6.6.0.ipa",
+          "size": 34603382
+        },
+        {
+          "version": "6.6.0b",
+          "date": "2026-02-20",
+          "localizedDescription": "Tweaks: CydiaSubstrate, LifePatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Life.-.Period.Tracker.Calendar.Premium.6.6.0.ipa",
+          "size": 34603382
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
       "name": "Life360",
       "bundleIdentifier": "com.life360.safetymap",
       "developerName": "Life360",
@@ -23644,6 +23796,55 @@
       "category": "food-&-drink"
     },
     {
+      "name": "MusicBox",
+      "bundleIdentifier": "br.com.marcosatanaka.musicbox",
+      "developerName": "Loop Apps LTDA",
+      "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
+      "version": "1.6.6",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/MusicBox.Save.Music.for.Later-v1.6.6-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nMusicBox: Save Music for Later | Subscription Unlocked | Patched ✓ | Additional Information ℹ️",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/0e/a7/450ea739-9510-d010-99d7-b2e86fda3e17/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 20811442,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/26/ab/d226ab9c-e408-4a1e-d951-ea190b12f4ec/ba4f6ede-d5ac-4ff8-a58d-509f83282a24_slice1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/06/b2/3806b2ed-c214-71da-8742-8ead59d9baf2/c420ae9d-360d-4514-abae-f7a6f158ec23_slice2.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/7a/5f/8e7a5fd7-d38b-bcb1-ea23-3d81eb1e5894/3d8901ef-17fd-4c47-83d4-e978bc69a8c7_slice3.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/0f/26/730f265a-8e4d-d031-ff9f-add461a6c2fd/c5b2925b-55a1-4368-a04a-af9eaf76b465_slice4.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/88/93/6a889364-465f-84ae-a828-920999ffc9ec/1f9c0779-0613-4495-aabf-e43d57b53b87_slice5.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.icloud-container-environment",
+          "com.apple.security.application-groups",
+          "aps-environment"
+        ],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "To recognize and add songs with Shazam.",
+          "NSAppleMusicUsageDescription": "To play your albums and songs."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.6.6",
+          "date": "2026-02-21",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/MusicBox.Save.Music.for.Later-v1.6.6-riftysipas.ipa",
+          "size": 20811442
+        },
+        {
+          "version": "1.6.6b",
+          "date": "2026-02-21",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/MusicBox.Save.Music.for.Later-v1.6.6-riftysipas.ipa",
+          "size": 20811442
+        }
+      ],
+      "category": "music"
+    },
+    {
       "name": "Musify",
       "bundleIdentifier": "com.TPowenda.Musify",
       "developerName": "Timur Powenda",
@@ -25535,15 +25736,15 @@
       "name": "OnTheWay",
       "bundleIdentifier": "ideastudio.Weather-on-the-Way",
       "developerName": "Piotr Knapczyk",
-      "subtitle": "*Tweak:** Pro Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked",
+      "subtitle": "Pro Features Unlocked",
       "version": "2.4.4",
-      "versionDate": "2026-02-19",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Weather.on.the.Way-v2.4.4-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Pro Unlocked | *Notes:** Restart App If Subscription Isn'T Unlocked | *Patched ✓**\n\nWeather on the Way | Pro Unlocked | Notes: restart app if subscription isn't unlocked | Patched ✓ | Additional Information ℹ️",
+      "versionDate": "2026-02-21",
+      "versionDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Weather.on.the.Way.Pro.2.4.4.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nWeather on the Way | Minimum OS version 15.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/7a/cc/337accb7-4761-5d89-2d0e-3f54c5496980/AppIcon-Revised-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 44073825,
+      "size": 43934077,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/81/be/1581be17-b8aa-c5da-2ee1-bf897caf9bd9/808e6ca1-4819-43af-ac14-791117fa7c4d_1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/cb/37/0ecb371d-2d34-ba58-83e2-d8e96ddb8000/046845d0-1aa4-4068-9b2b-af3d2be2de61_3.png/392x696bb.png",
@@ -25564,13 +25765,27 @@
       "versions": [
         {
           "version": "2.4.4",
+          "date": "2026-02-21",
+          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Weather.on.the.Way.Pro.2.4.4.ipa",
+          "size": 43934077
+        },
+        {
+          "version": "2.4.4b",
+          "date": "2026-02-21",
+          "localizedDescription": "Tweaks: RevenueCatFix26\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Weather.on.the.Way.Pro.2.4.4.ipa",
+          "size": 43934077
+        },
+        {
+          "version": "2.4.4c",
           "date": "2026-02-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Weather.on.the.Way-v2.4.4-riftysipas.ipa",
           "size": 44073825
         },
         {
-          "version": "2.4.4b",
+          "version": "2.4.4d",
           "date": "2026-02-18",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Weather.on.the.Way-v2.4.4-riftysipas.ipa",
@@ -28052,18 +28267,18 @@
           "size": 113147660
         },
         {
-          "version": "14.6.1c",
-          "date": "2026-02-20",
-          "localizedDescription": "Tweaks: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Pinterest-v14.6.1-riftysipas.ipa",
-          "size": 113147660
-        },
-        {
           "version": "14.6",
           "date": "2026-02-20",
           "localizedDescription": "Tweaks: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Pinterest-v14.6-riftysipas.ipa",
           "size": 113148581
+        },
+        {
+          "version": "14.5",
+          "date": "2026-02-18",
+          "localizedDescription": "Tweaks: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Pinterest-v14.5-riftysipas.ipa",
+          "size": 112293892
         }
       ],
       "category": "lifestyle"
@@ -29663,14 +29878,14 @@
       "bundleIdentifier": "com.albernackee.blur",
       "developerName": "Jacob Rice",
       "subtitle": "*Tweak:** Premium Unlocked | *Patched ✓**",
-      "version": "1.1.2602160",
-      "versionDate": "2026-02-17",
+      "version": "1.1.2602191",
+      "versionDate": "2026-02-21",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Treadmill.Workout.PushTraining-v1.1.2602160-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Treadmill.Workout.PushTraining-v1.1.2602191-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Premium Unlocked | *Patched ✓**\n\nTreadmill Workout PushTraining | Premium Unlocked | Patched ✓ | Additional Information ℹ️",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/37/6f/ce376f92-1aa8-990c-47f7-b88a0a1cc43b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 217178519,
+      "size": 217197602,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [
@@ -29690,6 +29905,20 @@
         }
       },
       "versions": [
+        {
+          "version": "1.1.2602191",
+          "date": "2026-02-21",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Treadmill.Workout.PushTraining-v1.1.2602191-riftysipas.ipa",
+          "size": 217197602
+        },
+        {
+          "version": "1.1.2602191b",
+          "date": "2026-02-21",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Treadmill.Workout.PushTraining-v1.1.2602191-riftysipas.ipa",
+          "size": 217197602
+        },
         {
           "version": "1.1.2602160",
           "date": "2026-02-17",
@@ -31390,13 +31619,6 @@
       "versions": [
         {
           "version": "4.30",
-          "date": "2026-02-20",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Scenic.Motorcycle.Navigation-v4.30-riftysipas.ipa",
-          "size": 118899183
-        },
-        {
-          "version": "4.30b",
           "date": "2026-02-20",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Scenic.Motorcycle.Navigation-v4.30-riftysipas.ipa",
@@ -44918,11 +45140,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 2.21",
+      "identifier": "telos-update-2026-02-21",
+      "caption": "14 Apps Updated:\n• 6 Health & Fitness\n• 2 Music\n• 2 Productivity\n• 2 Education\n• 2 Weather",
+      "date": "2026-02-21",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "br.com.marcosatanaka.musicbox"
+    },
+    {
       "title": "⚙️ Telos Update 2.20",
       "identifier": "telos-update-2026-02-20",
-      "caption": "76 Apps Updated:\n• 17 Photo & Video\n• 13 Productivity\n• 12 Health & Fitness\n• 6 Games\n• 6 Education\n• 5 Lifestyle\n• 3 Music\n• 3 Navigation\n• 3 Graphics & Design\n• 2 Weather\n• 2 Business\n• 1 Developer Tools\n• 1 Travel\n• 1 Finance\n• 1 Entertainment",
+      "caption": "73 Apps Updated:\n• 17 Photo & Video\n• 12 Productivity\n• 12 Health & Fitness\n• 6 Games\n• 6 Education\n• 4 Lifestyle\n• 3 Music\n• 3 Graphics & Design\n• 2 Weather\n• 2 Business\n• 2 Navigation\n• 1 Developer Tools\n• 1 Travel\n• 1 Finance\n• 1 Entertainment",
       "date": "2026-02-20",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.mikekreeki.tasks"
     },
@@ -44931,7 +45162,7 @@
       "identifier": "telos-update-2026-02-19",
       "caption": "90 Apps Updated:\n• 21 Photo & Video\n• 19 Health & Fitness\n• 15 Productivity\n• 7 Utilities\n• 6 Education\n• 3 Music\n• 3 Weather\n• 2 Finance\n• 2 Entertainment\n• 2 Food & Drink\n• 2 Shopping\n• 2 Lifestyle\n• 2 Reference\n• 1 Sports\n• 1 Business\n• 1 Graphics & Design\n• 1 Travel",
       "date": "2026-02-19",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.tr.paraphrasingtool.rewritertool.textrewriter"
     },
@@ -44940,7 +45171,7 @@
       "identifier": "telos-update-2026-02-18",
       "caption": "69 Apps Updated:\n• 20 Photo & Video\n• 13 Health & Fitness\n• 6 Education\n• 5 Productivity\n• 3 Travel\n• 2 Entertainment\n• 2 Utilities\n• 2 Lifestyle\n• 2 Music\n• 2 Finance\n• 2 Food & Drink\n• 2 Games\n• 2 Graphics & Design\n• 1 Business\n• 1 Reference\n• 1 Weather\n• 1 Shopping\n• 1 Sports\n• 1 Books",
       "date": "2026-02-18",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.dongdong.fulcrumlar"
     },
@@ -44949,7 +45180,7 @@
       "identifier": "telos-update-2026-02-17",
       "caption": "72 Apps Updated:\n• 17 Photo & Video\n• 15 Health & Fitness\n• 9 Education\n• 7 Productivity\n• 6 Lifestyle\n• 5 Games\n• 3 Medical\n• 2 News\n• 2 Entertainment\n• 2 Music\n• 1 Sports\n• 1 Social Networking\n• 1 Travel\n• 1 Books",
       "date": "2026-02-17",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.jojoapps.Medication-List"
     },
@@ -44958,7 +45189,7 @@
       "identifier": "telos-update-2026-02-16",
       "caption": "35 Apps Updated:\n• 8 Photo & Video\n• 7 Health & Fitness\n• 6 Productivity\n• 5 Music\n• 2 Utilities\n• 2 Weather\n• 1 Lifestyle\n• 1 Social Networking\n• 1 Sports\n• 1 Entertainment\n• 1 Games",
       "date": "2026-02-16",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.noteful-technologies.noteful"
     },
@@ -44967,7 +45198,7 @@
       "identifier": "telos-update-2026-02-15",
       "caption": "15 Apps Updated:\n• 3 Education\n• 3 Health & Fitness\n• 2 Sports\n• 2 Photo & Video\n• 2 Graphics & Design\n• 2 Productivity\n• 1 Lifestyle",
       "date": "2026-02-15",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.kalavision.alfred"
     },
@@ -44976,7 +45207,7 @@
       "identifier": "telos-update-2026-02-14",
       "caption": "17 Apps Updated:\n• 6 Photo & Video\n• 4 Health & Fitness\n• 3 Utilities\n• 1 Sports\n• 1 Music\n• 1 Weather\n• 1 Productivity",
       "date": "2026-02-14",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.risesci.nyx"
     },
@@ -44985,7 +45216,7 @@
       "identifier": "telos-update-2026-02-13",
       "caption": "75 Apps Updated:\n• 19 Photo & Video\n• 12 Health & Fitness\n• 6 Productivity\n• 5 Music\n• 4 Education\n• 3 Utilities\n• 3 Entertainment\n• 3 Navigation\n• 3 Social Networking\n• 3 News\n• 2 Reference\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Sports\n• 2 Travel\n• 2 Developer Tools\n• 1 Finance\n• 1 Games",
       "date": "2026-02-13",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "ovz.Car-Scanner"
     },
@@ -44994,18 +45225,9 @@
       "identifier": "telos-update-2026-02-12",
       "caption": "11 Apps Updated:\n• 3 Photo & Video\n• 2 Other\n• 2 Utilities\n• 1 Books\n• 1 Entertainment\n• 1 Education\n• 1 Health & Fitness",
       "date": "2026-02-12",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.zarz.spotiflacAndroid"
-    },
-    {
-      "title": "⚙️ Telos Update 2.11",
-      "identifier": "telos-update-2026-02-11",
-      "caption": "24 Apps Updated:\n• 4 Health & Fitness\n• 4 Utilities\n• 4 Entertainment\n• 4 Photo & Video\n• 2 Other\n• 2 Social Networking\n• 2 Education\n• 1 Music\n• 1 Productivity",
-      "date": "2026-02-11",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "uni.cbum"
+      "appID": "com.zarz.spotiflacAndroid"
     }
   ]
 }
