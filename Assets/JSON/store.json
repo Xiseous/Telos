@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
-    "com.grandgames.magicsort",
-    "com.puresignal.strides",
-    "com.ulisesolave.Fitia",
-    "com.hiiker.hiiker",
-    "com.iteration-mobile.radarbot-free-ww"
+    "com.nextgen.reelsapp",
+    "io.yogger.Yogger",
+    "com.gunthermarktl.stepapp",
+    "com.grey.swiftcamera",
+    "ai.befreed.freed-frontend-rn"
   ],
   "apps": [
     {
@@ -4136,6 +4136,49 @@
         }
       ],
       "category": "social-networking"
+    },
+    {
+      "name": "BeFreed",
+      "bundleIdentifier": "ai.befreed.freed-frontend-rn",
+      "developerName": "beFreed, Inc",
+      "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
+      "version": "4.3.0",
+      "versionDate": "2026-02-22",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/BeFreed.Learn.Anything-v4.3.0-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓** | *Bundle Id:** Ai.Befreed.Freed-Frontend-Rn | *Developer:** Befreed, Inc\n\nBeFreed: Learn Anything | Subscription Unlocked | Patched ✓ | Additional Information ℹ️",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/8c/d9/168cd93f-2047-b800-17a4-4bbab4741779/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 42725475,
+      "screenshots": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "This app needs access to your photo library to save images for sharing and saving cards.",
+          "NSCameraUsageDescription": "Allow BeFreed to access your camera",
+          "NSMicrophoneUsageDescription": "We need microphone access so you can talk to the AI.",
+          "NSSpeechRecognitionUsageDescription": "We use speech recognition to transcribe your voice to text.",
+          "NSUserTrackingUsageDescription": "This helps us provide you with better content and user experience.",
+          "NSPhotoLibraryAddUsageDescription": "This app needs permission to add images to your photo library for sharing and saving cards."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.3.0",
+          "date": "2026-02-22",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/BeFreed.Learn.Anything-v4.3.0-riftysipas.ipa",
+          "size": 42725475
+        },
+        {
+          "version": "4.3.0b",
+          "date": "2026-02-22",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/BeFreed.Learn.Anything-v4.3.0-riftysipas.ipa",
+          "size": 42725475
+        }
+      ],
+      "category": "productivity"
     },
     {
       "name": "Bend",
@@ -13261,13 +13304,6 @@
           "size": 101015343
         },
         {
-          "version": "21.2.3b",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Fitia_Calorie_Counter_._Diet_v21_2_3_Subscription_Unlocked_blatant.ipa",
-          "size": 101015343
-        },
-        {
           "version": "21.2.2",
           "date": "2026-02-19",
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
@@ -13280,6 +13316,13 @@
           "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Fitia_Calorie_Counter_._Diet_v21_2_2_Subscription_Unlocked_blatant.ipa",
           "size": 102193591
+        },
+        {
+          "version": "21.2.1",
+          "date": "2026-02-13",
+          "localizedDescription": "Tweaks: Fitia, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Fitia_Calorie_Counter_._Diet_v21_2_1_Subscription_Unlocked_blatant.ipa",
+          "size": 102267483
         }
       ],
       "category": "health-&-fitness"
@@ -17082,13 +17125,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/HiiKER.The.Hiking.Maps.App-v26.2.11-riftysipas.ipa",
           "size": 115058031
-        },
-        {
-          "version": "26.2.11b",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/HiiKER.The.Hiking.Maps.App-v26.2.11-riftysipas.ipa",
-          "size": 115058031
         }
       ],
       "category": "navigation"
@@ -19450,13 +19486,6 @@
       "versions": [
         {
           "version": "3.1.7",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/JournalCircle.Diary.Tracker-v3.1.7-riftysipas.ipa",
-          "size": 12522856
-        },
-        {
-          "version": "3.1.7b",
           "date": "2026-02-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/JournalCircle.Diary.Tracker-v3.1.7-riftysipas.ipa",
@@ -22107,13 +22136,6 @@
       "versions": [
         {
           "version": "0.0.2203",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, iOSGodsiAPCracker, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Magic.Sort.-v0.0.2203-riftysipas.ipa",
-          "size": 202744992
-        },
-        {
-          "version": "0.0.2203b",
           "date": "2026-02-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, iOSGodsiAPCracker, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Magic.Sort.-v0.0.2203-riftysipas.ipa",
@@ -24847,15 +24869,15 @@
       "name": "No Fusion",
       "bundleIdentifier": "com.grey.swiftcamera",
       "developerName": "培屹 王",
-      "subtitle": "Pro Unlocked | Patched",
+      "subtitle": "Pro Features Unlocked",
       "version": "2.5.51",
-      "versionDate": "2026-02-21",
-      "versionDescription": "Tweaks: NoFusion, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/No_Fusion_Powerful_Pro_Cam_v2_5_51_Pro_Unlocked_blatant_Patched.ipa",
-      "localizedDescription": "Pro Unlocked | Patched | Tweaked\n\nNo Fusion-Powerful Pro Cam | • Patched | • Modifier: Pro Unlocked | • Note: | Restart the app if subscription isn't activated. | ッ Jailbreak Repo | ♡ Support",
+      "versionDate": "2026-02-22",
+      "versionDescription": "Tweaks: NoFusionPowerfulProCamPatch\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/No.Fusion.Pro.2.5.51.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nNo Fusion-Powerful Pro Cam | Tweak made by Никита | Minimum OS version 15.6",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/b9/31/cbb93147-f60a-72c0-8444-68f824e511c5/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 99215961,
+      "size": 100174463,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -24870,6 +24892,20 @@
         {
           "version": "2.5.51",
           "date": "2026-02-21",
+          "localizedDescription": "Tweaks: NoFusionPowerfulProCamPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/No.Fusion.Pro.2.5.51.ipa",
+          "size": 100174463
+        },
+        {
+          "version": "2.5.51b",
+          "date": "2026-02-21",
+          "localizedDescription": "Tweaks: NoFusionPowerfulProCamPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/No.Fusion.Pro.2.5.51.ipa",
+          "size": 100174463
+        },
+        {
+          "version": "2.5.51c",
+          "date": "2026-02-21",
           "localizedDescription": "Tweaks: NoFusion, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/No_Fusion_Powerful_Pro_Cam_v2_5_51_Pro_Unlocked_blatant_Patched.ipa",
           "size": 99215961
@@ -24880,20 +24916,6 @@
           "localizedDescription": "Tweaks: NoFusion, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-22/No_Fusion_Powerful_Pro_Cam_v2_5_50_Pro_Unlocked_blatant_Patched.ipa",
           "size": 97905444
-        },
-        {
-          "version": "2.5.50b",
-          "date": "2026-01-22",
-          "localizedDescription": "Tweaks: NoFusion, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-22/No_Fusion_Powerful_Pro_Cam_v2_5_50_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 97905444
-        },
-        {
-          "version": "2.5.49",
-          "date": "2026-01-03",
-          "localizedDescription": "Tweaks: NoFusion, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-03-1/No_Fusion_Powerful_Pro_Cam_v2_5_49_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 96168127
         }
       ],
       "category": "photo-&-video"
@@ -30399,13 +30421,6 @@
           "size": 147463139
         },
         {
-          "version": "9.35b",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: Radarbot, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Radarbot_Speed_Cameras_GPS_v9_35_Pro_Unlocked_blatant_Patched.ipa",
-          "size": 147463139
-        },
-        {
           "version": "9.34",
           "date": "2026-01-14",
           "localizedDescription": "Tweaks: Radarbot, blatantsPatch\n\nSource: @blatants",
@@ -30418,6 +30433,13 @@
           "localizedDescription": "Tweaks: Radarbot, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-09/Radarbot_Speed_Cameras_GPS_v9_33_Pro_Unlocked_blatant_Patched.ipa",
           "size": 311134276
+        },
+        {
+          "version": "9.32",
+          "date": "2025-12-30",
+          "localizedDescription": "Tweaks: Radarbot, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-30/Radarbot_Speed_Cameras_GPS_v9_32_Pro_Unlocked_blatant_Patched.ipa",
+          "size": 311117780
         }
       ],
       "category": "navigation"
@@ -30796,14 +30818,14 @@
       "bundleIdentifier": "com.nextgen.reelsapp",
       "developerName": "Rustam Achilov",
       "subtitle": "Pro Features Unlocked",
-      "version": "7.4",
-      "versionDate": "2026-02-19",
+      "version": "7.5",
+      "versionDate": "2026-02-22",
       "versionDescription": "Tweaks: ReelsappReelVideoEditorPatch\n\nSource: @binnichtaktivsipas",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Reelsapp.Pro.7.4.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Reelsapp.Pro.7.5.ipa",
       "localizedDescription": "Pro Features Unlocked\n\nReelsapp video trends | Minimum OS version 15.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/bd/d0/87bdd0a2-df45-d06c-637e-cefdefff87e9/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 90416511,
+      "size": 91067791,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/64/7e/be/647ebeb8-356f-18bf-dee5-39db74a6fa0e/f69b4976-2825-44c0-a223-3fb359b746cf__0007_us_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/4c/38/7a4c383d-54a4-4bc8-d0dc-85b513127060/ce878f57-39eb-4c9c-bdfa-93bb3cce176c__0008_us_2.jpg/392x696bb.jpg",
@@ -30816,10 +30838,25 @@
         "privacy": {
           "NSPhotoLibraryUsageDescription": "This app requires access to your camera roll to choose photo/video you want to add your project",
           "NSCameraUsageDescription": "This app requires access to your camera to capture photo/video you want to add your project",
-          "NSMicrophoneUsageDescription": "This app requires access to your microphone to add audio to your project"
+          "NSMicrophoneUsageDescription": "This app requires access to your microphone to add audio to your project",
+          "NSUserTrackingUsageDescription": "Your data will be used to provide you a better and personalized experience."
         }
       },
       "versions": [
+        {
+          "version": "7.5",
+          "date": "2026-02-22",
+          "localizedDescription": "Tweaks: ReelsappReelVideoEditorPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Reelsapp.Pro.7.5.ipa",
+          "size": 91067791
+        },
+        {
+          "version": "7.5b",
+          "date": "2026-02-22",
+          "localizedDescription": "Tweaks: ReelsappReelVideoEditorPatch\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Reelsapp.Pro.7.5.ipa",
+          "size": 91067791
+        },
         {
           "version": "7.4",
           "date": "2025-12-30",
@@ -33443,18 +33480,11 @@
           "size": 111240960
         },
         {
-          "version": "1.6.11c",
-          "date": "2026-02-22",
+          "version": "1.6.10",
+          "date": "2026-02-19",
           "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Simply_Draw_Learn_to_Draw_v1_6_11_Subscription_Unlocked_blatant.ipa",
-          "size": 111240960
-        },
-        {
-          "version": "1.6.11d",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: SimplyCrack, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Simply_Draw_Learn_to_Draw_v1_6_11_Subscription_Unlocked_blatant.ipa",
-          "size": 111240960
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Simply_Draw_Learn_to_Draw_v1_6_10_Subscription_Unlocked_blatant.ipa",
+          "size": 109118589
         }
       ],
       "category": "education"
@@ -36032,14 +36062,14 @@
           "size": 33882238
         },
         {
-          "version": "4.0.0.1c",
-          "date": "2026-02-22",
-          "localizedDescription": "Source: @binnichtaktivsipas",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/SpotiFLAC-v4.0.0-beta.1-ios-unsigned.ipa",
-          "size": 33882238
+          "version": "3.6.6",
+          "date": "2026-02-12",
+          "localizedDescription": "Source: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/SpotiFLAC-v3.6.6-ios-unsigned.ipa",
+          "size": 25092760
         },
         {
-          "version": "3.6.6",
+          "version": "3.6.6b",
           "date": "2026-02-12",
           "localizedDescription": "Source: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/SpotiFLAC-v3.6.6-ios-unsigned.ipa",
@@ -36583,15 +36613,15 @@
       "name": "StepsApp",
       "bundleIdentifier": "com.gunthermarktl.stepapp",
       "developerName": "StepsApp GmbH",
-      "subtitle": "*Tweak:** Pro Unlocked | *Patched ✓**",
+      "subtitle": "Pro Features Unlocked",
       "version": "8.6.8",
-      "versionDate": "2026-02-20",
-      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/StepsApp.Pedometer-v8.6.8-riftysipas.ipa",
-      "localizedDescription": "*Tweak:** Pro Unlocked | *Patched ✓**\n\nStepsApp Pedometer | Pro Unlocked | Patched ✓ | Additional Information ℹ️",
+      "versionDate": "2026-02-22",
+      "versionDescription": "Tweaks: AutoRc, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/StepsApp.Pedometer.8.6.8.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nStepsApp Pedometer | Minimum OS version 15.0",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/11/bd/dd11bd02-e0a7-aa17-68a4-4117d9ac1324/AppIconNew-0-1x_U007ephone-0-1-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 191789621,
+      "size": 192315594,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/c9/cd/7cc9cd2b-bcbc-522b-ba92-113ad2c7b496/2259ae29-c352-4f85-87ff-2599f6490dd1_0_APP_IPHONE_55_0.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8f/f0/19/8ff019f2-30f8-9624-d487-2c63149d6bb2/3fb04dc2-bcb4-4a4d-8001-c7f8172fbdbd_2_APP_IPHONE_55_2.png/392x696bb.png",
@@ -36634,6 +36664,20 @@
       "versions": [
         {
           "version": "8.6.8",
+          "date": "2026-02-22",
+          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/StepsApp.Pedometer.8.6.8.ipa",
+          "size": 192315594
+        },
+        {
+          "version": "8.6.8b",
+          "date": "2026-02-22",
+          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate, Sideloadbypass1, Sideloadbypass2\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/StepsApp.Pedometer.8.6.8.ipa",
+          "size": 192315594
+        },
+        {
+          "version": "8.6.8c",
           "date": "2026-02-20",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/StepsApp.Pedometer-v8.6.8-riftysipas.ipa",
@@ -37334,13 +37378,6 @@
       "versions": [
         {
           "version": "19.5",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Strides.Habit.Tracker.%2B.Goals-v19.5-riftysipas.ipa",
-          "size": 148025147
-        },
-        {
-          "version": "19.5b",
           "date": "2026-02-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Strides.Habit.Tracker.%2B.Goals-v19.5-riftysipas.ipa",
@@ -44216,6 +44253,57 @@
       "category": "health-&-fitness"
     },
     {
+      "name": "Yogger",
+      "bundleIdentifier": "io.yogger.Yogger",
+      "developerName": "Yogger Corporation",
+      "subtitle": "Pro Features Unlocked",
+      "version": "5.3.0",
+      "versionDate": "2026-02-22",
+      "versionDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Yogger.Pro.5.3.0.ipa",
+      "localizedDescription": "Pro Features Unlocked\n\nYogger: Movement Analysis App | Tweak made by Chocolate Fluffy | Minimum OS version 15.5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/71/a5/0871a53c-6546-be96-f58d-5a5bce4a5959/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 73955187,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d2/e1/bb/d2e1bb9f-47e2-589c-fe6a-702ebc5d56e2/6bc74c6e-388f-4ab9-a4bd-443db86cd25a_appStoreIntro5-5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7a/1d/ae/7a1dae30-497e-eb2d-4af5-0d9567cabb60/953320d1-3977-4182-a7ea-6a032da56c7a_gatherData.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/42/a9/08/42a908d4-1ae7-0377-3630-45b606ef1e18/31e5d9d7-2493-47d6-8c4a-f760adeb205c_aiData.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0f/fb/82/0ffb827e-0b1f-c8e6-c498-f6776dddad51/f1df6030-3e74-476f-b738-c2e903b685f8_movementAssessment.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/47/4a/ee/474aeeff-b2e2-4004-d5b9-39f3b344fcdf/55c85bb6-07ad-450e-b161-dd11490eff59_makeGoals.png/392x696bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "aps-environment",
+          "com.apple.developer.associated-domains",
+          "com.apple.developer.applesignin"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Yogger uses the uploaded videos from your library to analyze movement.",
+          "NSCameraUsageDescription": "Yogger uses the camera feed and recorded videos to analyze movement.",
+          "NSMicrophoneUsageDescription": "Yogger uses the microphone to record voiceovers in the video analysis.",
+          "NSPhotoLibraryAddUsageDescription": "Yogger saves the recorded movement analysis videos to your library."
+        }
+      },
+      "versions": [
+        {
+          "version": "5.3.0",
+          "date": "2026-02-22",
+          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Yogger.Pro.5.3.0.ipa",
+          "size": 73955187
+        },
+        {
+          "version": "5.3.0b",
+          "date": "2026-02-22",
+          "localizedDescription": "Tweaks: AutoRc, CydiaSubstrate\n\nSource: @binnichtaktivsipas",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Yogger.Pro.5.3.0.ipa",
+          "size": 73955187
+        }
+      ],
+      "category": "health-&-fitness"
+    },
+    {
       "name": "YouCut",
       "bundleIdentifier": "com.shantanu.YouCut",
       "developerName": "SHANTANU PTE. LTD.",
@@ -45588,7 +45676,7 @@
     {
       "title": "⚙️ Telos Update 2.22",
       "identifier": "telos-update-2026-02-22",
-      "caption": "19 Apps Updated:\n• 4 Education\n• 4 Navigation\n• 3 Social Networking\n• 2 Health & Fitness\n• 2 Lifestyle\n• 2 Games\n• 2 Productivity",
+      "caption": "20 Apps Updated:\n• 5 Health & Fitness\n• 4 Photo & Video\n• 3 Productivity\n• 2 Social Networking\n• 2 Education\n• 2 Navigation\n• 1 Lifestyle\n• 1 Games",
       "date": "2026-02-22",
       "tintColor": "#02433b",
       "notify": true,
