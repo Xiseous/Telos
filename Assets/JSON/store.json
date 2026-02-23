@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "com.stickpage.stickwar",
+    "com.genau.MemoryCircle",
     "co.airapps.dictionary",
     "com.getupnote.ios",
-    "com.thegenau.NoteCircle",
-    "com.duuro.moneyCoach",
-    "com.revivasoftworks.Snore-Lab"
+    "com.thegenau.NoteCircle"
   ],
   "apps": [
     {
@@ -9863,13 +9863,6 @@
           "size": 73644181
         },
         {
-          "version": "2026.2.2b",
-          "date": "2026-02-23",
-          "localizedDescription": "Tweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Dictionary_Air_English_Vocab_v2026_2_2_Subscription_Unlocked_blatant.ipa",
-          "size": 73644181
-        },
-        {
           "version": "2026.1.4",
           "date": "2026-02-09",
           "localizedDescription": "Tweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
@@ -9882,6 +9875,13 @@
           "localizedDescription": "Tweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Dictionary_Air_English_Vocab_v2026_1_4_Subscription_Unlocked_blatant.ipa",
           "size": 73644120
+        },
+        {
+          "version": "2026.1.3",
+          "date": "2026-02-03",
+          "localizedDescription": "Tweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-16/Dictionary_Air_English_Vocab_v2026_1_3_Subscription_Unlocked_blatant.ipa",
+          "size": 73644162
         }
       ],
       "category": "reference"
@@ -25269,13 +25269,6 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/NoteCircle.To.Do.Checklist-v4.53-riftysipas.ipa",
           "size": 15574251
-        },
-        {
-          "version": "4.53b",
-          "date": "2026-02-23",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/NoteCircle.To.Do.Checklist-v4.53-riftysipas.ipa",
-          "size": 15574251
         }
       ],
       "category": "productivity"
@@ -36881,14 +36874,14 @@
       "bundleIdentifier": "com.stickpage.stickwar",
       "developerName": "Max Games Studios",
       "subtitle": "*Tweak:** Free Iap | *Patched ✓**",
-      "version": "2026.1.467",
-      "versionDate": "2026-02-18",
+      "version": "2026.1.476",
+      "versionDate": "2026-02-23",
       "versionDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Stick.War.Legacy-v2026.1.467-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Stick.War.Legacy-v2026.1.476-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Free Iap | *Patched ✓**\n\nStick War: Legacy | Free iAP | Patched ✓ | Additional Information ℹ️",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/ea/ba/45eaba73-51e1-ea38-eefb-a4292119559e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 115882839,
+      "size": 115885199,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/3b/7d/9f/3b7d9fb4-5d81-0cdf-94e6-9583093508fa/pr_source.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/87/99/e5/8799e5af-fb8b-c2c0-6afd-5b9a40d90d72/pr_source.png/406x228bb.png",
@@ -36908,6 +36901,20 @@
       },
       "versions": [
         {
+          "version": "2026.1.476",
+          "date": "2026-02-23",
+          "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Stick.War.Legacy-v2026.1.476-riftysipas.ipa",
+          "size": 115885199
+        },
+        {
+          "version": "2026.1.476b",
+          "date": "2026-02-23",
+          "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Stick.War.Legacy-v2026.1.476-riftysipas.ipa",
+          "size": 115885199
+        },
+        {
           "version": "2026.1.467",
           "date": "2026-02-18",
           "localizedDescription": "Tweaks: SatellaJailed, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
@@ -36920,13 +36927,6 @@
           "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29/StickWar_v2023.5.830-RiftysIPAs.ipa",
           "size": 85858687
-        },
-        {
-          "version": "2023.5.826",
-          "date": "2025-12-29",
-          "localizedDescription": "Tweaks: SatellaJailed\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2025-12-29/StickWar_v2023.5.826-RiftysIPAs.ipa",
-          "size": 97255696
         }
       ],
       "category": "games"
@@ -41794,13 +41794,6 @@
           "size": 52449287
         },
         {
-          "version": "9.17.3b",
-          "date": "2026-02-23",
-          "localizedDescription": "Tweaks: UpNote, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/UpNote_notes._diary._journal_v9_17_3_Subscription_Unlocked_blatant.ipa",
-          "size": 52449287
-        },
-        {
           "version": "9.17.2",
           "date": "2026-02-17",
           "localizedDescription": "Tweaks: UpNote, blatantsPatch\n\nSource: @blatants",
@@ -42663,14 +42656,14 @@
       "bundleIdentifier": "com.genau.MemoryCircle",
       "developerName": "Genau Factory",
       "subtitle": "*Tweak:** Subscription Unlocked | *Patched ✓**",
-      "version": "3.2.2",
-      "versionDate": "2026-02-18",
+      "version": "3.2.3",
+      "versionDate": "2026-02-23",
       "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/VocaCircle.AI.Smart.Flashcard-v3.2.2-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/VocaCircle.AI.Smart.Flashcard-v3.2.3-riftysipas.ipa",
       "localizedDescription": "*Tweak:** Subscription Unlocked | *Patched ✓**\n\nVocaCircle: AI Smart Flashcard | Subscription Unlocked | Patched ✓ | Additional Information ℹ️",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/2e/0e/522e0e07-e5c5-f11c-d05c-bb55021ff298/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 13644860,
+      "size": 14420903,
       "screenshots": [],
       "appPermissions": {
         "entitlements": [],
@@ -42680,6 +42673,20 @@
         }
       },
       "versions": [
+        {
+          "version": "3.2.3",
+          "date": "2026-02-23",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/VocaCircle.AI.Smart.Flashcard-v3.2.3-riftysipas.ipa",
+          "size": 14420903
+        },
+        {
+          "version": "3.2.3b",
+          "date": "2026-02-23",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/VocaCircle.AI.Smart.Flashcard-v3.2.3-riftysipas.ipa",
+          "size": 14420903
+        },
         {
           "version": "3.2.2",
           "date": "2026-02-18",
@@ -45819,11 +45826,11 @@
     {
       "title": "⚙️ Telos Update 2.23",
       "identifier": "telos-update-2026-02-23",
-      "caption": "6 Apps Updated:\n• 4 Productivity\n• 2 Reference",
+      "caption": "7 Apps Updated:\n• 2 Games\n• 2 Productivity\n• 2 Education\n• 1 Reference",
       "date": "2026-02-23",
       "tintColor": "#02433b",
       "notify": true,
-      "appID": "com.thegenau.NoteCircle"
+      "appID": "com.stickpage.stickwar"
     },
     {
       "title": "⚙️ Telos Update 2.22",
