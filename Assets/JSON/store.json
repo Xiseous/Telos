@@ -7,11 +7,11 @@
   "website": "https://xiseous.github.io/Telos/",
   "tintColor": "#00BFA6",
   "featuredApps": [
+    "co.airapps.dictionary",
+    "com.getupnote.ios",
+    "com.thegenau.NoteCircle",
     "com.duuro.moneyCoach",
-    "com.revivasoftworks.Snore-Lab",
-    "com.unofficialcalculators.payplan",
-    "com.glucobit.cravingBuster.CravingBuster",
-    "co.smartreceipts.ios"
+    "com.revivasoftworks.Snore-Lab"
   ],
   "apps": [
     {
@@ -4300,13 +4300,6 @@
           "size": 146591310
         },
         {
-          "version": "4.1.46b",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Bill.Tracker.Pro-v4.1.46-riftysipas.ipa",
-          "size": 146591310
-        },
-        {
           "version": "4.1.45",
           "date": "2026-02-21",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
@@ -4319,6 +4312,13 @@
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Bill.Tracker.Pro-v4.1.44-riftysipas.ipa",
           "size": 146592660
+        },
+        {
+          "version": "4.1.43",
+          "date": "2026-02-19",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Bill.Tracker.Pro-v4.1.43-riftysipas.ipa",
+          "size": 146591088
         }
       ],
       "category": "finance"
@@ -9116,13 +9116,6 @@
           "size": 29564138
         },
         {
-          "version": "5.5.8b",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Daygram.Daily.Journal-v5.5.8-riftysipas.ipa",
-          "size": 29564138
-        },
-        {
           "version": "5.5.7",
           "date": "2026-02-17",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftysdaygram, zxPluginsInject\n\nSource: @riftysIPAlibrary",
@@ -9833,14 +9826,14 @@
       "bundleIdentifier": "co.airapps.dictionary",
       "developerName": "Air Apps Systems",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "2026.1.4",
-      "versionDate": "2026-02-09",
+      "version": "2026.2.2",
+      "versionDate": "2026-02-23",
       "versionDescription": "Tweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Dictionary_Air_English_Vocab_v2026_1_4_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nDictionary Air - English Vocab | Subscription Unlocked | Ignore purchase page, | Restart app if subscription isn't unlocked.",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Dictionary_Air_English_Vocab_v2026_2_2_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nDictionary Air - English Vocab | • Patched | • Modifier: Subscription Unlocked | • Note: | Ignore purchase page, | Restart app if subscription isn't unlocked. | ッ Jailbreak Repo | ♡ Support",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/c3/83/ebc38360-02e1-8130-b694-38b3e6cec031/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 73644120,
+      "size": 73644181,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/bf/92/dfbf9236-1c89-e6e9-c089-6880379d9bfc/2bbd1ecc-a5fc-46ff-ab15-8f24459d3787_1.jpg/576x768bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/67/ff/d667ff99-5a13-57b8-0871-4fc269f43c2e/81785348-ae2c-4721-ac25-ce03e81fa877_2.jpg/576x768bb.jpg",
@@ -9863,6 +9856,20 @@
       },
       "versions": [
         {
+          "version": "2026.2.2",
+          "date": "2026-02-23",
+          "localizedDescription": "Tweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Dictionary_Air_English_Vocab_v2026_2_2_Subscription_Unlocked_blatant.ipa",
+          "size": 73644181
+        },
+        {
+          "version": "2026.2.2b",
+          "date": "2026-02-23",
+          "localizedDescription": "Tweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Dictionary_Air_English_Vocab_v2026_2_2_Subscription_Unlocked_blatant.ipa",
+          "size": 73644181
+        },
+        {
           "version": "2026.1.4",
           "date": "2026-02-09",
           "localizedDescription": "Tweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
@@ -9875,20 +9882,6 @@
           "localizedDescription": "Tweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-08/Dictionary_Air_English_Vocab_v2026_1_4_Subscription_Unlocked_blatant.ipa",
           "size": 73644120
-        },
-        {
-          "version": "2026.1.3",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-16/Dictionary_Air_English_Vocab_v2026_1_3_Subscription_Unlocked_blatant.ipa",
-          "size": 73644162
-        },
-        {
-          "version": "2026.1.3b",
-          "date": "2026-02-03",
-          "localizedDescription": "Tweaks: DictionaryAir, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-15/Dictionary_Air_English_Vocab_v2026_1_3_Subscription_Unlocked_blatant.ipa",
-          "size": 73644162
         }
       ],
       "category": "reference"
@@ -14736,13 +14729,6 @@
       "versions": [
         {
           "version": "6.16.7",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Forza.Football.-.Live.Scores-v6.16.7-riftysipas.ipa",
-          "size": 116080641
-        },
-        {
-          "version": "6.16.7b",
           "date": "2026-02-22",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Forza.Football.-.Live.Scores-v6.16.7-riftysipas.ipa",
@@ -23838,13 +23824,6 @@
           "size": 95827711
         },
         {
-          "version": "11.2.2b",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Money.Coach.My.Budget.Planner-v11.2.2-riftysipas.ipa",
-          "size": 95827711
-        },
-        {
           "version": "11.0.6",
           "date": "2026-02-07",
           "localizedDescription": "Tweaks: CydiaSubstrate, StopReviews, Tg_Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2\n\nSource: @binnichtaktivsipas",
@@ -25249,6 +25228,54 @@
           "localizedDescription": "Tweaks: NoteAI, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-12/Note_AI_Smart_Note_Taker_v1_2_0_Subscription_Unlocked_blatant_Patched.ipa",
           "size": 43377955
+        }
+      ],
+      "category": "productivity"
+    },
+    {
+      "name": "NoteCircle",
+      "bundleIdentifier": "com.thegenau.NoteCircle",
+      "developerName": "Genau Factory",
+      "subtitle": "*Tweak:** Plus Unlocked | *Patched ✓**",
+      "version": "4.53",
+      "versionDate": "2026-02-23",
+      "versionDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/NoteCircle.To.Do.Checklist-v4.53-riftysipas.ipa",
+      "localizedDescription": "*Tweak:** Plus Unlocked | *Patched ✓**\n\nNoteCircle: To Do, Checklist | Plus Unlocked | Patched ✓ | Additional Information ℹ️",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/ca/be/75cabe72-1de0-8128-c536-0103195dfc86/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "tintColor": "#00BFA6",
+      "size": 15574251,
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/88/b2/d188b28b-9a96-d28c-c7dd-6da00caedede/29264c3a-fedc-41ea-b7c1-768c18e08e52_NC-ipad-1.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/30/f1/8a30f1ec-c156-4cc8-2e90-90658283211f/39476541-e32d-4c58-8b33-6a12320f360f_NC-ipad-2.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e9/75/bf/e975bfd7-4be6-2eb9-9643-c6ad2ba607d7/c0944657-0fd2-4c44-8121-823cb3432072_NC-ipad-3.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/31/17/b03117ab-5cf2-2c56-cd76-3d3cc6bc450b/513d7cb5-4bcb-4799-813d-96dc229fa6c3_NC-ipad-4.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/9c/ef/989cef11-57f2-9ac9-fa06-7193769ae98d/e2627b7e-acab-4f2e-938b-8503fef1870c_NC-ipad-5.png/576x768bb.png"
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "NoteCircle needs your permission to access camera",
+          "NSMicrophoneUsageDescription": "NoteCircle needs your permission to access audio",
+          "NSCalendarsUsageDescription": "NoteCircle needs your permission to create events",
+          "NSRemindersUsageDescription": "NoteCircle needs your permission to sync Reminders",
+          "NSUserTrackingUsageDescription": "This data is used to improve app performance and stability."
+        }
+      },
+      "versions": [
+        {
+          "version": "4.53",
+          "date": "2026-02-23",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/NoteCircle.To.Do.Checklist-v4.53-riftysipas.ipa",
+          "size": 15574251
+        },
+        {
+          "version": "4.53b",
+          "date": "2026-02-23",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/NoteCircle.To.Do.Checklist-v4.53-riftysipas.ipa",
+          "size": 15574251
         }
       ],
       "category": "productivity"
@@ -30968,13 +30995,6 @@
           "size": 267716647
         },
         {
-          "version": "3.9.27b",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Reframe.Drink.Less.Thrive-v3.9.27-riftysipas.ipa",
-          "size": 267716647
-        },
-        {
           "version": "3.9.25",
           "date": "2026-02-18",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
@@ -31799,13 +31819,6 @@
           "size": 36897910
         },
         {
-          "version": "0.9.93b",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/RoutineFlow.Guided.Routines-v0.9.93-riftysipas.ipa",
-          "size": 36897910
-        },
-        {
           "version": "0.9.92",
           "date": "2026-02-21",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
@@ -31817,6 +31830,13 @@
           "date": "2026-02-19",
           "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/RoutineFlow.Guided.Routines-v0.9.91-riftysipas.ipa",
+          "size": 36894046
+        },
+        {
+          "version": "0.9.91b",
+          "date": "2026-02-19",
+          "localizedDescription": "Tweaks: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSource: @riftysIPAlibrary",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/RoutineFlow.Guided.Routines-v0.9.91-riftysipas.ipa",
           "size": 36894046
         }
       ],
@@ -34352,13 +34372,6 @@
           "localizedDescription": "Tweaks: AutoRevenueCat, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Smart.Receipts.Expenses.Tax-v5.14.3-riftysipas.ipa",
           "size": 141152504
-        },
-        {
-          "version": "5.14.3b",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: AutoRevenueCat, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Smart.Receipts.Expenses.Tax-v5.14.3-riftysipas.ipa",
-          "size": 141152504
         }
       ],
       "category": "finance"
@@ -34869,23 +34882,23 @@
         {
           "version": "6.2.1b",
           "date": "2026-02-22",
+          "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/SnoreLab_Record_Your_Snoring_v6_2_1_Subscription_Unlocked_blatant.ipa",
+          "size": 157075814
+        },
+        {
+          "version": "6.2",
+          "date": "2026-02-17",
+          "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/SnoreLab_Record_Your_Snoring_v6_2_Subscription_Unlocked_blatant.ipa",
+          "size": 155271041
+        },
+        {
+          "version": "6.2b",
+          "date": "2026-02-17",
           "localizedDescription": "Tweaks: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSource: @riftysIPAlibrary",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/SnoreLab.Record.Your.Snoring-v6.2.1-riftysipas.ipa",
-          "size": 153329773
-        },
-        {
-          "version": "6.2.1c",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/SnoreLab_Record_Your_Snoring_v6_2_1_Subscription_Unlocked_blatant.ipa",
-          "size": 157075814
-        },
-        {
-          "version": "6.2.1d",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: SnoreLab, blatantsPatch, sideloadKeychainfix\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/SnoreLab_Record_Your_Snoring_v6_2_1_Subscription_Unlocked_blatant.ipa",
-          "size": 157075814
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/SnoreLab.Record.Your.Snoring-v6.2-riftysipas.ipa",
+          "size": 151528105
         }
       ],
       "category": "medical"
@@ -40792,13 +40805,6 @@
           "size": 113589404
         },
         {
-          "version": "3.7.10b",
-          "date": "2026-02-22",
-          "localizedDescription": "Tweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
-          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Tripsy_Travel_Planner_v3_7_10_Lifetime_Unlocked_blatant_Patched.ipa",
-          "size": 113589404
-        },
-        {
           "version": "3.7.9",
           "date": "2026-02-18",
           "localizedDescription": "Tweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
@@ -40811,6 +40817,13 @@
           "localizedDescription": "Tweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
           "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Tripsy_Travel_Planner_v3_7_9_Lifetime_Unlocked_blatant_Patched.ipa",
           "size": 113571287
+        },
+        {
+          "version": "3.7.8",
+          "date": "2026-02-18",
+          "localizedDescription": "Tweaks: Tripsy, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/Tripsy_Travel_Planner_v3_7_8_Lifetime_Unlocked_blatant_Patched.ipa",
+          "size": 113558612
         }
       ],
       "category": "travel"
@@ -41742,14 +41755,14 @@
       "bundleIdentifier": "com.getupnote.ios",
       "developerName": "UpNote Company Limited",
       "subtitle": "Subscription Unlocked | Patched",
-      "version": "9.17.2",
-      "versionDate": "2026-02-17",
+      "version": "9.17.3",
+      "versionDate": "2026-02-23",
       "versionDescription": "Tweaks: UpNote, blatantsPatch\n\nSource: @blatants",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-12/UpNote_notes._diary._journal_v9_17_2_Subscription_Unlocked_blatant.ipa",
-      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nUpNote - notes, diary, journal | Subscription Unlocked | >Restart the app if subscription is not active.",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/UpNote_notes._diary._journal_v9_17_3_Subscription_Unlocked_blatant.ipa",
+      "localizedDescription": "Subscription Unlocked | Patched | Tweaked\n\nUpNote - notes, diary, journal | • Patched | • Modifier: Subscription Unlocked | • Note: | >Restart the app if subscription is not active. | ッ Jailbreak Repo | ♡ Support",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/1f/e7/d81fe732-20af-b0f3-c636-65729f008a4d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "#00BFA6",
-      "size": 52305075,
+      "size": 52449287,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d5/2b/0a/d52b0a40-c84d-61dd-37c3-9c943c660677/d0ddf798-add0-4bfe-879c-357f97af258f_iphone-1-min.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/59/6a/57/596a5789-9875-eac3-05d2-9e36421403ff/89419369-3352-49c0-a176-33e52d6305c0_iphone-2-min.png/392x696bb.png",
@@ -41773,6 +41786,20 @@
         }
       },
       "versions": [
+        {
+          "version": "9.17.3",
+          "date": "2026-02-23",
+          "localizedDescription": "Tweaks: UpNote, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/UpNote_notes._diary._journal_v9_17_3_Subscription_Unlocked_blatant.ipa",
+          "size": 52449287
+        },
+        {
+          "version": "9.17.3b",
+          "date": "2026-02-23",
+          "localizedDescription": "Tweaks: UpNote, blatantsPatch\n\nSource: @blatants",
+          "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/UpNote_notes._diary._journal_v9_17_3_Subscription_Unlocked_blatant.ipa",
+          "size": 52449287
+        },
         {
           "version": "9.17.2",
           "date": "2026-02-17",
@@ -45790,11 +45817,20 @@
   ],
   "news": [
     {
+      "title": "⚙️ Telos Update 2.23",
+      "identifier": "telos-update-2026-02-23",
+      "caption": "6 Apps Updated:\n• 4 Productivity\n• 2 Reference",
+      "date": "2026-02-23",
+      "tintColor": "#02433b",
+      "notify": true,
+      "appID": "com.thegenau.NoteCircle"
+    },
+    {
       "title": "⚙️ Telos Update 2.22",
       "identifier": "telos-update-2026-02-22",
-      "caption": "36 Apps Updated:\n• 6 Finance\n• 5 Health & Fitness\n• 4 Medical\n• 4 Productivity\n• 3 Lifestyle\n• 3 Navigation\n• 2 Social Networking\n• 2 Education\n• 2 Photo & Video\n• 2 Sports\n• 2 Travel\n• 1 Games",
+      "caption": "26 Apps Updated:\n• 4 Health & Fitness\n• 3 Navigation\n• 3 Productivity\n• 3 Finance\n• 2 Social Networking\n• 2 Medical\n• 2 Lifestyle\n• 2 Education\n• 2 Photo & Video\n• 1 Games\n• 1 Sports\n• 1 Travel",
       "date": "2026-02-22",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.zarz.spotiflacAndroid"
     },
@@ -45803,7 +45839,7 @@
       "identifier": "telos-update-2026-02-21",
       "caption": "25 Apps Updated:\n• 5 Health & Fitness\n• 3 Music\n• 3 Utilities\n• 3 Games\n• 2 Productivity\n• 2 Education\n• 2 Weather\n• 2 Social Networking\n• 1 Photo & Video\n• 1 Finance\n• 1 Entertainment",
       "date": "2026-02-21",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "br.com.marcosatanaka.musicbox"
     },
@@ -45812,7 +45848,7 @@
       "identifier": "telos-update-2026-02-20",
       "caption": "73 Apps Updated:\n• 17 Photo & Video\n• 12 Productivity\n• 12 Health & Fitness\n• 6 Games\n• 6 Education\n• 4 Lifestyle\n• 3 Music\n• 3 Graphics & Design\n• 2 Weather\n• 2 Business\n• 2 Navigation\n• 1 Developer Tools\n• 1 Travel\n• 1 Finance\n• 1 Entertainment",
       "date": "2026-02-20",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.mikekreeki.tasks"
     },
@@ -45821,7 +45857,7 @@
       "identifier": "telos-update-2026-02-19",
       "caption": "90 Apps Updated:\n• 21 Photo & Video\n• 19 Health & Fitness\n• 15 Productivity\n• 7 Utilities\n• 6 Education\n• 3 Music\n• 3 Weather\n• 2 Finance\n• 2 Entertainment\n• 2 Food & Drink\n• 2 Shopping\n• 2 Lifestyle\n• 2 Reference\n• 1 Sports\n• 1 Business\n• 1 Graphics & Design\n• 1 Travel",
       "date": "2026-02-19",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.tr.paraphrasingtool.rewritertool.textrewriter"
     },
@@ -45830,7 +45866,7 @@
       "identifier": "telos-update-2026-02-18",
       "caption": "69 Apps Updated:\n• 20 Photo & Video\n• 13 Health & Fitness\n• 6 Education\n• 5 Productivity\n• 3 Travel\n• 2 Entertainment\n• 2 Utilities\n• 2 Lifestyle\n• 2 Music\n• 2 Finance\n• 2 Food & Drink\n• 2 Games\n• 2 Graphics & Design\n• 1 Business\n• 1 Reference\n• 1 Weather\n• 1 Shopping\n• 1 Sports\n• 1 Books",
       "date": "2026-02-18",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.dongdong.fulcrumlar"
     },
@@ -45839,7 +45875,7 @@
       "identifier": "telos-update-2026-02-17",
       "caption": "72 Apps Updated:\n• 17 Photo & Video\n• 15 Health & Fitness\n• 9 Education\n• 7 Productivity\n• 6 Lifestyle\n• 5 Games\n• 3 Medical\n• 2 News\n• 2 Entertainment\n• 2 Music\n• 1 Sports\n• 1 Social Networking\n• 1 Travel\n• 1 Books",
       "date": "2026-02-17",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.jojoapps.Medication-List"
     },
@@ -45848,7 +45884,7 @@
       "identifier": "telos-update-2026-02-16",
       "caption": "35 Apps Updated:\n• 8 Photo & Video\n• 7 Health & Fitness\n• 6 Productivity\n• 5 Music\n• 2 Utilities\n• 2 Weather\n• 1 Lifestyle\n• 1 Social Networking\n• 1 Sports\n• 1 Entertainment\n• 1 Games",
       "date": "2026-02-16",
-      "tintColor": "#02433b",
+      "tintColor": "#1a4f4a",
       "notify": true,
       "appID": "com.noteful-technologies.noteful"
     },
@@ -45857,7 +45893,7 @@
       "identifier": "telos-update-2026-02-15",
       "caption": "15 Apps Updated:\n• 3 Education\n• 3 Health & Fitness\n• 2 Sports\n• 2 Photo & Video\n• 2 Graphics & Design\n• 2 Productivity\n• 1 Lifestyle",
       "date": "2026-02-15",
-      "tintColor": "#1a4f4a",
+      "tintColor": "#02433b",
       "notify": true,
       "appID": "com.kalavision.alfred"
     },
@@ -45866,18 +45902,9 @@
       "identifier": "telos-update-2026-02-14",
       "caption": "17 Apps Updated:\n• 6 Photo & Video\n• 4 Health & Fitness\n• 3 Utilities\n• 1 Sports\n• 1 Music\n• 1 Weather\n• 1 Productivity",
       "date": "2026-02-14",
-      "tintColor": "#02433b",
-      "notify": true,
-      "appID": "com.risesci.nyx"
-    },
-    {
-      "title": "⚙️ Telos Update 2.13",
-      "identifier": "telos-update-2026-02-13",
-      "caption": "75 Apps Updated:\n• 19 Photo & Video\n• 12 Health & Fitness\n• 6 Productivity\n• 5 Music\n• 4 Education\n• 3 Utilities\n• 3 Entertainment\n• 3 Navigation\n• 3 Social Networking\n• 3 News\n• 2 Reference\n• 2 Lifestyle\n• 2 Graphics & Design\n• 2 Sports\n• 2 Travel\n• 2 Developer Tools\n• 1 Finance\n• 1 Games",
-      "date": "2026-02-13",
       "tintColor": "#1a4f4a",
       "notify": true,
-      "appID": "ovz.Car-Scanner"
+      "appID": "com.risesci.nyx"
     }
   ]
 }
