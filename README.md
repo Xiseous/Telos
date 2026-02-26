@@ -72,7 +72,7 @@ TELOS Docker Container
 
 TELOS is designed to be the most complete, maintainable, and user-friendly IPA automation system available.
 
-| Feature | TELOS | FTRepo | Static Libraries |
+| Feature | TELOS | AI Based | Static Libraries |
 |---------|-------|--------|------------------|
 | **Real-time Dashboard** | ✅ Full React UI | ❌ CLI only | ❌ None |
 | **Multiple Versions** | ✅ Configurable per app | ❌ Latest only | ❌ Latest only |
@@ -87,10 +87,6 @@ TELOS is designed to be the most complete, maintainable, and user-friendly IPA a
 | **Activity Logs** | ✅ Searchable, filterable | ❌ Console only | ❌ None |
 | **Health Monitoring** | ✅ Component checks | ❌ None | ❌ None |
 | **Cleanup Automation** | ✅ Age + version limits | ✅ Basic | ❌ Manual |
-
-### vs. FTRepo
-
-FTRepo requires an external AI API (OpenRouter) for metadata extraction and runs only via Gitea Actions. TELOS extracts metadata directly from IPAs and the App Store—no AI dependency. TELOS also provides a full web dashboard for monitoring and management.
 
 ---
 
