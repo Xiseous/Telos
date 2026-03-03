@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-03-02",
+  "versionDate": "2026-03-03",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -34576,19 +34576,18 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig, YTIcons\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DontEatMyContent, YTLite, YTUHD, YTVideoOverlay\n\nYouTube 21.09.2 YTLite 5.2b4\n-YouTube 21.09.2 -updated\n-YTLite 5.2b4\n-YouPiP 1.12.10\n-YTUHD 1.10.1 -updated\n-YouQuality 1.3.6\n-Return-YouTube-Dislikes 1.13.17\n-DontEatMyContent 1.1.11\n-YouGroupSettings 1.0.8\n-YTVideoOverlay 2.3.5\nFor those that experience Video Playback issues try turning on YTUHD and restarting the app.\nIf you are still experiencing issues use this ipa and toggle on “Fix video playback” in settings and restart app.\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
       "version": "21.09.2",
-      "versionDate": "2026-03-02T19:38:15-00:00",
+      "versionDate": "2026-03-02T20:30:18-00:00",
       "versionDescription": "Build 21.09.2 from @thescholarslounge",
-      "size": 134245281,
+      "size": 120438786,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/d1/36/8bd136c3-1844-128e-41c0-472731be32b8/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-10/YouTube_21.09.2_1772468023.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-10/YouTube21.09.2YTPlus5.2b4.ipa",
       "minOSVersion": "10.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -34596,7 +34595,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "YouTube_21.09.2_1772468023.ipa"
+        "originalFile": "YouTube21.09.2YTPlus5.2b4.ipa"
       }
     },
     {
