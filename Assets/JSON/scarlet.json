@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-03-11",
+  "versionDate": "2026-03-13",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -805,13 +805,13 @@
       "name": "Acme Weather",
       "bundleIdentifier": "com.acmeweather.apple",
       "developerName": "Acme Weather",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n[ ✓ ] Connected to iPhone | [ ✓ ] Downloaded App Package | [ ✓ ] Decrypted App Package | [ ✓ ] Uploaded Decrypted Package | The application has been successfully decrypted.\n\n---\nAcme Weather, from the creators of Dark Sky.\n\nOur homegrown forecasts help you make better decisions about your day.\n\n Alternate Predictions\nWeather is unpredictable, and forecasts are often wrong. Instead of a single guess, Acme displays alternate predictions that show you how reliable the forecast is and the range of possible outcomes.\n\n Notifications\nNever miss important weather again. Acme has notifications for precipitation, severe weather, lighting, daily summaries, and more. Want to know",
-      "version": "1.0.1",
-      "versionDate": "2026-02-28T22:10:55-00:00",
-      "versionDescription": "Build 1508 from @thescholarslounge",
-      "size": 18275690,
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nAcme Weather, from the creators of Dark Sky.\n\nOur homegrown forecasts help you make better decisions about your day.\n\n Alternate Predictions\nWeather is unpredictable, and forecasts are often wrong. Instead of a single guess, Acme displays alternate predictions that show you how reliable the forecast is and the range of possible outcomes.\n\n Notifications\nNever miss important weather again. Acme has notifications for precipitation, severe weather, lighting, daily summaries, and more. Want to know",
+      "version": "1.0.2",
+      "versionDate": "2026-03-12T01:03:06-00:00",
+      "versionDescription": "Build 1538 from @thescholarslounge",
+      "size": 18305722,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/38/f2/c838f23e-0e9b-2941-1687-bdf867aa8b2e/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-7/com.acmeweather.apple-1.0.1-eeveedecrypter.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/com.acmeweather.apple-1.0.2-eeveedecrypter.ipa",
       "minOSVersion": "18.2",
       "supportedPlatforms": [
         "iOS"
@@ -823,7 +823,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "com.acmeweather.apple-1.0.1-eeveedecrypter.ipa"
+        "originalFile": "com.acmeweather.apple-1.0.2-eeveedecrypter.ipa"
       }
     },
     {
@@ -1037,18 +1037,19 @@
       "name": "Adobe Express",
       "bundleIdentifier": "com.adobe.post",
       "developerName": "Adobe Inc.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdobeExpress, FilePickerFix, blatantsPatch\n\nAdobe Express: AI Photo, Video\nSubscription Unlocked\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\n\n---\nAdobe Express is the quick and easy app to create on-brand content that helps your business stand out and make an impact. Whether you're a beginner or a seasoned creator, Adobe Express empowers you and your team to make high-quality marketing and business materials while maintaining brand consistency.\n\nVIDEO MADE EASY\nLooking for the best free video editor? Adobe Express makes video editing simple. Use customizable templates, upload clips from your camera roll, trim and combine footage, add text",
-      "version": "29.2.0",
-      "versionDate": "2026-03-09T01:49:17-00:00",
-      "versionDescription": "Build 1 from @blatants",
-      "size": 111651616,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdobeExpress, FilePickerFix, blatantsPatch\n\nAdobe Express: Create Anything\n• Patched\n• Modifier: Subscription Unlocked\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nAdobe Express is the quick and easy app to create on-brand content that helps your business stand out and make an impact. Whether you're a beginner or a seasoned creator, Adobe Express empowers you and your team to make high-quality marketing and business materials while maintaining brand consistency.\n\nVIDEO MADE EASY\nLooking for the best free video editor? Adobe Express makes video editing simple. Use customizable templates, upload clips from your camera roll, trim and combine footage, add text",
+      "version": "29.8.1",
+      "versionDate": "2026-03-12T00:22:12-00:00",
+      "versionDescription": "Build 6 from @blatants",
+      "size": 130772585,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/fc/b7/d7fcb745-b31a-5779-b9c6-9d45274ad519/AppIconSpark-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-20/Adobe_Express_AI_Photo._Video_v29_2_0_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "17",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Adobe_Express_Create_Anything_v29_8_1_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -1056,7 +1057,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Adobe_Express_AI_Photo,_Video_v29_2_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Adobe_Express_Create_Anything_v29_8_1_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -1741,11 +1742,11 @@
       "developerName": "Alfred Systems Inc.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26, sideloadKeychainfix\n\nAlfred Home Security Camera\nTap on restore or restart app if pro is not unlocked\nMinimum OS version 12.0\n\n---\nOver 90 million families around the world have chosen AlfredCamera to secure their home. We are the world's most popular and top-rated app for home security.\n\nSECURITY CAMERA FOR THE SMARTPHONE AGE\n\nPeople love Alfred Camera! The all-in-one app provides more features than a basic, expensive security camera. You can get live stream, instant intruder alert, walkie-talkie, and unlimited cloud storage to store, share, and playback your video footage.\n\nFREE, STABLE, RELIABLE\n\nIf you want a CCTV to ke",
       "version": "2026.5.0",
-      "versionDate": "2026-03-10T19:19:07-00:00",
+      "versionDate": "2026-03-12T03:47:31-00:00",
       "versionDescription": "Build 7602 from @binnichtaktivsipas",
       "size": 129630518,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/0e/c7/240ec7f9-186d-a43e-3468-22b054083134/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Alfred.Home.Security.Camera.Premium.2026.5.0.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Alfred.Home.Security.Camera.Premium.2026.5.0.ipa",
       "minOSVersion": "12.0",
       "supportedPlatforms": [
         "iOS"
@@ -1923,18 +1924,19 @@
       "name": "Alpenglow",
       "bundleIdentifier": "com.andydev.alpenglow",
       "developerName": "Andrew Yates",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPro Unlocked\n\n---\nAlpenglow helps you capture better sunrises and sunsets, not just the times, but the quality.\n\nWhether you’re planning a photography shoot or simply don’t want to miss a great sunrise or sunset, Alpenglow tells you when it’s worth going outside.\n\nUnlike other sunrise apps, Alpenglow combines accurate times with sunrise and sunset quality forecasts, so you know how good the light is expected to be before it happens.\n\nKey Features\n• Sunrise, Sunset, Golden Hour, Magic Hour & Blue Hour Times\n• Sunr",
-      "version": "10.2.3",
-      "versionDate": "2026-03-10T08:04:22-00:00",
-      "versionDescription": "Build 10.2.3.1 from @riftysIPAlibrary",
-      "size": 77066378,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAlpenglow: Sunset Prediction | Pro Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nAlpenglow helps you capture better sunrises and sunsets, not just the times, but the quality.\n\nWhether you’re planning a photography shoot or simply don’t want to miss a great sunrise or sunset, Alpenglow tells you when it’s worth going outside.\n\nUnlike other sunrise apps, Alpenglow combines accurate times with sunrise and sunset quality forecasts, so you know how good the light is expected to be before it happens.\n\nKey Features\n• Sunrise, Sunset, Golden Hour, Magic Hour & Blue Hour Times\n• Sunr",
+      "version": "11.1.14",
+      "versionDate": "2026-03-12T00:16:51-00:00",
+      "versionDescription": "Build 11.1.14.0 from @riftysIPAlibrary",
+      "size": 64657210,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/34/a7/5d34a703-61d4-9e0e-76ce-ee1dc77a2210/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-30/Alpenglow.Sunset.Prediction-v10.2.3-riftysipas.ipa",
-      "minOSVersion": "17.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Alpenglow.Sunset.Prediction-v11.1.14-riftysipas.ipa",
+      "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -1942,7 +1944,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Alpenglow: Sunset Prediction-v10.2.3-riftysipas.ipa"
+        "originalFile": "Alpenglow: Sunset Prediction-v11.1.14-riftysipas.ipa"
       }
     },
     {
@@ -3795,12 +3797,12 @@
       "bundleIdentifier": "com.bowery-digital.bend",
       "developerName": "Bowery Digital",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSubscription Unlocked | Patched ✓\n\n---\nBend® is the simple, affordable way to make stretching a part of your daily routine. Our quick & convenient stretching routines help you improve your flexibility and maintain your natural range of motion as you get older. We offer hundreds of stretches and yoga poses along with dozens of easy-to-follow stretching routines designed for all ages and experience levels. It's never too early to start stretching everyday!\n\nSTRETCHING IS IMPORTANT\n\nA simple, daily stretching routine can have a huge imp",
-      "version": "6.4.7",
-      "versionDate": "2026-03-11T15:07:04-00:00",
-      "versionDescription": "Build 252 from @riftysIPAlibrary",
-      "size": 88370230,
+      "version": "6.5.0",
+      "versionDate": "2026-03-12T13:35:49-00:00",
+      "versionDescription": "Build 262 from @riftysIPAlibrary",
+      "size": 88936386,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/20/55/d0205556-aa4a-45e2-457e-a0fe0de9dd8e/App-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Stretching.Flexibility.Bend-v6.4.7-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Stretching.Flexibility.Bend-v6.5.0-riftysipas.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -3813,7 +3815,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Stretching & Flexibility: Bend-v6.4.7-riftysipas.ipa"
+        "originalFile": "Stretching & Flexibility: Bend-v6.5.0-riftysipas.ipa"
       }
     },
     {
@@ -3899,12 +3901,12 @@
       "bundleIdentifier": "com.unofficialcalculators.payplan",
       "developerName": "Bill Tracker Pro, Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nFull Version Unlocked | Patched ✓\n\n---\nBill Tracker Pro is the #1 app for tracking bills, income, and spending. Create custom budgets, connect your bank, track your cash flow, and take control of your finances.\n\nNew in Bill Tracker Pro:\n\nBank Sync with Plaid – Connect your accounts to sync transactions automatically.\n\nKnow What’s Safe to Spend – See your real-time spending power after upcoming bills.\n\nNever Miss a Bill – Set reminders, view your upcoming bills at a glance, and stay organized with widgets.\n\nFind Hidden Subscriptions –",
-      "version": "3.12.137",
-      "versionDate": "2026-03-11T18:40:26-00:00",
-      "versionDescription": "Build 9 from @riftysIPAlibrary",
-      "size": 89301734,
+      "version": "3.12.132",
+      "versionDate": "2026-03-12T13:35:49-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 88849767,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/df/c7/96dfc745-6ce9-4d82-fbb1-0e4c1e1ce6a6/billtrackerproicon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Bill.Tracker.Pro-v3.12.137-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Bill.Tracker.Pro-v3.12.132-riftysipas.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -3917,7 +3919,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Bill Tracker Pro-v3.12.137-riftysipas.ipa"
+        "originalFile": "Bill Tracker Pro-v3.12.132-riftysipas.ipa"
       }
     },
     {
@@ -4051,32 +4053,6 @@
     },
     {
       "name": "BlackHole",
-      "bundleIdentifier": "com.progmore.blackhole-splitter",
-      "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Ad, loaderfix, substrate\n\n---\nSplit long videos to smaller videos for social media apps",
-      "version": "15",
-      "versionDate": "2026-02-05T20:01:34-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 12375527,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/9f/0d/c69f0d95-2014-abdc-7534-b3cb7a61ad50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/BlackHole_15_1766722385.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "BlackHole_15_1766722385.ipa"
-      }
-    },
-    {
-      "name": "BlackHole",
       "bundleIdentifier": "com.shadow.blackhole.ios.15.11.2",
       "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nAn Open-Source Music Player App for all your needs!\n\n---\nSplit long videos to smaller videos for social media apps",
@@ -4125,6 +4101,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "BlackHole-v1.15.10-ios.ipa"
+      }
+    },
+    {
+      "name": "BlackHole",
+      "bundleIdentifier": "com.progmore.blackhole-splitter",
+      "developerName": "PROGMORE FOR WEB DESIGN AND MANAGEMENT",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Ad, loaderfix, substrate\n\n---\nSplit long videos to smaller videos for social media apps",
+      "version": "15",
+      "versionDate": "2026-02-05T20:01:34-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 12375527,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c6/9f/0d/c69f0d95-2014-abdc-7534-b3cb7a61ad50/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-01-22/BlackHole_15_1766722385.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "BlackHole_15_1766722385.ipa"
       }
     },
     {
@@ -4235,18 +4237,19 @@
       "name": "Block Blast!",
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "Hungry Studio",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty\n\nNo Ads\n\n---\nEnter the world of Block Blast, where every move is a test of your brain and strategy. Dive into the thrill of block crush gameplay—watch vibrant cubes explode in color as you solve each puzzle. With fresh daily puzzle challenges that keep your mind engaged and an endless high score system that rewards your best strategies, Block Blast delivers nonstop excitement for casual players and puzzle masters alike.\n\nWhy You'll Love Block Blast\n• Daily Puzzle Variety: Every day brings a new puzzle twist,",
-      "version": "5.9.2",
-      "versionDate": "2026-03-11T15:34:25-00:00",
-      "versionDescription": "Build 5921 from @riftysIPAlibrary",
-      "size": 112125107,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: NetworkBlocker(adblocker), fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nBlock Blast! | No Ads | Patched ✓ | Additional Information ℹ️\n\n---\nEnter the world of Block Blast, where every move is a test of your brain and strategy. Dive into the thrill of block crush gameplay—watch vibrant cubes explode in color as you solve each puzzle. With fresh daily puzzle challenges that keep your mind engaged and an endless high score system that rewards your best strategies, Block Blast delivers nonstop excitement for casual players and puzzle masters alike.\n\nWhy You'll Love Block Blast\n• Daily Puzzle Variety: Every day brings a new puzzle twist,",
+      "version": "6.8.5",
+      "versionDate": "2026-03-12T03:11:03-00:00",
+      "versionDescription": "Build 6851 from @riftysIPAlibrary",
+      "size": 131962830,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/de/3f/a8de3fa7-433b-46b5-3177-bc3e383693f7/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Block.Blast.-v5.9.2-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Block.Blast.-v6.8.5-riftysipas.ipa",
       "minOSVersion": "13.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -4254,7 +4257,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Block Blast!-v5.9.2-riftysipas.ipa"
+        "originalFile": "Block Blast!-v6.8.5-riftysipas.ipa"
       }
     },
     {
@@ -4911,18 +4914,19 @@
       "name": "Brite",
       "bundleIdentifier": "io.konveier.timo",
       "developerName": "Brite Technologies",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSubscription Unlocked\n\n---\nBrite Daily Planner: Your Ultimate Companion for a Balanced and Productive Life\n\nDiscover the all-in-one solution that helps you tackle your daily tasks, stay organized, and achieve your goals with ease. With Brite Daily Planner, we've combined the essential features all in one user-friendly app, allowing you to focus on what truly matters and replace the need for multiple apps.\n\nWho is Brite Daily Planner for?\n\nBrite Daily Planner is designed for a wide range of users who want to consolidate th",
-      "version": "24.2.3",
-      "versionDate": "2026-03-10T07:53:34-00:00",
-      "versionDescription": "Build 24.2.3 from @riftysIPAlibrary",
-      "size": 26051739,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nDaily Planner, Schedule: Brite | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nBrite Daily Planner: Your Ultimate Companion for a Balanced and Productive Life\n\nDiscover the all-in-one solution that helps you tackle your daily tasks, stay organized, and achieve your goals with ease. With Brite Daily Planner, we've combined the essential features all in one user-friendly app, allowing you to focus on what truly matters and replace the need for multiple apps.\n\nWho is Brite Daily Planner for?\n\nBrite Daily Planner is designed for a wide range of users who want to consolidate th",
+      "version": "25.0.17",
+      "versionDate": "2026-03-12T00:15:15-00:00",
+      "versionDescription": "Build 26 from @riftysIPAlibrary",
+      "size": 26482836,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/6b/8f/596b8fdc-d974-1d9b-2565-017bcbc9b8cf/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-30/Daily.Planner.Schedule.Brite-v2.0.91-riftysipas.ipa",
-      "minOSVersion": "15.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Daily.Planner.Schedule.Brite-v25.0.17-riftysipas.ipa",
+      "minOSVersion": "16.1",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -4930,7 +4934,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Daily Planner, Schedule: Brite-v2.0.91-riftysipas.ipa"
+        "originalFile": "Daily Planner, Schedule: Brite-v25.0.17-riftysipas.ipa"
       }
     },
     {
@@ -5659,6 +5663,31 @@
     },
     {
       "name": "Carbon",
+      "bundleIdentifier": "com.joincarbon.nutrition",
+      "developerName": "Reform LLC",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftyscarbon\n\nSubscription Unlocked | Patched ✓\n\n---\nCarbon Diet Coach is your nutrition solution for results that LAST. Whether your goal is to lose fat, build muscle, improve your metabolism, or simply maintain your weight, Carbon Diet Coach removes the guesswork.\n\nCarbon Diet Coach is a science-based nutrition app designed by renowned nutrition coaches Dr. Layne Norton (Ph.D. Nutritional Sciences) and Registered Dietitian Keith Kraker (BS Dietetics).\n\nIt does everything a normal nutrition coach would but at a fraction of the cost. Simply select",
+      "version": "2.71.3915",
+      "versionDate": "2026-03-10T07:29:26-00:00",
+      "versionDescription": "Build 3915 from @riftysIPAlibrary",
+      "size": 67392970,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/26/c3/0226c35b-cd65-8c3d-9c51-b0cc235edd6d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-30/Carbon.-.Macro.Coach.Tracker-v2.71.3915-riftysipas.ipa",
+      "minOSVersion": "13.4",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@riftysIPAlibrary",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Carbon - Macro Coach & Tracker-v2.71.3915-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Carbon",
       "bundleIdentifier": "rr.carbon",
       "developerName": "Livintis W.L.L.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, autoRevenuecat, fixipa1, fixipa2, nostealing\n\nSubscription Unlocked\n\n---\nThe best B&W photo editor on the App Store, featured by Apple as a top and trending photo app. Add stunning Black and White filters & effects to your photos with simple and efficient controls.\n\n“Tried the B&W filters and found it amazing. Unlike the rough filters by some other apps, this one is really stunning and can do lots of different styles. I really like it. Minimalism system is a plus too.” – Elizabeth C, Carbon customer\n\nCarbon is the ultimate addition to your B&W photography arsenal. Th",
@@ -5681,31 +5710,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Carbon - B&W Filters & Effects-v14.4-riftysipas.ipa"
-      }
-    },
-    {
-      "name": "Carbon",
-      "bundleIdentifier": "com.joincarbon.nutrition",
-      "developerName": "Reform LLC",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftyscarbon\n\nSubscription Unlocked | Patched ✓\n\n---\nCarbon Diet Coach is your nutrition solution for results that LAST. Whether your goal is to lose fat, build muscle, improve your metabolism, or simply maintain your weight, Carbon Diet Coach removes the guesswork.\n\nCarbon Diet Coach is a science-based nutrition app designed by renowned nutrition coaches Dr. Layne Norton (Ph.D. Nutritional Sciences) and Registered Dietitian Keith Kraker (BS Dietetics).\n\nIt does everything a normal nutrition coach would but at a fraction of the cost. Simply select",
-      "version": "2.71.3915",
-      "versionDate": "2026-03-10T07:29:26-00:00",
-      "versionDescription": "Build 3915 from @riftysIPAlibrary",
-      "size": 67392970,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/26/c3/0226c35b-cd65-8c3d-9c51-b0cc235edd6d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-30/Carbon.-.Macro.Coach.Tracker-v2.71.3915-riftysipas.ipa",
-      "minOSVersion": "13.4",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1
-      ],
-      "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Carbon - Macro Coach & Tracker-v2.71.3915-riftysipas.ipa"
       }
     },
     {
@@ -8929,11 +8933,11 @@
       "developerName": "Digital App Group GmbH",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, DiamondFinder\n\nDiamond Finder for Minecraft + | Tweak made by Blatant | Minimum OS version 16.6\n\n---\nDiamond Finder for Minecraft allows you to easily locate valuable ores, biomes and structures in your Minecraft world, including diamonds, emeralds, gold, iron, lapis, redstone, and coal. Whether you're a beginner or an experienced player, this app will help you find the resources you need to progress through the game.\n\nCompatible with all platforms including Bedrock edition and Java edition, and all devices including Mac, iOS, PS4, Xbox, and PC, this app supports Minecraft on any device that ru",
       "version": "9.0.0",
-      "versionDate": "2026-03-10T19:18:00-00:00",
+      "versionDate": "2026-03-12T03:42:11-00:00",
       "versionDescription": "Build 96 from @binnichtaktivsipas",
       "size": 47327722,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/98/47/f69847bd-f87a-c512-52d4-cbdc02ddafb2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Diamond.Finder.for.Minecraft.%2B.Premium.9.0.0.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Diamond.Finder.for.Minecraft.%2B.Premium.9.0.0.ipa",
       "minOSVersion": "16.6",
       "supportedPlatforms": [
         "iOS"
@@ -11933,17 +11937,18 @@
       "bundleIdentifier": "com.fishbrain.app",
       "developerName": "FishBrain",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nFishbrain - Fishing App | Pro Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nFish smarter with Fishbrain! Find new fishing spots, get detailed local info, and connect with a community of more than 20 million anglers. Fishbrain provides you with the maps and tools you need to improve your fishing skills.\n\nFIND NEW FISHING SPOTS\nFishbrain is the fastest and easiest way to find places to fish. Explore thousands of fishing waters and see exactly where fish are being caught with the Fishbrain map. Take your scouting to the next level with advanced map layers and customization",
-      "version": "9.41.0",
-      "versionDate": "2026-03-09T16:57:26-00:00",
-      "versionDescription": "Build 1152 from @riftysIPAlibrary",
-      "size": 106055275,
+      "version": "9.48.0",
+      "versionDate": "2026-03-12T02:55:44-00:00",
+      "versionDescription": "Build 1169 from @riftysIPAlibrary",
+      "size": 110795224,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/18/cc/5618cc75-7836-16a1-14d6-70a7fa80a654/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-25/Fishbrain.-.Fishing.App-v9.41.0-riftysipas.ipa",
-      "minOSVersion": "16.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-5970d033d9bb73522c80/Fishbrain.-.Fishing.App-v9.48.0-riftysipas.ipa",
+      "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -11951,7 +11956,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Fishbrain - Fishing App-v9.41.0-riftysipas.ipa"
+        "originalFile": "Fishbrain - Fishing App-v9.48.0-riftysipas.ipa"
       }
     },
     {
@@ -12356,11 +12361,11 @@
       "developerName": "Flightradar24 AB",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: FlightRadar24\n\nFlightradar24 | Flight Tracker | Gold unlocked | Tweak made by blatant | Minimum OS version 16.0\n\n---\nThe world's best flight tracker app - #1 Travel app in over 150 countries.\n\nTurn your iPhone or iPad into a live flight tracker and see planes around the world move in real-time on a detailed map. Or point your device at a plane to find out where it’s going and what kind of aircraft it is. Download for free today and discover why millions are already tracking flights and checking flight status with Flightradar24.\n\n• Watch aircraft move around the world in real-time\n• Identify flights overhead &",
       "version": "11.1.1",
-      "versionDate": "2026-03-10T19:21:24-00:00",
+      "versionDate": "2026-03-12T03:56:35-00:00",
       "versionDescription": "Build 202603041537 from @binnichtaktivsipas",
       "size": 214198570,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/6f/af/c26faf12-fe71-7885-328b-47d64300837e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Flightradar.Gold.11.1.1.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Flightradar.Gold.11.1.1.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -14326,13 +14331,13 @@
       "name": "GOWOD",
       "bundleIdentifier": "eu.gowod",
       "developerName": "Mobility First Group",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: blatantsPatch, gowod\n\nGOWOD – Mobility & Stretching | • Patched | • Modifier: Subscription Unlocked | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nTHE MOST ADVANCED MOBILITY APP FOR SPORTS PERFORMANCE\nAlready trusted by 1.6 million athletes\n\nGIVE YOUR MOVEMENT MEANING\nTest your mobility and flexibility for free and discover how they impact your athletic performance.\nAccess personalized mobility protocols designed to optimize your movement, relieve stress, improve recovery, and enhance your daily vitality.\n\nPERSONALIZED MOBILITY FOR YOU AND YOUR SPORTS\nMove like new in everything you do with GOWOD’s multi-sport approach:\n- Tailored mobility",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: gowod\n\nGOWOD\nOnly login with Google/Facebook/Apple is supported at the moment\nTweak made by Blatant\nMinimum OS version 15.1\n\n---\nTHE MOST ADVANCED MOBILITY APP FOR SPORTS PERFORMANCE\nAlready trusted by 1.6 million athletes\n\nGIVE YOUR MOVEMENT MEANING\nTest your mobility and flexibility for free and discover how they impact your athletic performance.\nAccess personalized mobility protocols designed to optimize your movement, relieve stress, improve recovery, and enhance your daily vitality.\n\nPERSONALIZED MOBILITY FOR YOU AND YOUR SPORTS\nMove like new in everything you do with GOWOD’s multi-sport approach:\n- Tailored mobility",
       "version": "5.6.0",
-      "versionDate": "2026-03-10T19:39:42-00:00",
-      "versionDescription": "Build 506000002 from @blatants",
-      "size": 59922778,
+      "versionDate": "2026-03-12T00:19:09-00:00",
+      "versionDescription": "Build 506000002 from @binnichtaktivsipas",
+      "size": 57033721,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/7a/dd/727add0a-9584-b34c-9f52-6d2582d4eae9/icon_liquid-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/GOWOD_._Mobility_._Stretching_v5_6_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/GOWOD.Premium.5.6.0.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
@@ -14343,10 +14348,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "GOWOD_–_Mobility_&_Stretching_v5_6_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "GOWOD Premium 5.6.0.ipa"
       }
     },
     {
@@ -16686,25 +16691,27 @@
       "name": "inflow",
       "bundleIdentifier": "com.inflow.app",
       "developerName": "Get Inflow Ltd.",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSubscription Unlocked | Patched ✓\n\n---\nA science-based ADHD app for focus, productivity, and daily life. Manage your ADHD in just 5 minutes a day!\n\nInflow is designed by people with ADHD, for people with ADHD. We are not a glorified timer or calendar. Inflow is a science-based program designed to help you manage focus, procrastination, and follow-through in a way that works with your brain, not against it. Developed with clinical psychologists and featured in peer-reviewed research.\n\nDOES THIS SOUND LIKE YOU?\n\nDo you struggle with fo",
-      "version": "3.0.6",
-      "versionDate": "2026-03-10T01:13:36-00:00",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nInflow - Manage your ADHD | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nA science-based ADHD app for focus, productivity, and daily life. Manage your ADHD in just 5 minutes a day!\n\nInflow is designed by people with ADHD, for people with ADHD. We are not a glorified timer or calendar. Inflow is a science-based program designed to help you manage focus, procrastination, and follow-through in a way that works with your brain, not against it. Developed with clinical psychologists and featured in peer-reviewed research.\n\nDOES THIS SOUND LIKE YOU?\n\nDo you struggle with fo",
+      "version": "3.2.2",
+      "versionDate": "2026-03-12T02:53:49-00:00",
       "versionDescription": "Build 6 from @riftysIPAlibrary",
-      "size": 29902965,
+      "size": 39226467,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/72/74/8f/72748fee-b226-a8ce-29a3-6f3cc2adf47c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-28/Inflow.-.Manage.your.ADHD-v3.0.6-riftysipas.ipa",
-      "minOSVersion": "13.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Inflow.-.Manage.your.ADHD-v3.2.2-riftysipas.ipa",
+      "minOSVersion": "16.6",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        1
+        0,
+        1,
+        2
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Inflow - Manage your ADHD-v3.0.6-riftysipas.ipa"
+        "originalFile": "Inflow - Manage your ADHD-v3.2.2-riftysipas.ipa"
       }
     },
     {
@@ -16869,25 +16876,27 @@
       "name": "Inspo",
       "bundleIdentifier": "com.kmoney.compile",
       "developerName": "Avi Khemani",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSubscription Unlocked | Patched ✓\n\n---\nWith Inspo, you can easily save your favorite recipe videos from Instagram, TikTok, Facebook and Safari directly to the app, making it simple to revisit them whenever you're ready to cook.\n\nInspo uses AI to automatically categorize your saved recipe videos and extract useful details like:\n• Step-by-step cooking instructions\n• Ingredients lists for easy shopping\n• Nutrition facts for the full recipe\n• Cooking times and serving suggestions\n\nInspo AI also offers additional features:\n• Quick Saving:",
-      "version": "2.4",
-      "versionDate": "2026-03-10T03:53:01-00:00",
-      "versionDescription": "Build 2 from @riftysIPAlibrary",
-      "size": 39357741,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nInspo - AI Recipe Keeper | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nWith Inspo, you can easily save your favorite recipe videos from Instagram, TikTok, Facebook and Safari directly to the app, making it simple to revisit them whenever you're ready to cook.\n\nInspo uses AI to automatically categorize your saved recipe videos and extract useful details like:\n• Step-by-step cooking instructions\n• Ingredients lists for easy shopping\n• Nutrition facts for the full recipe\n• Cooking times and serving suggestions\n\nInspo AI also offers additional features:\n• Quick Saving:",
+      "version": "5.1",
+      "versionDate": "2026-03-12T02:58:43-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 74545678,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/85/11/718511d8-b8aa-8a59-4735-67a68e37e1ed/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-28/Inspo.-.AI.Recipe.Keeper-v2.4-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Inspo.-.AI.Recipe.Keeper-v5.1-riftysipas.ipa",
       "minOSVersion": "13.4",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        1
+        0,
+        1,
+        2
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Inspo - AI Recipe Keeper-v2.4-riftysipas.ipa"
+        "originalFile": "Inspo - AI Recipe Keeper-v5.1-riftysipas.ipa"
       }
     },
     {
@@ -17075,18 +17084,19 @@
       "name": "Invoice Simple",
       "bundleIdentifier": "com.logicalengine.qsei",
       "developerName": "Zenvoice Inc.",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyinvoicesimple, zxPluginsInject\n\nPremium Unlocked | Patched ✓\n\n---\nEasily create & send professional invoices, estimates, and receipts on the go! The perfect tool for individuals and growing businesses that lets you quickly create a document on the spot while with your customer.\n\nFor growing businesses who want:\n\n· A simple way to make estimates, invoices, and receipts fast\n\n· Professional-looking invoices that you can send from your mobile device\n\n· An easy way to accept online payments and stop chasing checks\n\nFrom a landscaping invoice or estimate to a recei",
-      "version": "5.3.4",
-      "versionDate": "2026-03-09T22:51:09-00:00",
-      "versionDescription": "Build 16373 from @riftysIPAlibrary",
-      "size": 63597976,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, riftyinvoicesimple, zxPluginsInject\n\nInvoice Simple: Invoice Maker | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nEasily create & send professional invoices, estimates, and receipts on the go! The perfect tool for individuals and growing businesses that lets you quickly create a document on the spot while with your customer.\n\nFor growing businesses who want:\n\n· A simple way to make estimates, invoices, and receipts fast\n\n· Professional-looking invoices that you can send from your mobile device\n\n· An easy way to accept online payments and stop chasing checks\n\nFrom a landscaping invoice or estimate to a recei",
+      "version": "5.14.0",
+      "versionDate": "2026-03-12T00:17:09-00:00",
+      "versionDescription": "Build 19012 from @riftysIPAlibrary",
+      "size": 71709666,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/6b/c2/d56bc2b3-3180-83d4-260d-589b86fb6070/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-27/Invoice.Simple.Invoice.Maker-v5.3.4-riftysipas.ipa",
-      "minOSVersion": "16.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Invoice.Simple.Invoice.Maker-v5.14.0-riftysipas.ipa",
+      "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -17094,7 +17104,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Invoice Simple: Invoice Maker-v5.3.4-riftysipas.ipa"
+        "originalFile": "Invoice Simple: Invoice Maker-v5.14.0-riftysipas.ipa"
       }
     },
     {
@@ -19356,11 +19366,11 @@
       "developerName": "Monkimun Inc",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: LingoKidsPatch\n\nLingokids - Play and Learn | Tweak made by Никита | Minimum OS version 15.1\n\n---\nTHE INTERACTIVE APP FOR KIDS\nLingokids is the fun, safe, educational kids learning app that toddlers and children aged 2–8 love—and parents trust! Packed with over 3000 shows, songs, coloring games, cooking games, and interactive activities, it lets your child play, learn, and grow at their own pace. This is screen time for girls and boys you can feel good about.\n\nLINGOKIDS NOW HAS DISNEY ACTIVITIES!\nYour kid can now play brand-new Disney Mickey & Friends, Disney Zootopia, Marvel Spider-man, Dis",
       "version": "26.11.0",
-      "versionDate": "2026-03-10T19:19:04-00:00",
+      "versionDate": "2026-03-12T03:46:02-00:00",
       "versionDescription": "Build 38642 from @binnichtaktivsipas",
       "size": 118587999,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/48/ba/8948baae-93ab-bc54-33eb-e505e1fbd36d/AppIconMain-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Lingokids.Unlimited.26.11.0.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Lingokids.Unlimited.26.11.0.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
@@ -20861,11 +20871,11 @@
       "developerName": "Triple Glazed Studios",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Mercury1, Mercury2\n\nMercury Weather | Pro unlocked | Minimum OS version 16.0\n\n---\n\"It's a weather app. How much is there to say?\"\n– Malin from Triple Glazed Studios' crack product marketing team\n\nTOP FEATURES\n– Beautiful weather charts\n– Detailed daily forecast\n– Trip Forecast\n– Incredibly accurate rain forecast\n– Hurricane and storm tracking\n– Tide forecasts\n– Weather notifications\n– Radar map\n– Simple yet powerful Apple Watch app\n– Easy to glance home screen and lock screen widgets\n– Weather normals\n\nPrivacy policy:\nTerms of use:",
       "version": "3.4.5",
-      "versionDate": "2026-03-10T19:18:37-00:00",
+      "versionDate": "2026-03-12T03:45:01-00:00",
       "versionDescription": "Build 4528 from @binnichtaktivsipas",
       "size": 56259778,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/af/06/42af066b-48ad-b847-ca12-b7891ed78677/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Mercury.Weather.Pro.3.4.5.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Mercury.Weather.Pro.3.4.5.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -20912,12 +20922,12 @@
       "bundleIdentifier": "com.merge.cooking.theme.restaurant.food",
       "developerName": "Happibits",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nMerge Cooking:Theme Restaurant\nSatella does not work anymore. If you need gems downgrade to this version, buy gems and then upgrade to the latest game version again. Repeat these steps if you need gems again\nMinimum OS version 12.0\n\n---\nDo you know you can enjoy the food around the world without traveling?\nDo you know you can master the secret of cooking with just a few simple steps?\nTie your apron and put your chef hat on!\nIn Merge Cooking, you can cook anything!\n\n- Welcome, Chef!\nYour assistant Lea is waiting for you to start the adventure of opening restaurants and serving customers around the world. Merge Cooking not only allows you to cook as a star chef and master the world cuisine but also helps you realize your designer",
-      "version": "1.31.2",
-      "versionDate": "2026-03-09T00:52:43-00:00",
-      "versionDescription": "Build 1031002 from @binnichtaktivsipas",
-      "size": 315886160,
+      "version": "1.32.1",
+      "versionDate": "2026-03-12T01:00:16-00:00",
+      "versionDescription": "Build 1032001 from @binnichtaktivsipas",
+      "size": 315572488,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ea/18/b3/ea18b3dc-423b-8233-c037-0c7e265ac3ce/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-20/Merge.Cooking.IAP.1.31.2.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Merge.Cooking.IAP.1.32.1.ipa",
       "minOSVersion": "12.0",
       "supportedPlatforms": [
         "iOS"
@@ -20931,7 +20941,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Merge Cooking IAP 1.31.2.ipa"
+        "originalFile": "Merge Cooking IAP 1.32.1.ipa"
       }
     },
     {
@@ -21095,13 +21105,13 @@
       "name": "Mimo",
       "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "Mimo GmbH",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Mimo, blatantsPatch, sideloadKeychainfix\n\nMimo: Learn Coding/Programming | • Patched | • Modifier: Max Subscription Unlocked | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nLearn Python, JavaScript, HTML, CSS, or SQL, and master modern AI-assisted development to become a developer in the age of AI. Mimo is a coding app that takes you from zero to building projects with AI. Gain the knowledge and tools to create production-ready software and pursue a job as a developer. Start building strong portfolio projects today, future-proof your skills, and take the next step beyond just coding syntax—download Mimo and launch your developer career now!\n\nWho It's For\n\nMimo stan",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Mimo, SideloadSpoofer-08\n\nLearn Coding/Programming: Mimo | Max subscription | Tweak made by Blatant | Minimum OS version 17.0\n\n---\nLearn Python, JavaScript, HTML, CSS, or SQL, and master modern AI-assisted development to become a developer in the age of AI. Mimo is a coding app that takes you from zero to building projects with AI. Gain the knowledge and tools to create production-ready software and pursue a job as a developer. Start building strong portfolio projects today, future-proof your skills, and take the next step beyond just coding syntax—download Mimo and launch your developer career now!\n\nWho It's For\n\nMimo stan",
       "version": "12.4.0",
-      "versionDate": "2026-03-10T19:41:56-00:00",
-      "versionDescription": "Build 46504 from @blatants",
-      "size": 83218249,
+      "versionDate": "2026-03-12T00:20:18-00:00",
+      "versionDescription": "Build 46504 from @binnichtaktivsipas",
+      "size": 79419869,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/8b/64/638b64fe-a691-4a54-517f-70cb5196dbcf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Mimo_Learn_Coding_Programming_v12_4_0_Max_Subscription_Unlocked.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Mimo.Max.12.4.0.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -21112,10 +21122,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Mimo_Learn_Coding_Programming_v12_4_0_Max_Subscription_Unlocked.ipa"
+        "originalFile": "Mimo Max 12.4.0.ipa"
       }
     },
     {
@@ -22346,12 +22356,12 @@
       "bundleIdentifier": "com.master.hotelmaster",
       "developerName": "SayGames LTD",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SatellaJailed, fixipa1, fixipa2, popuprifty\n\nFree iAP\n\n---\n► A GAME TO KEEP YOU FULLY OCCUPIED\n\nEver dreamed of running your own hotel? Start from the ground up in this fun and fast-paced time-management game where the aim is to build an accommodation empire and demonstrate your dedication to hospitality. Show your skills as a hotel manager, invest wisely in staff and property improvements, and work your socks off to become a hospitality tycoon in this addictive and entertaining casual simulator.\n\n► FIRST-CLASS SERVICE\n\n• Climb to the top: Start the gam",
-      "version": "1.22.0",
-      "versionDate": "2026-03-10T08:30:38-00:00",
-      "versionDescription": "Build 529 from @riftysIPAlibrary",
-      "size": 181829223,
+      "version": "1.25.1",
+      "versionDate": "2026-03-12T13:35:58-00:00",
+      "versionDescription": "Build 676 from @riftysIPAlibrary",
+      "size": 173965064,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/4b/2d/7f4b2d2c-ca10-59ac-9891-07e8ea11f642/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-30/My.Perfect.Hotel-v1.22.0-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/My.Perfect.Hotel-v1.25.1-riftysipas.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -22364,7 +22374,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "My Perfect Hotel-v1.22.0-riftysipas.ipa"
+        "originalFile": "My Perfect Hotel-v1.25.1-riftysipas.ipa"
       }
     },
     {
@@ -22423,13 +22433,13 @@
       "name": "MyFitnessPal",
       "bundleIdentifier": "com.myfitnesspal.mfp",
       "developerName": "MyFitnessPal, Inc.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: MyFitnessPal, blatantsPatch, sideloadKeychainfix\n\nMyFitnessPal: Calorie Counter | • Patched | • Modifier: Subscription Unlocked | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nAchieve your nutrition, calorie, macro, and fitness goals with MyFitnessPal. MyFitnessPal is a comprehensive food and fitness tracker, with everything you need to reach your goals. Macros, calories, food, and workouts – track it all in one place.\n\nChange your habits with fitness and food. Download our health and nutrition app and start your free Premium trial today. With MyFitnessPal, you have access to exclusive food inspiration, an intermittent fasting tracker, fitness logging tools, expert gu",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, MyFitnessPal, SideloadSpoofer-08, Sideloadbypass1, Sideloadbypass2\n\nMyFitnessPal: Calorie Counter | Tweak made by Blatant | Minimum OS version 17.0\n\n---\nAchieve your nutrition, calorie, macro, and fitness goals with MyFitnessPal. MyFitnessPal is a comprehensive food and fitness tracker, with everything you need to reach your goals. Macros, calories, food, and workouts – track it all in one place.\n\nChange your habits with fitness and food. Download our health and nutrition app and start your free Premium trial today. With MyFitnessPal, you have access to exclusive food inspiration, an intermittent fasting tracker, fitness logging tools, expert gu",
       "version": "26.10.0",
-      "versionDate": "2026-03-11T11:06:04-00:00",
-      "versionDescription": "Build 70627 from @blatants",
-      "size": 142066450,
+      "versionDate": "2026-03-12T00:46:56-00:00",
+      "versionDescription": "Build 70627 from @binnichtaktivsipas",
+      "size": 135211866,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/5f/ad/7c5fad01-895c-8540-1202-9145e27bcf64/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/MyFitnessPal_Calorie_Counter_v26_10_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/MyFitnessPal.Premium.26.10.0.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -22440,10 +22450,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "MyFitnessPal_Calorie_Counter_v26_10_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "MyFitnessPal Premium 26.10.0.ipa"
       }
     },
     {
@@ -22947,12 +22957,12 @@
       "bundleIdentifier": "com.newstarresearch.retrobowlpro",
       "developerName": "New Star R&D Ltd.",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nNFL RB 26 | Paid app: (Apple Arcade) | AppStore link: | Decrypted by userhidden\n\n---\nNFL Retro Bowl '26 features all the real teams and players from the NFL faithfully reproduced in glorious retro pixel-art style! Start your NFL coaching career by assembling your roster from a choice of over 2,000 real-life NFL & NFLPA players. Take on the real teams from the AFC and NFC, manage your roster, handle the press, and play the key moments on the field to take your team to the Super Bowl and write your name into the Hall of Fame!",
-      "version": "1.1.63",
-      "versionDate": "2026-03-10T02:28:08-00:00",
-      "versionDescription": "Build 1.1.63.0 from @thescholarslounge",
-      "size": 73121314,
+      "version": "1.1.64",
+      "versionDate": "2026-03-12T01:09:11-00:00",
+      "versionDescription": "Build 1.1.64.5 from @thescholarslounge",
+      "size": 73798563,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/31/a7/c0/31a7c004-9711-8d52-5b12-f2b41c367a92/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-28/NFL.Retro.Bowl.26-1.1.63.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/NFL.Retro.Bowl.26-1.1.64.ipa",
       "minOSVersion": "13",
       "supportedPlatforms": [
         "iOS"
@@ -22965,7 +22975,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "NFL Retro Bowl '26-1.1.63.ipa"
+        "originalFile": "NFL Retro Bowl '26-1.1.64.ipa"
       }
     },
     {
@@ -23260,13 +23270,13 @@
       "name": "Notability",
       "bundleIdentifier": "com.gingerlabs.Notability",
       "developerName": "Ginger Labs",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Notability, blatantsPatch\n\nNotability: AI Notes & PDF app | • Patched | • Modifier: Pro Unlocked | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nFrom your first lecture to your next big meeting, Notability helps you think, learn, and work better. Take handwritten notes, annotate documents, record audio, and stay organized in one place so your ideas are always clear, searchable, and ready when you need them.\n\nFREE DIGITAL NOTES FOR WORK & SCHOOL\n• Write, type, or sketch with digital ink, highlighters, and text tools.\n• Mark up anything: PDFs, textbooks, lecture slides, images, and more.\n• Combine handwriting, typed text, images, diagrams,",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CachefixPatch, CydiaSubstrate, NotabilitySmarterAINotesPatch, Sideloadbypass1, Sideloadbypass2\n\nNotability: Notes, PDF | Tweak made by Никита | Minimum OS version 17.0\n\n---\nFrom your first lecture to your next big meeting, Notability helps you think, learn, and work better. Take handwritten notes, annotate documents, record audio, and stay organized in one place so your ideas are always clear, searchable, and ready when you need them.\n\nFREE DIGITAL NOTES FOR WORK & SCHOOL\n• Write, type, or sketch with digital ink, highlighters, and text tools.\n• Mark up anything: PDFs, textbooks, lecture slides, images, and more.\n• Combine handwriting, typed text, images, diagrams,",
       "version": "15.4.3",
-      "versionDate": "2026-03-10T19:42:40-00:00",
-      "versionDescription": "Build 6776 from @blatants",
-      "size": 236452370,
+      "versionDate": "2026-03-12T00:57:33-00:00",
+      "versionDescription": "Build 6776 from @binnichtaktivsipas",
+      "size": 228644702,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/53/9c/de539cac-7e47-8cad-052e-384072cec73c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Notability_AI_Notes_._PDF_app_v15_4_3_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Notability.Plus.15.4.3.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -23277,10 +23287,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Notability_AI_Notes_&_PDF_app_v15_4_3_Pro_Unlocked_blatant_Patched.ipa"
+        "originalFile": "Notability Plus 15.4.3.ipa"
       }
     },
     {
@@ -23831,32 +23841,6 @@
     },
     {
       "name": "Offline Games",
-      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
-      "developerName": "Moreno Maio",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, ogrifty\n\n- Unlimited Tokens | - No Ads\n\n---\nGet ready for 'Offline Games': fun for all ages, and a mental workout too! This offline game collection is like an overflowing toy box packed with more than 20 unique minigames. It's designed for classic game enthusiasts, puzzle lovers, and challenge seekers. And the best part? You don't need an internet connection to enjoy it!\n\nOur array of Number Games like 2048 and 2248 will get your neurons firing. Engage in these numeric challenges and strive to hit the highest scores. They're perfect for k",
-      "version": "3.2.3",
-      "versionDate": "2026-03-11T15:36:07-00:00",
-      "versionDescription": "Build 2144 from @riftysIPAlibrary",
-      "size": 93184450,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/2f/8c/d72f8ca5-e10b-0c7c-4a04-b90f1fbff9e5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Offline.Games.-.No.Wifi.Games-v3.2.3-riftysipas.ipa",
-      "minOSVersion": "12.5",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Offline Games - No Wifi Games-v3.2.3-riftysipas.ipa"
-      }
-    },
-    {
-      "name": "Offline Games",
       "bundleIdentifier": "com.media720.offlinegames",
       "developerName": "720 Media LLC",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysofflinegamesnowififun\n\nAds Removed | Patched ✓\n\n---\nOffline Games: Dive into Endless Fun without Wi-Fi!\n\nStep into a universe of gaming diversity, all available without an internet connection! With \"Offline Games,\" dive deep into an expansive collection, from brain-teasing puzzles and classic arcades to strategic board games and exciting card challenges. Whether you're merging objects, aiming for high scores in pinball, or chasing the iconic 2048, our suite ensures you're never short of options.\n\nAlways Offline: Play to your heart's content witho",
@@ -23879,6 +23863,33 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Offline Games No WiFi Fun 100+-v1.43-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Offline Games",
+      "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
+      "developerName": "Moreno Maio",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, ogrifty\n\nOffline Games - No Wifi Games | Unlimited Tokens, No Ads | Patched ✓ | Additional Information ℹ️\n\n---\nGet ready for 'Offline Games': fun for all ages, and a mental workout too! This offline game collection is like an overflowing toy box packed with more than 20 unique minigames. It's designed for classic game enthusiasts, puzzle lovers, and challenge seekers. And the best part? You don't need an internet connection to enjoy it!\n\nOur array of Number Games like 2048 and 2248 will get your neurons firing. Engage in these numeric challenges and strive to hit the highest scores. They're perfect for k",
+      "version": "3.9.1",
+      "versionDate": "2026-03-12T00:18:18-00:00",
+      "versionDescription": "Build 2874 from @riftysIPAlibrary",
+      "size": 96918318,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/2f/8c/d72f8ca5-e10b-0c7c-4a04-b90f1fbff9e5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Offline.Games.-.No.Wifi.Games-v3.9.1-riftysipas.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@riftysIPAlibrary",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Offline Games - No Wifi Games-v3.9.1-riftysipas.ipa"
       }
     },
     {
@@ -24017,12 +24028,12 @@
       "bundleIdentifier": "com.zijayrate.analogcam",
       "developerName": "梓杰 张",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SatellaJailed\n\nOldRoll - Vintage Film Camera | Tap on buy VIP then cancel | Minimum OS version 14.0\n\n---\nOldRoll is a film analog camera app mimicking the most realistic experience of using an actual disposable or a film camera.\n\nWe have curated for you a wide array of classic vintage cameras loved by photographers and shutterbugs throughout the decades: from Instant camera, Fisheye to Super 8mm video cam - each reproduced to its finest details including the color, hue, grain, texture - and sometimes a few light leaks here and there for you to explore.\n\nDownload OldRoll and it’s just one shot away",
-      "version": "8.4.3",
-      "versionDate": "2026-03-09T03:32:59-00:00",
-      "versionDescription": "Build 2 from @binnichtaktivsipas",
-      "size": 178374686,
+      "version": "8.4.4",
+      "versionDate": "2026-03-12T00:53:13-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 178351890,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/c6/c6/77c6c64e-b26b-fe9b-e20f-01159350a354/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-21/OldRoll.IAP.8.4.3.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/OldRoll.IAP.8.4.4.ipa",
       "minOSVersion": "14.0",
       "supportedPlatforms": [
         "iOS"
@@ -24036,7 +24047,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "OldRoll IAP 8.4.3.ipa"
+        "originalFile": "OldRoll IAP 8.4.4.ipa"
       }
     },
     {
@@ -24121,18 +24132,19 @@
       "name": "OnTheWay",
       "bundleIdentifier": "ideastudio.Weather-on-the-Way",
       "developerName": "Piotr Knapczyk",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPro Unlocked | Notes: restart app if subscription isn't unlocked | Patched ✓\n\n---\nCheck ROAD CONDITIONS and WEATHER on your ROUTE\n\n• Be PREPARED for the road trip\n• Say NO to weather delays\n• Know EVERYTHING about weather conditions at any point of your road trip\n• Be smarter than 99% of drivers around you!\n• Access weather and radar on CarPlay\n\nForecast That Follows Your Trip\nWeather and navigation combined to provide a route forecast precisely at the time you will be driving through. It's the best weather app you can have on the road.\n\nFeatures and benefits:\n• Know What's A",
-      "version": "2.2.6",
-      "versionDate": "2026-03-10T05:50:13-00:00",
-      "versionDescription": "Build 4 from @riftysIPAlibrary",
-      "size": 41901953,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nWeather on the Way | Pro Unlocked | Notes: restart app if subscription isn't unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nCheck ROAD CONDITIONS and WEATHER on your ROUTE\n\n• Be PREPARED for the road trip\n• Say NO to weather delays\n• Know EVERYTHING about weather conditions at any point of your road trip\n• Be smarter than 99% of drivers around you!\n• Access weather and radar on CarPlay\n\nForecast That Follows Your Trip\nWeather and navigation combined to provide a route forecast precisely at the time you will be driving through. It's the best weather app you can have on the road.\n\nFeatures and benefits:\n• Know What's A",
+      "version": "2.5.1",
+      "versionDate": "2026-03-12T00:15:57-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 44121566,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/e2/28/4fe22874-cf48-d46f-7515-0d936faa9168/AppIcon-Revised-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-29/Weather.on.the.Way-v2.2.6-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Weather.on.the.Way-v2.5.1-riftysipas.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -24140,32 +24152,34 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Weather on the Way-v2.2.6-riftysipas.ipa"
+        "originalFile": "Weather on the Way-v2.5.1-riftysipas.ipa"
       }
     },
     {
       "name": "Opal",
       "bundleIdentifier": "com.withopal.opal",
       "developerName": "Opal OS",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSubscription Unlocked | Patched ✓\n\n---\nAchieve screen time control with the world’s most-loved screen time app! Opal is the fun, free Screen Time app to improve your focus and make the most out of every day.\n\n5 to 6 hours. That’s the average time you’ll spend looking at your phone today, often without realizing it. It's time to fight back. With a combination of screen time control, app limits, app blockers, real time data, leaderboards and rewards, you will focus better and accomplish your dreams, just like Opal’s members.\n\nAs of Nov",
-      "version": "3.118",
-      "versionDate": "2026-03-11T15:34:50-00:00",
-      "versionDescription": "Build 2209241740 from @riftysIPAlibrary",
-      "size": 133386297,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nOpal: Screen Time Control | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nAchieve screen time control with the world’s most-loved screen time app! Opal is the fun, free Screen Time app to improve your focus and make the most out of every day.\n\n5 to 6 hours. That’s the average time you’ll spend looking at your phone today, often without realizing it. It's time to fight back. With a combination of screen time control, app limits, app blockers, real time data, leaderboards and rewards, you will focus better and accomplish your dreams, just like Opal’s members.\n\nAs of Nov",
+      "version": "3.151.1",
+      "versionDate": "2026-03-12T00:17:59-00:00",
+      "versionDescription": "Build 0304082005 from @riftysIPAlibrary",
+      "size": 166364359,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/1a/4f/301a4f8d-036c-9faf-20f2-700e4e034146/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Opal.Screen.Time.Control-v3.118-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Opal.Screen.Time.Control-v3.151.1-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        1
+        0,
+        1,
+        2
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Opal: Screen Time Control-v3.118-riftysipas.ipa"
+        "originalFile": "Opal: Screen Time Control-v3.151.1-riftysipas.ipa"
       }
     },
     {
@@ -25030,18 +25044,19 @@
       "name": "ParrotPal",
       "bundleIdentifier": "ai.parrotpal",
       "developerName": "Scott Flear",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSubscription Unlocked\n\n---\nParrotPal: Wellness Made Simple\n\nLife is busy, and staying healthy can feel overwhelming. ParrotPal is here to help you build sustainable habits that fit your lifestyle—with minimal effort.\nOur app makes it easy to track your food, stay active, and make balanced choices—all without overthinking. Focus on small, daily actions and feel good about taking steps toward a healthier you.\n\nWhat Makes ParrotPal Different?\nEffortless Food Logging\n Logging meals has never been easier. Simply type, speak, o",
-      "version": "135",
-      "versionDate": "2026-03-10T08:09:11-00:00",
-      "versionDescription": "Build 170 from @riftysIPAlibrary",
-      "size": 67937754,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nAI Calorie Counter: ParrotPal | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nParrotPal: Wellness Made Simple\n\nLife is busy, and staying healthy can feel overwhelming. ParrotPal is here to help you build sustainable habits that fit your lifestyle—with minimal effort.\nOur app makes it easy to track your food, stay active, and make balanced choices—all without overthinking. Focus on small, daily actions and feel good about taking steps toward a healthier you.\n\nWhat Makes ParrotPal Different?\nEffortless Food Logging\n Logging meals has never been easier. Simply type, speak, o",
+      "version": "188",
+      "versionDate": "2026-03-12T00:16:33-00:00",
+      "versionDescription": "Build 304 from @riftysIPAlibrary",
+      "size": 108804522,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/f0/10/f9f01031-6fed-1477-42a6-cf5c5071fc9b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-30/AI.Calorie.Counter.ParrotPal-v3.9.19-riftysipas.ipa",
-      "minOSVersion": "16.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/AI.Calorie.Counter.ParrotPal-v188-riftysipas.ipa",
+      "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -25049,7 +25064,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "AI Calorie Counter: ParrotPal-v3.9.19-riftysipas.ipa"
+        "originalFile": "AI Calorie Counter: ParrotPal-v188-riftysipas.ipa"
       }
     },
     {
@@ -25812,39 +25827,13 @@
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSubscription Unlocked | Patched ✓\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology—no design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\n- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\n- One-tap background removal. Remove or replace backgrounds for polished, professional images.\n- Virtual models. Showcase clothing on AI-generated models",
-      "version": "2025.28.01",
-      "versionDate": "2026-03-11T15:19:55-00:00",
-      "versionDescription": "Build 1846 from @riftysIPAlibrary",
-      "size": 122134647,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPhotoroom: AI Photo Editor | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology—no design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\n- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\n- One-tap background removal. Remove or replace backgrounds for polished, professional images.\n- Virtual models. Showcase clothing on AI-generated models",
+      "version": "2026.10.01",
+      "versionDate": "2026-03-12T03:11:05-00:00",
+      "versionDescription": "Build 2201 from @riftysIPAlibrary",
+      "size": 134654689,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/17/42/451742df-6962-117a-f032-0a58c3068d4a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Photoroom.AI.Photo.Editor-v2025.28.01-riftysipas.ipa",
-      "minOSVersion": "17.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Photoroom: AI Photo Editor-v2025.28.01-riftysipas.ipa"
-      }
-    },
-    {
-      "name": "Photoshop",
-      "bundleIdentifier": "com.adobe.photoshop.ios",
-      "developerName": "Adobe Inc.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AdobePhotoshop, FilePickerFix, blatantsPatch\n\nAdobe Photoshop: Photo Editor\n• Patched\n• Modifier: Subscription Unlocked\n• Note:\nLog in with a random account (switch to the U.S. region if Adobe is blocked). Select the highest plan and click Buy then Cancel and restart the app, you should now have premium.\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nPhotoshop on mobile is an image editor app with a wide selection of free photo editing tools. Whether you are just getting started or already know Photoshop, it's easier than ever to transform a single photo or blend multiple images into a cohesive design.\n\nWhat can Photoshop on mobile do?\n- Add new objects with AI\n- Blur or remove backgrounds\n- Replace backgrounds and remove unwanted objects\n- Retouch, refine, and perfect your images with targeted adjustments\n- Combine multiple images to create",
-      "version": "7.5.1",
-      "versionDate": "2026-03-10T19:42:43-00:00",
-      "versionDescription": "Build 20260306.731 from @blatants",
-      "size": 279002403,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/3b/b4/6a3bb479-d3ae-058a-0b94-d503275a7939/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Adobe_Photoshop_Photo_Editor_v7_5_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Photoroom.AI.Photo.Editor-v2026.10.01-riftysipas.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -25855,10 +25844,37 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Adobe_Photoshop_Photo_Editor_v7_5_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Photoroom: AI Photo Editor-v2026.10.01-riftysipas.ipa"
+      }
+    },
+    {
+      "name": "Photoshop",
+      "bundleIdentifier": "com.adobe.photoshop.ios",
+      "developerName": "Adobe Inc.",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: AdobePhotoshopPatch\n\nAdobe Photoshop: Image Editor | Tweak made by Никита | Minimum OS version 18.0\n\n---\nPhotoshop on mobile is an image editor app with a wide selection of free photo editing tools. Whether you are just getting started or already know Photoshop, it's easier than ever to transform a single photo or blend multiple images into a cohesive design.\n\nWhat can Photoshop on mobile do?\n- Add new objects with AI\n- Blur or remove backgrounds\n- Replace backgrounds and remove unwanted objects\n- Retouch, refine, and perfect your images with targeted adjustments\n- Combine multiple images to create",
+      "version": "7.5.1",
+      "versionDate": "2026-03-12T00:59:03-00:00",
+      "versionDescription": "Build 20260306.731 from @binnichtaktivsipas",
+      "size": 267004516,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6a/3b/b4/6a3bb479-d3ae-058a-0b94-d503275a7939/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Adobe.Photoshop.Pro.7.5.1.ipa",
+      "minOSVersion": "18.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Adobe Photoshop Pro 7.5.1.ipa"
       }
     },
     {
@@ -26384,12 +26400,12 @@
       "bundleIdentifier": "pinterest",
       "developerName": "Pinterest",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, PinterestPlus2, Sideloadbypass1, Sideloadbypass2, pinterestplus\n\nPinterest | Download Videos, Sponsored Pins Removed | Patched ✓ | Additional Information ℹ️\n\n---\nPinterest is a place of endless possibilities. You can:\n- Discover everyday inspiration\n- Shop styles you love\n- Try and learn something new\n\nCreate boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love?\n\nIt's Possible.",
-      "version": "14.8",
-      "versionDate": "2026-03-05T01:56:01-00:00",
+      "version": "14.9",
+      "versionDate": "2026-03-12T02:55:49-00:00",
       "versionDescription": "Build 3 from @riftysIPAlibrary",
-      "size": 115607718,
+      "size": 116257017,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/cf/5a/83cf5aac-a9c9-f0a7-5f19-e34a641679ca/AppIcon-0-0-1x_U007epad-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-10/Pinterest-v14.8-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Pinterest-v14.9-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -26403,7 +26419,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Pinterest-v14.8-riftysipas.ipa"
+        "originalFile": "Pinterest-v14.9-riftysipas.ipa"
       }
     },
     {
@@ -26670,25 +26686,27 @@
       "name": "Planta",
       "bundleIdentifier": "com.stromming.Plants",
       "developerName": "Planta AB",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty\n\nSubscription Unlocked\n\n---\nEDITORS' CHOICE & APP OF THE DAY\n\nKeep your plants alive. Without guesswork.\nPlanta helps you identify plants, understand their needs, and care for them with confidence. Get a complete care guide at the exact moment your plants need it.\n\nIdentify any plant in seconds\nTake a photo to instantly identify your plant and receive a tailored care plan based on its species and needs.\n\nNever forget to care for your plants\nUse our smart tracker to create personalized schedules for watering, fertilizing, r",
-      "version": "3.87.0",
-      "versionDate": "2026-03-10T08:14:12-00:00",
-      "versionDescription": "Build 769 from @riftysIPAlibrary",
-      "size": 100859579,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, autoRevenuecat, popuprifty, zxPluginsInject\n\nPlanta: Plant & Garden Care | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nEDITORS' CHOICE & APP OF THE DAY\n\nKeep your plants alive. Without guesswork.\nPlanta helps you identify plants, understand their needs, and care for them with confidence. Get a complete care guide at the exact moment your plants need it.\n\nIdentify any plant in seconds\nTake a photo to instantly identify your plant and receive a tailored care plan based on its species and needs.\n\nNever forget to care for your plants\nUse our smart tracker to create personalized schedules for watering, fertilizing, r",
+      "version": "3.107.0",
+      "versionDate": "2026-03-12T02:55:44-00:00",
+      "versionDescription": "Build 981 from @riftysIPAlibrary",
+      "size": 110081366,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/57/07/855707cf-7c46-6801-57e6-454f73723631/AppIcon-Prod-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-30/Planta.Plant.Garden.Care-v3.87.0-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/untagged-adec3a259033f5781b5f/Planta.Plant.Garden.Care-v3.107.0-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        1
+        0,
+        1,
+        2
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Planta: Plant & Garden Care-v3.87.0-riftysipas.ipa"
+        "originalFile": "Planta: Plant & Garden Care-v3.107.0-riftysipas.ipa"
       }
     },
     {
@@ -27420,13 +27438,13 @@
       "name": "ProCCD",
       "bundleIdentifier": "com.yengshine.proccd",
       "developerName": "秉妍 蔡",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ProCCD, blatantsPatch\n\nProCCD - Digital Film Camera | • Patched | • Modifier: Subscription Unlocked | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nProCCD is an analog digital film camera application & carousel collage maker. We have reproduced the classic appearance of digital cameras and vintage film & digital camera-inspired retro filter effects. We also create Instagram carousel posts, stories, photo & video collage templates.\n\n#40+ Vintage Film Camera, Digital Camera & VHS Camcorder\n2000S & 2014: A tribute to old button phone, featuring 2000s lofi style that adds a Y2K aesthetic to everyday moments.\nINST E & INST W: Instant cameras tha",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: ProCCD\n\nProCCD - Digital Film Camera | Tweak made by blatant | Minimum OS version 14.0\n\n---\nProCCD is an analog digital film camera application & carousel collage maker. We have reproduced the classic appearance of digital cameras and vintage film & digital camera-inspired retro filter effects. We also create Instagram carousel posts, stories, photo & video collage templates.\n\n#40+ Vintage Film Camera, Digital Camera & VHS Camcorder\n2000S & 2014: A tribute to old button phone, featuring 2000s lofi style that adds a Y2K aesthetic to everyday moments.\nINST E & INST W: Instant cameras tha",
       "version": "5.6.2",
-      "versionDate": "2026-03-11T11:05:37-00:00",
-      "versionDescription": "Build 1 from @blatants",
-      "size": 225437298,
+      "versionDate": "2026-03-12T00:57:01-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 221544583,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/3e/49/d23e49a3-79da-3c3b-1771-e2c824fd95a4/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/ProCCD_Digital_Film_Camera_v5_6_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/ProCCD.VIP.5.6.2.ipa",
       "minOSVersion": "14.0",
       "supportedPlatforms": [
         "iOS"
@@ -27437,10 +27455,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "ProCCD_Digital_Film_Camera_v5_6_2_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "ProCCD VIP 5.6.2.ipa"
       }
     },
     {
@@ -27756,13 +27774,13 @@
       "name": "Push Training",
       "bundleIdentifier": "com.albernackee.blur",
       "developerName": "Jacob Rice",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPremium Unlocked | Patched ✓\n\n---\nPush Training is the #1 app fully dedicated to treadmill interval runs. We turn every workout into an adrenaline-filled, DJ-backed session as we sync the intensity of your routine with audio coaching and high-energy music.\n\nWhat sets Push Training apart is the tailored fitness experience every time you hit 'play.' Each workout session gets a unique mix of music and audio coaching, and adapts to your personal best. This means no two workout sessions are the same! And because the workouts adapt to",
-      "version": "1.1.2508130",
-      "versionDate": "2026-03-11T15:03:07-00:00",
-      "versionDescription": "Build 1.1.2508130 from @riftysIPAlibrary",
-      "size": 206069478,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nTreadmill Workout PushTraining | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nPush Training is the #1 app fully dedicated to treadmill interval runs. We turn every workout into an adrenaline-filled, DJ-backed session as we sync the intensity of your routine with audio coaching and high-energy music.\n\nWhat sets Push Training apart is the tailored fitness experience every time you hit 'play.' Each workout session gets a unique mix of music and audio coaching, and adapts to your personal best. This means no two workout sessions are the same! And because the workouts adapt to",
+      "version": "1.1.2603110",
+      "versionDate": "2026-03-12T00:19:06-00:00",
+      "versionDescription": "Build 1.1.2603110 from @riftysIPAlibrary",
+      "size": 217219311,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/80/23/5a80234a-6043-181d-515b-73b7b6699b9e/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Treadmill.Workout.PushTraining-v1.1.2508130-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Treadmill.Workout.PushTraining-v1.1.2603110-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -27774,7 +27792,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Treadmill Workout PushTraining-v1.1.2508130-riftysipas.ipa"
+        "originalFile": "Treadmill Workout PushTraining-v1.1.2603110-riftysipas.ipa"
       }
     },
     {
@@ -28978,18 +28996,19 @@
       "name": "Riverside",
       "bundleIdentifier": "RVS-Riverside.fm",
       "developerName": "riverside.fm",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPremium Unlocked | Patched ✓\n\n---\nRiverside is a powerful podcast and video maker that allows you to record and edit video and audio easily.\n\nWith AI features like captions, transcription, and teleprompter, and capabilities like text-based editing and studio-quality recording, you can publish top-notch videos, podcasts and social media clips from anywhere, anytime.\n\nJoin thousands of podcasters, media companies, influencers and online content creators who trust Riverside for high-definition video and audio. Whether you're making",
-      "version": "3.13.3",
-      "versionDate": "2026-03-11T15:31:03-00:00",
-      "versionDescription": "Build 2 from @riftysIPAlibrary",
-      "size": 154243609,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nRiverside Podcast Video Studio | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nRiverside is a powerful podcast and video maker that allows you to record and edit video and audio easily.\n\nWith AI features like captions, transcription, and teleprompter, and capabilities like text-based editing and studio-quality recording, you can publish top-notch videos, podcasts and social media clips from anywhere, anytime.\n\nJoin thousands of podcasters, media companies, influencers and online content creators who trust Riverside for high-definition video and audio. Whether you're making",
+      "version": "4.10.0",
+      "versionDate": "2026-03-12T00:18:51-00:00",
+      "versionDescription": "Build 202603101731 from @riftysIPAlibrary",
+      "size": 206389500,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/68/df/b668df3e-5c6a-92e8-0514-7f107aed5673/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Riverside.Podcast.Video.Studio-v3.13.3-riftysipas.ipa",
-      "minOSVersion": "16.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Riverside.Podcast.Video.Studio-v4.10.0-riftysipas.ipa",
+      "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -28997,7 +29016,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Riverside Podcast Video Studio-v3.13.3-riftysipas.ipa"
+        "originalFile": "Riverside Podcast Video Studio-v4.10.0-riftysipas.ipa"
       }
     },
     {
@@ -30096,11 +30115,11 @@
       "developerName": "Shapr3D Zrt",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Shapr3DPatch\n\nShapr 3D CAD modeling | Tweak made by Никита and @binnichtaktiv | Minimum OS version 16.0\n\n---\nFrom design to manufacturing. Teams collaborate with more impact. Instinctive design meets multidevice capability and full interoperability for the ultimate 3D design workflow.\n\nAll platforms\nPick your device and your input tool leveraging the first CAD tool envisioned for multidevice. Hybrid workflow meets cross-functional team processes with automatic sync across devices. Work from any device or offline: design and collaborate at your best, everywhere.\n\nCompact tools. Space for focus.\nAn adapt",
       "version": "26.32.0",
-      "versionDate": "2026-03-10T19:24:18-00:00",
+      "versionDate": "2026-03-12T04:12:56-00:00",
       "versionDescription": "Build 10532 from @binnichtaktivsipas",
       "size": 1174559844,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/7b/31/517b3143-c46a-f8ae-8c0f-eeb7020e7522/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Shapr.Pro.26.32.0.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Shapr.Pro.26.32.0.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -30644,11 +30663,11 @@
       "developerName": "Leap Health",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SatellaJailed\n\nSix Pack in 30 Days - 6 Pack | Tap on buy pro then cancel | Minimum OS version 15.0\n\n---\nWant to lose belly fat and get toned, defined abs? Too busy for the gym? Six Pack makes your workout journey simple and effective. No equipment needed. Sculpt six pack abs with this workout planner and see real progress in just 30 days. Explore various workouts for all levels and body parts—work out at home or anywhere, anytime. Just a few minutes a day to build the six pack you've always dreamed of!\n\nWorkout Plan with Different Levels\nBeginner, Intermediate and Advanced Abs Workout - these 3 le",
       "version": "1.47.0",
-      "versionDate": "2026-03-10T19:20:31-00:00",
+      "versionDate": "2026-03-12T03:54:12-00:00",
       "versionDescription": "Build 470 from @binnichtaktivsipas",
       "size": 188148029,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/5a/09/c25a09e8-9ce0-d9e3-db88-692ed76e59ab/AppIcon-0-0-1x_U007emarketing-0-4-0-sRGB-85-220.jpeg/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Six.Pack.in.30.Days.IAP.1.47.0.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Six.Pack.in.30.Days.IAP.1.47.0.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -31910,24 +31929,26 @@
       "bundleIdentifier": "com.soundscape.music",
       "developerName": "Soundscape",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSoundscape: Sleep Focus Relax | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nSleep deeper. Focus longer. Live better.\nSoundscape uses science-backed sounds to help you fall asleep faster, stay focused longer, and feel more in control. From immersive sound mixing to app blocking, every feature is designed to bring more peace into your day.\n\nTOP FEATURES\nSLEEP & FOCUS SOUND LIBRARY\nCrafted with care and backed by science, our immersive soundscapes help your mind let go of stress or dial in to deep focus. Explore calming ambient textures, natural environments, and soothing",
-      "version": "9.9.6",
-      "versionDate": "2026-03-11T17:40:32-00:00",
-      "versionDescription": "Build 2 from @riftysIPAlibrary",
-      "size": 85967856,
+      "version": "9.9.7",
+      "versionDate": "2026-03-12T00:17:54-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 85958456,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/41/0a/e8410aef-55dd-b5e1-1ec8-3d2158b3b082/SoundscapeIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Soundscape.Sleep.Focus.Relax-v9.9.6-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Soundscape.Sleep.Focus.Relax-v9.9.7-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        1
+        0,
+        1,
+        2
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Soundscape: Sleep Focus Relax-v9.9.6-riftysipas.ipa"
+        "originalFile": "Soundscape: Sleep Focus Relax-v9.9.7-riftysipas.ipa"
       }
     },
     {
@@ -32168,26 +32189,27 @@
       "name": "Speedtest",
       "bundleIdentifier": "com.ookla.speedtest",
       "developerName": "Ookla",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ADsBlocker, Fixipa1, Fixipa2, GCDWebServer, NoAds-AB\n\napplication SpeedTest | V6.3.2 | Ads removed ✔️ | -To measure internet speed | -لقيااس سرعات الانترنت | لتحميل التطبيق بشكل مباشر من المتجر🔥\n\n---\nUse Speedtest® for a quick, easy, one-tap connection internet speed test—accurate anywhere thanks to our global server network.\n\nExplore mobile network coverage with Speedtest Maps based on real-world data gathered by the Speedtest app. See performance by provider to find out where you’re likely to experience strong connectivity. Easily switch between providers and regions to compare coverage in the locations you frequent.\n\nVideo testing empowers you with a real-time assessment of your network’s",
-      "version": "6.3.2",
-      "versionDate": "2026-02-28T08:09:02-00:00",
-      "versionDescription": "Build 20 from @thescholarslounge",
-      "size": 57162972,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SpeedTestPatch\n\nSpeedtest by Ookla | VPN is not unlocked | Tweak made by Никита | Minimum OS version 15.0\n\n---\nUse Speedtest® for a quick, easy, one-tap connection internet speed test—accurate anywhere thanks to our global server network.\n\nExplore mobile network coverage with Speedtest Maps based on real-world data gathered by the Speedtest app. See performance by provider to find out where you’re likely to experience strong connectivity. Easily switch between providers and regions to compare coverage in the locations you frequent.\n\nVideo testing empowers you with a real-time assessment of your network’s",
+      "version": "6.6.2",
+      "versionDate": "2026-03-12T00:42:29-00:00",
+      "versionDescription": "Build 18 from @binnichtaktivsipas",
+      "size": 56327900,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/51/39/375139ef-9b56-5b22-8957-9206ff7839e5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-4/Speedtest_6.3.2_3BodSy.ipa",
-      "minOSVersion": "10.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Speedtest.Premium.6.6.2.ipa",
+      "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Speedtest_6.3.2_3BodSy.ipa"
+        "originalFile": "Speedtest Premium 6.6.2.ipa"
       }
     },
     {
@@ -32403,7 +32425,7 @@
       "developerName": "SPOT LABS LTD",
       "localizedDescription": "from @thescholarslounge |\n------------------------\n\nSpotiFLAC\nApp by zarzet\nMobile version of SpotiFLAC written in Flutter, powered by a Go backend for high performance. Download Spotify tracks in true FLAC from Tidal, Qobuz, & Amazon Music - no account, no ads, no subscription.\nIn-app audio playback has been removed. Use this version to retain the feature\n\n---\ncatchup with what's new in your area and expand your network\n\nprivacy policy:\nterms and conditions:",
       "version": "3.7.2",
-      "versionDate": "2026-03-11T17:21:54-00:00",
+      "versionDate": "2026-03-12T02:41:15-00:00",
       "versionDescription": "Build 105 from @thescholarslounge",
       "size": 33546178,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/01/a0/4a01a075-0899-c614-34de-0329ff438477/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
@@ -33715,13 +33737,13 @@
       "name": "Structured",
       "bundleIdentifier": "com.leomehlig.today",
       "developerName": "unorderly GmbH",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: autoRevenuecat, fixipa1, fixipa2, popuprifty, zxPluginsInject\n\nStructured - Daily Planner | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nFinally take control of your day.\nPlan with a clear visual timeline that brings your calendar, to-dos, routines, and habits together.\n\nJoin over 1.5 million active planners who feel calmer, focus faster, and get more done — every single day.\n\nPerfect for work, study, travel, and busy ADHD minds. Plan in minutes and stay focused all day.\n\nStart free to:\n\n- Organize your day and week in an intuitive timeline\n- Capture ideas instantly in Inbox and sort them later\n- Sync across iPhone, iPad, Apple W",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, StructuredPro, blatantsPatch\n\nStructured - Daily Planner | Tweak made by binnichtaktiv | Minimum OS version 17.0\n\n---\nFinally take control of your day.\nPlan with a clear visual timeline that brings your calendar, to-dos, routines, and habits together.\n\nJoin over 1.5 million active planners who feel calmer, focus faster, and get more done — every single day.\n\nPerfect for work, study, travel, and busy ADHD minds. Plan in minutes and stay focused all day.\n\nStart free to:\n\n- Organize your day and week in an intuitive timeline\n- Capture ideas instantly in Inbox and sort them later\n- Sync across iPhone, iPad, Apple W",
       "version": "4.4.5",
-      "versionDate": "2026-03-11T11:26:49-00:00",
-      "versionDescription": "Build 1822 from @riftysIPAlibrary",
-      "size": 123196184,
+      "versionDate": "2026-03-12T00:44:47-00:00",
+      "versionDescription": "Build 1822 from @binnichtaktivsipas",
+      "size": 123506892,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/7a/f2/a87af294-4536-e032-51be-f41b895d5095/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Structured.-.Daily.Planner-v4.4.5-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Structured.Pro.4.4.5.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -33732,10 +33754,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Structured - Daily Planner-v4.4.5-riftysipas.ipa"
+        "originalFile": "Structured Pro 4.4.5.ipa"
       }
     },
     {
@@ -35095,26 +35117,27 @@
       "name": "TeraBox",
       "bundleIdentifier": "com.dubox.drive",
       "developerName": "FLEXTECH INC.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: Fixipa1, Fixipa2, TeraBoxPatchSy, substrate\n\nApplication TeraBox 🧠 | V4.6.5 | - To store files | - ⁠لـتخزين الملفات مدعوم بالذكاء الاصطناعي | لتحميل التطبيق بشكل مباشر من المتجر🔥\n\n---\nTeraBox: Your Personal All-in-One AI Assistant with 1024GB of FREE Cloud Storage!\n\nTeraBox is more than just cloud storage — it’s your smart AI assistant. Store, search, create, and share — all in one app. Register now to get 1024GB of free cloud storage and automatically back up all your files. At the same time, with a full suite of AI tools, TeraBox helps you explore endless possibilities powered by advanced artificial intelligence.\n\nKEY FEATURES\nAutomatic Data Backup\nAutomatically back up you",
-      "version": "4.6.5",
-      "versionDate": "2026-03-01T15:57:23-00:00",
-      "versionDescription": "Build 4.6.5.14 from @thescholarslounge",
-      "size": 178547370,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, teraboxpatch\n\nTeraBox: Cloud Storage Space | It does NOT unlock more storage | Tweak made by Ayz Ayz | Minimum OS version 15.0\n\n---\nTeraBox: Your Personal All-in-One AI Assistant with 1024GB of FREE Cloud Storage!\n\nTeraBox is more than just cloud storage — it’s your smart AI assistant. Store, search, create, and share — all in one app. Register now to get 1024GB of free cloud storage and automatically back up all your files. At the same time, with a full suite of AI tools, TeraBox helps you explore endless possibilities powered by advanced artificial intelligence.\n\nKEY FEATURES\nAutomatic Data Backup\nAutomatically back up you",
+      "version": "4.13.0",
+      "versionDate": "2026-03-12T00:55:17-00:00",
+      "versionDescription": "Build 4.13.0.16 from @binnichtaktivsipas",
+      "size": 198361106,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/30/a8/eb/30a8ebaf-c240-f0fc-cb04-464e5c5c60f1/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-9/TeraBox_4.6.5_3BodSy.ipa",
-      "minOSVersion": "10.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/TeraBox.Premium.4.13.0.ipa",
+      "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "TeraBox_4.6.5_3BodSy.ipa"
+        "originalFile": "TeraBox Premium 4.13.0.ipa"
       }
     },
     {
@@ -35431,18 +35454,19 @@
       "name": "The Piano",
       "bundleIdentifier": "com.impalastudios.pianofree",
       "developerName": "Impala Studios",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ThePiano, blatantsPatch\n\nPiano ٞ\nSubscription Unlocked\nIgnore purchase popup's and restart the app if subscription isn't active.\n\n---\nJoin over 14 million music lovers discovering piano! Learn piano the fun and easy way, no lessons needed.\nPlay songs, practice piano, and create music in one easy piano app.\nWith Piano, you can jump right in. Play to the rhythm, explore notes and chords, and create music at your own pace.\n\nDesigned for iOS (iPhone & iPad), Piano offers a smooth, responsive playing experience with intuitive touch controls, clean visuals, and a simple layout. Perfect for beginners, casual players, and anyone who w",
-      "version": "2.15.0",
-      "versionDate": "2026-03-09T04:07:27-00:00",
-      "versionDescription": "Build 9490 from @blatants",
-      "size": 118529738,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ThePiano, blatantsPatch\n\nPiano ٞ\n• Patched\n• Modifier: Subscription Unlocked\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nJoin over 14 million music lovers discovering piano! Learn piano the fun and easy way, no lessons needed.\nPlay songs, practice piano, and create music in one easy piano app.\nWith Piano, you can jump right in. Play to the rhythm, explore notes and chords, and create music at your own pace.\n\nDesigned for iOS (iPhone & iPad), Piano offers a smooth, responsive playing experience with intuitive touch controls, clean visuals, and a simple layout. Perfect for beginners, casual players, and anyone who w",
+      "version": "2.17.0",
+      "versionDate": "2026-03-12T00:22:03-00:00",
+      "versionDescription": "Build 11046 from @blatants",
+      "size": 125068233,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/36/10/143610b8-37c5-6052-b462-488813303210/pian_appIcon_2025-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-21/Piano.v2.15.0.Subscription.Unlocked.blatant.patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Piano.v2.17.0.Subscription.Unlocked.blatant.Patched.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -35450,7 +35474,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Piano ٞ v2.15.0 Subscription Unlocked blatant patched.ipa"
+        "originalFile": "Piano ٞ v2.17.0 Subscription Unlocked blatant Patched.ipa"
       }
     },
     {
@@ -35637,31 +35661,6 @@
     },
     {
       "name": "Things",
-      "bundleIdentifier": "com.culturedcode.ThingsiPhone",
-      "developerName": "Cultured Code GmbH & Co. KG",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2\n\nThings 3 | paid app $9.99 | decrypted by userhidden | Minimum OS version 15.0\n\n---\nGet things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals.\n\nBest of all, it’s easy to use. Within the hour, you’ll have everything off your mind and neatly organized—from routine tasks to your biggest life goals—and you can start focusing on what matters today.\n\n“Things offers the best combination of design and functionality of any app we tested, with nearly all the features of other power user applications and a delight",
-      "version": "3.22.8",
-      "versionDate": "2026-03-05T00:38:56-00:00",
-      "versionDescription": "Build 32208001 from @binnichtaktivsipas",
-      "size": 23364634,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/6b/5f/416b5f51-806c-c62c-f6f3-a4b720c37b62/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-10/Things.3.3.22.8.ipa",
-      "minOSVersion": "15.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Things 3 3.22.8.ipa"
-      }
-    },
-    {
-      "name": "Things",
       "bundleIdentifier": "com.culturedcode.ThingsiPad",
       "developerName": "Cultured Code GmbH & Co. KG",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2\n\nThings 3 for iPad | Paid app $19,99 | Decrypted by userhidden | Minimum OS version 15.0\n\n---\nGet things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals.\n\nBest of all, it’s easy to use. Within the hour, you’ll have everything off your mind and neatly organized—from routine tasks to your biggest life goals—and you can start focusing on what matters today.\n\n“Things offers the best combination of design and functionality of any app we tested, with nearly all the features of other power user applications and a delight",
@@ -35686,16 +35685,41 @@
       }
     },
     {
+      "name": "Things",
+      "bundleIdentifier": "com.culturedcode.ThingsiPhone",
+      "developerName": "Cultured Code GmbH & Co. KG",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2\n\nThings 3 | paid app $9.99 | decrypted by userhidden | Minimum OS version 15.0\n\n---\nGet things done! The award-winning Things app helps you plan your day, manage your projects, and make real progress toward your goals.\n\nBest of all, it’s easy to use. Within the hour, you’ll have everything off your mind and neatly organized—from routine tasks to your biggest life goals—and you can start focusing on what matters today.\n\n“Things offers the best combination of design and functionality of any app we tested, with nearly all the features of other power user applications and a delight",
+      "version": "3.22.8",
+      "versionDate": "2026-03-05T00:38:56-00:00",
+      "versionDescription": "Build 32208001 from @binnichtaktivsipas",
+      "size": 23364634,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/6b/5f/416b5f51-806c-c62c-f6f3-a4b720c37b62/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-10/Things.3.3.22.8.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Things 3 3.22.8.ipa"
+      }
+    },
+    {
       "name": "Threads",
       "bundleIdentifier": "com.burbn.barcelona",
       "developerName": "Instagram, Inc.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, ThreadSaver, blatantsPatch\n\nThreads | Ad blocker and media downloader | Thanks to Chocolate Fluffy for this tweak | Minimum OS version 16.3\n\n---\nDiscover new perspectives and connect through conversation on Threads.\n\nSee what people are talking about right now—from niche interests to big moments. With communities, you can find people who also care about your interests on Threads. Reply, listen, share or just follow along.\n\nHere’s what you can do on Threads:\n\n■ Start a thread, share your take\nHave something on your mind? Take it to Threads. Share a thought, ask a question or open up a conversation. There’s more than one way to kick things",
       "version": "420.0.0",
-      "versionDate": "2026-03-10T19:19:46-00:00",
+      "versionDate": "2026-03-12T03:51:46-00:00",
       "versionDescription": "Build 901456714 from @binnichtaktivsipas",
       "size": 83106384,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/38/3c/4b383ce8-3479-d4b4-af90-8aef6c009ef6/Prod-0-0-1x_U007ephone-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/ThreadSaver.420.0.0.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/ThreadSaver.420.0.0.ipa",
       "minOSVersion": "16.3",
       "supportedPlatforms": [
         "iOS"
@@ -35821,26 +35845,27 @@
       "name": "Tiimo",
       "bundleIdentifier": "com.tiimo.app",
       "developerName": "tiimo",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPremium Unlocked | Patched ✓\n\n---\niPhone App of the Year 2025\n Apple Design Awards Finalist 2024\n Best Assistive Technology 2022 (Neurodiversity Awards)\n 3+ Million downloads worldwide\n\nMeet Tiimo: Your AI planning partner that simplifies executive function, focus and productivity.\n\nWhether you are building routines, navigating time agnosia, or just trying to make it through a busy week, Tiimo helps reduce mental load and makes it easier to follow through. Planning becomes something that supports you, not something that drains y",
-      "version": "3.23.0",
-      "versionDate": "2026-03-11T15:05:14-00:00",
-      "versionDescription": "Build 3913 from @riftysIPAlibrary",
-      "size": 108780358,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nTiimo: AI Planner & To-do | Minimum OS version 18.0\n\n---\niPhone App of the Year 2025\n Apple Design Awards Finalist 2024\n Best Assistive Technology 2022 (Neurodiversity Awards)\n 3+ Million downloads worldwide\n\nMeet Tiimo: Your AI planning partner that simplifies executive function, focus and productivity.\n\nWhether you are building routines, navigating time agnosia, or just trying to make it through a busy week, Tiimo helps reduce mental load and makes it easier to follow through. Planning becomes something that supports you, not something that drains y",
+      "version": "3.45.1",
+      "versionDate": "2026-03-12T03:53:54-00:00",
+      "versionDescription": "Build 5228 from @binnichtaktivsipas",
+      "size": 93054753,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/ef/17/fbef17ab-d93d-8746-823a-fb1ac415ac7e/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Tiimo.AI.Plan.Focus.To-do-v3.23.0-riftysipas.ipa",
-      "minOSVersion": "16.4",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Tiimo.Pro.3.45.1.ipa",
+      "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Tiimo: AI Plan, Focus & To-do-v3.23.0-riftysipas.ipa"
+        "originalFile": "Tiimo Pro 3.45.1.ipa"
       }
     },
     {
@@ -36001,6 +36026,32 @@
     },
     {
       "name": "Timetable",
+      "bundleIdentifier": "izzyumkim.Timetable",
+      "developerName": "RAISIN APPS LTD",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nᵕ̈ Class schedule - Timetable ᵕ̈ | Min.iOS: [15.0+] | Notes: Subscription unlocked.⠀⠀ | (press skip on purchase page)\n\n---\nTibly — the smart way to keep your schedule, events, and tasks under control. It brings everything into one place, helps you plan ahead with timely reminders, and adapts to any routine — from simple weekly repeats to complex rotating shifts.\n\nBuilt for flexibility and clarity, it’s easy to add events, set precise alerts, track progress, and stay focused with live countdowns and clean stats. With iCloud and Apple Calendar, your plans stay synced and ready wherever you are, and sharing a schedule",
+      "version": "1.6.4",
+      "versionDate": "2026-01-11T23:45:20-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 40423142,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/96/cd/c496cda4-93b9-3cd8-06bd-2cc16f058bf5/AppIconGrid1-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-3/Timetable_1.6.4_tg%40Sa1y0miii.ipa",
+      "minOSVersion": "10.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Timetable_1.6.4_tg@Sa1y0miii.ipa"
+      }
+    },
+    {
+      "name": "Timetable",
       "bundleIdentifier": "fr.adriencarvalot.Timetable",
       "developerName": "Kodeon, Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMy Timetable - Quick & Simple | Pro Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nWith My Timetable - Quick & Simple, create and personalize your weekly schedule in less than 5 minutes.\nVisualize your upcoming events at a glance!\n\nAccessible, fast and efficient, My Timetable - Quick & Simple supports you in your efforts, whether it be for lessons, appointments, your work and more.\nAdd color to your week with the different shades available and make your schedule unique by adding your own images or using the various themes.\n\n- FEATURES -\n\n• Create your schedules easily in less",
@@ -36024,32 +36075,6 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "My Timetable - Quick & Simple-v2.8.0-riftysipas.ipa"
-      }
-    },
-    {
-      "name": "Timetable",
-      "bundleIdentifier": "izzyumkim.Timetable",
-      "developerName": "RAISIN APPS LTD",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: StopReviews, Tg:Sa1y0miii, sideloadKeychainfix1, sideloadKeychainfix2, substrate\n\nᵕ̈ Class schedule - Timetable ᵕ̈ | Min.iOS: [15.0+] | Notes: Subscription unlocked.⠀⠀ | (press skip on purchase page)\n\n---\nTibly — the smart way to keep your schedule, events, and tasks under control. It brings everything into one place, helps you plan ahead with timely reminders, and adapts to any routine — from simple weekly repeats to complex rotating shifts.\n\nBuilt for flexibility and clarity, it’s easy to add events, set precise alerts, track progress, and stay focused with live countdowns and clean stats. With iCloud and Apple Calendar, your plans stay synced and ready wherever you are, and sharing a schedule",
-      "version": "1.6.4",
-      "versionDate": "2026-01-11T23:45:20-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 40423142,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/96/cd/c496cda4-93b9-3cd8-06bd-2cc16f058bf5/AppIconGrid1-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-01-10-3/Timetable_1.6.4_tg%40Sa1y0miii.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Timetable_1.6.4_tg@Sa1y0miii.ipa"
       }
     },
     {
@@ -37117,19 +37142,18 @@
       "name": "Twitch",
       "bundleIdentifier": "tv.twitch",
       "developerName": "Twitch Interactive, Inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: TwitchAdBlock\n\nRestart the app after first launch to activate adblocker, known to sometimes slip some ads in but unlikely, thx to @dvntm for original tweak\n\n---\nTwitch is where thousands of communities come together for our favorite streamers, for the games we love, for the lulz, for each other, for whatever. Download Twitch and join millions enjoying live games, music, sports, esports, podcasts, cooking shows, IRL streams, and whatever else crosses our community’s wonderfully absurd minds. We’ll see you in chat.\n\nHere’s a convenient list of other awesome things about Twitch:\n\nEveryone is “about” community. We actually are one: Whatever you nerd out abo",
-      "version": "28.5",
-      "versionDate": "2026-03-11T11:42:18-00:00",
-      "versionDescription": "Build 260652310461381728 from @binnichtaktivsipas",
-      "size": 147724658,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: TwitchAdBlock, Twitchfixl, casign, substrate\n\n---\nTwitch is where thousands of communities come together for our favorite streamers, for the games we love, for the lulz, for each other, for whatever. Download Twitch and join millions enjoying live games, music, sports, esports, podcasts, cooking shows, IRL streams, and whatever else crosses our community’s wonderfully absurd minds. We’ll see you in chat.\n\nHere’s a convenient list of other awesome things about Twitch:\n\nEveryone is “about” community. We actually are one: Whatever you nerd out abo",
+      "version": "28.0",
+      "versionDate": "2026-03-12T02:07:40-00:00",
+      "versionDescription": "Build 260302136361061325 from @binnichtaktivsipas",
+      "size": 152992112,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/e0/48/4be04802-10c9-ce75-c113-ebed876dcd4a/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/TwitchAdBlock_28.5-0.1.5.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Twitch_28.0_TwitchAdBlock.ipa",
       "minOSVersion": "16.4",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        0,
         1,
         2
       ],
@@ -37137,7 +37161,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "TwitchAdBlock_28.5-0.1.5.ipa"
+        "originalFile": "Twitch_28.0_TwitchAdBlock.ipa"
       }
     },
     {
@@ -37918,13 +37942,13 @@
       "name": "VEED Captions",
       "bundleIdentifier": "io.veed.appstore",
       "developerName": "VEED Ltd",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, FilePickerFix, blatantsPatch\n\nVEED Shorts: AI videos | • Patched | • Modifier: Subscription Unlocked | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nCreating short-form videos has never been easier. VEED is an app designed to help you make amazing video content for Instagram, TikTok, Twitter/X, Youtube Shorts and Linkedin. Millions of people are already using the app.\n\nTo use VEED, simply download the app and record or upload a video. VEED is the video editor that works for everyone: Whether you’re a creator, small business owner, or a marketeer, or a first-time social user - there will be something for you! For all your shorts, reels and ot",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nVEED - AI Captions and Shorts | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nCreating short-form videos has never been easier. VEED is an app designed to help you make amazing video content for Instagram, TikTok, Twitter/X, Youtube Shorts and Linkedin. Millions of people are already using the app.\n\nTo use VEED, simply download the app and record or upload a video. VEED is the video editor that works for everyone: Whether you’re a creator, small business owner, or a marketeer, or a first-time social user - there will be something for you! For all your shorts, reels and ot",
       "version": "8.7.0",
-      "versionDate": "2026-03-11T17:30:36-00:00",
-      "versionDescription": "Build 5233 from @blatants",
-      "size": 146896822,
+      "versionDate": "2026-03-12T02:58:43-00:00",
+      "versionDescription": "Build 5233 from @riftysIPAlibrary",
+      "size": 136623086,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/1f/c5/491fc5d8-7a85-62f6-4ef1-1f615b7e22f8/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/VEED_Shorts_AI_videos_v8_7_0_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/VEED.-.AI.Captions.and.Shorts-v8.7.0-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -37935,10 +37959,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "VEED_Shorts_AI_videos_v8_7_0_Subscription_Unlocked_blatant_Patched.ipa"
+        "originalFile": "VEED - AI Captions and Shorts-v8.7.0-riftysipas.ipa"
       }
     },
     {
@@ -38021,32 +38045,6 @@
     },
     {
       "name": "Video Music",
-      "bundleIdentifier": "com.flyingnayeem.nmVideoMergerJune",
-      "developerName": "Mosaic S.r.l.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, VideoMusic, sideloadKeychainfix\n\nAdd Background Music To Video | com.flyingnayeem.nmVideoMergerJune | Category: Photo & Video | SubscriptionUnlocked | Restart app if Subscriptions isn't activated.\n\n---\nDo you know what is missing from your vacation videos? The perfect background music! BackgroundMusic gives you countless options of soundtracks to add life to your videos and make them even more amazing. Do you want to add your narrative with a voice over? Do you want to remove unwanted parts and add awesome transitions to your videos? All of this possible with BackgroundMusic, as simple as a few taps. Everything you need to create masterpieces from your summer getaway, your birthday party and y",
-      "version": "5.4.16",
-      "versionDate": "2026-03-09T05:49:25-00:00",
-      "versionDescription": "Build 430 from @blatants",
-      "size": 82622402,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/0d/9b/820d9b3e-f81f-4108-143b-6ca5a49ffaa1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-21/Video.Music_v5.4.16_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "13.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@blatants",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "Video Music_v5.4.16_Subscription_Unlocked_blatant.ipa"
-      }
-    },
-    {
-      "name": "Video Music",
       "bundleIdentifier": "com.muntaha.tasVideoMergerJune",
       "developerName": "Mosaic S.r.l.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, VideoMaker, sideloadKeychainfix\n\nVideo Maker with Music Editor | com.muntaha.tasVideoMergerJune | Category: Photo & Video | Subscription Unlocked | Restart app if Subscriptions isn't activated.\n\n---\nBest App To Add Music on Video!\nMake Music Video Easily!\nBest Video Editing App!\n\n• Add Unlimited background music to videos!\n• Make your own music videos!\n• Record your own voice over video!\n• Make funny Dubsmush videos!\n• Give life to your videos!\n• Get more likes & views on Youtube, Instagram, Facebook or Vine!\n\nKey Features:\n==========\n• Add Unlimited Music Tracks on Videos.\n• Record Your Own Voice Over Video.\n• Edit Video: Trim & Cut frame by frame. Remove any unwanted part of your video.\n•",
@@ -38069,6 +38067,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Video Music v3.7.13 Subscription Unlocked blatant.ipa"
+      }
+    },
+    {
+      "name": "Video Music",
+      "bundleIdentifier": "com.flyingnayeem.nmVideoMergerJune",
+      "developerName": "Mosaic S.r.l.",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: CydiaSubstrate, VideoMusic, sideloadKeychainfix\n\nAdd Background Music To Video | com.flyingnayeem.nmVideoMergerJune | Category: Photo & Video | SubscriptionUnlocked | Restart app if Subscriptions isn't activated.\n\n---\nDo you know what is missing from your vacation videos? The perfect background music! BackgroundMusic gives you countless options of soundtracks to add life to your videos and make them even more amazing. Do you want to add your narrative with a voice over? Do you want to remove unwanted parts and add awesome transitions to your videos? All of this possible with BackgroundMusic, as simple as a few taps. Everything you need to create masterpieces from your summer getaway, your birthday party and y",
+      "version": "5.4.16",
+      "versionDate": "2026-03-09T05:49:25-00:00",
+      "versionDescription": "Build 430 from @blatants",
+      "size": 82622402,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/0d/9b/820d9b3e-f81f-4108-143b-6ca5a49ffaa1/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-21/Video.Music_v5.4.16_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@blatants",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Video Music_v5.4.16_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -38441,11 +38465,11 @@
       "developerName": "Hangzhou Quwei Technology Co., Ltd",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, VivaCutPro\n\nVivaCut | Pro unlocked | Minimum OS version 15.0\n\n---\nVivaCut, Professional Video Editor APP for full screen video creating. Whether you want to make artistic films or simply share memories and funny moments with friends, VivaCut is a perfect choice for you!\n\n Powerful Video Editing App\n[Cool Transition] Create amazing with cinematic overlay video editor with transition effects in VivaCut\n[visual effects] VHS, RGB, Trippy, Glitch, GB, Grainy, Fisheye\n[Music Marker] Mark the track and add effects according to the music rhythm.\n[Audio Extraction] Aes",
       "version": "4.5.6",
-      "versionDate": "2026-03-10T19:21:25-00:00",
+      "versionDate": "2026-03-12T03:56:43-00:00",
       "versionDescription": "Build 5971 from @binnichtaktivsipas",
       "size": 216287135,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/95/9e/c7959ed9-47fe-6194-0314-66c1cee98c72/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/VivaCut.Pro.4.5.6.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/VivaCut.Pro.4.5.6.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -40080,26 +40104,27 @@
       "name": "X",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp.",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
-      "version": "11.71.1",
-      "versionDate": "2026-03-10T02:31:14-00:00",
-      "versionDescription": "Build 3 from @thescholarslounge",
-      "size": 184176566,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: BHTwitter, Cephei, CepheiPrefs, CepheiUI, CydiaSubstrate\n\nBHX\nAwesome tweak for Twitter\nInstall this version first if you can't login. Make sure to delete the current X app first, then enable the bypass using the red button in the corner of the screen. After that you can install other versions and you should be still logged in\nMinimum OS version 15.0\n\n---\nWelcome to X (formerly known as Twitter), your trusted digital town square where conversations unfold in real time, and the world connects through breaking news, live events, podcasts, and everything in between.\n\nWhether you're passionate about sports, tech, music, or politics, X is your front-row seat to what’s happening across the globe.\n\nX isn’t just another social media app, it’s the ultimate destination for staying well informed, sharing ideas, and building communities. With X, you’re alway",
+      "version": "11.72",
+      "versionDate": "2026-03-12T00:53:41-00:00",
+      "versionDescription": "Build 15 from @binnichtaktivsipas",
+      "size": 181985452,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/b4/3a/14b43a76-a196-e5b9-6013-99169daf9b2e/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-28/com.atebits.Tweetie2-11.71.1-eeveedecrypter.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/BHX.11.72.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "com.atebits.Tweetie2-11.71.1-eeveedecrypter.ipa"
+        "originalFile": "BHX 11.72.ipa"
       }
     },
     {
@@ -40474,26 +40499,27 @@
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMABConfig, YTMusicUltimate, zxPluginsInject\n\nYT Music Ultimate+ No PIP 9.10 | - YouTube Music 9.10 | - YTMusicUltimate | - Return YouTube Music Dislike | - YTMABConfig | - Info: | - Patch already included | App decrypted by @eeveedecrypterbot\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate, blatantsPatch\n\nYTMusicUltimate | The best tweak for YouTube Music on iOS. | Release information | Minimum OS version 16.0\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
       "version": "9.10.3",
-      "versionDate": "2026-03-11T12:42:02-00:00",
-      "versionDescription": "Build 9.10.3 from @thescholarslounge",
-      "size": 103570644,
+      "versionDate": "2026-03-12T03:55:24-00:00",
+      "versionDescription": "Build 9.10.3 from @binnichtaktivsipas",
+      "size": 98812362,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/12/93/d41293d3-6a60-11bd-b80e-a7372acb57e7/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/YTMusicUltimate%2B_9.10_No_PIP_Jacks_Apps.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/YouTube.Music.Ultimate.9.10.3.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "YTMusicUltimate+_9.10_No_PIP_Jacks_Apps.ipa"
+        "originalFile": "YouTube Music Ultimate 9.10.3.ipa"
       }
     },
     {
