@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-03-17",
+  "versionDate": "2026-03-19",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -1793,6 +1793,32 @@
       }
     },
     {
+      "name": "AlisTemporis",
+      "bundleIdentifier": "com.TownSoft.agentofadventure3",
+      "developerName": "Town Soft",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n[ ✓ ] Connected to iPhone | [ ✓ ] Downloaded App Package | [ ✓ ] Decrypted App Package | [ ✓ ] Uploaded Decrypted Package | The application has been successfully decrypted.\n\n---\nCreate the story of heroes, crafted by you.\n\nIn this game, you become the ruler of a small village, nurturing heroes who embark on unknown adventures. Use the rewards brought back by the adventurers to grow your village.\n\n-- To Adventure\nFirst, build a tavern where villagers gather and adventurers are born, and a weapon and armor shop for gearing up. Once they are ready to venture into the outside world, send them off on their adventures. The adventurers will continue their journey on their own",
+      "version": "14.4.6",
+      "versionDate": "2026-03-17T17:28:07-00:00",
+      "versionDescription": "Build 1 from @thescholarslounge",
+      "size": 120943728,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/75/cf/9e75cf13-fb86-a3e1-bf54-7c24b9d9ebaa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/com.TownSoft.agentofadventure3-14.4.6-eeveedecrypter.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.TownSoft.agentofadventure3-14.4.6-eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "AllMyBatteries",
       "bundleIdentifier": "com.lagagggggg.MyBatteries",
       "developerName": "嘉银 李",
@@ -3147,18 +3173,19 @@
       "name": "B612",
       "bundleIdentifier": "com.linecorp.b612",
       "developerName": "SNOW Corporation",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: B612, blatantsPatch\n\nB612 AI Photo&Video Editor\nSubscription Unlocked\nIgnore purchase popup's and restart the app if subscription isn't active.\n\n---\nB612 is the best all-in-one camera & photo/video editing app. We offer various free features and tools to make every moment more special.\nMeet trendy effects, filters, and stickers that are updated every day!\n\n=== Main features ===\n\nCreate your own filters\n- Create a one-of-a-kind filter and share it with friends\n- No problem even if it's your first time creating a filter. Filters are easily completed with just a few touches.\n- Meet the creative and diverse filters of B612 creators.\n\nSmarter CAM",
-      "version": "14.5.20",
-      "versionDate": "2026-03-09T01:49:53-00:00",
-      "versionDescription": "Build 14.5.20.2 from @blatants",
-      "size": 136960886,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: B612, blatantsPatch\n\nB612 AI Photo&Video Editor\n• Patched\n• Modifier: Subscription Unlocked\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nB612 is the best all-in-one camera & photo/video editing app. We offer various free features and tools to make every moment more special.\nMeet trendy effects, filters, and stickers that are updated every day!\n\n=== Main features ===\n\nCreate your own filters\n- Create a one-of-a-kind filter and share it with friends\n- No problem even if it's your first time creating a filter. Filters are easily completed with just a few touches.\n- Meet the creative and diverse filters of B612 creators.\n\nSmarter CAM",
+      "version": "15.0.10",
+      "versionDate": "2026-03-17T17:49:00-00:00",
+      "versionDescription": "Build 15.0.10.5 from @blatants",
+      "size": 147359996,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/4a/0e/0c4a0e87-e2cd-3ce8-40b0-5a86a91700fe/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-20/B612_AI_Photo.Video_Editor_v14_5_20_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "15.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/B612_AI_Photo.Video_Editor_v15_0_10_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -3166,7 +3193,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "B612_AI_Photo&Video_Editor_v14_5_20_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "B612_AI_Photo&Video_Editor_v15_0_10_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -3277,13 +3304,13 @@
       "name": "Balance",
       "bundleIdentifier": "com.elevateapp.kamino.kamino",
       "developerName": "The Mind Company",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch\n\nBalance: Meditation & Sleep | • Patched | • Modifier: Subscription Unlocked | • Note: | Subscription Unlocked | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nImprove your stress, sleep, and more with Balance’s personalized guided meditation program.\n\nYOUR PERSONAL MEDITATION COACH\nBalance is your personal meditation coach. Each day, you’ll answer questions about your meditation experience, goals, and preferences. Using an audio library of thousands of files, Balance assembles a daily guided meditation that’s perfect for you. The more you share over time, the more personalized and effective your meditations become.\n\nLEARN MEDITATION FUNDAMENTALS\nBalan",
-      "version": "1.198.0",
-      "versionDate": "2026-03-13T05:48:37-00:00",
-      "versionDescription": "Build 2299 from @blatants",
-      "size": 118500670,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nBalance: Meditation & Sleep | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nImprove your stress, sleep, and more with Balance’s personalized guided meditation program.\n\nYOUR PERSONAL MEDITATION COACH\nBalance is your personal meditation coach. Each day, you’ll answer questions about your meditation experience, goals, and preferences. Using an audio library of thousands of files, Balance assembles a daily guided meditation that’s perfect for you. The more you share over time, the more personalized and effective your meditations become.\n\nLEARN MEDITATION FUNDAMENTALS\nBalan",
+      "version": "1.199.0",
+      "versionDate": "2026-03-17T22:24:30-00:00",
+      "versionDescription": "Build 2300 from @riftysIPAlibrary",
+      "size": 116110838,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/c4/83/7bc48322-4493-b578-2616-d6a911dc18b8/AppIconUpdated-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Balance_Meditation_._Sleep_v1_198_0_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Balance.Meditation.Sleep-v1.199.0-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -3294,10 +3321,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Balance_Meditation_&_Sleep_v1_198_0_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Balance: Meditation & Sleep-v1.199.0-riftysipas.ipa"
       }
     },
     {
@@ -4925,12 +4952,12 @@
       "bundleIdentifier": "io.konveier.timo",
       "developerName": "Brite Technologies",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nDaily Planner, Schedule: Brite | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nBrite Daily Planner: Your Ultimate Companion for a Balanced and Productive Life\n\nDiscover the all-in-one solution that helps you tackle your daily tasks, stay organized, and achieve your goals with ease. With Brite Daily Planner, we've combined the essential features all in one user-friendly app, allowing you to focus on what truly matters and replace the need for multiple apps.\n\nWho is Brite Daily Planner for?\n\nBrite Daily Planner is designed for a wide range of users who want to consolidate th",
-      "version": "25.0.17",
-      "versionDate": "2026-03-12T00:15:15-00:00",
-      "versionDescription": "Build 26 from @riftysIPAlibrary",
-      "size": 26482836,
+      "version": "25.0.18",
+      "versionDate": "2026-03-17T22:59:09-00:00",
+      "versionDescription": "Build 25.0.23 from @riftysIPAlibrary",
+      "size": 26835325,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/6b/8f/596b8fdc-d974-1d9b-2565-017bcbc9b8cf/AppIcon-0-0-1x_U007emarketing-0-11-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Daily.Planner.Schedule.Brite-v25.0.17-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Daily.Planner.Schedule.Brite-v25.0.18-riftysipas.ipa",
       "minOSVersion": "16.1",
       "supportedPlatforms": [
         "iOS"
@@ -4944,7 +4971,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Daily Planner, Schedule: Brite-v25.0.17-riftysipas.ipa"
+        "originalFile": "Daily Planner, Schedule: Brite-v25.0.18-riftysipas.ipa"
       }
     },
     {
@@ -7158,26 +7185,27 @@
       "name": "Coconote",
       "bundleIdentifier": "com.bbauman.Scripty",
       "developerName": "Quizlet Inc",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, FilePickerFix, StopReviewPopup, blatantsPatch, sideloadKeychainfix\n\nCoconote - AI Note Taker | • Patched | • Modifier: Pro Unlocked | • Note: | Filepicker fix by ChocolateFluffy | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nLet AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Turbo AI, YouLearn, Unstuck, Study Fetch, Quizard, Otter, and Wave AI.\n\nTerms of Service:",
-      "version": "2.42",
-      "versionDate": "2026-03-14T13:18:58-00:00",
-      "versionDescription": "Build 3 from @blatants",
-      "size": 51014612,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, FilePickerFix, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nCoconote - AI Note Taker | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nLet AI take notes for you! Record lectures and automatically generate study guides, quizzes, and flashcards from lecture notes. Get the grade you want and deserve by using AI legally and ethically. Coconote is the more trusted and reliable alternative to Turbo AI, YouLearn, Unstuck, Study Fetch, Quizard, Otter, and Wave AI.\n\nTerms of Service:",
+      "version": "2.43",
+      "versionDate": "2026-03-17T11:51:28-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 47164692,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/62/58/b7/6258b7d1-80f2-f565-ac1d-249e40cb110e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Coconote.-.AI.Note.Taker.v2.42.Pro.Unlocked.blatant.Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Coconote.-.AI.Note.Taker-v2.43-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Coconote - AI Note Taker v2.42 Pro Unlocked blatant Patched.ipa"
+        "originalFile": "Coconote - AI Note Taker-v2.43-riftysipas.ipa"
       }
     },
     {
@@ -7467,12 +7495,12 @@
       "bundleIdentifier": "com.mwm.procolor",
       "developerName": "MWM",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: ColorPop, blatantsPatch\n\nColor Pop AI - Coloring Book | • Patched | • Modifier: Subscription Unlocked | • Note: | Just close the purchase pages if you see any | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nUnleash your inner artist with Color Pop! Dive into a world of vibrant colors and endless creativity.\n\nWith millions of drawings at your fingertips, you're just a tap away from the best coloring experience. Join our community, get inspired, and share your masterpieces!\n\nWhy You'll Love It:\n\n• Extended catalog: Mandalas, animals, patterns, florals, and more.\n• Easy to paint: Tap to color or spill the paint bucket for quick fills.\n• Fun to use: Realistic tools, vibrant colors, and advanced effects",
-      "version": "2.58.03",
-      "versionDate": "2026-03-09T22:37:44-00:00",
-      "versionDescription": "Build 5 from @blatants",
-      "size": 237595004,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/53/62/09536203-dee2-fc75-9dd2-40a79b0aeaf9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-27/Color_Pop_AI_Coloring_Book_v2_58_03_Subscription_Unlocked_blatant.ipa",
+      "version": "2.59.00",
+      "versionDate": "2026-03-17T15:10:53-00:00",
+      "versionDescription": "Build 7 from @blatants",
+      "size": 241588964,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/14/50/6e14503c-7fc0-7fcd-5148-b48aecb31b73/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Color_Pop_AI_Coloring_Book_v2_59_00_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -7486,7 +7514,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Color_Pop_AI_Coloring_Book_v2_58_03_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Color_Pop_AI_Coloring_Book_v2_59_00_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -10255,13 +10283,13 @@
       "name": "Elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSubscription Unlocked | Patched ✓\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
-      "version": "5.207.0",
-      "versionDate": "2026-03-10T22:15:42-00:00",
-      "versionDescription": "Build 4327 from @riftysIPAlibrary",
-      "size": 360516999,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nElevate - Brain Training Games | • Patched | • Modifier: Subscription Unlocked | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
+      "version": "5.232.0",
+      "versionDate": "2026-03-17T16:45:57-00:00",
+      "versionDescription": "Build 4507 from @blatants",
+      "size": 392622432,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/dc/4b/ffdc4b46-5f67-712a-f9f3-4b03b9239410/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Elevate.-.Brain.Training.Games-v5.207.0-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Elevate_Brain_Training_Games_v5_232_0_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -10271,10 +10299,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Elevate - Brain Training Games-v5.207.0-riftysipas.ipa"
+        "originalFile": "Elevate_Brain_Training_Games_v5_232_0_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -16107,25 +16135,27 @@
       "name": "I Am Sober",
       "bundleIdentifier": "com.thehungrywasp.iamsober",
       "developerName": "I Am Sober LLC",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPremium Unlocked\n\n---\nI Am Sober is more than just a free sobriety counter app.\n\nAlong with tracking your sober days, it helps you build new habits and provides ongoing motivation by connecting you to a wide network of people all striving for the same goal: staying sober one day at a time.\n\nThrough our growing sober community you can learn from others and contribute by sharing insights and tactics that have worked for you.\n\nThe I Am Sober app features:\n\n• Sober day tracker\nTo visualize how long you’ve been sober.\n\n•",
-      "version": "8.2.9",
-      "versionDate": "2026-03-10T08:11:39-00:00",
-      "versionDescription": "Build 1766558068 from @riftysIPAlibrary",
-      "size": 37216978,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nI Am Sober | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nI Am Sober is more than just a free sobriety counter app.\n\nAlong with tracking your sober days, it helps you build new habits and provides ongoing motivation by connecting you to a wide network of people all striving for the same goal: staying sober one day at a time.\n\nThrough our growing sober community you can learn from others and contribute by sharing insights and tactics that have worked for you.\n\nThe I Am Sober app features:\n\n• Sober day tracker\nTo visualize how long you’ve been sober.\n\n•",
+      "version": "8.5.5",
+      "versionDate": "2026-03-17T22:14:30-00:00",
+      "versionDescription": "Build 1793434339 from @riftysIPAlibrary",
+      "size": 44037981,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/53/38/ba533869-5b56-22da-b673-19a53d5f81de/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-30/I.Am.Sober-v8.2.9-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/I.Am.Sober-v8.5.5-riftysipas.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        1
+        0,
+        1,
+        2
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "I Am Sober-v8.2.9-riftysipas.ipa"
+        "originalFile": "I Am Sober-v8.5.5-riftysipas.ipa"
       }
     },
     {
@@ -16964,13 +16994,13 @@
       "name": "InShot",
       "bundleIdentifier": "com.camerasideas.InstaShot",
       "developerName": "SHANTANU PTE. LTD.",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: InShot, blatantsPatch\n\nInShot - Video Editor | • Patched | • Modifier: Premium Unlocked | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nInShot: Empowering Creators with Advanced Video and Photo Editing. Unlock effortless editing with easy-to-use features and powerful AI tools, elevating your video and photo editing experience to new heights.\n\n[AI Tool]\n- AI Effects. Experience the magic of AI with instant presets that elevate your images and videos in just one tap.\n- Auto Captions. AI-powered speech-to-text tool helps you say goodbye to manual text typing and makes video editing effortless.\n- Auto Remove Background. Remove backg",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: InShotPatch\n\nInShot - Video Editor\nPro unlocked\nIt crashes when you directly install it with Altstore, Sidestore or Sideloadly. Use LiveContainer to install it instead\nMinimum OS version 15.0\n\n---\nInShot: Empowering Creators with Advanced Video and Photo Editing. Unlock effortless editing with easy-to-use features and powerful AI tools, elevating your video and photo editing experience to new heights.\n\n[AI Tool]\n- AI Effects. Experience the magic of AI with instant presets that elevate your images and videos in just one tap.\n- Auto Captions. AI-powered speech-to-text tool helps you say goodbye to manual text typing and makes video editing effortless.\n- Auto Remove Background. Remove backg",
       "version": "1.94.2",
-      "versionDate": "2026-03-14T12:31:44-00:00",
-      "versionDescription": "Build 158 from @blatants",
-      "size": 130062484,
+      "versionDate": "2026-03-17T23:14:13-00:00",
+      "versionDescription": "Build 158 from @binnichtaktivsipas",
+      "size": 124947465,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/d4/0f/c5d40ffd-b6ce-a790-ac44-516612ab3cb3/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/InShot_Video_Editor_v1_94_2_Premium_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/InShot.Pro.1.94.2.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -16981,10 +17011,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "InShot_Video_Editor_v1_94_2_Premium_Unlocked_blatant_Patched.ipa"
+        "originalFile": "InShot Pro 1.94.2.ipa"
       }
     },
     {
@@ -17744,12 +17774,12 @@
       "bundleIdentifier": "com.genau.JournalCircle",
       "developerName": "Genau Factory",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nJournalCircle: Diary & Tracker | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nDiscover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\n\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\n\nAI-powered journaling tools\nJour",
-      "version": "3.1.9",
-      "versionDate": "2026-03-15T08:16:04-00:00",
-      "versionDescription": "Build 2 from @riftysIPAlibrary",
-      "size": 12930654,
+      "version": "3.2.0",
+      "versionDate": "2026-03-17T11:30:37-00:00",
+      "versionDescription": "Build 4 from @riftysIPAlibrary",
+      "size": 12994644,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/14/84/8d14845a-cb77-5458-1634-df78e955bd95/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/JournalCircle.Diary.Tracker-v3.1.9-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/JournalCircle.Diary.Tracker-v3.2.0-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -17763,7 +17793,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "JournalCircle: Diary & Tracker-v3.1.9-riftysipas.ipa"
+        "originalFile": "JournalCircle: Diary & Tracker-v3.2.0-riftysipas.ipa"
       }
     },
     {
@@ -18437,6 +18467,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.abdelrahman.kooz-1.93-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "Kopi Kenangan",
+      "bundleIdentifier": "id.technopartner.kopikenangan",
+      "developerName": "PT.Bumi Berkah Boga",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n[ ✓ ] Connected to iPhone | [ ✓ ] Downloaded App Package | [ ✓ ] Decrypted App Package | [ ✓ ] Uploaded Decrypted Package | The application has been successfully decrypted.\n\n---\nGreat Coffee. No Queue. Just Try.\n\nKopi Kenangan App helps you to save time in getting that high quality coffee everyday. With some additional time (and coffee), you can finish your tasks earlier, have more family time, learn new skills on the internet, or work on a new project.\n\nUse Kopi Kenangan App to pre-order your favourite coffee in advance and you will be notified once your order is ready. No more queueing with anxiety, stress and uncertainty!\n\nLOCATE NEAREST OUTLET\n- With more than 800 o",
+      "version": "226.03.13",
+      "versionDate": "2026-03-17T17:18:41-00:00",
+      "versionDescription": "Build 2260313 from @thescholarslounge",
+      "size": 45220064,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/24/27/d8242712-38f0-6ac5-273f-b53866350424/AppIcon-internal-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/id.technopartner.kopikenangan-226.03.13-eeveedecrypter.ipa",
+      "minOSVersion": "14.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "id.technopartner.kopikenangan-226.03.13-eeveedecrypter.ipa"
       }
     },
     {
@@ -19302,13 +19357,13 @@
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobile",
       "developerName": "Adobe Inc.",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SatellaJailed\n\nAdobe Lightroom for iPad | Tap on buy premium then cancel | Minimum OS version 18.0\n\n---\nJoin millions of users who trust Adobe Lightroom as their AI-powered photo editor to bring their photos, videos and reels to life.\n\nMAKE YOUR PHOTOS AND VIDEOS STAND OUT\n\nStart with one-tap presets or filters for pictures, videos and reels. Then, fine-tune the details with powerful tools to retouch, remove objects, blur backgrounds, and make more precise edits to bring your vision to life.\n\nWhether you’re developing your skills, a seasoned pro, or just love capturing life’s moments, Lightroom’s",
-      "version": "11.2.1",
-      "versionDate": "2026-02-20T09:36:00-00:00",
-      "versionDescription": "Build 11.2.1.231 from @binnichtaktivsipas",
-      "size": 175187139,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/cc/84/36cc84d1-da83-f74c-ebb8-0b481adcf8b0/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-1/Adobe.Lightroom.iPad.Premium11.2.1.ipa",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SatellaJailed\n\nAdobe Lightroom for iPad | Tap on buy premium then cancel | Minimum OS version 18.0\n\n---\nEver wish your photos could really show what makes a moment special? Adobe Lightroom is a free photo and video editor that helps you do just that. From your dog’s goofy grin to that sunset that took your breath away, Adobe Lightroom makes it simple to bring those moments to life, just the way you see them.\n\nWhether you’re snapping pics on the go or curating your social feed, Lightroom puts powerful AI photo editor tools in your pocket to make quick edits easy and fun. Adobe Lightroom is here to",
+      "version": "11.2.2",
+      "versionDate": "2026-03-17T15:21:13-00:00",
+      "versionDescription": "Build 11.2.2.233 from @binnichtaktivsipas",
+      "size": 175360702,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/b3/74/8bb374ed-19e6-047d-a6d6-22def6d8968e/AppIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Adobe.Lightroom.iPad.Premium11.2.2.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -19322,7 +19377,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Adobe Lightroom iPad Premium11.2.1.ipa"
+        "originalFile": "Adobe Lightroom iPad Premium11.2.2.ipa"
       }
     },
     {
@@ -19692,18 +19747,19 @@
       "name": "Live Transcribe",
       "bundleIdentifier": "com.robnorback.LiveTranscribe",
       "developerName": "Mighty Fine Apps LLC",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSubscription Unlocked | Patched ✓\n\n---\nLive Captioning for d/Deaf and hard of hearing in 145+ languages. Built for simplicity and ease of use. [We are not associated with Google.]\n\nUsers love it:\n“Just so you know, this app has changed my 86 year old mother's life. It is simple and easy for her and her friends to use. This is so important for the elderly since so many other apps are way too complicated. She can really have one on one conversations, especially with me, which is so very important.”\n- Mark M\n\nDoctors trust it:\n\"I use th",
-      "version": "2.34",
-      "versionDate": "2026-03-10T01:14:50-00:00",
-      "versionDescription": "Build 1540 from @riftysIPAlibrary",
-      "size": 60764673,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nLive Transcribe | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nLive Captioning for d/Deaf and hard of hearing in 145+ languages. Built for simplicity and ease of use. [We are not associated with Google.]\n\nUsers love it:\n“Just so you know, this app has changed my 86 year old mother's life. It is simple and easy for her and her friends to use. This is so important for the elderly since so many other apps are way too complicated. She can really have one on one conversations, especially with me, which is so very important.”\n- Mark M\n\nDoctors trust it:\n\"I use th",
+      "version": "2.48",
+      "versionDate": "2026-03-17T10:57:20-00:00",
+      "versionDescription": "Build 1713 from @riftysIPAlibrary",
+      "size": 61440845,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/db/9a/cedb9afd-3468-6dc7-8dcf-80b0e0ea57b4/AppIconProduction-1x_U007epad-0-1-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-28/Live.Transcribe-v2.34-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Live.Transcribe-v2.48-riftysipas.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -19711,7 +19767,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Live Transcribe-v2.34-riftysipas.ipa"
+        "originalFile": "Live Transcribe-v2.48-riftysipas.ipa"
       }
     },
     {
@@ -21853,12 +21909,12 @@
       "bundleIdentifier": "com.genau.MoneyCircle",
       "developerName": "Genau Factory",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nMoneyCircle: Spending,Expense | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nTrack your spending with clarity and control — meet MoneyCircle.\n\nMoneyCircle makes it easy to understand where your money goes.\nWith clean design, smart categorization, and intuitive insights,\nyou’ll gain control of your finances and uncover new opportunities to save.\n\nIf you've tried other expense tracking apps but found them cluttered or overwhelming,\nMoneyCircle offers a refreshing alternative — simple, beautiful, and focused on what matters: your spending habits.\n\nKey Features\nSmart Categor",
-      "version": "2.8.3",
-      "versionDate": "2026-03-09T15:23:54-00:00",
-      "versionDescription": "Build 2 from @riftysIPAlibrary",
-      "size": 13333856,
+      "version": "3.0.4",
+      "versionDate": "2026-03-17T20:33:38-00:00",
+      "versionDescription": "Build 6 from @riftysIPAlibrary",
+      "size": 13974842,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/1f/a7/811fa7d5-d4db-247e-d0b7-c9e626223bff/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-25/MoneyCircle.Spending.Expense-v2.8.3-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/MoneyCircle.Spending.Expense-v3.0.4-riftysipas.ipa",
       "minOSVersion": "16.6",
       "supportedPlatforms": [
         "iOS"
@@ -21871,7 +21927,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "MoneyCircle: Spending,Expense-v2.8.3-riftysipas.ipa"
+        "originalFile": "MoneyCircle: Spending,Expense-v3.0.4-riftysipas.ipa"
       }
     },
     {
@@ -21952,6 +22008,33 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "com.app.monkeytv-0.8.5-eeveedecrypter.ipa"
+      }
+    },
+    {
+      "name": "MonokaiToolkit Pro",
+      "bundleIdentifier": "com.monokaitoolkit.pro",
+      "developerName": "Anh Nhan Nguyen",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nMonokaiToolkit Pro | Minimum OS version 15.1\n\n---\nMonokaiToolkit Pro is your all-in-one companion for a smoother, more secure social media experience. Effortlessly manage your friend list, explore and bookmark stories, broadcast messages in one go, and keep track of your connections. All within a single, user-friendly interface.\n\nKey Features:\n- Story Explorer: Quickly explore, and react to stories with custom emoji, so you never miss a moment.\n- Clean Friend List: Easily identify and remove inactive or deactivated accounts to keep your network",
+      "version": "1.2.7",
+      "versionDate": "2026-03-17T21:00:51-00:00",
+      "versionDescription": "Build 1773420803 from @binnichtaktivsipas",
+      "size": 30193002,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/f1/e9/25f1e983-b932-cfe8-3fd9-a5649f30da5d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/MonokaiToolkit.Pro.1.2.7.ipa",
+      "minOSVersion": "15.1",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "MonokaiToolkit Pro 1.2.7.ipa"
       }
     },
     {
@@ -22061,12 +22144,12 @@
       "bundleIdentifier": "com.moonly.Moonly",
       "developerName": "Cosmic Vibrations, Inc.",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Moonly, blatantsPatch\n\nMoonly: Moon Phases & Calendar | • Patched | • Modifier: Pro Unlocked | • Note: | Click \"Restore Purchases\". | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nMoonly: your Personal Astrologer and Spiritual Guide\n\nAlign with the Universe’s Rhythm and Nature's Energy with Moonly, your personal guide to mindfulness, self-discovery, and ancient wisdom. Explore a world of spiritual practices, astrology, and lunar rituals designed to help you connect deeply with yourself.\n\nDaily Guidance\nMicro-rituals, insights, and mindful nudges curated for this very moment, based on your personal cosmic profile\n\nLunar Calendar\nTrack moon phases, celestial events, and hol",
-      "version": "2.6.9",
-      "versionDate": "2026-03-09T22:35:56-00:00",
-      "versionDescription": "Build 1164 from @blatants",
-      "size": 133354651,
+      "version": "2.7.0",
+      "versionDate": "2026-03-17T17:50:00-00:00",
+      "versionDescription": "Build 1165 from @blatants",
+      "size": 133179080,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9b/89/06/9b8906b1-0a3d-37e0-119d-a68a31673655/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-27/Moonly_Moon_Phases_._Calendar_v2_6_9_Pro_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Moonly_Moon_Phases_._Calendar_v2_7_0_Pro_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "16.2",
       "supportedPlatforms": [
         "iOS"
@@ -22080,7 +22163,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Moonly_Moon_Phases_&_Calendar_v2_6_9_Pro_Unlocked_blatant_Patched.ipa"
+        "originalFile": "Moonly_Moon_Phases_&_Calendar_v2_7_0_Pro_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -24050,12 +24133,12 @@
       "bundleIdentifier": "com.JindoBlu.OfflineGamesIOS",
       "developerName": "Moreno Maio",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, NetworkBlocker(adblocker), fixipa1, fixipa2, ogrifty\n\nOffline Games - No Wifi Games | Unlimited Tokens, No Ads | Patched ✓ | Additional Information ℹ️\n\n---\nGet ready for 'Offline Games': fun for all ages, and a mental workout too! This offline game collection is like an overflowing toy box packed with more than 20 unique minigames. It's designed for classic game enthusiasts, puzzle lovers, and challenge seekers. And the best part? You don't need an internet connection to enjoy it!\n\nOur array of Number Games like 2048 and 2248 will get your neurons firing. Engage in these numeric challenges and strive to hit the highest scores. They're perfect for k",
-      "version": "3.9.1",
-      "versionDate": "2026-03-12T00:18:18-00:00",
-      "versionDescription": "Build 2874 from @riftysIPAlibrary",
-      "size": 96918318,
+      "version": "3.9.3",
+      "versionDate": "2026-03-17T21:06:17-00:00",
+      "versionDescription": "Build 2887 from @riftysIPAlibrary",
+      "size": 96925279,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/2f/8c/d72f8ca5-e10b-0c7c-4a04-b90f1fbff9e5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/Offline.Games.-.No.Wifi.Games-v3.9.1-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Offline.Games.-.No.Wifi.Games-v3.9.3-riftysipas.ipa",
       "minOSVersion": "13.0",
       "supportedPlatforms": [
         "iOS"
@@ -24069,7 +24152,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Offline Games - No Wifi Games-v3.9.1-riftysipas.ipa"
+        "originalFile": "Offline Games - No Wifi Games-v3.9.3-riftysipas.ipa"
       }
     },
     {
@@ -24966,12 +25049,12 @@
       "bundleIdentifier": "io.betterhalf.app",
       "developerName": "Better Half Limited",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, PairedPatch\n\nPaired: Couples & Relationship | Tweak made by Dell | Minimum OS version 15.5\n\n---\nWelcome to Paired: the app that brings couples closer. Life can be messy, but your relationship doesn’t have to be. Paired helps you build better communication, manage conflict, and deepen your connection in just 5 minutes a day.\n\n- 8 million downloads\n- Apple App of the Day, January 2024\n- Scientifically proven to increase relationship satisfaction\n- Featured in The New York Times, BBC News, Bustle, and more\n\nWith Paired, you can:\n\n- Make connection a daily habit: Daily questions allow you to e",
-      "version": "2.73.0",
-      "versionDate": "2026-03-09T00:55:35-00:00",
-      "versionDescription": "Build 13721 from @binnichtaktivsipas",
-      "size": 43832101,
+      "version": "2.74.0",
+      "versionDate": "2026-03-17T13:11:48-00:00",
+      "versionDescription": "Build 13832 from @binnichtaktivsipas",
+      "size": 42410230,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/6d/44/5d6d445f-5a91-cc1e-94fa-ba4f15d2406d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-20/Paired.Premium.2.73.0.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Paired.Premium.2.74.0.ipa",
       "minOSVersion": "15.5",
       "supportedPlatforms": [
         "iOS"
@@ -24985,7 +25068,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Paired Premium 2.73.0.ipa"
+        "originalFile": "Paired Premium 2.74.0.ipa"
       }
     },
     {
@@ -25120,21 +25203,22 @@
       }
     },
     {
-      "name": "Paraphrase",
+      "name": "Paraphraser",
       "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
       "developerName": "talha rehman",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nSubscription Unlocked | Patched ✓\n\n---\nEnhance Your Writing with Unlimited AI Paraphrasing Modes!\nExperience the ultimate paraphrasing tool that redefines the way you write. Whether you're paraphrasing sentences, paragraphs, or entire articles, our app delivers impeccable results every time.\n\nWhy Choose Our AI Paraphrasing App?\nPowered by the latest artificial intelligence, our app ensures accurate and natural-sounding paraphrasing that goes beyond simple synonym replacement. It understands context and meaning, offering polished and",
-      "version": "1.3.9",
-      "versionDate": "2026-03-10T07:42:42-00:00",
-      "versionDescription": "Build 77 from @riftysIPAlibrary",
-      "size": 22394909,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nParaphrasing Tool - Paraphrase | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nEnhance Your Writing with Unlimited AI Paraphrasing Modes!\nExperience the ultimate paraphrasing tool that redefines the way you write. Whether you're paraphrasing sentences, paragraphs, or entire articles, our app delivers impeccable results every time.\n\nWhy Choose Our AI Paraphrasing App?\nPowered by the latest artificial intelligence, our app ensures accurate and natural-sounding paraphrasing that goes beyond simple synonym replacement. It understands context and meaning, offering polished and",
+      "version": "1.6.1",
+      "versionDate": "2026-03-17T21:52:34-00:00",
+      "versionDescription": "Build 1 from @riftysIPAlibrary",
+      "size": 7804824,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/17/4d/3a174db1-bf85-c2bc-ff75-6bd942e90e6f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-30/Paraphrasing.Tool.-.Paraphrase-v1.3.9-riftysipas.ipa",
-      "minOSVersion": "14.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Paraphrasing.Tool.-.Paraphrase-v1.6.1-riftysipas.ipa",
+      "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -25142,7 +25226,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Paraphrasing Tool - Paraphrase-v1.3.9-riftysipas.ipa"
+        "originalFile": "Paraphrasing Tool - Paraphrase-v1.6.1-riftysipas.ipa"
       }
     },
     {
@@ -25986,39 +26070,40 @@
       "name": "Photomyne",
       "bundleIdentifier": "com.photomyne.photomyneapplite",
       "developerName": "Photomyne LTD",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: FixCrash, FixCrash1, Fixipa1, Fixipa2, GCDWebServer\n\nApplication Photomyne | V31.6 | - Edit, colorize and improve image quality | - ⁠التعديل على الصور و تلوينها ورفع جودتها | لتحميل التطبيق بشكل مباشر من المتجر🔥\n\n---\nPhotomyne is the fastest and easiest way to turn photos, slides, negatives and other family keepsakes into a digital library spanning generations and share them with others. Download it today to see the magic of this powerful scanning app, built with cutting edge AI technology.\n\nThis free app offers a taste of what Photomyne has to offer. Use it for basic photo scanning to see if it suits your needs (before deciding whether to upgrade to the paid plan).\n\nSIMPLY HOLD & CAPTURE – THE SCANNER WILL",
-      "version": "31.6",
-      "versionDate": "2026-03-01T15:55:14-00:00",
-      "versionDescription": "Build 31.6.10 from @thescholarslounge",
-      "size": 134763124,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/af/52/d1af5212-936a-f567-946e-6db32100689b/AppIconLite-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-9/Photomyne_31.6_3BodSy.ipa",
-      "minOSVersion": "10.0",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SatellaJailed, StopReviews\n\nPhoto Scan App by Photomyne | Tap on buy then cancel | Minimum OS version 17.6\n\n---\nPhotomyne is the fastest and easiest way to turn photos, slides, negatives and other family keepsakes into a digital library spanning generations and share them with others. Download it today to see the magic of this powerful scanning app, built with cutting edge AI technology.\n\nThis free app offers a taste of what Photomyne has to offer. Use it for basic photo scanning to see if it suits your needs (before deciding whether to upgrade to the paid plan).\n\nSIMPLY HOLD & CAPTURE – THE SCANNER WILL",
+      "version": "32.6",
+      "versionDate": "2026-03-17T20:28:43-00:00",
+      "versionDescription": "Build 32.6.10 from @binnichtaktivsipas",
+      "size": 152273110,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/23/19/3e23192a-5419-ea28-7fdd-2f6ab2ec4eca/AppIconLite-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Photo.Scan.App.Photomyne.IAP.32.6.ipa",
+      "minOSVersion": "17.6",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Photomyne_31.6_3BodSy.ipa"
+        "originalFile": "Photo Scan App Photomyne IAP 32.6.ipa"
       }
     },
     {
       "name": "Photoroom",
       "bundleIdentifier": "com.dr1ven.eraser",
       "developerName": "Photoroom",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPhotoroom: AI Photo Editor | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology—no design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\n- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\n- One-tap background removal. Remove or replace backgrounds for polished, professional images.\n- Virtual models. Showcase clothing on AI-generated models",
-      "version": "2026.10.01",
-      "versionDate": "2026-03-12T03:11:05-00:00",
-      "versionDescription": "Build 2201 from @riftysIPAlibrary",
-      "size": 134654689,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: PhotoRoomPatch\n\nPhotoRoom: AI Photo Editor | Tweak made by Никита | Minimum OS version 18.0\n\n---\nPhotoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\n\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology—no design skills required.\n\nWHY CHOOSE PHOTOROOM?\n\n- AI-powered visuals. Describe your idea, and AI generates custom scenes, logos, and more in seconds.\n- One-tap background removal. Remove or replace backgrounds for polished, professional images.\n- Virtual models. Showcase clothing on AI-generated models",
+      "version": "2026.11.01",
+      "versionDate": "2026-03-17T15:09:58-00:00",
+      "versionDescription": "Build 2215 from @binnichtaktivsipas",
+      "size": 134778766,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/17/42/451742df-6962-117a-f032-0a58c3068d4a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Photoroom.AI.Photo.Editor-v2026.10.01-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Photoroom.Pro.2026.11.01.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -26029,10 +26114,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Photoroom: AI Photo Editor-v2026.10.01-riftysipas.ipa"
+        "originalFile": "Photoroom Pro 2026.11.01.ipa"
       }
     },
     {
@@ -27363,12 +27448,12 @@
       "bundleIdentifier": "com.SixThree.POV",
       "developerName": "Untitled Tech, Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPOV – Disposable Camera Events | Unlimited Guests | Patched ✓ | Additional Information ℹ️\n\n---\nPOV helps you capture the point of view of everyone at your event. Perfect for weddings, parties, nights out, and more!\n\nLike a digital disposable camera –– cap the number of photos that each of your guests can take and have the photos reveal the next day!\n\nNO DOWNLOAD REQUIRED FOR GUESTS\nGuests can scan a code or tap on a link and don't have to download this app to participate.\n\nCAMERA\nThe camera is completely customizable –– you determine how many photos each of your guests can take.\n\nGALLERY",
-      "version": "5.51",
-      "versionDate": "2026-03-10T02:31:14-00:00",
+      "version": "5.52",
+      "versionDate": "2026-03-17T23:30:11-00:00",
       "versionDescription": "Build 1 from @riftysIPAlibrary",
-      "size": 47165861,
+      "size": 47732380,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/ae/c2/fcaec2c8-76f3-f3b5-47f7-b818dd96adf0/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-28/POV.Disposable.Camera.Events-v5.51-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/POV.Disposable.Camera.Events-v5.52-riftysipas.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -27382,7 +27467,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "POV – Disposable Camera Events-v5.51-riftysipas.ipa"
+        "originalFile": "POV – Disposable Camera Events-v5.52-riftysipas.ipa"
       }
     },
     {
@@ -27441,12 +27526,12 @@
       "bundleIdentifier": "com.laubrothersllc.BabyArt",
       "developerName": "Curious Creators Co.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26, Sideloadbypass1, Sideloadbypass2\n\nPrecious - Baby Photo Art | Select a subscription and then tap on buy | Minimum OS version 15.0\n\n---\nPrecious is the cutest way to track your baby milestones and see your baby's development. This app AUTOMATICALLY organizes your baby photos into adorable monthly pictures, growth slideshows, a photo calendar journal, and MUCH more — all with no work required from you. App features require a Baby Art Pro subscription (3-day free trial included).\n\nPrecious uses Artificial Intelligence to find the absolute best photos of your baby and uses them to create photo stories that will melt your heart.\n\nYo",
-      "version": "3.50.4",
-      "versionDate": "2026-03-09T03:33:06-00:00",
-      "versionDescription": "Build 1886 from @binnichtaktivsipas",
-      "size": 318561097,
+      "version": "3.51.0",
+      "versionDate": "2026-03-17T21:35:20-00:00",
+      "versionDescription": "Build 1887 from @binnichtaktivsipas",
+      "size": 318351111,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/9d/42/d79d425c-1bbd-dd1b-378e-e0fc716de38e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-21/Baby.Photo.Art.Unlimited.3.50.4.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Baby.Photo.Art.Unlimited.3.51.0.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -27460,7 +27545,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Baby Photo Art Unlimited 3.50.4.ipa"
+        "originalFile": "Baby Photo Art Unlimited 3.51.0.ipa"
       }
     },
     {
@@ -29660,18 +29745,19 @@
       "name": "s c e n i c",
       "bundleIdentifier": "com.pinguido.scenic",
       "developerName": "Applified Life Ltd.",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPremium Unlocked | Patched ✓\n\n---\nTAKE THE SCENIC ROUTE - Plan, ride, track and share your adventures with the #1 rated motorbike navigation app. 200,000 public routes, 20 million hours ridden, 130 million miles logged.\n\nGET THERE YOUR WAY - We’ve built a world for motorcyclists, helping you find the best routes with the twistiest turns, for paved touring and unpaved adventures. It’s not the destination that counts. It’s the journey.\n\nFIND THE ROAD - Straight, curvy, paved, dirty - Scenic lets you control your route like no othe",
-      "version": "4.19",
-      "versionDate": "2026-03-10T07:08:55-00:00",
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nScenic Motorcycle Navigation | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nTAKE THE SCENIC ROUTE - Plan, ride, track and share your adventures with the #1 rated motorbike navigation app. 200,000 public routes, 20 million hours ridden, 130 million miles logged.\n\nGET THERE YOUR WAY - We’ve built a world for motorcyclists, helping you find the best routes with the twistiest turns, for paved touring and unpaved adventures. It’s not the destination that counts. It’s the journey.\n\nFIND THE ROAD - Straight, curvy, paved, dirty - Scenic lets you control your route like no othe",
+      "version": "4.32",
+      "versionDate": "2026-03-17T23:46:04-00:00",
       "versionDescription": "Build 9 from @riftysIPAlibrary",
-      "size": 113133609,
+      "size": 121270865,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/1e/e9/cc1ee91d-566e-2b3c-17a4-3547fc19b652/Scenic_Apple_Icon_Texture-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-29/Scenic.Motorcycle.Navigation-v4.19-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Scenic.Motorcycle.Navigation-v4.32-riftysipas.ipa",
       "minOSVersion": "16.4",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -29679,7 +29765,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Scenic Motorcycle Navigation-v4.19-riftysipas.ipa"
+        "originalFile": "Scenic Motorcycle Navigation-v4.32-riftysipas.ipa"
       }
     },
     {
@@ -30758,12 +30844,12 @@
       "bundleIdentifier": "com.joytunes.Draw",
       "developerName": "Simply Ltd",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: SimplyCrack, blatantsPatch\n\nSimply Draw: Learn to Draw\n• Patched\n• Modifier: Subscription Unlocked\n• Note:\nLogin with your account and restart the app once to activate the subscription.\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nLearn and practice drawing beautiful pencil drawings on paper.\n\n Creator Reviews:\n “Simply Draw makes creating art a very calming and fun experience! The app inspires you to draw your own way and gives you a personalized path that teaches you exactly what you’re interested in. It’s truly the best way to learn and develop your skills.”\n “Simply Draw made me hang my art on the fridge! Never in my life did I ever think I’d be proud enough of my work to do something like that, it’s really amazing”.",
-      "version": "1.6.15",
-      "versionDate": "2026-03-13T05:48:23-00:00",
-      "versionDescription": "Build 806 from @blatants",
-      "size": 111415738,
+      "version": "1.6.16",
+      "versionDate": "2026-03-17T16:14:35-00:00",
+      "versionDescription": "Build 810 from @blatants",
+      "size": 111343021,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/d1/dc/11d1dccd-d969-c5e1-584b-9ba624b993fd/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Simply_Draw_Learn_to_Draw_v1_6_15_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Simply_Draw_Learn_to_Draw_v1_6_16_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "15.2",
       "supportedPlatforms": [
         "iOS"
@@ -30777,7 +30863,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Simply_Draw_Learn_to_Draw_v1_6_15_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Simply_Draw_Learn_to_Draw_v1_6_16_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -31645,12 +31731,12 @@
       "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
       "developerName": "Reviva Softworks Ltd",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: SatellaJailed, Sideloadbypass1, Sideloadbypass2, popuprifty, zxPluginsInject\n\nSnoreLab : Record Your Snoring | Satella injected for unlocking subscription | Patched ✓ | Additional Information ℹ️\n\n---\nThe most popular and innovative app of its kind, SnoreLab records, measures and tracks your snoring and helps you to discover effective ways to reduce it.\n\nSnoreLab has monitored more than 50 million nights of sleep and has helped millions of people to better understand or even eliminate their snoring problem.\n\nThe app is very easy to use: simply set SnoreLab running next to your bed whilst you sleep. In the morning you will discover your Snore Score, exactly when and how loudly you snored, and",
-      "version": "6.2.3",
-      "versionDate": "2026-03-13T07:39:03-00:00",
-      "versionDescription": "Build 736 from @riftysIPAlibrary",
-      "size": 151868537,
+      "version": "6.2.4",
+      "versionDate": "2026-03-17T11:03:22-00:00",
+      "versionDescription": "Build 737 from @riftysIPAlibrary",
+      "size": 151876865,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/99/a0/3999a08a-d156-9b2a-93ad-3ac877e9de5a/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/SnoreLab.Record.Your.Snoring-v6.2.3-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/SnoreLab.Record.Your.Snoring-v6.2.4-riftysipas.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -31664,7 +31750,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "SnoreLab : Record Your Snoring-v6.2.3-riftysipas.ipa"
+        "originalFile": "SnoreLab : Record Your Snoring-v6.2.4-riftysipas.ipa"
       }
     },
     {
@@ -31828,18 +31914,19 @@
       "name": "SolarWatch",
       "bundleIdentifier": "com.fifteenjugglers.solarwatch",
       "developerName": "Fifteen Jugglers Software UG",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nPremium Unlocked | Patched ✓\n\n---\nDiscover the power of the sun with SolarWatch - the ultimate companion for outdoor enthusiasts and photographers!\n\nPlan your day with confidence using accurate sunrise, sunset, and twilight times, and never miss a perfect moment again with customizable solar alarms. SolarWatch's AR mode and map overlays make it easy to find the best lighting for your photos, while the app's widgets keep you informed at a glance.\n\nWhether you're hiking, camping, or simply enjoying nature, SolarWatch helps you liv",
-      "version": "2026.1",
-      "versionDate": "2026-03-09T23:35:17-00:00",
-      "versionDescription": "Build 788 from @riftysIPAlibrary",
-      "size": 57607431,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, popuprifty, riftysrc\n\nSunrise Sunset Time SolarWatch | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nDiscover the power of the sun with SolarWatch - the ultimate companion for outdoor enthusiasts and photographers!\n\nPlan your day with confidence using accurate sunrise, sunset, and twilight times, and never miss a perfect moment again with customizable solar alarms. SolarWatch's AR mode and map overlays make it easy to find the best lighting for your photos, while the app's widgets keep you informed at a glance.\n\nWhether you're hiking, camping, or simply enjoying nature, SolarWatch helps you liv",
+      "version": "2026.18",
+      "versionDate": "2026-03-17T23:26:08-00:00",
+      "versionDescription": "Build 984 from @riftysIPAlibrary",
+      "size": 54884545,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/7c/ba/927cba7e-a8ff-1fad-d81f-aa856d1274e8/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-27/Sunrise.Sunset.Time.SolarWatch-v2026.1-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Sunrise.Sunset.Time.SolarWatch-v2026.18-riftysipas.ipa",
       "minOSVersion": "18.6",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -31847,7 +31934,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Sunrise Sunset Time SolarWatch-v2026.1-riftysipas.ipa"
+        "originalFile": "Sunrise Sunset Time SolarWatch-v2026.18-riftysipas.ipa"
       }
     },
     {
@@ -32060,12 +32147,12 @@
       "bundleIdentifier": "com.soundcloud.TouchApp",
       "developerName": "SoundCloud Global Limited & Co KG",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: SoundCloudPlus, substrate, zxPluginsInject\n\nAppstore link : SoundCloud | Packaged by : @woomc | • Go+ unlocked | • HQ audio streaming | • No ads (audio & visual) | • No upgrade popups | Tweaks by original creators. | My channel | Fix errors\n\n---\nWhat’s next in music is first on SoundCloud.\n\nBe the first to discover, play and share your favorite tracks from emerging artists\n\nAccess the world’s largest music discovery platform\n- That’s 300M+ tracks from 30M+ artists in 193 countries\n\nDiscover new music, picked just for you\n- Play curated mixes and playlists based on the music you love\n\nListen to exclusive music on SoundCloud\n- Hear tracks you can’t find anywhere else\n\nFind and connect with your music community\n- Share tracks, reach a glob",
-      "version": "8.51.1",
-      "versionDate": "2026-03-14T11:30:55-00:00",
-      "versionDescription": "Build 1257387 from @binnichtaktivsipas",
-      "size": 103535703,
+      "version": "8.52.0",
+      "versionDate": "2026-03-17T21:11:38-00:00",
+      "versionDescription": "Build 1257401 from @binnichtaktivsipas",
+      "size": 103843482,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/62/52/0d6252c1-f2b1-ab93-b66d-cb8566ced32f/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/SoundCloud.8.51.1.NoAds.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/SoundCloud.8.52.0.NoAds.ipa",
       "minOSVersion": "10.0",
       "supportedPlatforms": [
         "iOS"
@@ -32078,7 +32165,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "SoundCloud 8.51.1 NoAds.ipa"
+        "originalFile": "SoundCloud 8.52.0 NoAds.ipa"
       }
     },
     {
@@ -32112,12 +32199,12 @@
       "bundleIdentifier": "app.mmap.mobile",
       "developerName": "Intonation Studios Inc.",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, SoundmapPatch, adspeed\n\nSoundmap: Find Your Songs | Tweak made by ⏤͟͟✧𝓕𝓮𝓶𝓽𝓸🌪 | Minimum OS version 16.0\n\n---\nSoundmap is for REAL MUSIC FANS! Find songs, trade songs, complete artists quests, build your ultimate collection, and show how much you love MUSIC!\n\nMap Drops: Walk around with the app open to collect songs from nearby drops. Each song can be common, uncommon, rare, shiny, or epic. Get those drops before they are claimed by someone else!\nTrade: Have a song you want? See if anyone is trading them on the market. Put up your best offer and negotiate!\nQuests: Love an artists? Complete their artists",
-      "version": "2.9.10",
-      "versionDate": "2026-03-16T10:21:07-00:00",
-      "versionDescription": "Build 1254 from @binnichtaktivsipas",
-      "size": 58100196,
+      "version": "2.9.12",
+      "versionDate": "2026-03-17T15:01:37-00:00",
+      "versionDescription": "Build 1274 from @binnichtaktivsipas",
+      "size": 58101978,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/8f/54/588f54c7-841e-6a9d-81fa-646fb607fdf4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Soundmap.Pro.2.9.10.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Soundmap.Pro.2.9.12.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -32131,7 +32218,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Soundmap Pro 2.9.10.ipa"
+        "originalFile": "Soundmap Pro 2.9.12.ipa"
       }
     },
     {
@@ -32371,12 +32458,12 @@
       "bundleIdentifier": "com.jps.gpspeedhud",
       "developerName": "BITHAUS.TECH, UNIPESSOAL LDA",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, RevenueCatFix26, Sideloadbypass1, Sideloadbypass2, StopReviews\n\nSpeedometer Speed Tracker GPS | Minimum OS version 16.0\n\n---\nTransform every journey into valuable data with GPS Speedometer - the most comprehensive speed tracking app for driving, cycling, boating, and beyond. Experience professional-grade features that keep you informed and in control.\n\nCORE FEATURES:\n- Real-time GPS speed tracking with precision accuracy\n- Comprehensive trip computer: speed, distance, altitude, heading, duration\n- Trip recording with route tracking\n- Live map view with real-time position tracking\n- Save and export your journeys\n\nADVAN",
-      "version": "8.0.7",
-      "versionDate": "2026-03-16T10:18:39-00:00",
-      "versionDescription": "Build 1 from @binnichtaktivsipas",
-      "size": 33828799,
+      "version": "8.0.9",
+      "versionDate": "2026-03-17T13:08:50-00:00",
+      "versionDescription": "Build 0 from @binnichtaktivsipas",
+      "size": 33802446,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/69/0f/07690fca-6e49-cf1e-e7f9-cfab549c2f5a/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Speedometer.Pro.8.0.7.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Speedometer.Pro.8.0.9.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -32390,7 +32477,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Speedometer Pro 8.0.7.ipa"
+        "originalFile": "Speedometer Pro 8.0.9.ipa"
       }
     },
     {
@@ -33434,27 +33521,27 @@
       "name": "stoic.",
       "bundleIdentifier": "com.mlobodzinski.Stoic",
       "developerName": "Stoic app inc.",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nPremium Unlocked | Patched ✓\n\n---\nstoic is your mental health companion – it helps you understand your emotions and provides insights on how to be happier, more productive, and overcome obstacles.\n\nAt its heart, stoic helps you prepare for your day in the morning and reflect on your day in the evening. In the process, we also guide you to journal with thought-provoking prompts, build better habits, track your moods, and more.\n\n ‘Featured App of the Day’ - Apple\n\n Join over 4 million stoics bettering their lives\n\n“I have never us",
-      "version": "2025.34",
-      "versionDate": "2026-03-10T22:19:42-00:00",
-      "versionDescription": "Build 5466 from @riftysIPAlibrary",
-      "size": 104180045,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\njournal & mental health－stoic. | Premium Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nstoic is your mental health companion – it helps you understand your emotions and provides insights on how to be happier, more productive, and overcome obstacles.\n\nAt its heart, stoic helps you prepare for your day in the morning and reflect on your day in the evening. In the process, we also guide you to journal with thought-provoking prompts, build better habits, track your moods, and more.\n\n ‘Featured App of the Day’ - Apple\n\n Join over 4 million stoics bettering their lives\n\n“I have never us",
+      "version": "2026.8",
+      "versionDate": "2026-03-17T23:43:26-00:00",
+      "versionDescription": "Build 6251 from @riftysIPAlibrary",
+      "size": 138890894,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/1d/37/2d1d370e-4c71-20ea-fe5c-1c7ef8267a7f/app-icon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/journal.mental.health.stoic.-v2025.34-riftysipas.ipa",
-      "minOSVersion": "15.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/journal.mental.health.stoic.-v2026.8-riftysipas.ipa",
+      "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
-        2,
-        3
+        2
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "journal & mental health－stoic.-v2025.34-riftysipas.ipa"
+        "originalFile": "journal & mental health－stoic.-v2026.8-riftysipas.ipa"
       }
     },
     {
@@ -34968,14 +35055,14 @@
       "name": "Tampermonkey",
       "bundleIdentifier": "net.tampermonkey.SafariWebExt",
       "developerName": "Jan Biniok",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: zxPluginsInject\n\nTampermonkey 5.4.6\nTampermonkey is a widely popular browser extension compatible with all major browsers.\nEasily create, manage, and run these scripts on any website with Tampermonkey\ndecrypted by @eeveedecrypterbot\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here\n\n---\nTampermonkey is a widely popular browser extension compatible with all major browsers.\nIt lets you customize and enhance web pages using userscripts—small JavaScript programs that add or modify features.\nEasily create, manage, and run these scripts on any website with Tampermonkey.",
-      "version": "5.4.6229",
-      "versionDate": "2026-02-28T03:45:25-00:00",
-      "versionDescription": "Build 6229 from @thescholarslounge",
-      "size": 1952090,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\n---\nTampermonkey is a widely popular browser extension compatible with all major browsers.\nIt lets you customize and enhance web pages using userscripts—small JavaScript programs that add or modify features.\nEasily create, manage, and run these scripts on any website with Tampermonkey.",
+      "version": "5.3",
+      "versionDate": "2026-03-17T12:27:57-00:00",
+      "versionDescription": "Build 6219 from @binnichtaktivsipas",
+      "size": 2073385,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/ef/14/a1ef14c9-b962-a41e-de8a-c5518b1fdc46/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-02-19-2/Tampermonkey_5.4.6-Billieve.ipa",
-      "minOSVersion": "15.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/TamperMonkey.5.3.ipa",
+      "minOSVersion": "10.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -34984,10 +35071,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@thescholarslounge",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Tampermonkey_5.4.6-Billieve.ipa"
+        "originalFile": "TamperMonkey 5.3.ipa"
       }
     },
     {
@@ -37930,12 +38017,12 @@
       "bundleIdentifier": "com.ibit.UNPOSED",
       "developerName": "OMJ Holdings Pty Ltd",
       "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: RevenueCatFix26\n\nUNSCRIPTED Photography Poses | Minimum OS version 17.0\n\n---\nPHOTOGRAPHERS! Everything you need to run your business on the go!\nTurn your passion into a dream business with our All-In-One solution!\n\n-Poses\n-Bookings & availability\n-Contracts\n-Invoices\n-Questionnaires\n-Online Payments\n-Automated Emails\n-Client Guides\n-A growing education library\n-Sun Tracker\n-Camera Settings\n\n+ Just Launched: Client Galleries!\n\nGo ahead and delete all your other subscriptions as Unscripted offers all the tools you need to grow your business and book your dream shoots!\n\n“GA",
-      "version": "4.8.0",
-      "versionDate": "2026-03-09T22:37:44-00:00",
-      "versionDescription": "Build 7048 from @binnichtaktivsipas",
-      "size": 163467534,
+      "version": "4.8.1",
+      "versionDate": "2026-03-17T13:51:39-00:00",
+      "versionDescription": "Build 7090 from @binnichtaktivsipas",
+      "size": 163729798,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/8d/ff/648dffbf-4486-bf81-1199-2e75f97d7085/AppIcon-0-1x_U007epad-0-1-0-85-220-0.jpeg/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-27/UNSCRIPTED.Photography.Poses.Pro.4.8.0.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/UNSCRIPTED.Photography.Poses.Pro.4.8.1.ipa",
       "minOSVersion": "17.0",
       "supportedPlatforms": [
         "iOS"
@@ -37949,7 +38036,7 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "UNSCRIPTED Photography Poses Pro 4.8.0.ipa"
+        "originalFile": "UNSCRIPTED Photography Poses Pro 4.8.1.ipa"
       }
     },
     {
@@ -39030,18 +39117,19 @@
       "name": "Voloco",
       "bundleIdentifier": "com.resonantcavity.Voloco",
       "developerName": "Resonant Cavity, LLC",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nSubscription Unlocked\n\n---\nVoloco is a mobile recording studio and audio editor that helps you sound your best.\n\n50 MILLION DOWNLOADS\nSingers, rappers, musicians, and content creators have downloaded Voloco 50 million times because we elevate your sound and let you record like a professional with intuitive tools. Make music and content with Voloco––the top-rated singing and recording app. Record better tracks, demos, voice-overs, and video performances with this audio editor and voice recorder today.\n\nSTUDIO SOUND WITHOUT",
-      "version": "9.5.2",
-      "versionDate": "2026-03-10T08:38:06-00:00",
-      "versionDescription": "Build 573 from @riftysIPAlibrary",
-      "size": 101754481,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, chocorc, fixipa1, fixipa2, popuprifty\n\nVoloco: Vocal Recording Studio | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nVoloco is a mobile recording studio and audio editor that helps you sound your best.\n\n50 MILLION DOWNLOADS\nSingers, rappers, musicians, and content creators have downloaded Voloco 50 million times because we elevate your sound and let you record like a professional with intuitive tools. Make music and content with Voloco––the top-rated singing and recording app. Record better tracks, demos, voice-overs, and video performances with this audio editor and voice recorder today.\n\nSTUDIO SOUND WITHOUT",
+      "version": "9.14.1",
+      "versionDate": "2026-03-17T22:26:44-00:00",
+      "versionDescription": "Build 623 from @riftysIPAlibrary",
+      "size": 147702609,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/d2/06/b5d2066e-0b77-cdad-5372-1e7989060966/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-30/Voloco.Vocal.Recording.Studio-v9.5.2-riftysipas.ipa",
-      "minOSVersion": "17.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Voloco.Vocal.Recording.Studio-v9.14.1-riftysipas.ipa",
+      "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -39049,7 +39137,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Voloco: Vocal Recording Studio-v9.5.2-riftysipas.ipa"
+        "originalFile": "Voloco: Vocal Recording Studio-v9.14.1-riftysipas.ipa"
       }
     },
     {
@@ -39655,6 +39743,33 @@
       }
     },
     {
+      "name": "Web Video Cast",
+      "bundleIdentifier": "com.instantbits.cast.webvideo",
+      "developerName": "InstantBits Inc",
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nWeb Video Cast | Browser to TV | Read and install this first -> | After you did that install this iPA | Minimum OS version 17.6\n\n---\nWeb Video Caster® allows you to watch on your TV videos from your favorite websites including movies, TV shows, live streams of news, sports.\n\nSUPPORTED STREAMING DEVICES\n\nWeb Video Caster® supports the most popular streaming devices, allowing your TV to stream videos directly from the web.\n\n• Google Cast (Chromecast, Android TV, Chromecast built-in)\n• DLNA devices like Xbox, Samsung TVs, LG TVs, etc.\n• Roku, Roku stick and Roku TVs\n• Apple TV 4\n• Fire TV and Fire TV stick\n• PlayStation 4 - by u",
+      "version": "2.52",
+      "versionDate": "2026-03-17T13:33:00-00:00",
+      "versionDescription": "Build 1 from @binnichtaktivsipas",
+      "size": 68772209,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/7b/7e/e67b7e79-5a62-2d50-6d24-dcb23aedad22/AppIcon-0-0-1x_U007epad-0-0-0-11-0-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Web.Video.Cast.Premium.2.52.ipa",
+      "minOSVersion": "17.6",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        0,
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@binnichtaktivsipas",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "Web Video Cast Premium 2.52.ipa"
+      }
+    },
+    {
       "name": "WebSSH",
       "bundleIdentifier": "com.itimeteo.webssh",
       "developerName": "MENGUS ARNAUD",
@@ -39968,13 +40083,13 @@
       "name": "Wikiloc",
       "bundleIdentifier": "com.wikiloc.wikiloc",
       "developerName": "Wikiloc Outdoor SL",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Wikiloc, blatantsPatch, sideloadKeychainfix\n\nWikiloc - Trails of the World | • Patched | • Modifier: Subscription Unlocked | • Note: | >3D Maps feature won't work | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nDiscover millions of outdoor trails around the world. Choose between hiking, running, bike, MTB, kayak, ski or up to 80 different types of activities.\n\nRecord your own routes on a map, add waypoints, take pictures along the itinerary and upload them to your Wikiloc account from your phone.\n\nEnjoy free offline topographic maps from all over the world for you to use without coverage or data. Great when you're out in the mountains or traveling without Internet connection.\n\nWant to take your outdoor",
-      "version": "3.26.4",
-      "versionDate": "2026-03-13T05:50:25-00:00",
-      "versionDescription": "Build 26909 from @blatants",
-      "size": 186578345,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Wikiloc, sideloadKeychainfix\n\nWikiloc - Trails of the World | 3D maps feature is server-sided and doesn't work | Tweak made by Blatant | Minimum OS version 16.4\n\n---\nDiscover millions of outdoor trails around the world. Choose between hiking, running, bike, MTB, kayak, ski or up to 80 different types of activities.\n\nRecord your own routes on a map, add waypoints, take pictures along the itinerary and upload them to your Wikiloc account from your phone.\n\nEnjoy free offline topographic maps from all over the world for you to use without coverage or data. Great when you're out in the mountains or traveling without Internet connection.\n\nWant to take your outdoor",
+      "version": "3.26.5",
+      "versionDate": "2026-03-17T15:20:40-00:00",
+      "versionDescription": "Build 26913 from @binnichtaktivsipas",
+      "size": 182269825,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/b3/4c/b7b34ce6-f984-e4da-50b0-2322250a6176/AppIcon-0-1x_U007ephone-0-1-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Wikiloc_Trails_of_the_World_v3_26_4_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/Wikiloc.Premium.3.26.5.ipa",
       "minOSVersion": "16.4",
       "supportedPlatforms": [
         "iOS"
@@ -39985,10 +40100,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@blatants",
+        "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Wikiloc_Trails_of_the_World_v3_26_4_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Wikiloc Premium 3.26.5.ipa"
       }
     },
     {
@@ -40836,40 +40951,13 @@
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, MadeByMohkg, TubeLRD, sideloadFixerLol, substrate\n\nYT v21.10.2 + YTLRD Cracked from Moe\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
-      "version": "21.10.2",
-      "versionDate": "2026-03-09T22:40:46-00:00",
-      "versionDescription": "Build 21.10.2 from @binnichtaktivsipas",
-      "size": 133194174,
+      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: Alderis, CydiaSubstrate, DontEatMyContent, Gonerino, YTABConfig\n\n---\nGet the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.\n\nWatch and subscribe\n● Browse personal recommendations on Home\n● See the latest from your favorite channels in Subscriptions\n● Look up videos you’ve watched, liked, and saved for later in Library\n\nExplore diff",
+      "version": "21.11.4",
+      "versionDate": "2026-03-17T19:55:30-00:00",
+      "versionDescription": "Build 21.11.4 from @binnichtaktivsipas",
+      "size": 124794625,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/d1/36/8bd136c3-1844-128e-41c0-472731be32b8/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-27/YouTube_21.10.2_YTLRD_Cracked.ipa",
-      "minOSVersion": "10.0",
-      "supportedPlatforms": [
-        "iOS"
-      ],
-      "deviceFamilies": [
-        0,
-        1,
-        2
-      ],
-      "metadata": {
-        "sourceChannel": "@binnichtaktivsipas",
-        "sourceType": "telegram",
-        "fileHash": "",
-        "originalFile": "YouTube_21.10.2_YTLRD_Cracked.ipa"
-      }
-    },
-    {
-      "name": "YouTube Music",
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "Google",
-      "localizedDescription": "from @binnichtaktivsipas |\n------------------------\n\nTweaks Injected: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMusicUltimate, blatantsPatch\n\nYTMusicUltimate | The best tweak for YouTube Music on iOS. | Release information | Minimum OS version 16.0\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
-      "version": "9.10.3",
-      "versionDate": "2026-03-12T03:55:24-00:00",
-      "versionDescription": "Build 9.10.3 from @binnichtaktivsipas",
-      "size": 98812362,
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/12/93/d41293d3-6a60-11bd-b80e-a7372acb57e7/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/YouTube.Music.Ultimate.9.10.3.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/YTLitePlusEXTRA_21.11.4_v5.2b4.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -40883,7 +40971,33 @@
         "sourceChannel": "@binnichtaktivsipas",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "YouTube Music Ultimate 9.10.3.ipa"
+        "originalFile": "YTLitePlusEXTRA_21.11.4_v5.2b4.ipa"
+      }
+    },
+    {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Google",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMABConfig, YTMusicUltimate, zxPluginsInject\n\nYT Music Ultimate+ No PIP 9.11 | - YouTube Music 9.11 | - YTMusicUltimate | - Return YouTube Music Dislike | - YTMABConfig | - Info: | - Patch already included | App decrypted by @eeveedecrypterbot\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
+      "version": "9.11.2",
+      "versionDate": "2026-03-17T19:24:39-00:00",
+      "versionDescription": "Build 9.11.2 from @thescholarslounge",
+      "size": 103219330,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/12/93/d41293d3-6a60-11bd-b80e-a7372acb57e7/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/YTMusicUltimate%2B_9.11_No_PIP_Jacks_Apps.ipa",
+      "minOSVersion": "16.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "YTMusicUltimate+_9.11_No_PIP_Jacks_Apps.ipa"
       }
     },
     {
@@ -41718,6 +41832,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "CamScanner_PDF_Scanner_App_v7_13_5_VIP_Unlocked_blatant_Patched.ipa"
+      }
+    },
+    {
+      "name": "沈黙の記録者",
+      "bundleIdentifier": "com.TownSoft.soulsofadventure",
+      "developerName": "Town Soft",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n[ ✓ ] Connected to iPhone | [ ✓ ] Downloaded App Package | [ ✓ ] Decrypted App Package | [ ✓ ] Uploaded Decrypted Package | The application has been successfully decrypted.\n\n---\nA voice lost, a life saved—\nin a quiet village, they built a hub for adventurers.\n\nThe Silent Archivist is an idle fantasy simulation game\nwhere you hire adventurers, fulfill quests, gather funds, and expand your base.\n\nSet in the remote frontier village of Windarion,\nyou won’t fight—your role is to watch over, guide, and nurture your adventurers.\n• Hire adventurers and send them on quests\n• Use your earnings to upgrade facilities and open new exploration zones\n• Outfit your base with shops and",
+      "version": "4.3",
+      "versionDate": "2026-03-17T19:16:53-00:00",
+      "versionDescription": "Build 0 from @thescholarslounge",
+      "size": 150701442,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/0f/b4/af0fb449-0511-9d8d-e04d-a7d18f2b3200/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/com.TownSoft.soulsofadventure-4.3-eeveedecrypter.ipa",
+      "minOSVersion": "13.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.TownSoft.soulsofadventure-4.3-eeveedecrypter.ipa"
       }
     },
     {
