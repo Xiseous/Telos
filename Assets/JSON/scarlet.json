@@ -2243,13 +2243,13 @@
       "name": "Apollo",
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, CydiaSubstrate, FLEX\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, CydiaSubstrate, FLEX\n\nApollo for Reddit 1.15.11 Improved Custom API 2.2.0\nChangelog\n-Release Notes\n-Add \"Collapse Pinned Comments\" setting to auto-collapse pinned/stickied comments\n-Add \"Can't sign in?\" troubleshooting section\n-Liquid Glass: fix blur overlay issue when viewing messages\nKnown Issues\n-Imgur multi-image upload\n-Uploads usually fail on the first attempt but subsequent retries should succeed\n-Share URLs in private messages and long-tapping them still open in the in-app browser\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
       "version": "1.15.11",
-      "versionDate": "2026-03-15T09:47:47-00:00",
-      "versionDescription": "Build 2.1.0 from @thescholarslounge",
-      "size": 114788836,
+      "versionDate": "2026-03-21T03:15:44-00:00",
+      "versionDescription": "Build 2.2.0 from @thescholarslounge",
+      "size": 114858812,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-3/Apollo-1.15.11_ImprovedCustomApi-2.1.0.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-20/GLASS_Apollo-1.15.11_ImprovedCustomApi-2.2.0.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -2262,7 +2262,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Apollo-1.15.11_ImprovedCustomApi-2.1.0.ipa"
+        "originalFile": "GLASS_Apollo-1.15.11_ImprovedCustomApi-2.2.0.ipa"
       }
     },
     {
@@ -16930,6 +16930,32 @@
       }
     },
     {
+      "name": "Immersive Translate",
+      "bundleIdentifier": "com.immersivetranslate.Immersive-Translate",
+      "developerName": "Funstory.ai limited",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n[ ✓ ] Already Decrypted | [ ✓ ] Uploaded Decrypted Package | The application has been successfully decrypted.\n\n---\n\"Immersive Translate\" is the next-generation AI translation tool, trusted by over 10 million users worldwide. We help you break down language barriers and connect with a broader world.\nFast & Accurate AI Translation: Integrated with multiple top-tier AI translation models.\n\nThe Perfect Safari Companion: Seamlessly integrated as a browser extension for comprehensive adaptation. Fully compatible with all major browsers across platforms.\nPioneering \"Dual-Language\" Display: Our unique vertical contr",
+      "version": "2.5.6",
+      "versionDate": "2026-03-21T03:14:53-00:00",
+      "versionDescription": "Build 175 from @thescholarslounge",
+      "size": 38231325,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/bb/5f/ffbb5f4c-f3d7-9521-6329-ebc4a55ae44d/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-20/com_immersivetranslate_Immersive_Translate_2_5_6_eeveedecrypter.ipa",
+      "minOSVersion": "15.5",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com_immersivetranslate_Immersive_Translate_2_5_6_eeveedecrypter.ipa"
+      }
+    },
+    {
       "name": "Imposter",
       "bundleIdentifier": "at.vucak.impostor",
       "developerName": "Sven Vucak",
@@ -23554,6 +23580,32 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "Netflix tg:- @krro6_.ipa"
+      }
+    },
+    {
+      "name": "Network Tools AI",
+      "bundleIdentifier": "pro.appios.NetworkTools",
+      "developerName": "Ivaylo Ivanov",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n[ ✓ ] Connected to iPhone | [ ✓ ] Downloaded App Package | [ ✓ ] Decrypted App Package | [ ✓ ] Uploaded Decrypted Package | The application has been successfully decrypted.\n\n---\nNEW: NetMap Logger™ — Your Network History, Visualized\n\nNetMap Logger™ turns your connection history into a living map.\n\nEvery time your network changes — Wi-Fi to Cellular, Cellular to Offline, new location, new route — NetMap Logger records it and draws your real network journey on the map.\n\nNetwork Security Pack — Secure Browser, SSLGuard™, DomainGuard™, NetMap Logger™\n\nNetwork Tools AI — your smart, secure, all-in-one networking companion\n\nFast. Trusted. Intelligent.\n\nFrom Wi-Fi to websites,",
+      "version": "26.36",
+      "versionDate": "2026-03-21T03:13:56-00:00",
+      "versionDescription": "Build 1 from @thescholarslounge",
+      "size": 14942604,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/14/a2/8c14a23f-d285-38d1-3dc7-f9a340ecedbb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-20/pro.appios.NetworkTools-26.36-eeveedecrypter.ipa",
+      "minOSVersion": "15.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1,
+        2
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "pro.appios.NetworkTools-26.36-eeveedecrypter.ipa"
       }
     },
     {
