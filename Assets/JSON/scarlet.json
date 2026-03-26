@@ -2244,13 +2244,13 @@
       "name": "Apollo",
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, CydiaSubstrate, FLEX\n\nApollo for Reddit 1.15.11 Improved Custom API 2.2.0\nChangelog\n-Release Notes\n-Add \"Collapse Pinned Comments\" setting to auto-collapse pinned/stickied comments\n-Add \"Can't sign in?\" troubleshooting section\n-Liquid Glass: fix blur overlay issue when viewing messages\nKnown Issues\n-Imgur multi-image upload\n-Uploads usually fail on the first attempt but subsequent retries should succeed\n-Share URLs in private messages and long-tapping them still open in the in-app browser\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, CydiaSubstrate, FLEX\n\nApollo for Reddit 1.15.11 Improved Custom API 2.2.1\nChangelog\nRelease Notes\n-Block additional tracking and analytics URLs\n-Liquid Glass: fix header flicker issue in comments (#126)\nKnown Issues\n-Imgur multi-image upload\n-Uploads usually fail on the first attempt but subsequent retries should succeed\n-Share URLs in private messages and long-tapping them still open in the in-app browser\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
       "version": "1.15.11",
-      "versionDate": "2026-03-21T05:20:05-00:00",
-      "versionDescription": "Build 2.2.0 from @thescholarslounge",
-      "size": 114858812,
+      "versionDate": "2026-03-26T04:59:50-00:00",
+      "versionDescription": "Build 2.2.1 from @thescholarslounge",
+      "size": 114861111,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-20/GLASS_Apollo-1.15.11_ImprovedCustomApi-2.2.0.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-25/GLASS_Apollo-1.15.11_ImprovedCustomApi-2.2.1.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -2263,7 +2263,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "GLASS_Apollo-1.15.11_ImprovedCustomApi-2.2.0.ipa"
+        "originalFile": "GLASS_Apollo-1.15.11_ImprovedCustomApi-2.2.1.ipa"
       }
     },
     {
@@ -2660,13 +2660,13 @@
       "name": "Artemis",
       "bundleIdentifier": "com.danielgriffiths.reddit",
       "developerName": "Zero Divide LTD",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nExperience Reddit like never before with Artemis - a modern, fast, and fully featured unofficial Reddit client.\n\nNo ads. No clutter. Just speed, simplicity, and a beautifully designed interface.\n\nWhy you’ll love Artemis:\n\n►Clean Modern Design – A beautiful new design made possible with Liquid Glass\n►Lightning Fast – This is the quickest Reddit app you'll ever use!\n►Rich Media Support – View Images, Galleries, GIFs, Videos, YouTube Videos all using the internal media viewer\n►Intuitive Gestures –",
-      "version": "2.0.1",
-      "versionDate": "2026-03-24T21:14:53-00:00",
-      "versionDescription": "Build 221 from @thescholarslounge",
-      "size": 36737956,
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n[ ✓ ] Connected to iPhone | [ ✓ ] Downloaded App Package | [ ✓ ] Decrypted App Package | [ ✓ ] Uploaded Decrypted Package | The application has been successfully decrypted.\n\n---\nExperience Reddit like never before with Artemis - a modern, fast, and fully featured unofficial Reddit client.\n\nNo ads. No clutter. Just speed, simplicity, and a beautifully designed interface.\n\nWhy you’ll love Artemis:\n\n►Clean Modern Design – A beautiful new design made possible with Liquid Glass\n►Lightning Fast – This is the quickest Reddit app you'll ever use!\n►Rich Media Support – View Images, Galleries, GIFs, Videos, YouTube Videos all using the internal media viewer\n►Intuitive Gestures –",
+      "version": "2.0.2",
+      "versionDate": "2026-03-26T04:59:01-00:00",
+      "versionDescription": "Build 237 from @thescholarslounge",
+      "size": 36788611,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/4e/fb/434efb36-ca1e-6aa0-2b05-94ee093a1bda/glass-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-24-1/com.danielgriffiths.reddit-2.0.1-eeveedecrypter.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-25/com.danielgriffiths.reddit-2.0.2-eeveedecrypter.ipa",
       "minOSVersion": "15.1",
       "supportedPlatforms": [
         "iOS"
@@ -2679,7 +2679,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "com.danielgriffiths.reddit-2.0.1-eeveedecrypter.ipa"
+        "originalFile": "com.danielgriffiths.reddit-2.0.2-eeveedecrypter.ipa"
       }
     },
     {
@@ -15365,12 +15365,12 @@
       "bundleIdentifier": "com.gymstreak.GymStreakAI",
       "developerName": "GymStreak Ltd",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nGymStreak: AI Personal Trainer | Subscription Unlocked | Patched ✓ | Additional Information ℹ️\n\n---\nTransform your fitness journey with GymStreak, the ultimate AI Personal Trainer and Workout Tracker that delivers personalized training at a fraction of traditional personal trainer costs.\n\nHere's why GymStreak is the premier fitness tracker and workout creator:\n\n◆ AI-Powered Workout Creator: Generate dynamic, personalized workout plans that adapt to your progress, ensuring continuous growth as your ultimate gym tracker and strength training companion.\n\n◆ Smart Nutrition Tracking: Simply photogr",
-      "version": "6.3.3",
-      "versionDate": "2026-03-21T18:16:15-00:00",
-      "versionDescription": "Build 144 from @riftysIPAlibrary",
-      "size": 105914540,
+      "version": "6.3.4",
+      "versionDate": "2026-03-26T05:00:27-00:00",
+      "versionDescription": "Build 152 from @riftysIPAlibrary",
+      "size": 106187757,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/1a/1b/ca1a1bb1-6183-5316-4386-4c50660e0cf2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-20/GymStreak.AI.Personal.Trainer-v6.3.3-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-25/GymStreak.AI.Personal.Trainer-v6.3.4-riftysipas.ipa",
       "minOSVersion": "17.6",
       "supportedPlatforms": [
         "iOS"
@@ -15384,7 +15384,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "GymStreak: AI Personal Trainer-v6.3.3-riftysipas.ipa"
+        "originalFile": "GymStreak: AI Personal Trainer-v6.3.4-riftysipas.ipa"
       }
     },
     {
@@ -33741,13 +33741,13 @@
       "name": "SpotiFLAC",
       "bundleIdentifier": "com.zarz.spotiflacAndroid",
       "developerName": "SPOT LABS LTD",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nSpotiFLAC\nApp by zarzet\nMobile version of SpotiFLAC written in Flutter, powered by a Go backend for high performance. Download Spotify tracks in true FLAC from Tidal, Qobuz, & Amazon Music - no account, no ads, no subscription.\nIn-app audio playback has been removed. Use this version to retain the feature\nChangelog\n-Add auto-scan option for local library\nBug Fixes\n-Prevent re-download of tracks converted to a different format\n-Remove double horizontal padding in store tab extension list\n-Delay iOS folder picker after sheet dismiss and update Afkar hosts\n-Verify resolved Tidal/Deezer tracks match the download request before downloading\n-Skip already-downloaded tracks in Download All for albums and playlists\nDocumentation\n-Add contributors section to README\n-Update readme\n-Add extension store URL setup guide to README\nChores\n-Update AltStore source to v3.8.6\n\n---\ncatchup with what's new in your area and expand your network\n\nprivacy policy:\nterms and conditions:",
-      "version": "3.8.6",
-      "versionDate": "2026-03-19T06:19:32-00:00",
-      "versionDescription": "Build 112 from @thescholarslounge",
-      "size": 33676982,
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nSpotiFLAC\nApp by zarzet\nMobile version of SpotiFLAC written in Flutter, powered by a Go backend for high performance. Download Spotify tracks in true FLAC from Tidal, Qobuz, & Amazon Music - no account, no ads, no subscription.\nIn-app audio playback has been removed. Use this version to retain the feature\n\n---\ncatchup with what's new in your area and expand your network\n\nprivacy policy:\nterms and conditions:",
+      "version": "3.9.0",
+      "versionDate": "2026-03-26T04:58:54-00:00",
+      "versionDescription": "Build 115 from @thescholarslounge",
+      "size": 34477323,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/01/a0/4a01a075-0899-c614-34de-0329ff438477/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-12-4/SpotiFLAC-v3.8.6-ios-unsigned.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-25/SpotiFLAC-v3.9.0-ios-unsigned.ipa",
       "minOSVersion": "13.0",
       "supportedPlatforms": [
         "iOS"
@@ -33760,7 +33760,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "SpotiFLAC-v3.8.6-ios-unsigned.ipa"
+        "originalFile": "SpotiFLAC-v3.9.0-ios-unsigned.ipa"
       }
     },
     {
@@ -38172,12 +38172,12 @@
       "bundleIdentifier": "app.tripsy.ios",
       "developerName": "Tripsy LLC",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Tripsy, blatantsPatch\n\nTripsy: Travel Planner | • Patched | • Modifier: Lifetime Unlocked | ッ JB Repo | ♡ Support | ⊕ Buy a cert\n\n---\nTripsy - Trip Planner & Itinerary Organizer is a free travel planner for creating detailed trip itineraries and organizing every aspect of your journey. Perfect for solo travelers, couples travel, and group travel planning, Tripsy is your all-in-one itinerary maker that keeps flights, accommodations, activities, and reservations organized in one place.\n\nPlan smarter with our intuitive trip itinerary builder that automatically imports travel details from emails, works offline, and sends notificat",
-      "version": "3.8.0",
-      "versionDate": "2026-03-25T14:59:25-00:00",
-      "versionDescription": "Build 3754 from @blatants",
-      "size": 113310944,
+      "version": "3.8.1",
+      "versionDate": "2026-03-26T04:59:27-00:00",
+      "versionDescription": "Build 3765 from @blatants",
+      "size": 113311559,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/39/cf/9139cf80-2e7b-cb43-f294-141d8097e202/App_Icon_Original-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-25/Tripsy_Travel_Planner_v3_8_0_Lifetime_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-25/Tripsy_Travel_Planner_v3_8_1_Lifetime_Unlocked_blatant_Patched.ipa",
       "minOSVersion": "18",
       "supportedPlatforms": [
         "iOS"
@@ -38191,7 +38191,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Tripsy_Travel_Planner_v3_8_0_Lifetime_Unlocked_blatant_Patched.ipa"
+        "originalFile": "Tripsy_Travel_Planner_v3_8_1_Lifetime_Unlocked_blatant_Patched.ipa"
       }
     },
     {
