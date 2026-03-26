@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-03-25",
+  "versionDate": "2026-03-26",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -31511,6 +31511,31 @@
         "sourceType": "telegram",
         "fileHash": "",
         "originalFile": "ShelfPulse_v1.0.ipa"
+      }
+    },
+    {
+      "name": "sherlock",
+      "bundleIdentifier": "com.zachyudenfriend.sherlockapp",
+      "developerName": "Zachary Yudenfriend",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nSearch for anyone's online presence from just a picture of their face.\n\nFEATURES\n - Identity Verification: Stay safe online by uploading a picture of someone's face and quickly finding their social media profiles, appearances in blogs, video and news websites.\n - Never get catfished again: Upload a screenshot from a dating profile to check for fake dating profiles, romance scammers, or sex offenders.\n - Better than reverse image search: Use any photo of someone's face, even if their face is part",
+      "version": "1.1.1",
+      "versionDate": "2026-03-25T23:59:51-00:00",
+      "versionDescription": "Build 23 from @thescholarslounge",
+      "size": 298401747,
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/7d/8e/c77d8e46-750c-d044-5099-8d89946ddf6b/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-25/com.zachyudenfriend.sherlockapp-1.1.1-eeveedecrypter.ipa",
+      "minOSVersion": "17.0",
+      "supportedPlatforms": [
+        "iOS"
+      ],
+      "deviceFamilies": [
+        1
+      ],
+      "metadata": {
+        "sourceChannel": "@thescholarslounge",
+        "sourceType": "telegram",
+        "fileHash": "",
+        "originalFile": "com.zachyudenfriend.sherlockapp-1.1.1-eeveedecrypter.ipa"
       }
     },
     {
