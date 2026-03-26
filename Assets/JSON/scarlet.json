@@ -2244,13 +2244,13 @@
       "name": "Apollo",
       "bundleIdentifier": "com.christianselig.Apollo",
       "developerName": "Christian Selig",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, CydiaSubstrate, FLEX\n\nApollo for Reddit 1.15.11 Improved Custom API 2.2.1\nChangelog\nRelease Notes\n-Block additional tracking and analytics URLs\n-Liquid Glass: fix header flicker issue in comments (#126)\nKnown Issues\n-Imgur multi-image upload\n-Uploads usually fail on the first attempt but subsequent retries should succeed\n-Share URLs in private messages and long-tapping them still open in the in-app browser\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: ApolloImprovedCustomApi, CydiaSubstrate, FLEX\n\n---\nApollo was an iOS app for browsing Reddit from 2015 to 2023. In 2023 Reddit announced significant price changes to their API, going from free to potentially costing tens of millions of dollars per year, with 30 days notice before developers would start incurring charges. As a result, Apollo was forced to shut down after the better part of a decade building for an incredible, supportive community. With over 100,000 five star ratings, and many accolades, I was incredibly proud of what Apollo accom",
       "version": "1.15.11",
-      "versionDate": "2026-03-26T04:59:50-00:00",
+      "versionDate": "2026-03-26T05:58:44-00:00",
       "versionDescription": "Build 2.2.1 from @thescholarslounge",
-      "size": 114861111,
+      "size": 114791684,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-25/GLASS_Apollo-1.15.11_ImprovedCustomApi-2.2.1.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-25/Apollo-1.15.11_ImprovedCustomApi-2.2.1.ipa",
       "minOSVersion": "15.0",
       "supportedPlatforms": [
         "iOS"
@@ -2263,7 +2263,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "GLASS_Apollo-1.15.11_ImprovedCustomApi-2.2.1.ipa"
+        "originalFile": "Apollo-1.15.11_ImprovedCustomApi-2.2.1.ipa"
       }
     },
     {
