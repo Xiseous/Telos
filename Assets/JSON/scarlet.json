@@ -29685,25 +29685,27 @@
       "name": "Quiche Browser",
       "bundleIdentifier": "org.quiche.Browser",
       "developerName": "Gregory de Jonckheere",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nQuiche Browser\n\n---\nAn independent browser thoughtfully designed by a single human, and funded by its users.\n\nWHAT THE PRESS SAYS\n“My favorite iOS browser these days is Quiche Browser. It’s somehow both incredibly simple and one of the most customizable browsers I’ve ever tried.”\n— The Verge\n\n“Quiche Browser has clearly been designed with care.”\n— MacStories\n\n“If you want a lightweight, private, minimalistic, yet customizable web browsing experience on your iPhone – [Quiche Browser] might be the perfect answer for",
-      "version": "1.67",
-      "versionDate": "2026-03-09T15:34:44-00:00",
-      "versionDescription": "Build 294 from @riftysIPAlibrary",
-      "size": 86575749,
+      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: Sideloadbypass1, Sideloadbypass2, autorc, popuprifty, zxPluginsInject\n\nQuiche Browser\n\n---\nAn independent browser thoughtfully designed by a single human, and funded by its users.\n\nWHAT THE PRESS SAYS\n“My favorite iOS browser these days is Quiche Browser. It’s somehow both incredibly simple and one of the most customizable browsers I’ve ever tried.”\n— The Verge\n\n“Quiche Browser has clearly been designed with care.”\n— MacStories\n\n“If you want a lightweight, private, minimalistic, yet customizable web browsing experience on your iPhone – [Quiche Browser] might be the perfect answer for",
+      "version": "1.69.4",
+      "versionDate": "2026-03-29T10:05:18-00:00",
+      "versionDescription": "Build 314 from @riftysIPAlibrary",
+      "size": 87210132,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/ba/5f/36ba5fc7-4969-7c28-a655-308f3a8de71a/AppIcon-Series6-1-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-25/Quiche.Browser-v1.67-riftysipas.ipa",
-      "minOSVersion": "16.4",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-27/Quiche.Browser-v1.69.4-riftysipas.ipa",
+      "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
-        1
+        0,
+        1,
+        2
       ],
       "metadata": {
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Quiche Browser-v1.67-riftysipas.ipa"
+        "originalFile": "Quiche Browser-v1.69.4-riftysipas.ipa"
       }
     },
     {
