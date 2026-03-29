@@ -72,7 +72,7 @@ TELOS Docker Container
 
 TELOS is designed to be the most complete, maintainable, and user-friendly IPA automation system available.
 
-| Feature | TELOS | AI Based | Static Libraries |
+| Feature | TELOS | FTRepo v1 | Static Libraries |
 |---------|-------|--------|------------------|
 | **Real-time Dashboard** | ✅ Full React UI | ❌ CLI only | ❌ None |
 | **Multiple Versions** | ✅ Configurable per app | ❌ Latest only | ❌ Latest only |
