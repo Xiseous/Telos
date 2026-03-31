@@ -4,7 +4,7 @@
   "subtitle": "Telos - Automated AIO Repo",
   "description": "Welcome to Telos! Find the latest premium apps, tweaks, and tools in our AIO repository.",
   "version": "1.1.0",
-  "versionDate": "2026-03-30",
+  "versionDate": "2026-03-31",
   "accentColor": {
     "red": 0.0,
     "green": 0.75,
@@ -7080,18 +7080,19 @@
       "name": "Clarity",
       "bundleIdentifier": "com.moodtools.thoughtdiary",
       "developerName": "Inquiry Health LLC",
-      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Clarity, CydiaSubstrate\n\nClarity: CBT Self Help Journal\n\n---\nClarity is your all-in-one mental health hub for managing stress, anxiety, and low mood. Harness the power of Cognitive Behavioral Therapy (CBT) to transform your mental well-being. Learn what affects your mood, develop healthier thought patterns, problem solve with the AI chatbot, practice effective coping skills, build resilience, and foster personal growth.\n\nHOW IT WORKS\nCBT is a proven method that's been rigorously studied and widely endorsed in the world of mental health. Its core principle",
-      "version": "5.4.88",
-      "versionDate": "2026-03-09T07:22:11-00:00",
-      "versionDescription": "Build 213 from @blatants",
-      "size": 180356954,
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Clarity, blatantsPatch\n\nClarity: Mental Health Journal\n\n---\nClarity is your all-in-one mental health hub for managing stress, anxiety, and low mood. Harness the power of Cognitive Behavioral Therapy (CBT) to transform your mental well-being. Learn what affects your mood, develop healthier thought patterns, problem solve with the AI chatbot, practice effective coping skills, build resilience, and foster personal growth.\n\nHOW IT WORKS\nCBT is a proven method that's been rigorously studied and widely endorsed in the world of mental health. Its core principle",
+      "version": "5.5.17",
+      "versionDate": "2026-03-30T23:53:55-00:00",
+      "versionDescription": "Build 244 from @blatants",
+      "size": 143986717,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/25/48/2825483a-477f-c26c-8c8a-01c5111fb1ed/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-06-22/Clarity.CBT.Self.Help.Journal.v5.4.88.Pro.Unlocked.blatant.ipa",
-      "minOSVersion": "16.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-29/Clarity_Mental_Health_Journal_v5_5_17_Pro_Unlocked_blatant_Patched.ipa",
+      "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
       "deviceFamilies": [
+        0,
         1,
         2
       ],
@@ -7099,7 +7100,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Clarity  CBT Self Help Journal v5.4.88 Pro Unlocked blatant.ipa"
+        "originalFile": "Clarity_Mental_Health_Journal_v5_5_17_Pro_Unlocked_blatant_Patched.ipa"
       }
     },
     {
@@ -9746,13 +9747,13 @@
       "bundleIdentifier": "com.algoriddim.djay-iphone-free",
       "developerName": "Algoriddim GmbH",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\ndjay - DJ App & AI Mixer\n\n---\nNow with Spotify and Apple Music integration\n\nWelcome to djay! The #1 DJ app and winner of multiple Apple Design Awards lets you start mixing your favorite music instantly. Connect your Spotify or Apple Music account to access millions of songs and create your own DJ mixes in no time – right inside djay.\n\ndjay transforms your iOS device into a full-featured DJ system. Seamlessly integrated with your music library, djay allows you to mix your favorite songs and playlists. You can perform live, re",
-      "version": "5.6.3",
-      "versionDate": "2026-03-11T11:21:46-00:00",
-      "versionDescription": "Build 66005 from @riftysIPAlibrary",
-      "size": 498910519,
+      "version": "5.6.4",
+      "versionDate": "2026-03-30T23:54:55-00:00",
+      "versionDescription": "Build 66070 from @riftysIPAlibrary",
+      "size": 185458900,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/d9/80/ded9804e-1d9b-299d-38c1-1ee3de9a94aa/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-10/djay.-.DJ.App.AI.Mixer-v5.6.3-riftysipas.ipa",
-      "minOSVersion": "15.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-29/djay.-.DJ.App.AI.Mixer-v5.6.4-riftysipas.ipa",
+      "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -9765,7 +9766,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "djay - DJ App & AI Mixer-v5.6.3-riftysipas.ipa"
+        "originalFile": "djay - DJ App & AI Mixer-v5.6.4-riftysipas.ipa"
       }
     },
     {
@@ -10870,13 +10871,13 @@
       "name": "Elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
       "developerName": "The Mind Company",
-      "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nElevate - Brain Training Games\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
+      "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: AutoRcSideload, blatantsPatch, sideloadKeychainfix\n\nElevate - Brain Training Games\n\n---\nElevate is a brain training program designed to improve your mind’s focus, memory, speaking abilities, processing speed, math skills, and more. Each person is provided with a personalized training program that adjusts over time to maximize results.\n\nThe more you train with Elevate, the more you’ll improve critical cognitive skills that are proven to boost productivity, earning power, and self-confidence. 90%+ report improved vocabulary, math skills, and overall mental sharpness when they frequen",
       "version": "5.234.0",
-      "versionDate": "2026-03-30T17:57:49-00:00",
-      "versionDescription": "Build 4521 from @riftysIPAlibrary",
-      "size": 382797387,
+      "versionDate": "2026-03-31T00:12:21-00:00",
+      "versionDescription": "Build 4521 from @blatants",
+      "size": 392960657,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/dc/4b/ffdc4b46-5f67-712a-f9f3-4b03b9239410/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-29/Elevate.-.Brain.Training.Games-v5.234.0-riftysipas.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-29/Elevate_Brain_Training_Games_v5_234_0_Subscription_Unlocked_blatant.ipa",
       "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
@@ -10887,10 +10888,10 @@
         2
       ],
       "metadata": {
-        "sourceChannel": "@riftysIPAlibrary",
+        "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Elevate - Brain Training Games-v5.234.0-riftysipas.ipa"
+        "originalFile": "Elevate_Brain_Training_Games_v5_234_0_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -13842,13 +13843,13 @@
       "bundleIdentifier": "com.linecorp.Foodie",
       "developerName": "SNOW Corporation",
       "localizedDescription": "from @blatants |\n------------------------\n\nTweaks Injected: Foodie, blatantsPatch\n\nFoodie - Filter & Film Camera\n\n---\nLive life according to your tastes.\nThe Foodie camera app is the essential companion for the modern sociable foodie.\nDiscover a fun and fast way to spice up the perfect memory of a perfect meal.\n\n+ Over 30 professional quality live filters\nIncluding the Yum, Positano, Tropical, Picnic, Sweet, Fresh, BBQ, Romantic, Crispy, and Chewy filter series.\n+ Easy and accurate smart guide feature for taking top-down photos of food\nCapture the perfect atmosphere and mood when taking food photos from above.",
-      "version": "7.4.31",
-      "versionDate": "2026-03-21T05:15:10-00:00",
-      "versionDescription": "Build 7.4.31.0 from @blatants",
-      "size": 108498177,
+      "version": "7.4.32",
+      "versionDate": "2026-03-30T23:52:58-00:00",
+      "versionDescription": "Build 7.4.32.1 from @blatants",
+      "size": 108671551,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5f/8c/96/5f8c96f1-cec3-2b59-58ae-bb2a961e891b/GlobalAppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-20/Foodie_Filter_._Film_Camera_v7_4_31_Subscription_Unlocked_blatant.ipa",
-      "minOSVersion": "16.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-29/Foodie_Filter_._Film_Camera_v7_4_32_Subscription_Unlocked_blatant.ipa",
+      "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -13861,7 +13862,7 @@
         "sourceChannel": "@blatants",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Foodie_Filter_&_Film_Camera_v7_4_31_Subscription_Unlocked_blatant.ipa"
+        "originalFile": "Foodie_Filter_&_Film_Camera_v7_4_32_Subscription_Unlocked_blatant.ipa"
       }
     },
     {
@@ -17681,13 +17682,13 @@
       "bundleIdentifier": "com.polywise.weekly",
       "developerName": "Polywise, Inc.",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\n\nTweaks Injected: CydiaSubstrate, Sideloadbypass1, Sideloadbypass2, chocorc, popuprifty\n\nImprint: Learn Visually\n\n---\nImprint is your visual guide to the world's most important knowledge.\n\n- Master essential topics in psychology, philosophy, history, finance, leadership, business, health, science, technology and more.\n\n- Understand complex concepts quickly, with elegant visuals that clarify key ideas and help you stay focused.\n\n- Take challenging daily quizzes that help you retain what you've learned.\n\n- Save and review the insights and visuals that matter most to you.\n\n- Complete a chapter in two minutes or le",
-      "version": "5.1.5",
-      "versionDate": "2026-03-24T01:42:28-00:00",
-      "versionDescription": "Build 1756 from @riftysIPAlibrary",
-      "size": 119333951,
+      "version": "5.1.6",
+      "versionDate": "2026-03-31T00:14:28-00:00",
+      "versionDescription": "Build 1768 from @riftysIPAlibrary",
+      "size": 120242812,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/8d/1f/878d1f72-e65b-06f8-539b-7e589f8241ee/AppIcon-0-1x_U007epad-0-1-0-sRGB-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-24-1/Imprint.Learn.Visually-v5.1.5-riftysipas.ipa",
-      "minOSVersion": "16.0",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-29/Imprint.Learn.Visually-v5.1.6-riftysipas.ipa",
+      "minOSVersion": "18.0",
       "supportedPlatforms": [
         "iOS"
       ],
@@ -17700,7 +17701,7 @@
         "sourceChannel": "@riftysIPAlibrary",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "Imprint: Learn Visually-v5.1.5-riftysipas.ipa"
+        "originalFile": "Imprint: Learn Visually-v5.1.6-riftysipas.ipa"
       }
     },
     {
@@ -43245,13 +43246,13 @@
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google",
-      "localizedDescription": "from @thescholarslounge |\n------------------------\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
-      "version": "9.12.2",
-      "versionDate": "2026-03-27T18:54:47-00:00",
-      "versionDescription": "Build 9.12.2 from @thescholarslounge",
-      "size": 95600570,
+      "localizedDescription": "from @thescholarslounge |\n------------------------\n\nTweaks Injected: CydiaSubstrate, ReturnYouTubeMusicDislikes, YTMABConfig, YTMusicUltimate, YouMusicPiP\n\nYT Music Ultimate+ 9.13\n\n---\nConnecting you to the world of music:\n● Music content including live performances, covers, remixes and music content you can’t find elsewhere\n● Thousands of curated playlist across many genres and activities\n\nGet personalized music, perfect for every moment:\n● Personalized playlists and Mixes\n● Activity mixes made for you\n● Create playlists with song suggestions or collaborate with other music fans to create the perfect playlist\n● Neatly organized Library to see all of your liked and added songs",
+      "version": "9.13.3",
+      "versionDate": "2026-03-30T23:51:15-00:00",
+      "versionDescription": "Build 9.13.3 from @thescholarslounge",
+      "size": 103288411,
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/12/93/d41293d3-6a60-11bd-b80e-a7372acb57e7/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
-      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-27/com.google.ios.youtubemusic-9.12-eeveedecrypter.ipa",
+      "downloadURL": "https://github.com/Xiseous/Telos/releases/download/update-2026-03-29/YTMusicUltimate%2B_9.13_Jacks_Apps.ipa",
       "minOSVersion": "16.0",
       "supportedPlatforms": [
         "iOS"
@@ -43264,7 +43265,7 @@
         "sourceChannel": "@thescholarslounge",
         "sourceType": "telegram",
         "fileHash": "",
-        "originalFile": "com.google.ios.youtubemusic-9.12-eeveedecrypter.ipa"
+        "originalFile": "YTMusicUltimate+_9.13_Jacks_Apps.ipa"
       }
     },
     {
